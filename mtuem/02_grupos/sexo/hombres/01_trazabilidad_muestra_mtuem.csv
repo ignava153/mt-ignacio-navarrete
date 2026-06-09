@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+sexo,Hombres,Personas compatibles con MNL V9 en grupo,3663,100
+sexo,Hombres,Variables finitas para MTUEM,3663,100
+sexo,Hombres,Tw > 0 y w > 0,3663,100
+sexo,Hombres,Tc valido y tiempo libre observado > 0,3663,100
+sexo,Hombres,Ec corregido > 0,3109,84.87578487578487
+sexo,Hombres,Ingreso potencial neto de Ec > 0,3107,84.82118482118481
+sexo,Hombres,Muestra final MTUEM,3107,84.82118482118481

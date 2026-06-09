@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_modo,Usuarios publicos,Model specification,# individuals,1703,NA,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Model specification,LL,-8419.59001317847,NA,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Time-use parameters,PH,NA,0.2916527839274308,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Time-use parameters,th1,NA,0.8004083973416167,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Time-use parameters,tw,NA,0.20580208729145083,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Values of time,VoL predicho,4.5218 [4.011 ; 5.0326],4.521821652741143,0.2606240716224097,NA,,4.01099847236122,5.032644833121066
+cluster_modo,Usuarios publicos,Values of time,VTAW predicho,1.0757 [0.5649 ; 1.5865],1.0757236691827168,0.2606240708896836,NA,,0.564900490238937,1.5865468481264966
+cluster_modo,Usuarios publicos,Values of time,Weighted wage rate,3.4461 [3.2747 ; 3.6175],3.4460979835584262,0.08739245615088395,NA,,3.274690022967383,3.6175059441494692

@@ -1,0 +1,727 @@
+dimension,categoria,indicador,valor
+muestra_general,Muestra general,N personas estimadas,7925
+muestra_general,Muestra general,N parametros,3
+muestra_general,Muestra general,Log likelihood,-39648.5811205977
+muestra_general,Muestra general,Metodo elegido,BFGS
+muestra_general,Muestra general,Return code,0
+muestra_general,Muestra general,PH,0.263265277714501
+muestra_general,Muestra general,tw,0.296945634437791
+muestra_general,Muestra general,th1,0.800107872737894
+muestra_general,Muestra general,Tw observado promedio,53.1734977917981
+muestra_general,Muestra general,Tw predicho promedio,53.919745244381
+muestra_general,Muestra general,Tf1 ocio observado promedio,37.2715697160883
+muestra_general,Muestra general,Tf1 ocio predicho promedio,37.0409257132205
+muestra_general,Muestra general,Tf2 comidas observado promedio,9.76959242902208
+muestra_general,Muestra general,Tf2 comidas predicho promedio,9.25398897930705
+muestra_general,Muestra general,RMSE Tw,12.4230826659722
+muestra_general,Muestra general,RMSE Tf1 ocio,12.3582568750529
+muestra_general,Muestra general,RMSE Tf2 comidas,4.4942727323756
+muestra_general,Muestra general,VoL predicho promedio,5.93748013440169
+muestra_general,Muestra general,VoL predicho mediana,4.55725666670704
+muestra_general,Muestra general,VoL observado promedio,7.59978181481792
+muestra_general,Muestra general,VoL observado mediana,4.8008759107666
+muestra_general,Muestra general,VTAW predicho promedio,1.92788869112094
+muestra_general,Muestra general,VTAW observado promedio,3.59019037153717
+muestra_general,Muestra general,Weighted wage rate promedio,4.00959144328076
+muestra_general,Muestra general,N ingreso libre observado <= 0,2007
+muestra_general,Muestra general,Porcentaje ingreso libre observado <= 0,0.253249211356467
+muestra_general,Muestra general,N ingreso libre predicho <= 0,1
+muestra_general,Muestra general,Porcentaje ingreso libre predicho <= 0,0.000126182965299685
+muestra_general,Muestra general,N ingreso potencial neto Ec <= 0,0
+muestra_general,Muestra general,Porcentaje ingreso potencial neto Ec <= 0,0
+muestra_general,Muestra general,Media cierre temporal observado,168
+muestra_general,Muestra general,Media cierre temporal predicho,168
+muestra_general,Muestra general,Media diferencia cierre temporal predicho,-2.15180134488863e-17
+edad,18 a 29,N personas estimadas,1697
+edad,18 a 29,N parametros,3
+edad,18 a 29,Log likelihood,-8122.58987093
+edad,18 a 29,Metodo elegido,BFGS
+edad,18 a 29,Return code,0
+edad,18 a 29,PH,0.382410772351187
+edad,18 a 29,tw,-0.403263812102991
+edad,18 a 29,th1,0.850466116313019
+edad,18 a 29,Tw observado promedio,39.6078078962876
+edad,18 a 29,Tw predicho promedio,40.5638827815691
+edad,18 a 29,Tf1 ocio observado promedio,44.345904537419
+edad,18 a 29,Tf1 ocio predicho promedio,44.0349859932688
+edad,18 a 29,Tf2 comidas observado promedio,8.38764289923394
+edad,18 a 29,Tf2 comidas predicho promedio,7.74248655810261
+edad,18 a 29,RMSE Tw,10.9596911986623
+edad,18 a 29,RMSE Tf1 ocio,10.7993034675609
+edad,18 a 29,RMSE Tf2 comidas,4.13085494839224
+edad,18 a 29,VoL predicho promedio,2.06643800059824
+edad,18 a 29,VoL predicho mediana,1.8661134684436
+edad,18 a 29,VoL observado promedio,2.44892266059626
+edad,18 a 29,VoL observado mediana,0.463749912559262
+edad,18 a 29,VTAW predicho promedio,-1.38595064053316
+edad,18 a 29,VTAW observado promedio,-1.00346598053515
+edad,18 a 29,Weighted wage rate promedio,3.45238864113141
+edad,18 a 29,N ingreso libre observado <= 0,737
+edad,18 a 29,Porcentaje ingreso libre observado <= 0,0.43429581614614
+edad,18 a 29,N ingreso libre predicho <= 0,0
+edad,18 a 29,Porcentaje ingreso libre predicho <= 0,0
+edad,18 a 29,N ingreso potencial neto Ec <= 0,0
+edad,18 a 29,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,18 a 29,Media cierre temporal observado,168
+edad,18 a 29,Media cierre temporal predicho,168
+edad,18 a 29,Media diferencia cierre temporal predicho,1.50733874409921e-16
+edad,30 a 44,N personas estimadas,2517
+edad,30 a 44,N parametros,3
+edad,30 a 44,Log likelihood,-12019.3419596982
+edad,30 a 44,Metodo elegido,BFGS
+edad,30 a 44,Return code,0
+edad,30 a 44,PH,0.206623043617328
+edad,30 a 44,tw,0.578054489155566
+edad,30 a 44,th1,0.801894126074872
+edad,30 a 44,Tw observado promedio,61.4379896702424
+edad,30 a 44,Tw predicho promedio,61.8585424939008
+edad,30 a 44,Tf1 ocio observado promedio,35.3776519666269
+edad,30 a 44,Tf1 ocio predicho promedio,35.3760861760441
+edad,30 a 44,Tf2 comidas observado promedio,9.15855780691299
+edad,30 a 44,Tf2 comidas predicho promedio,8.73957077383743
+edad,30 a 44,RMSE Tw,11.2907502249235
+edad,30 a 44,RMSE Tf1 ocio,11.0993121222613
+edad,30 a 44,RMSE Tf2 comidas,3.96237043031567
+edad,30 a 44,VoL predicho promedio,8.85576541399962
+edad,30 a 44,VoL predicho mediana,6.3735402551201
+edad,30 a 44,VoL observado promedio,11.2306392737444
+edad,30 a 44,VoL observado mediana,7.48770242642739
+edad,30 a 44,VTAW predicho promedio,4.54611240208066
+edad,30 a 44,VTAW observado promedio,6.92098626182541
+edad,30 a 44,Weighted wage rate promedio,4.30965301191895
+edad,30 a 44,N ingreso libre observado <= 0,499
+edad,30 a 44,Porcentaje ingreso libre observado <= 0,0.198251887167263
+edad,30 a 44,N ingreso libre predicho <= 0,0
+edad,30 a 44,Porcentaje ingreso libre predicho <= 0,0
+edad,30 a 44,N ingreso potencial neto Ec <= 0,0
+edad,30 a 44,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,30 a 44,Media cierre temporal observado,168
+edad,30 a 44,Media cierre temporal predicho,168
+edad,30 a 44,Media diferencia cierre temporal predicho,-5.64594942995709e-17
+edad,45 a 59,N personas estimadas,2336
+edad,45 a 59,N parametros,3
+edad,45 a 59,Log likelihood,-11480.9222735765
+edad,45 a 59,Metodo elegido,BFGS
+edad,45 a 59,Return code,0
+edad,45 a 59,PH,0.150621705374593
+edad,45 a 59,tw,0.707550519033556
+edad,45 a 59,th1,0.775827251311791
+edad,45 a 59,Tw observado promedio,56.8476797945205
+edad,45 a 59,Tw predicho promedio,57.355088341215
+edad,45 a 59,Tf1 ocio observado promedio,34.3698330479452
+edad,45 a 59,Tf1 ocio predicho promedio,34.3309847804681
+edad,45 a 59,Tf2 comidas observado promedio,10.388386130137
+edad,45 a 59,Tf2 comidas predicho promedio,9.91982585091961
+edad,45 a 59,RMSE Tw,11.5252525162569
+edad,45 a 59,RMSE Tf1 ocio,11.1966909620266
+edad,45 a 59,RMSE Tf2 comidas,4.51480266661769
+edad,45 a 59,VoL predicho promedio,12.8021214202359
+edad,45 a 59,VoL predicho mediana,8.23803817465692
+edad,45 a 59,VoL observado promedio,15.9056361489057
+edad,45 a 59,VoL observado mediana,9.75167630700412
+edad,45 a 59,VTAW predicho promedio,8.50081872246192
+edad,45 a 59,VTAW observado promedio,11.6043334511317
+edad,45 a 59,Weighted wage rate promedio,4.30130269777397
+edad,45 a 59,N ingreso libre observado <= 0,547
+edad,45 a 59,Porcentaje ingreso libre observado <= 0,0.23416095890411
+edad,45 a 59,N ingreso libre predicho <= 0,1
+edad,45 a 59,Porcentaje ingreso libre predicho <= 0,0.000428082191780822
+edad,45 a 59,N ingreso potencial neto Ec <= 0,0
+edad,45 a 59,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,45 a 59,Media cierre temporal observado,168
+edad,45 a 59,Media cierre temporal predicho,168
+edad,45 a 59,Media diferencia cierre temporal predicho,6.0834138335625e-17
+edad,60 o mas,N personas estimadas,1375
+edad,60 o mas,N parametros,3
+edad,60 o mas,Log likelihood,-7055.54902631915
+edad,60 o mas,Metodo elegido,BFGS
+edad,60 o mas,Return code,0
+edad,60 o mas,PH,0.207829158344853
+edad,60 o mas,tw,0.494165278977212
+edad,60 o mas,th1,0.768413872057792
+edad,60 o mas,Tw observado promedio,48.5453963636364
+edad,60 o mas,Tw predicho promedio,48.9513345779849
+edad,60 o mas,Tf1 ocio observado promedio,36.9372436363636
+edad,60 o mas,Tf1 ocio predicho promedio,36.9405188928899
+edad,60 o mas,Tf2 comidas observado promedio,11.5424218181818
+edad,60 o mas,Tf2 comidas predicho promedio,11.133208347307
+edad,60 o mas,RMSE Tw,12.7119222270102
+edad,60 o mas,RMSE Tf1 ocio,12.6737603034853
+edad,60 o mas,RMSE Tf2 comidas,5.00330825586623
+edad,60 o mas,VoL predicho promedio,8.35473542007617
+edad,60 o mas,VoL predicho mediana,6.89388324822847
+edad,60 o mas,VoL observado promedio,9.90192987651983
+edad,60 o mas,VoL observado mediana,7.17145465150546
+edad,60 o mas,VTAW predicho promedio,4.70232165207617
+edad,60 o mas,VTAW observado promedio,6.24951610851983
+edad,60 o mas,Weighted wage rate promedio,3.652413768
+edad,60 o mas,N ingreso libre observado <= 0,224
+edad,60 o mas,Porcentaje ingreso libre observado <= 0,0.162909090909091
+edad,60 o mas,N ingreso libre predicho <= 0,0
+edad,60 o mas,Porcentaje ingreso libre predicho <= 0,0
+edad,60 o mas,N ingreso potencial neto Ec <= 0,0
+edad,60 o mas,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,60 o mas,Media cierre temporal observado,168
+edad,60 o mas,Media cierre temporal predicho,168
+edad,60 o mas,Media diferencia cierre temporal predicho,0
+sexo,Hombres,N personas estimadas,3107
+sexo,Hombres,N parametros,3
+sexo,Hombres,Log likelihood,-15550.5566208731
+sexo,Hombres,Metodo elegido,BFGS
+sexo,Hombres,Return code,0
+sexo,Hombres,PH,0.40329042568188
+sexo,Hombres,tw,0.0727513238403586
+sexo,Hombres,th1,0.80830806049213
+sexo,Hombres,Tw observado promedio,51.5504988735114
+sexo,Hombres,Tw predicho promedio,52.0796409370456
+sexo,Hombres,Tf1 ocio observado promedio,39.4176408110718
+sexo,Hombres,Tf1 ocio predicho promedio,39.2913489733252
+sexo,Hombres,Tf2 comidas observado promedio,9.72087544254908
+sexo,Hombres,Tf2 comidas predicho promedio,9.31802521676152
+sexo,Hombres,RMSE Tw,12.5455257211906
+sexo,Hombres,RMSE Tf1 ocio,12.8227869522644
+sexo,Hombres,RMSE Tf2 comidas,4.40130959210721
+sexo,Hombres,VoL predicho promedio,5.22493956718711
+sexo,Hombres,VoL predicho mediana,3.61402299859769
+sexo,Hombres,VoL observado promedio,6.55503459723707
+sexo,Hombres,VoL observado mediana,4.19468867340298
+sexo,Hombres,VTAW predicho promedio,0.511749887753569
+sexo,Hombres,VTAW observado promedio,1.84184491780353
+sexo,Hombres,Weighted wage rate promedio,4.71318967943354
+sexo,Hombres,N ingreso libre observado <= 0,533
+sexo,Hombres,Porcentaje ingreso libre observado <= 0,0.171548117154812
+sexo,Hombres,N ingreso libre predicho <= 0,1
+sexo,Hombres,Porcentaje ingreso libre predicho <= 0,0.000321853878339234
+sexo,Hombres,N ingreso potencial neto Ec <= 0,0
+sexo,Hombres,Porcentaje ingreso potencial neto Ec <= 0,0
+sexo,Hombres,Media cierre temporal observado,168
+sexo,Hombres,Media cierre temporal predicho,168
+sexo,Hombres,Media diferencia cierre temporal predicho,9.14763740920631e-17
+sexo,Mujeres,N personas estimadas,4818
+sexo,Mujeres,N parametros,3
+sexo,Mujeres,Log likelihood,-23955.5355411986
+sexo,Mujeres,Metodo elegido,BFGS
+sexo,Mujeres,Return code,0
+sexo,Mujeres,PH,0.208967596826955
+sexo,Mujeres,tw,0.376855552302343
+sexo,Mujeres,th1,0.794031241180129
+sexo,Mujeres,Tw observado promedio,54.2201266085513
+sexo,Mujeres,Tw predicho promedio,55.0015705735914
+sexo,Mujeres,Tf1 ocio observado promedio,35.8876255707763
+sexo,Mujeres,Tf1 ocio predicho promedio,35.6577120701207
+sexo,Mujeres,Tf2 comidas observado promedio,9.80100871731009
+sexo,Mujeres,Tf2 comidas predicho promedio,9.24947825292556
+sexo,Mujeres,RMSE Tw,12.1230079397577
+sexo,Mujeres,RMSE Tf1 ocio,11.9058873163425
+sexo,Mujeres,RMSE Tf2 comidas,4.50397737086834
+sexo,Mujeres,VoL predicho promedio,5.82437822103516
+sexo,Mujeres,VoL predicho mediana,4.76554524194437
+sexo,Mujeres,VoL observado promedio,7.59073936005556
+sexo,Mujeres,VoL observado mediana,4.55345882201056
+sexo,Mujeres,VTAW predicho promedio,2.26851855851959
+sexo,Mujeres,VTAW observado promedio,4.03487969753999
+sexo,Mujeres,Weighted wage rate promedio,3.55585966251557
+sexo,Mujeres,N ingreso libre observado <= 0,1474
+sexo,Mujeres,Porcentaje ingreso libre observado <= 0,0.305936073059361
+sexo,Mujeres,N ingreso libre predicho <= 0,0
+sexo,Mujeres,Porcentaje ingreso libre predicho <= 0,0
+sexo,Mujeres,N ingreso potencial neto Ec <= 0,0
+sexo,Mujeres,Porcentaje ingreso potencial neto Ec <= 0,0
+sexo,Mujeres,Media cierre temporal observado,168
+sexo,Mujeres,Media cierre temporal predicho,168
+sexo,Mujeres,Media diferencia cierre temporal predicho,6.4889747558e-17
+ingresos,Quintil bajo,N personas estimadas,5214
+ingresos,Quintil bajo,N parametros,3
+ingresos,Quintil bajo,Log likelihood,-25924.5159990469
+ingresos,Quintil bajo,Metodo elegido,BFGS
+ingresos,Quintil bajo,Return code,0
+ingresos,Quintil bajo,PH,0.231423391067236
+ingresos,Quintil bajo,tw,0.22114653982868
+ingresos,Quintil bajo,th1,0.80128674508684
+ingresos,Quintil bajo,Tw observado promedio,52.002027234369
+ingresos,Quintil bajo,Tw predicho promedio,52.6688060490904
+ingresos,Quintil bajo,Tf1 ocio observado promedio,37.1281377061757
+ingresos,Quintil bajo,Tf1 ocio predicho promedio,37.0216414428537
+ingresos,Quintil bajo,Tf2 comidas observado promedio,9.74137897967012
+ingresos,Quintil bajo,Tf2 comidas predicho promedio,9.18109642827065
+ingresos,Quintil bajo,RMSE Tw,11.8202118937891
+ingresos,Quintil bajo,RMSE Tf1 ocio,11.9248660569032
+ingresos,Quintil bajo,RMSE Tf2 comidas,4.55777873569312
+ingresos,Quintil bajo,VoL predicho promedio,4.17167663567454
+ingresos,Quintil bajo,VoL predicho mediana,3.84327018699612
+ingresos,Quintil bajo,VoL observado promedio,4.93609310795477
+ingresos,Quintil bajo,VoL observado mediana,3.73810919255149
+ingresos,Quintil bajo,VTAW predicho promedio,1.00118583590469
+ingresos,Quintil bajo,VTAW observado promedio,1.76560230818492
+ingresos,Quintil bajo,Weighted wage rate promedio,3.17049079976985
+ingresos,Quintil bajo,N ingreso libre observado <= 0,1611
+ingresos,Quintil bajo,Porcentaje ingreso libre observado <= 0,0.30897583429229
+ingresos,Quintil bajo,N ingreso libre predicho <= 0,1
+ingresos,Quintil bajo,Porcentaje ingreso libre predicho <= 0,0.000191791331031837
+ingresos,Quintil bajo,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil bajo,Porcentaje ingreso potencial neto Ec <= 0,0
+ingresos,Quintil bajo,Media cierre temporal observado,168
+ingresos,Quintil bajo,Media cierre temporal predicho,168
+ingresos,Quintil bajo,Media diferencia cierre temporal predicho,-1.63531124455719e-17
+ingresos,Quintil medio,N personas estimadas,1507
+ingresos,Quintil medio,N parametros,3
+ingresos,Quintil medio,Log likelihood,-7429.01473815547
+ingresos,Quintil medio,Metodo elegido,BFGS
+ingresos,Quintil medio,Return code,0
+ingresos,Quintil medio,PH,0.399452238685184
+ingresos,Quintil medio,tw,0.196295460086441
+ingresos,Quintil medio,th1,0.795127853122134
+ingresos,Quintil medio,Tw observado promedio,55.8520637027206
+ingresos,Quintil medio,Tw predicho promedio,56.3363900937157
+ingresos,Quintil medio,Tf1 ocio observado promedio,36.8227339084273
+ingresos,Quintil medio,Tf1 ocio predicho promedio,36.7740037460975
+ingresos,Quintil medio,Tf2 comidas observado promedio,9.91076310550763
+ingresos,Quintil medio,Tf2 comidas predicho promedio,9.47516687684246
+ingresos,Quintil medio,RMSE Tw,11.7256903038212
+ingresos,Quintil medio,RMSE Tf1 ocio,11.8153533193906
+ingresos,Quintil medio,RMSE Tf2 comidas,4.40196999238511
+ingresos,Quintil medio,VoL predicho promedio,5.29246372434539
+ingresos,Quintil medio,VoL predicho mediana,4.27351958597633
+ingresos,Quintil medio,VoL observado promedio,6.1562421643445
+ingresos,Quintil medio,VoL observado mediana,5.06226696020332
+ingresos,Quintil medio,VTAW predicho promedio,1.06268504086829
+ingresos,Quintil medio,VTAW observado promedio,1.92646348086739
+ingresos,Quintil medio,Weighted wage rate promedio,4.22977868347711
+ingresos,Quintil medio,N ingreso libre observado <= 0,224
+ingresos,Quintil medio,Porcentaje ingreso libre observado <= 0,0.148639681486397
+ingresos,Quintil medio,N ingreso libre predicho <= 0,0
+ingresos,Quintil medio,Porcentaje ingreso libre predicho <= 0,0
+ingresos,Quintil medio,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil medio,Porcentaje ingreso potencial neto Ec <= 0,0
+ingresos,Quintil medio,Media cierre temporal observado,168
+ingresos,Quintil medio,Media cierre temporal predicho,168
+ingresos,Quintil medio,Media diferencia cierre temporal predicho,1.13158763491987e-16
+ingresos,Quintil alto,N personas estimadas,1204
+ingresos,Quintil alto,N parametros,3
+ingresos,Quintil alto,Log likelihood,-5966.35851754216
+ingresos,Quintil alto,Metodo elegido,BFGS
+ingresos,Quintil alto,Return code,0
+ingresos,Quintil alto,PH,0.502857132080937
+ingresos,Quintil alto,tw,0.0818325042002021
+ingresos,Quintil alto,th1,0.804253690330057
+ingresos,Quintil alto,Tw observado promedio,54.8939700996678
+ingresos,Quintil alto,Tw predicho promedio,55.4380624920052
+ingresos,Quintil alto,Tf1 ocio observado promedio,38.4545016611296
+ingresos,Quintil alto,Tf1 ocio predicho promedio,38.3029712765367
+ingresos,Quintil alto,Tf2 comidas observado promedio,9.71507475083057
+ingresos,Quintil alto,Tf2 comidas predicho promedio,9.32251274308597
+ingresos,Quintil alto,RMSE Tw,12.6024013109611
+ingresos,Quintil alto,RMSE Tf1 ocio,12.3609064283566
+ingresos,Quintil alto,RMSE Tf2 comidas,4.25251059549784
+ingresos,Quintil alto,VoL predicho promedio,8.2558891967691
+ingresos,Quintil alto,VoL predicho mediana,5.78021673421541
+ingresos,Quintil alto,VoL observado promedio,10.230603453795
+ingresos,Quintil alto,VoL observado mediana,7.32327690019647
+ingresos,Quintil alto,VTAW predicho promedio,0.888117866204319
+ingresos,Quintil alto,VTAW observado promedio,2.86283212323022
+ingresos,Quintil alto,Weighted wage rate promedio,7.36777133056478
+ingresos,Quintil alto,N ingreso libre observado <= 0,172
+ingresos,Quintil alto,Porcentaje ingreso libre observado <= 0,0.142857142857143
+ingresos,Quintil alto,N ingreso libre predicho <= 0,0
+ingresos,Quintil alto,Porcentaje ingreso libre predicho <= 0,0
+ingresos,Quintil alto,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil alto,Porcentaje ingreso potencial neto Ec <= 0,0
+ingresos,Quintil alto,Media cierre temporal observado,168
+ingresos,Quintil alto,Media cierre temporal predicho,168
+ingresos,Quintil alto,Media diferencia cierre temporal predicho,-2.36060709554851e-17
+territorio,Norte,N personas estimadas,2120
+territorio,Norte,N parametros,3
+territorio,Norte,Log likelihood,-10735.0728947746
+territorio,Norte,Metodo elegido,BFGS
+territorio,Norte,Return code,0
+territorio,Norte,PH,0.296895053146602
+territorio,Norte,tw,0.316795813100334
+territorio,Norte,th1,0.798416200052494
+territorio,Norte,Tw observado promedio,54.4533396226415
+territorio,Norte,Tw predicho promedio,55.191729051016
+territorio,Norte,Tf1 ocio observado promedio,36.5551462264151
+territorio,Norte,Tf1 ocio predicho promedio,36.3285940678023
+territorio,Norte,Tf2 comidas observado promedio,9.68406603773585
+territorio,Norte,Tf2 comidas predicho promedio,9.17222876797408
+territorio,Norte,RMSE Tw,13.0468002402729
+territorio,Norte,RMSE Tf1 ocio,12.8889914845889
+territorio,Norte,RMSE Tf2 comidas,4.56079317277248
+territorio,Norte,VoL predicho promedio,5.97922879289591
+territorio,Norte,VoL predicho mediana,4.54817844139643
+territorio,Norte,VoL observado promedio,7.61751876986778
+territorio,Norte,VoL observado mediana,4.95589440823314
+territorio,Norte,VTAW predicho promedio,1.96686372261289
+territorio,Norte,VTAW observado promedio,3.60515369958476
+territorio,Norte,Weighted wage rate promedio,4.01236507028302
+territorio,Norte,N ingreso libre observado <= 0,500
+territorio,Norte,Porcentaje ingreso libre observado <= 0,0.235849056603774
+territorio,Norte,N ingreso libre predicho <= 0,0
+territorio,Norte,Porcentaje ingreso libre predicho <= 0,0
+territorio,Norte,N ingreso potencial neto Ec <= 0,0
+territorio,Norte,Porcentaje ingreso potencial neto Ec <= 0,0
+territorio,Norte,Media cierre temporal observado,168
+territorio,Norte,Media cierre temporal predicho,168
+territorio,Norte,Media diferencia cierre temporal predicho,4.02194001373642e-17
+territorio,Centro,N personas estimadas,4004
+territorio,Centro,N parametros,3
+territorio,Centro,Log likelihood,-19892.1040116701
+territorio,Centro,Metodo elegido,BFGS
+territorio,Centro,Return code,0
+territorio,Centro,PH,0.244059166852104
+territorio,Centro,tw,0.325996548717522
+territorio,Centro,th1,0.799263445763741
+territorio,Centro,Tw observado promedio,53.1162137862138
+territorio,Centro,Tw predicho promedio,53.8699092119064
+territorio,Centro,Tf1 ocio observado promedio,37.125989010989
+territorio,Centro,Tf1 ocio predicho promedio,36.8721513640114
+territorio,Centro,Tf2 comidas observado promedio,9.76036963036963
+territorio,Centro,Tf2 comidas predicho promedio,9.26051185165463
+territorio,Centro,RMSE Tw,12.3381287896837
+territorio,Centro,RMSE Tf1 ocio,12.2885241335654
+territorio,Centro,RMSE Tf2 comidas,4.36377741458538
+territorio,Centro,VoL predicho promedio,6.12670527364195
+territorio,Centro,VoL predicho mediana,4.721335862462
+territorio,Centro,VoL observado promedio,7.94719375958239
+territorio,Centro,VoL observado mediana,4.88473659386559
+territorio,Centro,VTAW predicho promedio,2.18155737554005
+territorio,Centro,VTAW observado promedio,4.00204586148049
+territorio,Centro,Weighted wage rate promedio,3.9451478981019
+territorio,Centro,N ingreso libre observado <= 0,1065
+territorio,Centro,Porcentaje ingreso libre observado <= 0,0.265984015984016
+territorio,Centro,N ingreso libre predicho <= 0,1
+territorio,Centro,Porcentaje ingreso libre predicho <= 0,0.00024975024975025
+territorio,Centro,N ingreso potencial neto Ec <= 0,0
+territorio,Centro,Porcentaje ingreso potencial neto Ec <= 0,0
+territorio,Centro,Media cierre temporal observado,168
+territorio,Centro,Media cierre temporal predicho,168
+territorio,Centro,Media diferencia cierre temporal predicho,3.54916451428621e-17
+territorio,Sur,N personas estimadas,1801
+territorio,Sur,N parametros,3
+territorio,Sur,Log likelihood,-8967.14175536215
+territorio,Sur,Metodo elegido,BFGS
+territorio,Sur,Return code,0
+territorio,Sur,PH,0.26857299426186
+territorio,Sur,tw,0.205733722696969
+territorio,Sur,th1,0.803885538305834
+territorio,Sur,Tw observado promedio,51.7943198223209
+territorio,Sur,Tw predicho promedio,52.5106260318614
+territorio,Sur,Tf1 ocio observado promedio,38.4385452526374
+territorio,Sur,Tf1 ocio predicho promedio,38.2754108466975
+territorio,Sur,Tf2 comidas observado promedio,9.89077179344808
+territorio,Sur,Tf2 comidas predicho promedio,9.33759998984749
+territorio,Sur,RMSE Tw,11.6044186914157
+territorio,Sur,RMSE Tf1 ocio,11.6748061326582
+territorio,Sur,RMSE Tf2 comidas,4.68953807395581
+territorio,Sur,VoL predicho promedio,5.46627166308005
+territorio,Sur,VoL predicho mediana,4.18525947650324
+territorio,Sur,VoL observado promedio,6.81272008387082
+territorio,Sur,VoL observado mediana,4.4926020741219
+territorio,Sur,VTAW predicho promedio,1.31667363143096
+territorio,Sur,VTAW observado promedio,2.66312205222174
+territorio,Sur,Weighted wage rate promedio,4.14959803164908
+territorio,Sur,N ingreso libre observado <= 0,442
+territorio,Sur,Porcentaje ingreso libre observado <= 0,0.245419211549139
+territorio,Sur,N ingreso libre predicho <= 0,0
+territorio,Sur,Porcentaje ingreso libre predicho <= 0,0
+territorio,Sur,N ingreso potencial neto Ec <= 0,0
+territorio,Sur,Porcentaje ingreso potencial neto Ec <= 0,0
+territorio,Sur,Media cierre temporal observado,168
+territorio,Sur,Media cierre temporal predicho,168
+territorio,Sur,Media diferencia cierre temporal predicho,-1.89372855727289e-16
+cluster_tiempo,Cuidadores domesticos,N personas estimadas,2514
+cluster_tiempo,Cuidadores domesticos,N parametros,3
+cluster_tiempo,Cuidadores domesticos,Log likelihood,-11586.232464891
+cluster_tiempo,Cuidadores domesticos,Metodo elegido,BFGS
+cluster_tiempo,Cuidadores domesticos,Return code,0
+cluster_tiempo,Cuidadores domesticos,PH,0.0633708327690127
+cluster_tiempo,Cuidadores domesticos,tw,1.20881262915142
+cluster_tiempo,Cuidadores domesticos,th1,0.760161233306955
+cluster_tiempo,Cuidadores domesticos,Tw observado promedio,65.2251352426412
+cluster_tiempo,Cuidadores domesticos,Tw predicho promedio,65.7825437238073
+cluster_tiempo,Cuidadores domesticos,Tf1 ocio observado promedio,29.5604932378679
+cluster_tiempo,Cuidadores domesticos,Tf1 ocio predicho promedio,29.3576884051055
+cluster_tiempo,Cuidadores domesticos,Tf2 comidas observado promedio,9.61725934765314
+cluster_tiempo,Cuidadores domesticos,Tf2 comidas predicho promedio,9.26265569924954
+cluster_tiempo,Cuidadores domesticos,RMSE Tw,9.5837113470222
+cluster_tiempo,Cuidadores domesticos,RMSE Tf1 ocio,9.0064237504685
+cluster_tiempo,Cuidadores domesticos,RMSE Tf2 comidas,4.11331633398696
+cluster_tiempo,Cuidadores domesticos,VoL predicho promedio,22.6452724896994
+cluster_tiempo,Cuidadores domesticos,VoL predicho mediana,15.3503197002121
+cluster_tiempo,Cuidadores domesticos,VoL observado promedio,27.476025561784
+cluster_tiempo,Cuidadores domesticos,VoL observado mediana,16.7161764786433
+cluster_tiempo,Cuidadores domesticos,VTAW predicho promedio,19.1314220326588
+cluster_tiempo,Cuidadores domesticos,VTAW observado promedio,23.9621751047434
+cluster_tiempo,Cuidadores domesticos,Weighted wage rate promedio,3.51385045704057
+cluster_tiempo,Cuidadores domesticos,N ingreso libre observado <= 0,780
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso libre observado <= 0,0.310262529832936
+cluster_tiempo,Cuidadores domesticos,N ingreso libre predicho <= 0,6
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso libre predicho <= 0,0.00238663484486874
+cluster_tiempo,Cuidadores domesticos,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Cuidadores domesticos,Media cierre temporal observado,168
+cluster_tiempo,Cuidadores domesticos,Media cierre temporal predicho,168
+cluster_tiempo,Cuidadores domesticos,Media diferencia cierre temporal predicho,0
+cluster_tiempo,Rutina flexible,N personas estimadas,1770
+cluster_tiempo,Rutina flexible,N parametros,3
+cluster_tiempo,Rutina flexible,Log likelihood,-8400.93293659893
+cluster_tiempo,Rutina flexible,Metodo elegido,BFGS
+cluster_tiempo,Rutina flexible,Return code,0
+cluster_tiempo,Rutina flexible,PH,0.0327559543364787
+cluster_tiempo,Rutina flexible,tw,0.232708774512567
+cluster_tiempo,Rutina flexible,th1,0.835566612985628
+cluster_tiempo,Rutina flexible,Tw observado promedio,26.3032146892655
+cluster_tiempo,Rutina flexible,Tw predicho promedio,26.7711860306721
+cluster_tiempo,Rutina flexible,Tf1 ocio observado promedio,51.2384576271186
+cluster_tiempo,Rutina flexible,Tf1 ocio predicho promedio,51.1031977442043
+cluster_tiempo,Rutina flexible,Tf2 comidas observado promedio,10.3894463276836
+cluster_tiempo,Rutina flexible,Tf2 comidas predicho promedio,10.0567348691914
+cluster_tiempo,Rutina flexible,RMSE Tw,8.66302691745
+cluster_tiempo,Rutina flexible,RMSE Tf1 ocio,10.0615826790674
+cluster_tiempo,Rutina flexible,RMSE Tf2 comidas,4.89183407433699
+cluster_tiempo,Rutina flexible,VoL predicho promedio,10.5668522048851
+cluster_tiempo,Rutina flexible,VoL predicho mediana,7.47327983582208
+cluster_tiempo,Rutina flexible,VoL observado promedio,12.7811199778351
+cluster_tiempo,Rutina flexible,VoL observado mediana,0
+cluster_tiempo,Rutina flexible,VTAW predicho promedio,7.17714538793593
+cluster_tiempo,Rutina flexible,VTAW observado promedio,9.39141316088591
+cluster_tiempo,Rutina flexible,Weighted wage rate promedio,3.38970681694915
+cluster_tiempo,Rutina flexible,N ingreso libre observado <= 0,1061
+cluster_tiempo,Rutina flexible,Porcentaje ingreso libre observado <= 0,0.599435028248588
+cluster_tiempo,Rutina flexible,N ingreso libre predicho <= 0,3
+cluster_tiempo,Rutina flexible,Porcentaje ingreso libre predicho <= 0,0.00169491525423729
+cluster_tiempo,Rutina flexible,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Rutina flexible,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Rutina flexible,Media cierre temporal observado,168
+cluster_tiempo,Rutina flexible,Media cierre temporal predicho,168
+cluster_tiempo,Rutina flexible,Media diferencia cierre temporal predicho,1.60574629550305e-17
+cluster_tiempo,Jovenes trabajadores,N personas estimadas,899
+cluster_tiempo,Jovenes trabajadores,N parametros,3
+cluster_tiempo,Jovenes trabajadores,Log likelihood,-3755.46349112839
+cluster_tiempo,Jovenes trabajadores,Metodo elegido,BFGS
+cluster_tiempo,Jovenes trabajadores,Return code,0
+cluster_tiempo,Jovenes trabajadores,PH,0.166349343176737
+cluster_tiempo,Jovenes trabajadores,tw,0.467139202519316
+cluster_tiempo,Jovenes trabajadores,th1,0.864549795220088
+cluster_tiempo,Jovenes trabajadores,Tw observado promedio,50.1677641824249
+cluster_tiempo,Jovenes trabajadores,Tw predicho promedio,50.7453532181619
+cluster_tiempo,Jovenes trabajadores,Tf1 ocio observado promedio,50.3812235817575
+cluster_tiempo,Jovenes trabajadores,Tf1 ocio predicho promedio,49.9365668285338
+cluster_tiempo,Jovenes trabajadores,Tf2 comidas observado promedio,7.95656284760845
+cluster_tiempo,Jovenes trabajadores,Tf2 comidas predicho promedio,7.82363056509516
+cluster_tiempo,Jovenes trabajadores,RMSE Tw,8.17625862537042
+cluster_tiempo,Jovenes trabajadores,RMSE Tf1 ocio,8.19880632049436
+cluster_tiempo,Jovenes trabajadores,RMSE Tf2 comidas,2.97908840198792
+cluster_tiempo,Jovenes trabajadores,VoL predicho promedio,12.5241635820629
+cluster_tiempo,Jovenes trabajadores,VoL predicho mediana,8.59026153407656
+cluster_tiempo,Jovenes trabajadores,VoL observado promedio,12.8102730850938
+cluster_tiempo,Jovenes trabajadores,VoL observado mediana,8.78108838770289
+cluster_tiempo,Jovenes trabajadores,VTAW predicho promedio,7.45153288017192
+cluster_tiempo,Jovenes trabajadores,VTAW observado promedio,7.73764238320281
+cluster_tiempo,Jovenes trabajadores,Weighted wage rate promedio,5.07263070189099
+cluster_tiempo,Jovenes trabajadores,N ingreso libre observado <= 0,76
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso libre observado <= 0,0.0845383759733037
+cluster_tiempo,Jovenes trabajadores,N ingreso libre predicho <= 0,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso libre predicho <= 0,0
+cluster_tiempo,Jovenes trabajadores,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Jovenes trabajadores,Media cierre temporal observado,168
+cluster_tiempo,Jovenes trabajadores,Media cierre temporal predicho,168
+cluster_tiempo,Jovenes trabajadores,Media diferencia cierre temporal predicho,-2.84533242351097e-16
+cluster_tiempo,Trabajadores rutinarios,N personas estimadas,1880
+cluster_tiempo,Trabajadores rutinarios,N parametros,3
+cluster_tiempo,Trabajadores rutinarios,Log likelihood,-8193.18006874233
+cluster_tiempo,Trabajadores rutinarios,Metodo elegido,BFGS
+cluster_tiempo,Trabajadores rutinarios,Return code,0
+cluster_tiempo,Trabajadores rutinarios,PH,0.226582318674738
+cluster_tiempo,Trabajadores rutinarios,tw,0.832065362148845
+cluster_tiempo,Trabajadores rutinarios,th1,0.736847662078487
+cluster_tiempo,Trabajadores rutinarios,Tw observado promedio,58.4434361702128
+cluster_tiempo,Trabajadores rutinarios,Tw predicho promedio,58.610288685336
+cluster_tiempo,Trabajadores rutinarios,Tf1 ocio observado promedio,29.5140531914894
+cluster_tiempo,Trabajadores rutinarios,Tf1 ocio predicho promedio,29.5259394007879
+cluster_tiempo,Trabajadores rutinarios,Tf2 comidas observado promedio,10.723414893617
+cluster_tiempo,Trabajadores rutinarios,Tf2 comidas predicho promedio,10.5446761691953
+cluster_tiempo,Trabajadores rutinarios,RMSE Tw,7.51891031453033
+cluster_tiempo,Trabajadores rutinarios,RMSE Tf1 ocio,7.35451448684484
+cluster_tiempo,Trabajadores rutinarios,RMSE Tf2 comidas,4.0162066694961
+cluster_tiempo,Trabajadores rutinarios,VoL predicho promedio,12.8389186354152
+cluster_tiempo,Trabajadores rutinarios,VoL predicho mediana,8.77780633328687
+cluster_tiempo,Trabajadores rutinarios,VoL observado promedio,13.9913885400062
+cluster_tiempo,Trabajadores rutinarios,VoL observado mediana,9.23657861959682
+cluster_tiempo,Trabajadores rutinarios,VTAW predicho promedio,8.35105843222366
+cluster_tiempo,Trabajadores rutinarios,VTAW observado promedio,9.50352833681467
+cluster_tiempo,Trabajadores rutinarios,Weighted wage rate promedio,4.48786020319149
+cluster_tiempo,Trabajadores rutinarios,N ingreso libre observado <= 0,60
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso libre observado <= 0,0.0319148936170213
+cluster_tiempo,Trabajadores rutinarios,N ingreso libre predicho <= 0,1
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso libre predicho <= 0,0.000531914893617021
+cluster_tiempo,Trabajadores rutinarios,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores rutinarios,Media cierre temporal observado,168
+cluster_tiempo,Trabajadores rutinarios,Media cierre temporal predicho,168
+cluster_tiempo,Trabajadores rutinarios,Media diferencia cierre temporal predicho,1.51179305480872e-17
+cluster_tiempo,Trabajadores moviles,N personas estimadas,862
+cluster_tiempo,Trabajadores moviles,N parametros,3
+cluster_tiempo,Trabajadores moviles,Log likelihood,-3886.40394409773
+cluster_tiempo,Trabajadores moviles,Metodo elegido,BFGS
+cluster_tiempo,Trabajadores moviles,Return code,0
+cluster_tiempo,Trabajadores moviles,PH,0.338281427188051
+cluster_tiempo,Trabajadores moviles,tw,0.596023598271506
+cluster_tiempo,Trabajadores moviles,th1,0.801086627570179
+cluster_tiempo,Trabajadores moviles,Tw observado promedio,64.8408468677494
+cluster_tiempo,Trabajadores moviles,Tw predicho promedio,65.0386057576959
+cluster_tiempo,Trabajadores moviles,Tf1 ocio observado promedio,34.3281902552204
+cluster_tiempo,Trabajadores moviles,Tf1 ocio predicho promedio,34.3522783933239
+cluster_tiempo,Trabajadores moviles,Tf2 comidas observado promedio,8.75167053364269
+cluster_tiempo,Trabajadores moviles,Tf2 comidas predicho promedio,8.52982350559276
+cluster_tiempo,Trabajadores moviles,RMSE Tw,9.93556432977414
+cluster_tiempo,Trabajadores moviles,RMSE Tf1 ocio,9.89755738466044
+cluster_tiempo,Trabajadores moviles,RMSE Tf2 comidas,3.41962825076397
+cluster_tiempo,Trabajadores moviles,VoL predicho promedio,8.54777176047088
+cluster_tiempo,Trabajadores moviles,VoL predicho mediana,6.21045424820497
+cluster_tiempo,Trabajadores moviles,VoL observado promedio,9.81464034199905
+cluster_tiempo,Trabajadores moviles,VoL observado mediana,6.63330933014644
+cluster_tiempo,Trabajadores moviles,VTAW predicho promedio,3.97127652845232
+cluster_tiempo,Trabajadores moviles,VTAW observado promedio,5.23814510998049
+cluster_tiempo,Trabajadores moviles,Weighted wage rate promedio,4.57649523201856
+cluster_tiempo,Trabajadores moviles,N ingreso libre observado <= 0,30
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso libre observado <= 0,0.0348027842227378
+cluster_tiempo,Trabajadores moviles,N ingreso libre predicho <= 0,0
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso libre predicho <= 0,0
+cluster_tiempo,Trabajadores moviles,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores moviles,Media cierre temporal observado,168
+cluster_tiempo,Trabajadores moviles,Media cierre temporal predicho,168
+cluster_tiempo,Trabajadores moviles,Media diferencia cierre temporal predicho,-6.59436413698469e-17
+cluster_modo,Usuarios publicos,N personas estimadas,1703
+cluster_modo,Usuarios publicos,N parametros,3
+cluster_modo,Usuarios publicos,Log likelihood,-8419.59001317847
+cluster_modo,Usuarios publicos,Metodo elegido,BFGS
+cluster_modo,Usuarios publicos,Return code,0
+cluster_modo,Usuarios publicos,PH,0.291652783927431
+cluster_modo,Usuarios publicos,tw,0.205802087291451
+cluster_modo,Usuarios publicos,th1,0.800408397341617
+cluster_modo,Usuarios publicos,Tw observado promedio,49.8531238990018
+cluster_modo,Usuarios publicos,Tw predicho promedio,50.8448088005312
+cluster_modo,Usuarios publicos,Tf1 ocio observado promedio,36.3950733998826
+cluster_modo,Usuarios publicos,Tf1 ocio predicho promedio,35.9432629187424
+cluster_modo,Usuarios publicos,Tf2 comidas observado promedio,9.50276570757487
+cluster_modo,Usuarios publicos,Tf2 comidas predicho promedio,8.96289128718567
+cluster_modo,Usuarios publicos,RMSE Tw,12.1645722096453
+cluster_modo,Usuarios publicos,RMSE Tf1 ocio,12.311231998691
+cluster_modo,Usuarios publicos,RMSE Tf2 comidas,4.2866389576623
+cluster_modo,Usuarios publicos,VoL predicho promedio,4.52182165274114
+cluster_modo,Usuarios publicos,VoL predicho mediana,3.88293578084938
+cluster_modo,Usuarios publicos,VoL observado promedio,5.01527665857281
+cluster_modo,Usuarios publicos,VoL observado mediana,3.75455476493919
+cluster_modo,Usuarios publicos,VTAW predicho promedio,1.07572366918272
+cluster_modo,Usuarios publicos,VTAW observado promedio,1.56917867501438
+cluster_modo,Usuarios publicos,Weighted wage rate promedio,3.44609798355843
+cluster_modo,Usuarios publicos,N ingreso libre observado <= 0,453
+cluster_modo,Usuarios publicos,Porcentaje ingreso libre observado <= 0,0.266001174398121
+cluster_modo,Usuarios publicos,N ingreso libre predicho <= 0,0
+cluster_modo,Usuarios publicos,Porcentaje ingreso libre predicho <= 0,0
+cluster_modo,Usuarios publicos,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Usuarios publicos,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Usuarios publicos,Media cierre temporal observado,168
+cluster_modo,Usuarios publicos,Media cierre temporal predicho,168
+cluster_modo,Usuarios publicos,Media diferencia cierre temporal predicho,-1.33513608598492e-16
+cluster_modo,Movilidad activa,N personas estimadas,1893
+cluster_modo,Movilidad activa,N parametros,3
+cluster_modo,Movilidad activa,Log likelihood,-9690.28950101528
+cluster_modo,Movilidad activa,Metodo elegido,BFGS
+cluster_modo,Movilidad activa,Return code,0
+cluster_modo,Movilidad activa,PH,0.163141548122716
+cluster_modo,Movilidad activa,tw,0.285763512268707
+cluster_modo,Movilidad activa,th1,0.805013925873556
+cluster_modo,Movilidad activa,Tw observado promedio,48.1813998943476
+cluster_modo,Movilidad activa,Tw predicho promedio,48.8006572586694
+cluster_modo,Movilidad activa,Tf1 ocio observado promedio,39.6312202852615
+cluster_modo,Movilidad activa,Tf1 ocio predicho promedio,39.6508804640066
+cluster_modo,Movilidad activa,Tf2 comidas observado promedio,10.2429371368199
+cluster_modo,Movilidad activa,Tf2 comidas predicho promedio,9.60401959375291
+cluster_modo,Movilidad activa,RMSE Tw,12.4841660827666
+cluster_modo,Movilidad activa,RMSE Tf1 ocio,12.7156851934867
+cluster_modo,Movilidad activa,RMSE Tf2 comidas,4.98424251669192
+cluster_modo,Movilidad activa,VoL predicho promedio,5.34929587546311
+cluster_modo,Movilidad activa,VoL predicho mediana,4.43666459978902
+cluster_modo,Movilidad activa,VoL observado promedio,7.25887582972003
+cluster_modo,Movilidad activa,VoL observado mediana,3.36938660630466
+cluster_modo,Movilidad activa,VTAW predicho promedio,1.98467378196074
+cluster_modo,Movilidad activa,VTAW observado promedio,3.89425373621765
+cluster_modo,Movilidad activa,Weighted wage rate promedio,3.36462209350238
+cluster_modo,Movilidad activa,N ingreso libre observado <= 0,730
+cluster_modo,Movilidad activa,Porcentaje ingreso libre observado <= 0,0.385631273111463
+cluster_modo,Movilidad activa,N ingreso libre predicho <= 0,0
+cluster_modo,Movilidad activa,Porcentaje ingreso libre predicho <= 0,0
+cluster_modo,Movilidad activa,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad activa,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad activa,Media cierre temporal observado,168
+cluster_modo,Movilidad activa,Media cierre temporal predicho,168
+cluster_modo,Movilidad activa,Media diferencia cierre temporal predicho,1.05098767043227e-16
+cluster_modo,Movilidad mixta,N personas estimadas,1663
+cluster_modo,Movilidad mixta,N parametros,3
+cluster_modo,Movilidad mixta,Log likelihood,-8168.12304546417
+cluster_modo,Movilidad mixta,Metodo elegido,BFGS
+cluster_modo,Movilidad mixta,Return code,0
+cluster_modo,Movilidad mixta,PH,0.269220288950786
+cluster_modo,Movilidad mixta,tw,0.429120983972486
+cluster_modo,Movilidad mixta,th1,0.796541053927786
+cluster_modo,Movilidad mixta,Tw observado promedio,57.9675886951293
+cluster_modo,Movilidad mixta,Tw predicho promedio,58.5430938161919
+cluster_modo,Movilidad mixta,Tf1 ocio observado promedio,35.509939867709
+cluster_modo,Movilidad mixta,Tf1 ocio predicho promedio,35.3575880302657
+cluster_modo,Movilidad mixta,Tf2 comidas observado promedio,9.4544738424534
+cluster_modo,Movilidad mixta,Tf2 comidas predicho promedio,9.03132055883406
+cluster_modo,Movilidad mixta,RMSE Tw,11.9060588130233
+cluster_modo,Movilidad mixta,RMSE Tf1 ocio,11.98196553337
+cluster_modo,Movilidad mixta,RMSE Tf2 comidas,4.25327387189493
+cluster_modo,Movilidad mixta,VoL predicho promedio,6.64582894070024
+cluster_modo,Movilidad mixta,VoL predicho mediana,5.08303622092235
+cluster_modo,Movilidad mixta,VoL observado promedio,8.08766937412731
+cluster_modo,Movilidad mixta,VoL observado mediana,5.5684067564028
+cluster_modo,Movilidad mixta,VTAW predicho promedio,2.70792882223962
+cluster_modo,Movilidad mixta,VTAW observado promedio,4.1497692556667
+cluster_modo,Movilidad mixta,Weighted wage rate promedio,3.93790011846061
+cluster_modo,Movilidad mixta,N ingreso libre observado <= 0,305
+cluster_modo,Movilidad mixta,Porcentaje ingreso libre observado <= 0,0.18340348767288
+cluster_modo,Movilidad mixta,N ingreso libre predicho <= 0,1
+cluster_modo,Movilidad mixta,Porcentaje ingreso libre predicho <= 0,0.000601322910402886
+cluster_modo,Movilidad mixta,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad mixta,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad mixta,Media cierre temporal observado,168
+cluster_modo,Movilidad mixta,Media cierre temporal predicho,168
+cluster_modo,Movilidad mixta,Media diferencia cierre temporal predicho,-1.70906250333157e-17
+cluster_modo,Motorizados privados,N personas estimadas,2666
+cluster_modo,Motorizados privados,N parametros,3
+cluster_modo,Motorizados privados,Log likelihood,-13109.2071980865
+cluster_modo,Motorizados privados,Metodo elegido,BFGS
+cluster_modo,Motorizados privados,Return code,0
+cluster_modo,Motorizados privados,PH,0.281871354099918
+cluster_modo,Motorizados privados,tw,0.361721903079112
+cluster_modo,Motorizados privados,th1,0.798345098528668
+cluster_modo,Motorizados privados,Tw observado promedio,55.8486909227307
+cluster_modo,Motorizados privados,Tw predicho promedio,56.4191520871728
+cluster_modo,Motorizados privados,Tf1 ocio observado promedio,37.2548574643661
+cluster_modo,Motorizados privados,Tf1 ocio predicho promedio,37.1109912128377
+cluster_modo,Motorizados privados,Tf2 comidas observado promedio,9.80050262565641
+cluster_modo,Motorizados privados,Tf2 comidas predicho promedio,9.37390771274275
+cluster_modo,Motorizados privados,RMSE Tw,11.9413283630908
+cluster_modo,Motorizados privados,RMSE Tf1 ocio,11.6992633379121
+cluster_modo,Motorizados privados,RMSE Tf2 comidas,4.33177923183829
+cluster_modo,Motorizados privados,VoL predicho promedio,7.7485242254838
+cluster_modo,Motorizados privados,VoL predicho mediana,5.47987924696304
+cluster_modo,Motorizados privados,VoL observado promedio,9.98352169275144
+cluster_modo,Motorizados privados,VoL observado mediana,6.26035887712552
+cluster_modo,Motorizados privados,VTAW predicho promedio,2.87629999367585
+cluster_modo,Motorizados privados,VTAW observado promedio,5.11129746094349
+cluster_modo,Motorizados privados,Weighted wage rate promedio,4.87222423180795
+cluster_modo,Motorizados privados,N ingreso libre observado <= 0,519
+cluster_modo,Motorizados privados,Porcentaje ingreso libre observado <= 0,0.194673668417104
+cluster_modo,Motorizados privados,N ingreso libre predicho <= 0,0
+cluster_modo,Motorizados privados,Porcentaje ingreso libre predicho <= 0,0
+cluster_modo,Motorizados privados,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Motorizados privados,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Motorizados privados,Media cierre temporal observado,168
+cluster_modo,Motorizados privados,Media cierre temporal predicho,168
+cluster_modo,Motorizados privados,Media diferencia cierre temporal predicho,-3.1982418713883e-17

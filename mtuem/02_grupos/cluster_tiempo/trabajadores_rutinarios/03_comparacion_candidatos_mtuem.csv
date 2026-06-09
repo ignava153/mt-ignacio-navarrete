@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_tiempo,Trabajadores rutinarios,BFGS,-8193.180068742327,TRUE,0
+cluster_tiempo,Trabajadores rutinarios,NM,NA,FALSE,NA
+cluster_tiempo,Trabajadores rutinarios,SANN_fallback,NA,FALSE,NA

@@ -1,0 +1,21 @@
+variable_1,variable_2,correlacion,metodo,correlacion_abs,nivel_alerta,familia_1,tipo_1,familia_2,tipo_2,misma_familia,comentario
+zona_centro,zona_sur,-0.9658388087587987,Tetracorica,0.9658388087587987,alta,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+zona_centro,zona_sur,-0.9658305934140735,MixedCor,0.9658305934140735,alta,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+ing_personal,quintil_5,0.7563813691905806,MixedCor,0.7563813691905806,alta,ingresos,continua,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,edad_18_24,0.7023473752357534,MixedCor,0.7023473752357534,alta,modulo,dicotomica,edad,dicotomica,NO,Revisar: posible asociacion fuerte entre bloques distintos
+mod_ED,edad_18_24,0.7023285979043171,Tetracorica,0.7023285979043171,alta,modulo,dicotomica,edad,dicotomica,NO,Revisar: posible asociacion fuerte entre bloques distintos
+edad_18_24,edad_65mas,-0.6646133349357617,Tetracorica,0.6646133349357617,moderada,edad,dicotomica,edad,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+edad_18_24,edad_65mas,-0.6645915889711624,MixedCor,0.6645915889711624,moderada,edad,dicotomica,edad,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+T_mod_10h,mod_TC,-0.6557617015698243,MixedCor,0.6557617015698243,moderada,tiempo_modulo,continua,modulo,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+ing_personal,educ_universitaria,0.6085707451364727,MixedCor,0.6085707451364727,moderada,ingresos,continua,educacion,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+zona_centro,zona_sur,-0.5511242478760313,Pearson,0.5511242478760313,moderada,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+zona_centro,zona_sur,-0.5511242478760313,Spearman,0.5511242478760313,moderada,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+edad_18_24,vive_pareja,-0.5384218001806995,MixedCor,0.5384218001806995,moderada,edad,dicotomica,hogar,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+edad_18_24,vive_pareja,-0.5384093647960907,Tetracorica,0.5384093647960907,moderada,edad,dicotomica,hogar,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+mod_ED,edad_65mas,-0.5209656366324038,Tetracorica,0.5209656366324038,moderada,modulo,dicotomica,edad,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+mod_ED,edad_65mas,-0.5209325069683409,MixedCor,0.5209325069683409,moderada,modulo,dicotomica,edad,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+quintil_5,ing_personal,0.5113863670167779,Pearson,0.5113863670167779,moderada,ingresos,dicotomica,ingresos,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,educ_tecnica,0.5109598034062808,MixedCor,0.5109598034062808,moderada,hogar,continua,educacion,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+educ_secundaria,educ_tecnica,-0.5076637731818503,MixedCor,0.5076637731818503,moderada,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_secundaria,educ_tecnica,-0.5076632658316824,Tetracorica,0.5076632658316824,moderada,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,educ_universitaria,0.5037586453866933,MixedCor,0.5037586453866933,moderada,hogar,continua,educacion,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos

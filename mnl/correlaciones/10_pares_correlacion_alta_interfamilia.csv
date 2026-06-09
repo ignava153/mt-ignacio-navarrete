@@ -1,0 +1,3 @@
+variable_1,variable_2,correlacion,metodo,correlacion_abs,nivel_alerta,familia_1,tipo_1,familia_2,tipo_2,misma_familia,comentario
+mod_ED,edad_18_24,0.7023473752357534,MixedCor,0.7023473752357534,alta,modulo,dicotomica,edad,dicotomica,NO,Revisar: posible asociacion fuerte entre bloques distintos
+mod_ED,edad_18_24,0.7023285979043171,Tetracorica,0.7023285979043171,alta,modulo,dicotomica,edad,dicotomica,NO,Revisar: posible asociacion fuerte entre bloques distintos

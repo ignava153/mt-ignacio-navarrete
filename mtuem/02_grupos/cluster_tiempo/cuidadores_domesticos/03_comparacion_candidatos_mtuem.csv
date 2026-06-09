@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_tiempo,Cuidadores domesticos,BFGS,-11586.232464891047,TRUE,0
+cluster_tiempo,Cuidadores domesticos,NM,NA,FALSE,NA
+cluster_tiempo,Cuidadores domesticos,SANN_fallback,NA,FALSE,NA

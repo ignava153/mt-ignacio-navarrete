@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_modo,Movilidad activa,N personas estimadas,1893
+cluster_modo,Movilidad activa,N parametros,3
+cluster_modo,Movilidad activa,Log likelihood,-9690.28950101528
+cluster_modo,Movilidad activa,Metodo elegido,BFGS
+cluster_modo,Movilidad activa,Return code,0
+cluster_modo,Movilidad activa,PH,0.163141548122716
+cluster_modo,Movilidad activa,tw,0.285763512268707
+cluster_modo,Movilidad activa,th1,0.805013925873556
+cluster_modo,Movilidad activa,Tw observado promedio,48.1813998943476
+cluster_modo,Movilidad activa,Tw predicho promedio,48.8006572586694
+cluster_modo,Movilidad activa,Tf1 ocio observado promedio,39.6312202852615
+cluster_modo,Movilidad activa,Tf1 ocio predicho promedio,39.6508804640066
+cluster_modo,Movilidad activa,Tf2 comidas observado promedio,10.2429371368199
+cluster_modo,Movilidad activa,Tf2 comidas predicho promedio,9.60401959375291
+cluster_modo,Movilidad activa,RMSE Tw,12.4841660827666
+cluster_modo,Movilidad activa,RMSE Tf1 ocio,12.7156851934867
+cluster_modo,Movilidad activa,RMSE Tf2 comidas,4.98424251669192
+cluster_modo,Movilidad activa,VoL predicho promedio,5.34929587546311
+cluster_modo,Movilidad activa,VoL predicho mediana,4.43666459978902
+cluster_modo,Movilidad activa,VoL observado promedio,7.25887582972003
+cluster_modo,Movilidad activa,VoL observado mediana,3.36938660630466
+cluster_modo,Movilidad activa,VTAW predicho promedio,1.98467378196074
+cluster_modo,Movilidad activa,VTAW observado promedio,3.89425373621765
+cluster_modo,Movilidad activa,Weighted wage rate promedio,3.36462209350238
+cluster_modo,Movilidad activa,N ingreso libre observado <= 0,730
+cluster_modo,Movilidad activa,Porcentaje ingreso libre observado <= 0,0.385631273111463
+cluster_modo,Movilidad activa,N ingreso libre predicho <= 0,0
+cluster_modo,Movilidad activa,Porcentaje ingreso libre predicho <= 0,0
+cluster_modo,Movilidad activa,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad activa,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad activa,Media cierre temporal observado,168
+cluster_modo,Movilidad activa,Media cierre temporal predicho,168
+cluster_modo,Movilidad activa,Media diferencia cierre temporal predicho,1.05098767043227e-16

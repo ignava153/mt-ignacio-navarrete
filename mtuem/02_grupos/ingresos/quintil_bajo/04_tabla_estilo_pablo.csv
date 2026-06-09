@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+ingresos,Quintil bajo,Model specification,# individuals,5214,NA,NA,NA,,NA,NA
+ingresos,Quintil bajo,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+ingresos,Quintil bajo,Model specification,LL,-25924.5159990469,NA,NA,NA,,NA,NA
+ingresos,Quintil bajo,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+ingresos,Quintil bajo,Time-use parameters,PH,NA,0.23142339106723564,NA,NA,,NA,NA
+ingresos,Quintil bajo,Time-use parameters,th1,NA,0.80128674508684,NA,NA,,NA,NA
+ingresos,Quintil bajo,Time-use parameters,tw,NA,0.2211465398286796,NA,NA,,NA,NA
+ingresos,Quintil bajo,Values of time,VoL predicho,4.1717 [3.9262 ; 4.4172],4.171676635674542,0.12524599463926891,NA,,3.926194486181575,4.417158785167509
+ingresos,Quintil bajo,Values of time,VTAW predicho,1.0012 [0.7557 ; 1.2467],1.0011858359046917,0.1252459948103293,NA,,0.7557036860764462,1.246667985732937
+ingresos,Quintil bajo,Values of time,Weighted wage rate,3.1705 [3.1418 ; 3.1992],3.1704907997698504,0.01465329339094648,NA,,3.1417642026966806,3.19921739684302

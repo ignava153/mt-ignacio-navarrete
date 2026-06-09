@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Trabajadores rutinarios,N personas estimadas,1880
+cluster_tiempo,Trabajadores rutinarios,N parametros,3
+cluster_tiempo,Trabajadores rutinarios,Log likelihood,-8193.18006874233
+cluster_tiempo,Trabajadores rutinarios,Metodo elegido,BFGS
+cluster_tiempo,Trabajadores rutinarios,Return code,0
+cluster_tiempo,Trabajadores rutinarios,PH,0.226582318674738
+cluster_tiempo,Trabajadores rutinarios,tw,0.832065362148845
+cluster_tiempo,Trabajadores rutinarios,th1,0.736847662078487
+cluster_tiempo,Trabajadores rutinarios,Tw observado promedio,58.4434361702128
+cluster_tiempo,Trabajadores rutinarios,Tw predicho promedio,58.610288685336
+cluster_tiempo,Trabajadores rutinarios,Tf1 ocio observado promedio,29.5140531914894
+cluster_tiempo,Trabajadores rutinarios,Tf1 ocio predicho promedio,29.5259394007879
+cluster_tiempo,Trabajadores rutinarios,Tf2 comidas observado promedio,10.723414893617
+cluster_tiempo,Trabajadores rutinarios,Tf2 comidas predicho promedio,10.5446761691953
+cluster_tiempo,Trabajadores rutinarios,RMSE Tw,7.51891031453033
+cluster_tiempo,Trabajadores rutinarios,RMSE Tf1 ocio,7.35451448684484
+cluster_tiempo,Trabajadores rutinarios,RMSE Tf2 comidas,4.0162066694961
+cluster_tiempo,Trabajadores rutinarios,VoL predicho promedio,12.8389186354152
+cluster_tiempo,Trabajadores rutinarios,VoL predicho mediana,8.77780633328687
+cluster_tiempo,Trabajadores rutinarios,VoL observado promedio,13.9913885400062
+cluster_tiempo,Trabajadores rutinarios,VoL observado mediana,9.23657861959682
+cluster_tiempo,Trabajadores rutinarios,VTAW predicho promedio,8.35105843222366
+cluster_tiempo,Trabajadores rutinarios,VTAW observado promedio,9.50352833681467
+cluster_tiempo,Trabajadores rutinarios,Weighted wage rate promedio,4.48786020319149
+cluster_tiempo,Trabajadores rutinarios,N ingreso libre observado <= 0,60
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso libre observado <= 0,0.0319148936170213
+cluster_tiempo,Trabajadores rutinarios,N ingreso libre predicho <= 0,1
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso libre predicho <= 0,0.000531914893617021
+cluster_tiempo,Trabajadores rutinarios,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores rutinarios,Media cierre temporal observado,168
+cluster_tiempo,Trabajadores rutinarios,Media cierre temporal predicho,168
+cluster_tiempo,Trabajadores rutinarios,Media diferencia cierre temporal predicho,1.51179305480872e-17

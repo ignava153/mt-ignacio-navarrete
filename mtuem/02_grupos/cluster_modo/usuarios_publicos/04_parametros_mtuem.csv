@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_modo,Usuarios publicos,PH,0.2916527839274308,NA,NA,
+cluster_modo,Usuarios publicos,th1,0.8004083973416167,NA,NA,
+cluster_modo,Usuarios publicos,tw,0.20580208729145083,NA,NA,

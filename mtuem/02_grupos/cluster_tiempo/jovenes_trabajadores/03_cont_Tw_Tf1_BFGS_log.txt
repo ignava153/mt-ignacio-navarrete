@@ -1,0 +1,26 @@
+
+====================================================
+Segmento: cluster_tiempo - Jovenes trabajadores 
+Ejecutando: 03_cont_Tw_Tf1_BFGS 
+Metodo: BFGS 
+Inicio: 2026-06-08 21:01:53 
+====================================================
+
+Resumen del objeto:
+--------------------------------------------
+Maximum Likelihood estimation
+BFGS maximization, 44 iterations
+Return code 0: successful convergence 
+Log-Likelihood: -3755.463 
+  free parameters
+Estimates:
+    Estimate Std. error t value Pr(> t)    
+PH  0.166349   0.015373   10.82  <2e-16 ***
+th1 0.864550   0.001697  509.56  <2e-16 ***
+tw  0.467139   0.032486   14.38  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+--------------------------------------------
+
+Fin: 2026-06-08 21:01:53 
+Duracion minutos: 0 

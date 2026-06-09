@@ -1,0 +1,2 @@
+modelo,logLik,n_parametros_estimados,n_parametros_par_d,n_obs,n_personas,LL0_constantes,LL0_equiprobable,AIC,BIC,rho2_constantes,rho2_ajustado_constantes,rho2_equiprobable,rho2_ajustado_equiprobable
+v10_mnl_depurado,-11705.320469907241,61,62,13298,8919,-19522.159543907503,-25876.71316213756,23532.640939814482,23989.85844435919,0.4004085232691251,0.3972838689570444,0.5476504146193382,0.5452930827736053

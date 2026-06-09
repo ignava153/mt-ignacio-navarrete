@@ -1,0 +1,4 @@
+variable_eliminada,motivo,parametros_v9_eliminados
+edad_18_24,Alta correlacion con mod_ED y menor prioridad conceptual que el modulo educativo,BAGE18_2; BAGE18_5; BAGE18_7
+ing_personal,Alta correlacion con quintil_5 y correlacion moderada con educ_universitaria,BING_2; BING_4; BING_5; BING_7
+n_profesionales,Correlacion moderada con educ_tecnica y educ_universitaria; menor presencia en la especificacion,BNPROF_4

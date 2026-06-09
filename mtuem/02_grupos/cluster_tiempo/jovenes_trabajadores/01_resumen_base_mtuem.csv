@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Jovenes trabajadores,N personas compatibles con MNL V9 en grupo,946
+cluster_tiempo,Jovenes trabajadores,N personas usadas en MTUEM continuo,899
+cluster_tiempo,Jovenes trabajadores,N personas removidas por filtros MTUEM,47
+cluster_tiempo,Jovenes trabajadores,Media Tw,50.16776418242492
+cluster_tiempo,Jovenes trabajadores,Media Tf1 ocio,50.38122358175751
+cluster_tiempo,Jovenes trabajadores,Media Tf2 comidas,7.956562847608454
+cluster_tiempo,Jovenes trabajadores,Media tiempo libre observado,58.33778642936596
+cluster_tiempo,Jovenes trabajadores,Media Tc residual,59.49444938820912
+cluster_tiempo,Jovenes trabajadores,Media w,5.07263070189099
+cluster_tiempo,Jovenes trabajadores,Media Ec monetario bruto,113.47604004449389
+cluster_tiempo,Jovenes trabajadores,Media ingreso fijo descontado,22.1437132571257
+cluster_tiempo,Jovenes trabajadores,Media EcI neto de ingreso fijo,91.33232678736819
+cluster_tiempo,Jovenes trabajadores,Media Ec trabajo no remunerado,36.57558199291435
+cluster_tiempo,Jovenes trabajadores,Media Ec total corregido,127.90790878028253
+cluster_tiempo,Jovenes trabajadores,Media cierre temporal,168
+cluster_tiempo,Jovenes trabajadores,N cierre temporal distinto de 168,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Jovenes trabajadores,N Tc <= 0,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje Tc <= 0,0
+cluster_tiempo,Jovenes trabajadores,N ingreso libre observado <= 0,76
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso libre observado <= 0,0.08453837597330367
+cluster_tiempo,Jovenes trabajadores,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso potencial neto Ec <= 0,0

@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_modo,Usuarios publicos,N personas estimadas,1703
+cluster_modo,Usuarios publicos,N parametros,3
+cluster_modo,Usuarios publicos,Log likelihood,-8419.59001317847
+cluster_modo,Usuarios publicos,Metodo elegido,BFGS
+cluster_modo,Usuarios publicos,Return code,0
+cluster_modo,Usuarios publicos,PH,0.291652783927431
+cluster_modo,Usuarios publicos,tw,0.205802087291451
+cluster_modo,Usuarios publicos,th1,0.800408397341617
+cluster_modo,Usuarios publicos,Tw observado promedio,49.8531238990018
+cluster_modo,Usuarios publicos,Tw predicho promedio,50.8448088005312
+cluster_modo,Usuarios publicos,Tf1 ocio observado promedio,36.3950733998826
+cluster_modo,Usuarios publicos,Tf1 ocio predicho promedio,35.9432629187424
+cluster_modo,Usuarios publicos,Tf2 comidas observado promedio,9.50276570757487
+cluster_modo,Usuarios publicos,Tf2 comidas predicho promedio,8.96289128718567
+cluster_modo,Usuarios publicos,RMSE Tw,12.1645722096453
+cluster_modo,Usuarios publicos,RMSE Tf1 ocio,12.311231998691
+cluster_modo,Usuarios publicos,RMSE Tf2 comidas,4.2866389576623
+cluster_modo,Usuarios publicos,VoL predicho promedio,4.52182165274114
+cluster_modo,Usuarios publicos,VoL predicho mediana,3.88293578084938
+cluster_modo,Usuarios publicos,VoL observado promedio,5.01527665857281
+cluster_modo,Usuarios publicos,VoL observado mediana,3.75455476493919
+cluster_modo,Usuarios publicos,VTAW predicho promedio,1.07572366918272
+cluster_modo,Usuarios publicos,VTAW observado promedio,1.56917867501438
+cluster_modo,Usuarios publicos,Weighted wage rate promedio,3.44609798355843
+cluster_modo,Usuarios publicos,N ingreso libre observado <= 0,453
+cluster_modo,Usuarios publicos,Porcentaje ingreso libre observado <= 0,0.266001174398121
+cluster_modo,Usuarios publicos,N ingreso libre predicho <= 0,0
+cluster_modo,Usuarios publicos,Porcentaje ingreso libre predicho <= 0,0
+cluster_modo,Usuarios publicos,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Usuarios publicos,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Usuarios publicos,Media cierre temporal observado,168
+cluster_modo,Usuarios publicos,Media cierre temporal predicho,168
+cluster_modo,Usuarios publicos,Media diferencia cierre temporal predicho,-1.33513608598492e-16

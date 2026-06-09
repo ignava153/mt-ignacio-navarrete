@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+cluster_tiempo,Jovenes trabajadores,Personas compatibles con MNL V9 en grupo,946,100
+cluster_tiempo,Jovenes trabajadores,Variables finitas para MTUEM,946,100
+cluster_tiempo,Jovenes trabajadores,Tw > 0 y w > 0,946,100
+cluster_tiempo,Jovenes trabajadores,Tc valido y tiempo libre observado > 0,946,100
+cluster_tiempo,Jovenes trabajadores,Ec corregido > 0,899,95.03171247357294
+cluster_tiempo,Jovenes trabajadores,Ingreso potencial neto de Ec > 0,899,95.03171247357294
+cluster_tiempo,Jovenes trabajadores,Muestra final MTUEM,899,95.03171247357294

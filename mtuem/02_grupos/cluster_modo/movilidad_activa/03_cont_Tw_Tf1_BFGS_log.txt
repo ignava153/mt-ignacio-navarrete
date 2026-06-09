@@ -1,0 +1,26 @@
+
+====================================================
+Segmento: cluster_modo - Movilidad activa 
+Ejecutando: 03_cont_Tw_Tf1_BFGS 
+Metodo: BFGS 
+Inicio: 2026-06-08 21:01:57 
+====================================================
+
+Resumen del objeto:
+--------------------------------------------
+Maximum Likelihood estimation
+BFGS maximization, 35 iterations
+Return code 0: successful convergence 
+Log-Likelihood: -9690.29 
+  free parameters
+Estimates:
+    Estimate Std. error t value Pr(> t)    
+PH  0.163141   0.011534   14.14  <2e-16 ***
+th1 0.805014   0.002308  348.81  <2e-16 ***
+tw  0.285764   0.028159   10.15  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+--------------------------------------------
+
+Fin: 2026-06-08 21:01:57 
+Duracion minutos: 0 

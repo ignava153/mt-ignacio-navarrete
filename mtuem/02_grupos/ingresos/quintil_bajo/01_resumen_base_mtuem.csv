@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+ingresos,Quintil bajo,N personas compatibles con MNL V9 en grupo,5670
+ingresos,Quintil bajo,N personas usadas en MTUEM continuo,5214
+ingresos,Quintil bajo,N personas removidas por filtros MTUEM,456
+ingresos,Quintil bajo,Media Tw,52.00202723436901
+ingresos,Quintil bajo,Media Tf1 ocio,37.12813770617568
+ingresos,Quintil bajo,Media Tf2 comidas,9.741378979670118
+ingresos,Quintil bajo,Media tiempo libre observado,46.8695166858458
+ingresos,Quintil bajo,Media Tc residual,69.1284560797852
+ingresos,Quintil bajo,Media w,3.1704907997698504
+ingresos,Quintil bajo,Media Ec monetario bruto,53.44169735327963
+ingresos,Quintil bajo,Media ingreso fijo descontado,16.860118062332646
+ingresos,Quintil bajo,Media EcI neto de ingreso fijo,36.58157929094698
+ingresos,Quintil bajo,Media Ec trabajo no remunerado,81.14842633361143
+ingresos,Quintil bajo,Media Ec total corregido,117.73000562455842
+ingresos,Quintil bajo,Media cierre temporal,168
+ingresos,Quintil bajo,N cierre temporal distinto de 168,0
+ingresos,Quintil bajo,Porcentaje cierre temporal distinto de 168,0
+ingresos,Quintil bajo,N Tc <= 0,0
+ingresos,Quintil bajo,Porcentaje Tc <= 0,0
+ingresos,Quintil bajo,N ingreso libre observado <= 0,1611
+ingresos,Quintil bajo,Porcentaje ingreso libre observado <= 0,0.30897583429229
+ingresos,Quintil bajo,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil bajo,Porcentaje ingreso potencial neto Ec <= 0,0

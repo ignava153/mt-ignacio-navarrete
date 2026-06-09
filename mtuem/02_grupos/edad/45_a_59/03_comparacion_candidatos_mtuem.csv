@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+edad,45 a 59,BFGS,-11480.922273576472,TRUE,0
+edad,45 a 59,NM,NA,FALSE,NA
+edad,45 a 59,SANN_fallback,NA,FALSE,NA

@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+cluster_modo,Movilidad mixta,Personas compatibles con MNL V9 en grupo,1795,100
+cluster_modo,Movilidad mixta,Variables finitas para MTUEM,1795,100
+cluster_modo,Movilidad mixta,Tw > 0 y w > 0,1795,100
+cluster_modo,Movilidad mixta,Tc valido y tiempo libre observado > 0,1795,100
+cluster_modo,Movilidad mixta,Ec corregido > 0,1665,92.75766016713092
+cluster_modo,Movilidad mixta,Ingreso potencial neto de Ec > 0,1663,92.64623955431755
+cluster_modo,Movilidad mixta,Muestra final MTUEM,1663,92.64623955431755

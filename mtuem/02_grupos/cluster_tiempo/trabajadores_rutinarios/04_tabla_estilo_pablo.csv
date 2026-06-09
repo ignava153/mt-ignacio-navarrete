@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_tiempo,Trabajadores rutinarios,Model specification,# individuals,1880,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Model specification,LL,-8193.18006874233,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Time-use parameters,PH,NA,0.22658231867473838,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Time-use parameters,th1,NA,0.7368476620784865,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Time-use parameters,tw,NA,0.8320653621488454,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Values of time,VoL predicho,12.8389 [11.1014 ; 14.5764],12.838918635415155,0.8864913110180285,NA,,11.101395665819819,14.57644160501049
+cluster_tiempo,Trabajadores rutinarios,Values of time,VTAW predicho,8.3511 [6.6135 ; 10.0886],8.351058432223665,0.8864913110180285,NA,,6.613535462628329,10.088581401819
+cluster_tiempo,Trabajadores rutinarios,Values of time,Weighted wage rate,4.4879 [4.3189 ; 4.6568],4.487860203191489,0.08612886446264277,NA,,4.318941922690728,4.65677848369225

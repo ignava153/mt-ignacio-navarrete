@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+ingresos,Quintil bajo,BFGS,-25924.515999046933,TRUE,0
+ingresos,Quintil bajo,NM,NA,FALSE,NA
+ingresos,Quintil bajo,SANN_fallback,NA,FALSE,NA

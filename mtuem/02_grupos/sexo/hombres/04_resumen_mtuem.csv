@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+sexo,Hombres,N personas estimadas,3107
+sexo,Hombres,N parametros,3
+sexo,Hombres,Log likelihood,-15550.5566208731
+sexo,Hombres,Metodo elegido,BFGS
+sexo,Hombres,Return code,0
+sexo,Hombres,PH,0.40329042568188
+sexo,Hombres,tw,0.0727513238403586
+sexo,Hombres,th1,0.80830806049213
+sexo,Hombres,Tw observado promedio,51.5504988735114
+sexo,Hombres,Tw predicho promedio,52.0796409370456
+sexo,Hombres,Tf1 ocio observado promedio,39.4176408110718
+sexo,Hombres,Tf1 ocio predicho promedio,39.2913489733252
+sexo,Hombres,Tf2 comidas observado promedio,9.72087544254908
+sexo,Hombres,Tf2 comidas predicho promedio,9.31802521676152
+sexo,Hombres,RMSE Tw,12.5455257211906
+sexo,Hombres,RMSE Tf1 ocio,12.8227869522644
+sexo,Hombres,RMSE Tf2 comidas,4.40130959210721
+sexo,Hombres,VoL predicho promedio,5.22493956718711
+sexo,Hombres,VoL predicho mediana,3.61402299859769
+sexo,Hombres,VoL observado promedio,6.55503459723707
+sexo,Hombres,VoL observado mediana,4.19468867340298
+sexo,Hombres,VTAW predicho promedio,0.511749887753569
+sexo,Hombres,VTAW observado promedio,1.84184491780353
+sexo,Hombres,Weighted wage rate promedio,4.71318967943354
+sexo,Hombres,N ingreso libre observado <= 0,533
+sexo,Hombres,Porcentaje ingreso libre observado <= 0,0.171548117154812
+sexo,Hombres,N ingreso libre predicho <= 0,1
+sexo,Hombres,Porcentaje ingreso libre predicho <= 0,0.000321853878339234
+sexo,Hombres,N ingreso potencial neto Ec <= 0,0
+sexo,Hombres,Porcentaje ingreso potencial neto Ec <= 0,0
+sexo,Hombres,Media cierre temporal observado,168
+sexo,Hombres,Media cierre temporal predicho,168
+sexo,Hombres,Media diferencia cierre temporal predicho,9.14763740920631e-17

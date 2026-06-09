@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+muestra_general,Muestra general,Model specification,# individuals,7925,NA,NA,NA,,NA,NA
+muestra_general,Muestra general,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+muestra_general,Muestra general,Model specification,LL,-39648.5811205977,NA,NA,NA,,NA,NA
+muestra_general,Muestra general,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+muestra_general,Muestra general,Time-use parameters,PH,NA,0.26326527771450065,NA,NA,,NA,NA
+muestra_general,Muestra general,Time-use parameters,th1,NA,0.8001078727378941,NA,NA,,NA,NA
+muestra_general,Muestra general,Time-use parameters,tw,NA,0.2969456344377914,NA,NA,,NA,NA
+muestra_general,Muestra general,Values of time,VoL predicho,5.9375 [5.59 ; 6.285],5.937480134401695,0.17728745485262046,NA,,5.589996722890559,6.284963545912831
+muestra_general,Muestra general,Values of time,VTAW predicho,1.9279 [1.5804 ; 2.2754],1.9278886911209376,0.17728745474253074,NA,,1.5804052798255774,2.275372102416298
+muestra_general,Muestra general,Values of time,Weighted wage rate,4.0096 [3.9342 ; 4.085],4.009591443280757,0.0384776347382811,NA,,3.9341651438964815,4.085017742665033

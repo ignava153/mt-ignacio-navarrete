@@ -1,0 +1,1849 @@
+dimension,categoria,indicador,valor
+muestra_general,Muestra general,VoL_predicho_p01,1.0767330458390703
+muestra_general,Muestra general,VoL_predicho_p05,2.5044791676697886
+muestra_general,Muestra general,VoL_predicho_p25,3.647741259474441
+muestra_general,Muestra general,VoL_predicho_p50,4.557256666707038
+muestra_general,Muestra general,VoL_predicho_p75,6.096033530357493
+muestra_general,Muestra general,VoL_predicho_p95,13.874362058636024
+muestra_general,Muestra general,VoL_predicho_p99,27.273567952187605
+muestra_general,Muestra general,VoL_observado_p01,-1.2964523127692658
+muestra_general,Muestra general,VoL_observado_p05,0
+muestra_general,Muestra general,VoL_observado_p25,0
+muestra_general,Muestra general,VoL_observado_p50,4.800875910766598
+muestra_general,Muestra general,VoL_observado_p75,9.663570440814924
+muestra_general,Muestra general,VoL_observado_p95,25.74842151740927
+muestra_general,Muestra general,VoL_observado_p99,56.20071354324091
+muestra_general,Muestra general,VTAW_predicho_p01,-0.0501351452393074
+muestra_general,Muestra general,VTAW_predicho_p05,0.2668975311879221
+muestra_general,Muestra general,VTAW_predicho_p25,0.7606914018373465
+muestra_general,Muestra general,VTAW_predicho_p50,1.3389001715361424
+muestra_general,Muestra general,VTAW_predicho_p75,2.3494889128062875
+muestra_general,Muestra general,VTAW_predicho_p95,5.051463006904615
+muestra_general,Muestra general,VTAW_predicho_p99,11.315586973871868
+muestra_general,Muestra general,VTAW_observado_p01,-4.491000103454272
+muestra_general,Muestra general,VTAW_observado_p05,-3.1643292
+muestra_general,Muestra general,VTAW_observado_p25,-2.923122
+muestra_general,Muestra general,VTAW_observado_p50,1.6453018522380232
+muestra_general,Muestra general,VTAW_observado_p75,5.586436488783959
+muestra_general,Muestra general,VTAW_observado_p95,18.38555295275843
+muestra_general,Muestra general,VTAW_observado_p99,41.82068652379817
+muestra_general,Muestra general,VoL_predicho_sobre_w_p01,0.9579526335526942
+muestra_general,Muestra general,VoL_predicho_sobre_w_p05,1.1015281181781817
+muestra_general,Muestra general,VoL_predicho_sobre_w_p25,1.263466854943818
+muestra_general,Muestra general,VoL_predicho_sobre_w_p50,1.3992324389196045
+muestra_general,Muestra general,VoL_predicho_sobre_w_p75,1.5693099264334058
+muestra_general,Muestra general,VoL_predicho_sobre_w_p95,1.9315414334358616
+muestra_general,Muestra general,VoL_predicho_sobre_w_p99,2.0848363639256604
+muestra_general,Muestra general,VTAW_predicho_sobre_w_p01,-0.04204736644730581
+muestra_general,Muestra general,VTAW_predicho_sobre_w_p05,0.10152811817818172
+muestra_general,Muestra general,VTAW_predicho_sobre_w_p25,0.2634668549438179
+muestra_general,Muestra general,VTAW_predicho_sobre_w_p50,0.3992324389196044
+muestra_general,Muestra general,VTAW_predicho_sobre_w_p75,0.5693099264334057
+muestra_general,Muestra general,VTAW_predicho_sobre_w_p95,0.9315414334358616
+muestra_general,Muestra general,VTAW_predicho_sobre_w_p99,1.0848363639256604
+muestra_general,Muestra general,Tw_hat_p01,20.5037523490265
+muestra_general,Muestra general,Tw_hat_p05,29.640938364509832
+muestra_general,Muestra general,Tw_hat_p25,44.89811741887612
+muestra_general,Muestra general,Tw_hat_p50,53.32954055684927
+muestra_general,Muestra general,Tw_hat_p75,62.836498538417686
+muestra_general,Muestra general,Tw_hat_p95,78.60618994298333
+muestra_general,Muestra general,Tw_hat_p99,93.06455895822751
+muestra_general,Muestra general,Tf1_hat_p01,12.995953770734303
+muestra_general,Muestra general,Tf1_hat_p05,19.845159282885493
+muestra_general,Muestra general,Tf1_hat_p25,30.98290238137936
+muestra_general,Muestra general,Tf1_hat_p50,37.8027184872085
+muestra_general,Muestra general,Tf1_hat_p75,43.80470072626741
+muestra_general,Muestra general,Tf1_hat_p95,51.34406053464719
+muestra_general,Muestra general,Tf1_hat_p99,56.84806274754227
+muestra_general,Muestra general,Tf2_hat_p01,3.246798255018635
+muestra_general,Muestra general,Tf2_hat_p05,4.95794534721547
+muestra_general,Muestra general,Tf2_hat_p25,7.740504095498283
+muestra_general,Muestra general,Tf2_hat_p50,9.444308789065067
+muestra_general,Muestra general,Tf2_hat_p75,10.943792844195576
+muestra_general,Muestra general,Tf2_hat_p95,12.827362199830642
+muestra_general,Muestra general,Tf2_hat_p99,14.202435172211391
+muestra_general,Muestra general,ingreso_libre_observado_p01,-13.810829159600006
+muestra_general,Muestra general,ingreso_libre_observado_p05,0
+muestra_general,Muestra general,ingreso_libre_observado_p25,0
+muestra_general,Muestra general,ingreso_libre_observado_p50,55.76000832
+muestra_general,Muestra general,ingreso_libre_observado_p75,106.37003364000003
+muestra_general,Muestra general,ingreso_libre_observado_p95,271.8040054159999
+muestra_general,Muestra general,ingreso_libre_observado_p99,583.3656156400002
+muestra_general,Muestra general,ingreso_libre_predicho_p01,6.721179931065682
+muestra_general,Muestra general,ingreso_libre_predicho_p05,18.927296845738717
+muestra_general,Muestra general,ingreso_libre_predicho_p25,37.98414817071384
+muestra_general,Muestra general,ingreso_libre_predicho_p50,55.977234417268434
+muestra_general,Muestra general,ingreso_libre_predicho_p75,85.63164583260769
+muestra_general,Muestra general,ingreso_libre_predicho_p95,203.41789035365517
+muestra_general,Muestra general,ingreso_libre_predicho_p99,426.23833431156675
+muestra_general,Muestra general,ingreso_potencial_neto_Ec_p01,32.6173474128
+muestra_general,Muestra general,ingreso_potencial_neto_Ec_p05,81.50874524000001
+muestra_general,Muestra general,ingreso_potencial_neto_Ec_p25,147.67397174000004
+muestra_general,Muestra general,ingreso_potencial_neto_Ec_p50,202.90951152000005
+muestra_general,Muestra general,ingreso_potencial_neto_Ec_p75,289.99739192000004
+muestra_general,Muestra general,ingreso_potencial_neto_Ec_p95,687.6143655999991
+muestra_general,Muestra general,ingreso_potencial_neto_Ec_p99,1389.0227577391647
+edad,18 a 29,VoL_predicho_p01,0.3546805120134921
+edad,18 a 29,VoL_predicho_p05,0.7509428526501095
+edad,18 a 29,VoL_predicho_p25,1.3823698018087034
+edad,18 a 29,VoL_predicho_p50,1.8661134684436025
+edad,18 a 29,VoL_predicho_p75,2.3900732039069927
+edad,18 a 29,VoL_predicho_p95,3.8225236712196593
+edad,18 a 29,VoL_predicho_p99,7.35503495388548
+edad,18 a 29,VoL_observado_p01,-0.48236811381446293
+edad,18 a 29,VoL_observado_p05,-7.718288779359441e-17
+edad,18 a 29,VoL_observado_p25,0
+edad,18 a 29,VoL_observado_p50,0.46374991255926246
+edad,18 a 29,VoL_observado_p75,3.709857896576316
+edad,18 a 29,VoL_observado_p95,9.182469311629626
+edad,18 a 29,VoL_observado_p99,19.492594959158723
+edad,18 a 29,VTAW_predicho_p01,-5.257299927715964
+edad,18 a 29,VTAW_predicho_p05,-2.4849344955995973
+edad,18 a 29,VTAW_predicho_p25,-1.7105008527712249
+edad,18 a 29,VTAW_predicho_p50,-1.1710780165441
+edad,18 a 29,VTAW_predicho_p75,-0.7575599484198012
+edad,18 a 29,VTAW_predicho_p95,-0.37304756224485097
+edad,18 a 29,VTAW_predicho_p99,-0.22769319360889403
+edad,18 a 29,VTAW_observado_p01,-4.237499021674237
+edad,18 a 29,VTAW_observado_p05,-3.2273427999999997
+edad,18 a 29,VTAW_observado_p25,-3.0425470000000003
+edad,18 a 29,VTAW_observado_p50,-2.1774010874407375
+edad,18 a 29,VTAW_observado_p75,0.3976523041454252
+edad,18 a 29,VTAW_observado_p95,4.22514104106145
+edad,18 a 29,VTAW_observado_p99,10.883573596680723
+edad,18 a 29,VoL_predicho_sobre_w_p01,0.1927800124461333
+edad,18 a 29,VoL_predicho_sobre_w_p05,0.29627368642270224
+edad,18 a 29,VoL_predicho_sobre_w_p25,0.5001788884336761
+edad,18 a 29,VoL_predicho_sobre_w_p50,0.6280473131147989
+edad,18 a 29,VoL_predicho_sobre_w_p75,0.7250185988233341
+edad,18 a 29,VoL_predicho_sobre_w_p95,0.8402632804111295
+edad,18 a 29,VoL_predicho_sobre_w_p99,0.8958155753368144
+edad,18 a 29,VTAW_predicho_sobre_w_p01,-0.8072199875538667
+edad,18 a 29,VTAW_predicho_sobre_w_p05,-0.7037263135772978
+edad,18 a 29,VTAW_predicho_sobre_w_p25,-0.499821111566324
+edad,18 a 29,VTAW_predicho_sobre_w_p50,-0.3719526868852011
+edad,18 a 29,VTAW_predicho_sobre_w_p75,-0.2749814011766659
+edad,18 a 29,VTAW_predicho_sobre_w_p95,-0.15973671958887056
+edad,18 a 29,VTAW_predicho_sobre_w_p99,-0.10418442466318559
+edad,18 a 29,Tw_hat_p01,5.191435995887391
+edad,18 a 29,Tw_hat_p05,9.26700303167315
+edad,18 a 29,Tw_hat_p25,23.007203863064024
+edad,18 a 29,Tw_hat_p50,40.29519829016453
+edad,18 a 29,Tw_hat_p75,55.2539732144408
+edad,18 a 29,Tw_hat_p95,76.0057682747682
+edad,18 a 29,Tw_hat_p99,90.59157018938083
+edad,18 a 29,Tf1_hat_p01,15.3328150813864
+edad,18 a 29,Tf1_hat_p05,22.09568947255338
+edad,18 a 29,Tf1_hat_p25,34.62313816176889
+edad,18 a 29,Tf1_hat_p50,43.682367176683776
+edad,18 a 29,Tf1_hat_p75,53.465670319929345
+edad,18 a 29,Tf1_hat_p95,67.03352108763437
+edad,18 a 29,Tf1_hat_p99,76.74131501635134
+edad,18 a 29,Tf2_hat_p01,2.6959044493315827
+edad,18 a 29,Tf2_hat_p05,3.884992236841059
+edad,18 a 29,Tf2_hat_p25,6.087640901209836
+edad,18 a 29,Tf2_hat_p50,7.680487073239355
+edad,18 a 29,Tf2_hat_p75,9.40064415679107
+edad,18 a 29,Tf2_hat_p95,11.786222346990932
+edad,18 a 29,Tf2_hat_p99,13.493102962631657
+edad,18 a 29,ingreso_libre_observado_p01,-6.651991047999969
+edad,18 a 29,ingreso_libre_observado_p05,-1.0658141036401402e-15
+edad,18 a 29,ingreso_libre_observado_p25,0
+edad,18 a 29,ingreso_libre_observado_p50,10.3246047446154
+edad,18 a 29,ingreso_libre_observado_p75,64.00026619014079
+edad,18 a 29,ingreso_libre_observado_p95,152.01779208977757
+edad,18 a 29,ingreso_libre_observado_p99,333.7408361799997
+edad,18 a 29,ingreso_libre_predicho_p01,5.820209421753442
+edad,18 a 29,ingreso_libre_predicho_p05,13.298006842863353
+edad,18 a 29,ingreso_libre_predicho_p25,24.68461708148989
+edad,18 a 29,ingreso_libre_predicho_p50,34.41347665779205
+edad,18 a 29,ingreso_libre_predicho_p75,44.037574135603336
+edad,18 a 29,ingreso_libre_predicho_p95,89.36969113904296
+edad,18 a 29,ingreso_libre_predicho_p99,179.37658748939444
+edad,18 a 29,ingreso_potencial_neto_Ec_p01,31.193662948
+edad,18 a 29,ingreso_potencial_neto_Ec_p05,81.49604693399999
+edad,18 a 29,ingreso_potencial_neto_Ec_p25,140.35980851999997
+edad,18 a 29,ingreso_potencial_neto_Ec_p50,187.08826149
+edad,18 a 29,ingreso_potencial_neto_Ec_p75,246.3742811182453
+edad,18 a 29,ingreso_potencial_neto_Ec_p95,464.22052156999996
+edad,18 a 29,ingreso_potencial_neto_Ec_p99,1015.9291034359994
+edad,30 a 44,VoL_predicho_p01,1.3389833571649161
+edad,30 a 44,VoL_predicho_p05,3.0609511761324466
+edad,30 a 44,VoL_predicho_p25,4.510457248210239
+edad,30 a 44,VoL_predicho_p50,6.373540255120099
+edad,30 a 44,VoL_predicho_p75,10.095224071632494
+edad,30 a 44,VoL_predicho_p95,21.719305415889647
+edad,30 a 44,VoL_predicho_p99,42.504375283466395
+edad,30 a 44,VoL_observado_p01,-2.497488990605996
+edad,30 a 44,VoL_observado_p05,0
+edad,30 a 44,VoL_observado_p25,1.1883054505575887
+edad,30 a 44,VoL_observado_p50,7.487702426427388
+edad,30 a 44,VoL_observado_p75,15.175134268124697
+edad,30 a 44,VoL_observado_p95,36.181186011430356
+edad,30 a 44,VoL_observado_p99,76.8236621729913
+edad,30 a 44,VTAW_predicho_p01,0.024358538644574032
+edad,30 a 44,VTAW_predicho_p05,0.5117392223823909
+edad,30 a 44,VTAW_predicho_p25,1.6262910502545824
+edad,30 a 44,VTAW_predicho_p50,3.00797848048129
+edad,30 a 44,VTAW_predicho_p75,5.5475253580770385
+edad,30 a 44,VTAW_predicho_p95,13.01351094330104
+edad,30 a 44,VTAW_predicho_p99,25.857937433421498
+edad,30 a 44,VTAW_observado_p01,-5.153044390666349
+edad,30 a 44,VTAW_observado_p05,-3.1357946
+edad,30 a 44,VTAW_observado_p25,-1.3224785045632657
+edad,30 a 44,VTAW_observado_p50,4.098156474491137
+edad,30 a 44,VTAW_observado_p75,10.241870720678126
+edad,30 a 44,VTAW_observado_p95,27.43266842326918
+edad,30 a 44,VTAW_observado_p99,62.46324070383387
+edad,30 a 44,VoL_predicho_sobre_w_p01,1.0109995336896975
+edad,30 a 44,VoL_predicho_sobre_w_p05,1.2051592659594386
+edad,30 a 44,VoL_predicho_sobre_w_p25,1.543536913135143
+edad,30 a 44,VoL_predicho_sobre_w_p50,1.8535793334814565
+edad,30 a 44,VoL_predicho_sobre_w_p75,2.214916014172515
+edad,30 a 44,VoL_predicho_sobre_w_p95,2.8680124210520153
+edad,30 a 44,VoL_predicho_sobre_w_p99,3.3651954999027396
+edad,30 a 44,VTAW_predicho_sobre_w_p01,0.010999533689697603
+edad,30 a 44,VTAW_predicho_sobre_w_p05,0.20515926595943856
+edad,30 a 44,VTAW_predicho_sobre_w_p25,0.5435369131351431
+edad,30 a 44,VTAW_predicho_sobre_w_p50,0.8535793334814565
+edad,30 a 44,VTAW_predicho_sobre_w_p75,1.2149160141725148
+edad,30 a 44,VTAW_predicho_sobre_w_p95,1.8680124210520148
+edad,30 a 44,VTAW_predicho_sobre_w_p99,2.36519549990274
+edad,30 a 44,Tw_hat_p01,37.961573527369076
+edad,30 a 44,Tw_hat_p05,45.71408673123971
+edad,30 a 44,Tw_hat_p25,54.39763586726537
+edad,30 a 44,Tw_hat_p50,60.27812373720846
+edad,30 a 44,Tw_hat_p75,68.00916312008795
+edad,30 a 44,Tw_hat_p95,82.79389905375817
+edad,30 a 44,Tw_hat_p99,97.0347658188866
+edad,30 a 44,Tf1_hat_p01,12.097802615254075
+edad,30 a 44,Tf1_hat_p05,19.995941054295557
+edad,30 a 44,Tf1_hat_p25,30.63909550602151
+edad,30 a 44,Tf1_hat_p50,36.27252255356481
+edad,30 a 44,Tf1_hat_p75,41.02541243162375
+edad,30 a 44,Tf1_hat_p95,46.707984775490246
+edad,30 a 44,Tf1_hat_p99,51.57562406451628
+edad,30 a 44,Tf2_hat_p01,2.9887309081558735
+edad,30 a 44,Tf2_hat_p05,4.939945622131557
+edad,30 a 44,Tf2_hat_p25,7.5693094563572565
+edad,30 a 44,Tf2_hat_p50,8.961033066941257
+edad,30 a 44,Tf2_hat_p75,10.13522224272635
+edad,30 a 44,Tf2_hat_p95,11.53908707190871
+edad,30 a 44,Tf2_hat_p99,12.741624793471665
+edad,30 a 44,ingreso_libre_observado_p01,-21.907198356000002
+edad,30 a 44,ingreso_libre_observado_p05,0
+edad,30 a 44,ingreso_libre_observado_p25,11.226390086363637
+edad,30 a 44,ingreso_libre_observado_p50,63.20000351999997
+edad,30 a 44,ingreso_libre_observado_p75,123.06298133879699
+edad,30 a 44,ingreso_libre_observado_p95,288.6503719043638
+edad,30 a 44,ingreso_libre_observado_p99,575.3163341182137
+edad,30 a 44,ingreso_libre_predicho_p01,6.575175105643833
+edad,30 a 44,ingreso_libre_predicho_p05,15.717830158685116
+edad,30 a 44,ingreso_libre_predicho_p25,36.43154469726994
+edad,30 a 44,ingreso_libre_predicho_p50,60.61563237635161
+edad,30 a 44,ingreso_libre_predicho_p75,105.67115600956618
+edad,30 a 44,ingreso_libre_predicho_p95,240.0819417815277
+edad,30 a 44,ingreso_libre_predicho_p99,481.88237832706415
+edad,30 a 44,ingreso_potencial_neto_Ec_p01,36.71410392960003
+edad,30 a 44,ingreso_potencial_neto_Ec_p05,76.15463561399999
+edad,30 a 44,ingreso_potencial_neto_Ec_p25,147.16716355
+edad,30 a 44,ingreso_potencial_neto_Ec_p50,209.55629444
+edad,30 a 44,ingreso_potencial_neto_Ec_p75,340.50461343999984
+edad,30 a 44,ingreso_potencial_neto_Ec_p95,700.1391889159997
+edad,30 a 44,ingreso_potencial_neto_Ec_p99,1420.4982101272
+edad,45 a 59,VoL_predicho_p01,1.0799213479601386
+edad,45 a 59,VoL_predicho_p05,3.319600139130481
+edad,45 a 59,VoL_predicho_p25,5.661726183880172
+edad,45 a 59,VoL_predicho_p50,8.238038174656925
+edad,45 a 59,VoL_predicho_p75,13.386060172059013
+edad,45 a 59,VoL_predicho_p95,39.686694700465615
+edad,45 a 59,VoL_predicho_p99,77.57997024853853
+edad,45 a 59,VoL_observado_p01,-2.6975268256052027
+edad,45 a 59,VoL_observado_p05,0
+edad,45 a 59,VoL_observado_p25,9.350089417379913e-7
+edad,45 a 59,VoL_observado_p50,9.751676307004121
+edad,45 a 59,VoL_observado_p75,19.118536138133514
+edad,45 a 59,VoL_observado_p95,53.84297442254383
+edad,45 a 59,VoL_observado_p99,116.61447634600975
+edad,45 a 59,VTAW_predicho_p01,-0.07929535425316049
+edad,45 a 59,VTAW_predicho_p05,0.7658829900474212
+edad,45 a 59,VTAW_predicho_p25,2.767199008229432
+edad,45 a 59,VTAW_predicho_p50,5.129913460963093
+edad,45 a 59,VTAW_predicho_p75,9.394171877205597
+edad,45 a 59,VTAW_predicho_p95,28.610486672008683
+edad,45 a 59,VTAW_predicho_p99,58.97517098436741
+edad,45 a 59,VTAW_observado_p01,-5.723109085237246
+edad,45 a 59,VTAW_observado_p05,-3.16017425
+edad,45 a 59,VTAW_observado_p25,-2.0972038182576416
+edad,45 a 59,VTAW_observado_p50,6.576598648868931
+edad,45 a 59,VTAW_observado_p75,14.970698785518785
+edad,45 a 59,VTAW_observado_p95,43.76178802562603
+edad,45 a 59,VTAW_observado_p99,95.28467908856061
+edad,45 a 59,VoL_predicho_sobre_w_p01,0.9510087433288563
+edad,45 a 59,VoL_predicho_sobre_w_p05,1.2922079972752947
+edad,45 a 59,VoL_predicho_sobre_w_p25,1.9518536968959863
+edad,45 a 59,VoL_predicho_sobre_w_p50,2.596620756675767
+edad,45 a 59,VoL_predicho_sobre_w_p75,3.269379350699999
+edad,45 a 59,VoL_predicho_sobre_w_p95,4.5057354469664475
+edad,45 a 59,VoL_predicho_sobre_w_p99,5.340212254096242
+edad,45 a 59,VTAW_predicho_sobre_w_p01,-0.048991256671143665
+edad,45 a 59,VTAW_predicho_sobre_w_p05,0.2922079972752948
+edad,45 a 59,VTAW_predicho_sobre_w_p25,0.9518536968959863
+edad,45 a 59,VTAW_predicho_sobre_w_p50,1.5966207566757666
+edad,45 a 59,VTAW_predicho_sobre_w_p75,2.269379350699999
+edad,45 a 59,VTAW_predicho_sobre_w_p95,3.5057354469664475
+edad,45 a 59,VTAW_predicho_sobre_w_p99,4.340212254096242
+edad,45 a 59,Tw_hat_p01,33.88388329495669
+edad,45 a 59,Tw_hat_p05,42.69781724035988
+edad,45 a 59,Tw_hat_p25,50.86812266529263
+edad,45 a 59,Tw_hat_p50,56.012976017537774
+edad,45 a 59,Tw_hat_p75,62.969736281730086
+edad,45 a 59,Tw_hat_p95,75.49112296589509
+edad,45 a 59,Tw_hat_p99,91.52456130280908
+edad,45 a 59,Tf1_hat_p01,13.425419383420714
+edad,45 a 59,Tf1_hat_p05,19.903900173778492
+edad,45 a 59,Tf1_hat_p25,30.257469040809045
+edad,45 a 59,Tf1_hat_p50,35.35285373518493
+edad,45 a 59,Tf1_hat_p75,39.61052273776535
+edad,45 a 59,Tf1_hat_p95,44.78320772899429
+edad,45 a 59,Tf1_hat_p99,48.03043755077599
+edad,45 a 59,Tf2_hat_p01,3.8792310535427097
+edad,45 a 59,Tf2_hat_p05,5.751166904781084
+edad,45 a 59,Tf2_hat_p25,8.742796791112756
+edad,45 a 59,Tf2_hat_p50,10.21509154568696
+edad,45 a 59,Tf2_hat_p75,11.44533108896057
+edad,45 a 59,Tf2_hat_p95,12.939961511675673
+edad,45 a 59,Tf2_hat_p99,13.878237956000493
+edad,45 a 59,ingreso_libre_observado_p01,-16.998499800000012
+edad,45 a 59,ingreso_libre_observado_p05,0
+edad,45 a 59,ingreso_libre_observado_p25,5.225000013098224e-6
+edad,45 a 59,ingreso_libre_observado_p50,61.90499486500001
+edad,45 a 59,ingreso_libre_observado_p75,117.83815537696202
+edad,45 a 59,ingreso_libre_observado_p95,332.3408008931555
+edad,45 a 59,ingreso_libre_observado_p99,766.4274805495018
+edad,45 a 59,ingreso_libre_predicho_p01,4.0146705400279306
+edad,45 a 59,ingreso_libre_predicho_p05,13.314193959994258
+edad,45 a 59,ingreso_libre_predicho_p25,33.540477027830455
+edad,45 a 59,ingreso_libre_predicho_p50,57.185889937532664
+edad,45 a 59,ingreso_libre_predicho_p75,101.09327930848784
+edad,45 a 59,ingreso_libre_predicho_p95,309.5517321577024
+edad,45 a 59,ingreso_libre_predicho_p99,634.344840240141
+edad,45 a 59,ingreso_potencial_neto_Ec_p01,29.978125360499988
+edad,45 a 59,ingreso_potencial_neto_Ec_p05,77.11533384749998
+edad,45 a 59,ingreso_potencial_neto_Ec_p25,144.40875520499998
+edad,45 a 59,ingreso_potencial_neto_Ec_p50,200.3450732695569
+edad,45 a 59,ingreso_potencial_neto_Ec_p75,303.8962320625001
+edad,45 a 59,ingreso_potencial_neto_Ec_p95,871.264172375
+edad,45 a 59,ingreso_potencial_neto_Ec_p99,1686.8475359967815
+edad,60 o mas,VoL_predicho_p01,1.6500097093274553
+edad,60 o mas,VoL_predicho_p05,3.4283591438384717
+edad,60 o mas,VoL_predicho_p25,5.107484788344377
+edad,60 o mas,VoL_predicho_p50,6.893883248228467
+edad,60 o mas,VoL_predicho_p75,9.053341677980447
+edad,60 o mas,VoL_predicho_p95,17.901862678196135
+edad,60 o mas,VoL_predicho_p99,34.9201475699139
+edad,60 o mas,VoL_observado_p01,-6.41448264935035e-7
+edad,60 o mas,VoL_observado_p05,0
+edad,60 o mas,VoL_observado_p25,3.0302386637077063
+edad,60 o mas,VoL_observado_p50,7.171454651505461
+edad,60 o mas,VoL_observado_p75,12.282008162838128
+edad,60 o mas,VoL_observado_p95,28.996578370013005
+edad,60 o mas,VoL_observado_p99,58.096523478657886
+edad,60 o mas,VTAW_predicho_p01,0.25941544525684274
+edad,60 o mas,VTAW_predicho_p05,0.9613855526049916
+edad,60 o mas,VTAW_predicho_p25,2.2097178388628445
+edad,60 o mas,VTAW_predicho_p50,3.754019518195583
+edad,60 o mas,VTAW_predicho_p75,5.813221580281289
+edad,60 o mas,VTAW_predicho_p95,10.682651382626643
+edad,60 o mas,VTAW_predicho_p99,23.054660739181106
+edad,60 o mas,VTAW_observado_p01,-3.4323544200000002
+edad,60 o mas,VTAW_observado_p05,-3.1339703
+edad,60 o mas,VTAW_observado_p25,-0.027304151361256634
+edad,60 o mas,VTAW_observado_p50,4.05495123652351
+edad,60 o mas,VTAW_observado_p75,8.796978706180479
+edad,60 o mas,VTAW_observado_p95,22.918011382218157
+edad,60 o mas,VTAW_observado_p99,48.42891653198308
+edad,60 o mas,VoL_predicho_sobre_w_p01,1.1168039421209481
+edad,60 o mas,VoL_predicho_sobre_w_p05,1.3619178374369314
+edad,60 o mas,VoL_predicho_sobre_w_p25,1.7666333096777016
+edad,60 o mas,VoL_predicho_sobre_w_p50,2.170421740272525
+edad,60 o mas,VoL_predicho_sobre_w_p75,2.7124606164297758
+edad,60 o mas,VoL_predicho_sobre_w_p95,3.2812010682354273
+edad,60 o mas,VoL_predicho_sobre_w_p99,3.3926015310985793
+edad,60 o mas,VTAW_predicho_sobre_w_p01,0.11680394212094808
+edad,60 o mas,VTAW_predicho_sobre_w_p05,0.3619178374369315
+edad,60 o mas,VTAW_predicho_sobre_w_p25,0.7666333096777016
+edad,60 o mas,VTAW_predicho_sobre_w_p50,1.1704217402725252
+edad,60 o mas,VTAW_predicho_sobre_w_p75,1.7124606164297758
+edad,60 o mas,VTAW_predicho_sobre_w_p95,2.2812010682354273
+edad,60 o mas,VTAW_predicho_sobre_w_p99,2.392601531098579
+edad,60 o mas,Tw_hat_p01,27.409579743425745
+edad,60 o mas,Tw_hat_p05,33.693000596933665
+edad,60 o mas,Tw_hat_p25,41.5567657460975
+edad,60 o mas,Tw_hat_p50,47.937232775628054
+edad,60 o mas,Tw_hat_p75,54.839684397612466
+edad,60 o mas,Tw_hat_p95,67.9014822833299
+edad,60 o mas,Tw_hat_p99,78.31974995697007
+edad,60 o mas,Tf1_hat_p01,16.686177741919224
+edad,60 o mas,Tf1_hat_p05,22.966391152421977
+edad,60 o mas,Tf1_hat_p25,32.448979992615165
+edad,60 o mas,Tf1_hat_p50,37.570517282239955
+edad,60 o mas,Tf1_hat_p75,41.9451222685479
+edad,60 o mas,Tf1_hat_p95,48.22589166098056
+edad,60 o mas,Tf1_hat_p99,52.110420421259704
+edad,60 o mas,Tf2_hat_p01,5.028914018767078
+edad,60 o mas,Tf2_hat_p05,6.921657446855102
+edad,60 o mas,Tf2_hat_p25,9.7795392631833291
+edad,60 o mas,Tf2_hat_p50,11.323078536933753
+edad,60 o mas,Tf2_hat_p75,12.64150584140534
+edad,60 o mas,Tf2_hat_p95,14.534416832452646
+edad,60 o mas,Tf2_hat_p99,15.705143972065676
+edad,60 o mas,ingreso_libre_observado_p01,-8.3159999977056e-6
+edad,60 o mas,ingreso_libre_observado_p05,0
+edad,60 o mas,ingreso_libre_observado_p25,33.23808988119154
+edad,60 o mas,ingreso_libre_observado_p50,68.60999695000001
+edad,60 o mas,ingreso_libre_observado_p75,105.82
+edad,60 o mas,ingreso_libre_observado_p95,240.55986385987833
+edad,60 o mas,ingreso_libre_observado_p99,504.5351146173439
+edad,60 o mas,ingreso_libre_predicho_p01,11.922410176557662
+edad,60 o mas,ingreso_libre_predicho_p05,23.36819233586665
+edad,60 o mas,ingreso_libre_predicho_p25,45.93916101625921
+edad,60 o mas,ingreso_libre_predicho_p50,69.86234480982233
+edad,60 o mas,ingreso_libre_predicho_p75,98.65464839610274
+edad,60 o mas,ingreso_libre_predicho_p95,203.54646283137768
+edad,60 o mas,ingreso_libre_predicho_p99,422.985486681432
+edad,60 o mas,ingreso_potencial_neto_Ec_p01,55.2838414094
+edad,60 o mas,ingreso_potencial_neto_Ec_p05,102.80896023100003
+edad,60 o mas,ingreso_potencial_neto_Ec_p25,168.45538272269323
+edad,60 o mas,ingreso_potencial_neto_Ec_p50,218.81659074000004
+edad,60 o mas,ingreso_potencial_neto_Ec_p75,272.086578845
+edad,60 o mas,ingreso_potencial_neto_Ec_p95,615.3434963606238
+edad,60 o mas,ingreso_potencial_neto_Ec_p99,1192.278220292234
+sexo,Hombres,VoL_predicho_p01,0.7778054864344315
+sexo,Hombres,VoL_predicho_p05,1.920333885702934
+sexo,Hombres,VoL_predicho_p25,3.098015794958301
+sexo,Hombres,VoL_predicho_p50,3.614022998597687
+sexo,Hombres,VoL_predicho_p75,5.460635218471916
+sexo,Hombres,VoL_predicho_p95,13.730972950201508
+sexo,Hombres,VoL_predicho_p99,24.580301775658334
+sexo,Hombres,VoL_observado_p01,-0.056383724034358616
+sexo,Hombres,VoL_observado_p05,0
+sexo,Hombres,VoL_observado_p25,1.4931551377047623
+sexo,Hombres,VoL_observado_p50,4.194688673402979
+sexo,Hombres,VoL_observado_p75,8.085225324635768
+sexo,Hombres,VoL_observado_p95,21.213952594137975
+sexo,Hombres,VoL_observado_p99,45.288939565353346
+sexo,Hombres,VTAW_predicho_p01,-0.07716326011085176
+sexo,Hombres,VTAW_predicho_p05,0.07539856329410904
+sexo,Hombres,VTAW_predicho_p25,0.2142583412848187
+sexo,Hombres,VTAW_predicho_p50,0.35360071984913555
+sexo,Hombres,VTAW_predicho_p75,0.541820501506949
+sexo,Hombres,VTAW_predicho_p95,1.494899687125919
+sexo,Hombres,VTAW_predicho_p99,3.0270388801575367
+sexo,Hombres,VTAW_observado_p01,-4.528170623167646
+sexo,Hombres,VTAW_observado_p05,-3.2013591999999997
+sexo,Hombres,VTAW_observado_p25,-1.417530038579116
+sexo,Hombres,VTAW_observado_p50,0.5772720187242757
+sexo,Hombres,VTAW_observado_p75,3.0439955093230013
+sexo,Hombres,VTAW_observado_p95,11.610037006637238
+sexo,Hombres,VTAW_observado_p99,28.18898835850416
+sexo,Hombres,VoL_predicho_sobre_w_p01,0.9037346452971288
+sexo,Hombres,VoL_predicho_sobre_w_p05,1.0376897339720967
+sexo,Hombres,VoL_predicho_sobre_w_p25,1.0730451494976228
+sexo,Hombres,VoL_predicho_sobre_w_p50,1.0945103542877492
+sexo,Hombres,VoL_predicho_sobre_w_p75,1.1200036339650965
+sexo,Hombres,VoL_predicho_sobre_w_p95,1.1646639339701985
+sexo,Hombres,VoL_predicho_sobre_w_p99,1.1856236550301484
+sexo,Hombres,VTAW_predicho_sobre_w_p01,-0.09626535470287118
+sexo,Hombres,VTAW_predicho_sobre_w_p05,0.037689733972096684
+sexo,Hombres,VTAW_predicho_sobre_w_p25,0.07304514949762259
+sexo,Hombres,VTAW_predicho_sobre_w_p50,0.0945103542877493
+sexo,Hombres,VTAW_predicho_sobre_w_p75,0.12000363396509635
+sexo,Hombres,VTAW_predicho_sobre_w_p95,0.16466393397019843
+sexo,Hombres,VTAW_predicho_sobre_w_p99,0.18562365503014844
+sexo,Hombres,Tw_hat_p01,18.988453173319517
+sexo,Hombres,Tw_hat_p05,27.87686864454519
+sexo,Hombres,Tw_hat_p25,43.83244253035987
+sexo,Hombres,Tw_hat_p50,52.50876750771438
+sexo,Hombres,Tw_hat_p75,60.449204009729215
+sexo,Hombres,Tw_hat_p95,74.25365717361814
+sexo,Hombres,Tw_hat_p99,86.06887728580358
+sexo,Hombres,Tf1_hat_p01,16.11147882519051
+sexo,Hombres,Tf1_hat_p05,23.94528321637729
+sexo,Hombres,Tf1_hat_p25,33.50661320256067
+sexo,Hombres,Tf1_hat_p50,39.61532478079389
+sexo,Hombres,Tf1_hat_p75,45.28525610382111
+sexo,Hombres,Tf1_hat_p95,53.833141659448586
+sexo,Hombres,Tf1_hat_p99,60.08814375797314
+sexo,Hombres,Tf2_hat_p01,3.8208707487840523
+sexo,Hombres,Tf2_hat_p05,5.678673770762558
+sexo,Hombres,Tf2_hat_p25,7.946163084441243
+sexo,Hombres,Tf2_hat_p50,9.394856754046323
+sexo,Hombres,Tf2_hat_p75,10.739492772553646
+sexo,Hombres,Tf2_hat_p95,12.76664162945347
+sexo,Hombres,Tf2_hat_p99,14.250028400534228
+sexo,Hombres,ingreso_libre_observado_p01,-0.9469835242000061
+sexo,Hombres,ingreso_libre_observado_p05,0
+sexo,Hombres,ingreso_libre_observado_p25,30.905
+sexo,Hombres,ingreso_libre_observado_p50,76.17999168
+sexo,Hombres,ingreso_libre_observado_p75,135.22999637499998
+sexo,Hombres,ingreso_libre_observado_p95,351.47900395499994
+sexo,Hombres,ingreso_libre_observado_p99,793.3618018622
+sexo,Hombres,ingreso_libre_predicho_p01,8.40801260484792
+sexo,Hombres,ingreso_libre_predicho_p05,28.90404049372695
+sexo,Hombres,ingreso_libre_predicho_p25,52.60760784871801
+sexo,Hombres,ingreso_libre_predicho_p50,73.85731041832642
+sexo,Hombres,ingreso_libre_predicho_p75,113.46589995969521
+sexo,Hombres,ingreso_libre_predicho_p95,300.1877304747246
+sexo,Hombres,ingreso_libre_predicho_p99,573.199113032235
+sexo,Hombres,ingreso_potencial_neto_Ec_p01,31.120193623599995
+sexo,Hombres,ingreso_potencial_neto_Ec_p05,97.01942552699995
+sexo,Hombres,ingreso_potencial_neto_Ec_p25,173.21665101648426
+sexo,Hombres,ingreso_potencial_neto_Ec_p50,240.10263769000005
+sexo,Hombres,ingreso_potencial_neto_Ec_p75,367.49118533
+sexo,Hombres,ingreso_potencial_neto_Ec_p95,955.2114710514875
+sexo,Hombres,ingreso_potencial_neto_Ec_p99,1811.2264463250012
+sexo,Mujeres,VoL_predicho_p01,1.2537308254559025
+sexo,Mujeres,VoL_predicho_p05,2.7267959293712374
+sexo,Mujeres,VoL_predicho_p25,3.809411513824025
+sexo,Mujeres,VoL_predicho_p50,4.765545241944368
+sexo,Mujeres,VoL_predicho_p75,6.582982588826507
+sexo,Mujeres,VoL_predicho_p95,12.157472102032143
+sexo,Mujeres,VoL_predicho_p99,23.21650561389153
+sexo,Mujeres,VoL_observado_p01,-2.34026540326742
+sexo,Mujeres,VoL_observado_p05,-4.1280891867529935e-16
+sexo,Mujeres,VoL_observado_p25,0
+sexo,Mujeres,VoL_observado_p50,4.55345882201056
+sexo,Mujeres,VoL_observado_p75,10.268227528409005
+sexo,Mujeres,VoL_observado_p95,26.50897691308384
+sexo,Mujeres,VoL_observado_p99,53.583936592532936
+sexo,Mujeres,VTAW_predicho_p01,-0.07628827501134651
+sexo,Mujeres,VTAW_predicho_p05,0.27670667588775116
+sexo,Mujeres,VTAW_predicho_p25,0.8951181452266797
+sexo,Mujeres,VTAW_predicho_p50,1.645233389377552
+sexo,Mujeres,VTAW_predicho_p75,2.966862507181942
+sexo,Mujeres,VTAW_predicho_p95,5.541838591015079
+sexo,Mujeres,VTAW_predicho_p99,11.056298090599155
+sexo,Mujeres,VTAW_observado_p01,-5.103060882680812
+sexo,Mujeres,VTAW_observado_p05,-3.16006655
+sexo,Mujeres,VTAW_observado_p25,-2.9881369999999996
+sexo,Mujeres,VTAW_observado_p50,1.6324091145653317
+sexo,Mujeres,VTAW_observado_p75,6.737163120356589
+sexo,Mujeres,VTAW_observado_p95,20.860590708010037
+sexo,Mujeres,VTAW_observado_p99,43.54634914025653
+sexo,Mujeres,VoL_predicho_sobre_w_p01,0.95146426238394
+sexo,Mujeres,VoL_predicho_sobre_w_p05,1.1032455528355294
+sexo,Mujeres,VoL_predicho_sobre_w_p25,1.3100377195789037
+sexo,Mujeres,VoL_predicho_sobre_w_p50,1.5086549971409093
+sexo,Mujeres,VoL_predicho_sobre_w_p75,1.8074712535710191
+sexo,Mujeres,VoL_predicho_sobre_w_p95,2.419207933422296
+sexo,Mujeres,VoL_predicho_sobre_w_p99,2.71869064143023
+sexo,Mujeres,VTAW_predicho_sobre_w_p01,-0.04853573761605995
+sexo,Mujeres,VTAW_predicho_sobre_w_p05,0.10324555283552929
+sexo,Mujeres,VTAW_predicho_sobre_w_p25,0.3100377195789037
+sexo,Mujeres,VTAW_predicho_sobre_w_p50,0.5086549971409093
+sexo,Mujeres,VTAW_predicho_sobre_w_p75,0.8074712535710193
+sexo,Mujeres,VTAW_predicho_sobre_w_p95,1.4192079334222956
+sexo,Mujeres,VTAW_predicho_sobre_w_p99,1.7186906414302294
+sexo,Mujeres,Tw_hat_p01,21.360283121841
+sexo,Mujeres,Tw_hat_p05,30.409494955241147
+sexo,Mujeres,Tw_hat_p25,45.289998307010755
+sexo,Mujeres,Tw_hat_p50,54.35659086669024
+sexo,Mujeres,Tw_hat_p75,64.4690954357713
+sexo,Mujeres,Tw_hat_p95,80.52822730821386
+sexo,Mujeres,Tw_hat_p99,95.38935420624114
+sexo,Mujeres,Tf1_hat_p01,12.198655535841002
+sexo,Mujeres,Tf1_hat_p05,18.92983020612233
+sexo,Mujeres,Tf1_hat_p25,29.52277411215143
+sexo,Mujeres,Tf1_hat_p50,36.31621770668241
+sexo,Mujeres,Tf1_hat_p75,42.46681420116456
+sexo,Mujeres,Tf1_hat_p95,50.113960046385486
+sexo,Mujeres,Tf1_hat_p99,55.06251886484665
+sexo,Mujeres,Tf2_hat_p01,3.16428599994889
+sexo,Mujeres,Tf2_hat_p05,4.91032774281161
+sexo,Mujeres,Tf2_hat_p25,7.658098101734276
+sexo,Mujeres,Tf2_hat_p50,9.420292172585611
+sexo,Mujeres,Tf2_hat_p75,11.015734090069252
+sexo,Mujeres,Tf2_hat_p95,12.99937535828149
+sexo,Mujeres,Tf2_hat_p99,14.283013161084712
+sexo,Mujeres,ingreso_libre_observado_p01,-18.91302610919999
+sexo,Mujeres,ingreso_libre_observado_p05,-7.105427357601002e-15
+sexo,Mujeres,ingreso_libre_observado_p25,0
+sexo,Mujeres,ingreso_libre_observado_p50,43.10442968881891
+sexo,Mujeres,ingreso_libre_observado_p75,86.96500671999999
+sexo,Mujeres,ingreso_libre_observado_p95,218.26348418495428
+sexo,Mujeres,ingreso_libre_observado_p99,400.5662420438616
+sexo,Mujeres,ingreso_libre_predicho_p01,6.245743636230205
+sexo,Mujeres,ingreso_libre_predicho_p05,14.768708692144864
+sexo,Mujeres,ingreso_libre_predicho_p25,30.21592396731359
+sexo,Mujeres,ingreso_libre_predicho_p50,45.818086211942344
+sexo,Mujeres,ingreso_libre_predicho_p75,69.37900825848294
+sexo,Mujeres,ingreso_libre_predicho_p95,142.99008131522535
+sexo,Mujeres,ingreso_libre_predicho_p99,271.0446143512414
+sexo,Mujeres,ingreso_potencial_neto_Ec_p01,37.879868290400005
+sexo,Mujeres,ingreso_potencial_neto_Ec_p05,76.24731794799999
+sexo,Mujeres,ingreso_potencial_neto_Ec_p25,136.73834758302195
+sexo,Mujeres,ingreso_potencial_neto_Ec_p50,184.359688715
+sexo,Mujeres,ingreso_potencial_neto_Ec_p75,250.17679951889951
+sexo,Mujeres,ingreso_potencial_neto_Ec_p95,526.0831179799995
+sexo,Mujeres,ingreso_potencial_neto_Ec_p99,952.4995514756986
+ingresos,Quintil bajo,VoL_predicho_p01,0.8087326584921577
+ingresos,Quintil bajo,VoL_predicho_p05,2.0337813111091974
+ingresos,Quintil bajo,VoL_predicho_p25,3.2674670782485524
+ingresos,Quintil bajo,VoL_predicho_p50,3.8432701869961226
+ingresos,Quintil bajo,VoL_predicho_p75,4.80945202442377
+ingresos,Quintil bajo,VoL_predicho_p95,7.1083595067777985
+ingresos,Quintil bajo,VoL_predicho_p99,10.2084644821178
+ingresos,Quintil bajo,VoL_observado_p01,-2.2302678828761797
+ingresos,Quintil bajo,VoL_observado_p05,-1.910290124367381e-15
+ingresos,Quintil bajo,VoL_observado_p25,0
+ingresos,Quintil bajo,VoL_observado_p50,3.738109192551488
+ingresos,Quintil bajo,VoL_observado_p75,7.79672258127076
+ingresos,Quintil bajo,VoL_observado_p95,15.700155343424374
+ingresos,Quintil bajo,VoL_observado_p99,24.247243291143622
+ingresos,Quintil bajo,VTAW_predicho_p01,-0.1610907294705766
+ingresos,Quintil bajo,VTAW_predicho_p05,0.0836180990235803
+ingresos,Quintil bajo,VTAW_predicho_p25,0.44471563408469517
+ingresos,Quintil bajo,VTAW_predicho_p50,0.8000621206094527
+ingresos,Quintil bajo,VTAW_predicho_p75,1.385981884685401
+ingresos,Quintil bajo,VTAW_predicho_p95,2.526371192242504
+ingresos,Quintil bajo,VTAW_predicho_p99,3.46167730651387
+ingresos,Quintil bajo,VTAW_observado_p01,-5.210223318741449
+ingresos,Quintil bajo,VTAW_observado_p05,-3.1976106069638046
+ingresos,Quintil bajo,VTAW_observado_p25,-2.99096375
+ingresos,Quintil bajo,VTAW_observado_p50,0.7864548608664994
+ingresos,Quintil bajo,VTAW_observado_p75,4.396443528866413
+ingresos,Quintil bajo,VTAW_observado_p95,11.747274705671765
+ingresos,Quintil bajo,VTAW_observado_p99,19.864915210090338
+ingresos,Quintil bajo,VoL_predicho_sobre_w_p01,0.8517197435532268
+ingresos,Quintil bajo,VoL_predicho_sobre_w_p05,1.0355502765381501
+ingresos,Quintil bajo,VoL_predicho_sobre_w_p25,1.1581116799850562
+ingresos,Quintil bajo,VoL_predicho_sobre_w_p50,1.2621788220410861
+ingresos,Quintil bajo,VoL_predicho_sobre_w_p75,1.3963444437479766
+ingresos,Quintil bajo,VoL_predicho_sobre_w_p95,1.7372657088167478
+ingresos,Quintil bajo,VoL_predicho_sobre_w_p99,1.8947888024134272
+ingresos,Quintil bajo,VTAW_predicho_sobre_w_p01,-0.14828025644677326
+ingresos,Quintil bajo,VTAW_predicho_sobre_w_p05,0.03555027653815012
+ingresos,Quintil bajo,VTAW_predicho_sobre_w_p25,0.15811167998505604
+ingresos,Quintil bajo,VTAW_predicho_sobre_w_p50,0.2621788220410861
+ingresos,Quintil bajo,VTAW_predicho_sobre_w_p75,0.3963444437479765
+ingresos,Quintil bajo,VTAW_predicho_sobre_w_p95,0.7372657088167478
+ingresos,Quintil bajo,VTAW_predicho_sobre_w_p99,0.8947888024134271
+ingresos,Quintil bajo,Tw_hat_p01,17.804340106021428
+ingresos,Quintil bajo,Tw_hat_p05,26.224930344248115
+ingresos,Quintil bajo,Tw_hat_p25,42.38787513234144
+ingresos,Quintil bajo,Tw_hat_p50,52.02702967645504
+ingresos,Quintil bajo,Tw_hat_p75,62.8106685143536
+ingresos,Quintil bajo,Tw_hat_p95,80.21385365006468
+ingresos,Quintil bajo,Tw_hat_p99,95.46173070221951
+ingresos,Quintil bajo,Tf1_hat_p01,12.144688219380447
+ingresos,Quintil bajo,Tf1_hat_p05,19.224495497582122
+ingresos,Quintil bajo,Tf1_hat_p25,30.41904886122758
+ingresos,Quintil bajo,Tf1_hat_p50,37.48539864435253
+ingresos,Quintil bajo,Tf1_hat_p75,44.14011727676767
+ingresos,Quintil bajo,Tf1_hat_p95,52.97743923427409
+ingresos,Quintil bajo,Tf1_hat_p99,58.96743660858996
+ingresos,Quintil bajo,Tf2_hat_p01,3.011793893729085
+ingresos,Quintil bajo,Tf2_hat_p05,4.767534341247491
+ingresos,Quintil bajo,Tf2_hat_p25,7.543701736788236
+ingresos,Quintil bajo,Tf2_hat_p50,9.296104823909666
+ingresos,Quintil bajo,Tf2_hat_p75,10.946426394916251
+ingresos,Quintil bajo,Tf2_hat_p95,13.138017634455998
+ingresos,Quintil bajo,Tf2_hat_p99,14.623493192949846
+ingresos,Quintil bajo,ingreso_libre_observado_p01,-22.023097303000004
+ingresos,Quintil bajo,ingreso_libre_observado_p05,-2.842170943040401e-14
+ingresos,Quintil bajo,ingreso_libre_observado_p25,0
+ingresos,Quintil bajo,ingreso_libre_observado_p50,39.05499726500001
+ingresos,Quintil bajo,ingreso_libre_observado_p75,74.20247217499998
+ingresos,Quintil bajo,ingreso_libre_observado_p95,138.5064854279999
+ingresos,Quintil bajo,ingreso_libre_observado_p99,194.11660172779992
+ingresos,Quintil bajo,ingreso_libre_predicho_p01,4.833722993123853
+ingresos,Quintil bajo,ingreso_libre_predicho_p05,13.906582901867482
+ingresos,Quintil bajo,ingreso_libre_predicho_p25,28.8219763094733
+ingresos,Quintil bajo,ingreso_libre_predicho_p50,41.52252046386342
+ingresos,Quintil bajo,ingreso_libre_predicho_p75,58.00731988698084
+ingresos,Quintil bajo,ingreso_libre_predicho_p95,95.10159342865332
+ingresos,Quintil bajo,ingreso_libre_predicho_p99,138.37873645751657
+ingresos,Quintil bajo,ingreso_potencial_neto_Ec_p01,29.317714497899992
+ingresos,Quintil bajo,ingreso_potencial_neto_Ec_p05,71.42086023750001
+ingresos,Quintil bajo,ingreso_potencial_neto_Ec_p25,133.92052952749998
+ingresos,Quintil bajo,ingreso_potencial_neto_Ec_p50,179.77996111
+ingresos,Quintil bajo,ingreso_potencial_neto_Ec_p75,235.55704613923072
+ingresos,Quintil bajo,ingreso_potencial_neto_Ec_p95,382.01706456249997
+ingresos,Quintil bajo,ingreso_potencial_neto_Ec_p99,553.2718774785001
+ingresos,Quintil medio,VoL_predicho_p01,1.8863139259309953
+ingresos,Quintil medio,VoL_predicho_p05,2.754858773161629
+ingresos,Quintil medio,VoL_predicho_p25,3.55467993731566
+ingresos,Quintil medio,VoL_predicho_p50,4.273519585976327
+ingresos,Quintil medio,VoL_predicho_p75,6.17529624551462
+ingresos,Quintil medio,VoL_predicho_p95,11.325131231041457
+ingresos,Quintil medio,VoL_predicho_p99,16.559483660748466
+ingresos,Quintil medio,VoL_observado_p01,-6.204519103734017e-16
+ingresos,Quintil medio,VoL_observado_p05,0
+ingresos,Quintil medio,VoL_observado_p25,2.3416122412797664
+ingresos,Quintil medio,VoL_observado_p50,5.062266960203316
+ingresos,Quintil medio,VoL_observado_p75,8.713596409547609
+ingresos,Quintil medio,VoL_observado_p95,16.62995381014865
+ingresos,Quintil medio,VoL_observado_p99,23.704500054005692
+ingresos,Quintil medio,VTAW_predicho_p01,0.1811231433820961
+ingresos,Quintil medio,VTAW_predicho_p05,0.3033187836547205
+ingresos,Quintil medio,VTAW_predicho_p25,0.5649692731645621
+ingresos,Quintil medio,VTAW_predicho_p50,0.8852304401840989
+ingresos,Quintil medio,VTAW_predicho_p75,1.3185467702151894
+ingresos,Quintil medio,VTAW_predicho_p95,2.495081618801107
+ingresos,Quintil medio,VTAW_predicho_p99,3.9771154367202515
+ingresos,Quintil medio,VTAW_observado_p01,-3.2660949399999994
+ingresos,Quintil medio,VTAW_observado_p05,-3.0966631
+ingresos,Quintil medio,VTAW_observado_p25,-0.8570637194518016
+ingresos,Quintil medio,VTAW_observado_p50,1.210186911306685
+ingresos,Quintil medio,VTAW_observado_p75,3.7392466062328866
+ingresos,Quintil medio,VTAW_observado_p95,9.857692352199333
+ingresos,Quintil medio,VTAW_observado_p99,18.436363659237443
+ingresos,Quintil medio,VoL_predicho_sobre_w_p01,1.0669435598641668
+ingresos,Quintil medio,VoL_predicho_sobre_w_p05,1.1107314895692184
+ingresos,Quintil medio,VoL_predicho_sobre_w_p25,1.1770792030572528
+ingresos,Quintil medio,VoL_predicho_sobre_w_p50,1.2289227206362237
+ingresos,Quintil medio,VoL_predicho_sobre_w_p75,1.2993140955732483
+ingresos,Quintil medio,VoL_predicho_sobre_w_p95,1.426659781619351
+ingresos,Quintil medio,VoL_predicho_sobre_w_p99,1.482400391486153
+ingresos,Quintil medio,VTAW_predicho_sobre_w_p01,0.06694355986416684
+ingresos,Quintil medio,VTAW_predicho_sobre_w_p05,0.11073148956921851
+ingresos,Quintil medio,VTAW_predicho_sobre_w_p25,0.17707920305725278
+ingresos,Quintil medio,VTAW_predicho_sobre_w_p50,0.2289227206362236
+ingresos,Quintil medio,VTAW_predicho_sobre_w_p75,0.2993140955732482
+ingresos,Quintil medio,VTAW_predicho_sobre_w_p95,0.426659781619351
+ingresos,Quintil medio,VTAW_predicho_sobre_w_p99,0.4824003914861531
+ingresos,Quintil medio,Tw_hat_p01,23.28821471340435
+ingresos,Quintil medio,Tw_hat_p05,33.53105815538605
+ingresos,Quintil medio,Tw_hat_p25,47.429672500010405
+ingresos,Quintil medio,Tw_hat_p50,56.414278727989924
+ingresos,Quintil medio,Tw_hat_p75,64.8230919608743
+ingresos,Quintil medio,Tw_hat_p95,78.25126217278708
+ingresos,Quintil medio,Tw_hat_p99,91.81698281667174
+ingresos,Quintil medio,Tf1_hat_p01,14.773752671278778
+ingresos,Quintil medio,Tf1_hat_p05,22.252510567820984
+ingresos,Quintil medio,Tf1_hat_p25,31.513452991109666
+ingresos,Quintil medio,Tf1_hat_p50,37.21219738198697
+ingresos,Quintil medio,Tf1_hat_p75,42.343873148068425
+ingresos,Quintil medio,Tf1_hat_p95,50.107973718403976
+ingresos,Quintil medio,Tf1_hat_p99,54.813164213478196
+ingresos,Quintil medio,Tf2_hat_p01,3.8065959019329974
+ingresos,Quintil medio,Tf2_hat_p05,5.7335679985941
+ingresos,Quintil medio,Tf2_hat_p25,8.11973664923503
+ingresos,Quintil medio,Tf2_hat_p50,9.58807157585456
+ingresos,Quintil medio,Tf2_hat_p75,10.910295954173176
+ingresos,Quintil medio,Tf2_hat_p95,12.910789266254374
+ingresos,Quintil medio,Tf2_hat_p99,14.123125715556345
+ingresos,Quintil medio,ingreso_libre_observado_p01,-1.4210854715202004e-14
+ingresos,Quintil medio,ingreso_libre_observado_p05,0
+ingresos,Quintil medio,ingreso_libre_observado_p25,47.52999442
+ingresos,Quintil medio,ingreso_libre_observado_p50,89.1
+ingresos,Quintil medio,ingreso_libre_observado_p75,141.7465516165385
+ingresos,Quintil medio,ingreso_libre_observado_p95,263.37192468869887
+ingresos,Quintil medio,ingreso_libre_observado_p99,343.79479275120013
+ingresos,Quintil medio,ingreso_libre_predicho_p01,21.30028717712694
+ingresos,Quintil medio,ingreso_libre_predicho_p05,35.314544650323924
+ingresos,Quintil medio,ingreso_libre_predicho_p25,58.5319470369784
+ingresos,Quintil medio,ingreso_libre_predicho_p50,82.87233475553637
+ingresos,Quintil medio,ingreso_libre_predicho_p75,122.02075741722226
+ingresos,Quintil medio,ingreso_libre_predicho_p95,230.79638396168963
+ingresos,Quintil medio,ingreso_libre_predicho_p99,348.84605014439643
+ingresos,Quintil medio,ingreso_potencial_neto_Ec_p01,70.293121068
+ingresos,Quintil medio,ingreso_potencial_neto_Ec_p05,113.01525225300003
+ingresos,Quintil medio,ingreso_potencial_neto_Ec_p25,178.35683800348488
+ingresos,Quintil medio,ingreso_potencial_neto_Ec_p50,245.11117047999994
+ingresos,Quintil medio,ingreso_potencial_neto_Ec_p75,363.408242937119
+ingresos,Quintil medio,ingreso_potencial_neto_Ec_p95,683.0715547550002
+ingresos,Quintil medio,ingreso_potencial_neto_Ec_p99,1013.8493572630005
+ingresos,Quintil alto,VoL_predicho_p01,1.7226671042454818
+ingresos,Quintil alto,VoL_predicho_p05,2.949883933978326
+ingresos,Quintil alto,VoL_predicho_p25,3.472433075346168
+ingresos,Quintil alto,VoL_predicho_p50,5.7802167342154105
+ingresos,Quintil alto,VoL_predicho_p75,10.213270181443075
+ingresos,Quintil alto,VoL_predicho_p95,21.49028929758496
+ingresos,Quintil alto,VoL_predicho_p99,35.48009988591517
+ingresos,Quintil alto,VoL_observado_p01,0
+ingresos,Quintil alto,VoL_observado_p05,0
+ingresos,Quintil alto,VoL_observado_p25,2.572678351353505
+ingresos,Quintil alto,VoL_observado_p50,7.323276900196472
+ingresos,Quintil alto,VoL_observado_p75,13.529944151495334
+ingresos,Quintil alto,VoL_observado_p95,31.67390503546415
+ingresos,Quintil alto,VoL_observado_p99,59.40983397649407
+ingresos,Quintil alto,VTAW_predicho_p01,0.10494268918960269
+ingresos,Quintil alto,VTAW_predicho_p05,0.19406260994164698
+ingresos,Quintil alto,VTAW_predicho_p25,0.34848255723258326
+ingresos,Quintil alto,VTAW_predicho_p50,0.5635183611720538
+ingresos,Quintil alto,VTAW_predicho_p75,1.0507995799996968
+ingresos,Quintil alto,VTAW_predicho_p95,2.4932414929672864
+ingresos,Quintil alto,VTAW_predicho_p99,4.127494752273057
+ingresos,Quintil alto,VTAW_observado_p01,-7.289876782553827
+ingresos,Quintil alto,VTAW_observado_p05,-3.1893566499999997
+ingresos,Quintil alto,VTAW_observado_p25,-1.4941050748745603
+ingresos,Quintil alto,VTAW_observado_p50,1.1326506098901055
+ingresos,Quintil alto,VTAW_observado_p75,5.1461658103545656
+ingresos,Quintil alto,VTAW_observado_p95,15.310154917749392
+ingresos,Quintil alto,VTAW_observado_p99,36.30186250533758
+ingresos,Quintil alto,VoL_predicho_sobre_w_p01,1.0495691046359041
+ingresos,Quintil alto,VoL_predicho_sobre_w_p05,1.067075618133221
+ingresos,Quintil alto,VoL_predicho_sobre_w_p25,1.0932697818764154
+ingresos,Quintil alto,VoL_predicho_sobre_w_p50,1.1109175323932827
+ingresos,Quintil alto,VoL_predicho_sobre_w_p75,1.1292829781807157
+ingresos,Quintil alto,VoL_predicho_sobre_w_p95,1.1607535647440597
+ingresos,Quintil alto,VoL_predicho_sobre_w_p99,1.1821054366978365
+ingresos,Quintil alto,VTAW_predicho_sobre_w_p01,0.04956910463590407
+ingresos,Quintil alto,VTAW_predicho_sobre_w_p05,0.06707561813322115
+ingresos,Quintil alto,VTAW_predicho_sobre_w_p25,0.09326978187641553
+ingresos,Quintil alto,VTAW_predicho_sobre_w_p50,0.1109175323932827
+ingresos,Quintil alto,VTAW_predicho_sobre_w_p75,0.12928297818071566
+ingresos,Quintil alto,VTAW_predicho_sobre_w_p95,0.16075356474405958
+ingresos,Quintil alto,VTAW_predicho_sobre_w_p99,0.18210543669783652
+ingresos,Quintil alto,Tw_hat_p01,22.093497773037956
+ingresos,Quintil alto,Tw_hat_p05,33.543309834292366
+ingresos,Quintil alto,Tw_hat_p25,48.34420194662179
+ingresos,Quintil alto,Tw_hat_p50,55.38092512099593
+ingresos,Quintil alto,Tw_hat_p75,63.28023355792773
+ingresos,Quintil alto,Tw_hat_p95,75.37361726703813
+ingresos,Quintil alto,Tw_hat_p99,82.93651251960134
+ingresos,Quintil alto,Tf1_hat_p01,15.749823054059105
+ingresos,Quintil alto,Tf1_hat_p05,24.09047454085134
+ingresos,Quintil alto,Tf1_hat_p25,33.42856315329001
+ingresos,Quintil alto,Tf1_hat_p50,38.754927230301504
+ingresos,Quintil alto,Tf1_hat_p75,43.49524946423605
+ingresos,Quintil alto,Tf1_hat_p95,51.14165695081084
+ingresos,Quintil alto,Tf1_hat_p99,56.323453650535086
+ingresos,Quintil alto,Tf2_hat_p01,3.8333299279254054
+ingresos,Quintil alto,Tf2_hat_p05,5.863350763904012
+ingresos,Quintil alto,Tf2_hat_p25,8.136136586628231
+ingresos,Quintil alto,Tf2_hat_p50,9.432513742952713
+ingresos,Quintil alto,Tf2_hat_p75,10.586254900868033
+ingresos,Quintil alto,Tf2_hat_p95,12.447304549412864
+ingresos,Quintil alto,Tf2_hat_p99,13.708495630817346
+ingresos,Quintil alto,ingreso_libre_observado_p01,0
+ingresos,Quintil alto,ingreso_libre_observado_p05,0
+ingresos,Quintil alto,ingreso_libre_observado_p25,64.98512834879062
+ingresos,Quintil alto,ingreso_libre_observado_p50,160.85932416482757
+ingresos,Quintil alto,ingreso_libre_observado_p75,288.890011395
+ingresos,Quintil alto,ingreso_libre_observado_p95,666.1949649829987
+ingresos,Quintil alto,ingreso_libre_observado_p99,1152.2146101525
+ingresos,Quintil alto,ingreso_libre_predicho_p01,28.828427145075572
+ingresos,Quintil alto,ingreso_libre_predicho_p05,45.843388489137325
+ingresos,Quintil alto,ingreso_libre_predicho_p25,82.94563939818396
+ingresos,Quintil alto,ingreso_libre_predicho_p50,140.25716594156626
+ingresos,Quintil alto,ingreso_libre_predicho_p75,258.2647094602819
+ingresos,Quintil alto,ingreso_libre_predicho_p95,554.8873976345134
+ingresos,Quintil alto,ingreso_libre_predicho_p99,1023.1098859574961
+ingresos,Quintil alto,ingreso_potencial_neto_Ec_p01,83.1460921452
+ingresos,Quintil alto,ingreso_potencial_neto_Ec_p05,128.57766797999997
+ingresos,Quintil alto,ingreso_potencial_neto_Ec_p25,229.68603236
+ingresos,Quintil alto,ingreso_potencial_neto_Ec_p50,390.9533219963161
+ingresos,Quintil alto,ingreso_potencial_neto_Ec_p75,718.797063218654
+ingresos,Quintil alto,ingreso_potencial_neto_Ec_p95,1525.9486568482864
+ingresos,Quintil alto,ingreso_potencial_neto_Ec_p99,2805.2008564445023
+territorio,Norte,VoL_predicho_p01,1.269020040650014
+territorio,Norte,VoL_predicho_p05,2.5186075846093448
+territorio,Norte,VoL_predicho_p25,3.6662433256719593
+territorio,Norte,VoL_predicho_p50,4.548178441396426
+territorio,Norte,VoL_predicho_p75,6.151358024744892
+territorio,Norte,VoL_predicho_p95,13.916789030549708
+territorio,Norte,VoL_predicho_p99,25.96565273412856
+territorio,Norte,VoL_observado_p01,-5.783940199350799e-6
+territorio,Norte,VoL_observado_p05,0
+territorio,Norte,VoL_observado_p25,2.732127080312824e-15
+territorio,Norte,VoL_observado_p50,4.955894408233144
+territorio,Norte,VoL_observado_p75,9.76717763042368
+territorio,Norte,VoL_observado_p95,25.99809412723726
+territorio,Norte,VoL_observado_p99,52.573553667018295
+territorio,Norte,VTAW_predicho_p01,-0.016421028602519507
+territorio,Norte,VTAW_predicho_p05,0.3430371831339736
+territorio,Norte,VTAW_predicho_p25,0.8053079175238893
+territorio,Norte,VTAW_predicho_p50,1.3680454152519477
+territorio,Norte,VTAW_predicho_p75,2.371852918585323
+territorio,Norte,VTAW_predicho_p95,5.3323914033574304
+territorio,Norte,VTAW_predicho_p99,10.683851462917577
+territorio,Norte,VTAW_observado_p01,-3.3900573
+territorio,Norte,VTAW_observado_p05,-3.1624908499999997
+territorio,Norte,VTAW_observado_p25,-2.719086975369837
+territorio,Norte,VTAW_observado_p50,1.8039467667984
+territorio,Norte,VTAW_observado_p75,5.6455980666143795
+territorio,Norte,VTAW_observado_p95,18.62128343209633
+territorio,Norte,VTAW_observado_p99,36.8572761372161
+territorio,Norte,VoL_predicho_sobre_w_p01,0.9865025244782472
+territorio,Norte,VoL_predicho_sobre_w_p05,1.128188335929299
+territorio,Norte,VoL_predicho_sobre_w_p25,1.2828371845778384
+territorio,Norte,VoL_predicho_sobre_w_p50,1.4193277355920966
+territorio,Norte,VoL_predicho_sobre_w_p75,1.5704009701741084
+territorio,Norte,VoL_predicho_sobre_w_p95,1.8993258029217726
+territorio,Norte,VoL_predicho_sobre_w_p99,2.0254784596488076
+territorio,Norte,VTAW_predicho_sobre_w_p01,-0.013497475521752882
+territorio,Norte,VTAW_predicho_sobre_w_p05,0.1281883359292988
+territorio,Norte,VTAW_predicho_sobre_w_p25,0.2828371845778384
+territorio,Norte,VTAW_predicho_sobre_w_p50,0.41932773559209646
+territorio,Norte,VTAW_predicho_sobre_w_p75,0.5704009701741084
+territorio,Norte,VTAW_predicho_sobre_w_p95,0.8993258029217724
+territorio,Norte,VTAW_predicho_sobre_w_p99,1.025478459648808
+territorio,Norte,Tw_hat_p01,21.655373654939716
+territorio,Norte,Tw_hat_p05,31.694662113722707
+territorio,Norte,Tw_hat_p25,47.16538725021247
+territorio,Norte,Tw_hat_p50,54.84080552431853
+territorio,Norte,Tw_hat_p75,63.72922528237207
+territorio,Norte,Tw_hat_p95,78.21304226486815
+territorio,Norte,Tw_hat_p99,90.79462971643876
+territorio,Norte,Tf1_hat_p01,14.253670169349611
+territorio,Norte,Tf1_hat_p05,19.373219862714155
+territorio,Norte,Tf1_hat_p25,30.61062759482543
+territorio,Norte,Tf1_hat_p50,37.23388439190272
+territorio,Norte,Tf1_hat_p75,42.70838962750989
+territorio,Norte,Tf1_hat_p95,49.99477699333104
+territorio,Norte,Tf1_hat_p99,55.500660482583456
+territorio,Norte,Tf2_hat_p01,3.598760891558811
+territorio,Norte,Tf2_hat_p05,4.8913427318830225
+territorio,Norte,Tf2_hat_p25,7.728558900655079
+territorio,Norte,Tf2_hat_p50,9.40079610362667
+territorio,Norte,Tf2_hat_p75,10.782996975995811
+territorio,Norte,Tf2_hat_p95,12.622661117323553
+territorio,Norte,Tf2_hat_p99,14.012784358508743
+territorio,Norte,ingreso_libre_observado_p01,-4.25600999901121e-5
+territorio,Norte,ingreso_libre_observado_p05,0
+territorio,Norte,ingreso_libre_observado_p25,2.842170943040401e-14
+territorio,Norte,ingreso_libre_observado_p50,61.979979485000015
+territorio,Norte,ingreso_libre_observado_p75,117.63543744147059
+territorio,Norte,ingreso_libre_observado_p95,287.53213670712455
+territorio,Norte,ingreso_libre_observado_p99,580.4657129447992
+territorio,Norte,ingreso_libre_predicho_p01,8.774300220839837
+territorio,Norte,ingreso_libre_predicho_p05,22.42157112504764
+territorio,Norte,ingreso_libre_predicho_p25,42.18768936529628
+territorio,Norte,ingreso_libre_predicho_p50,61.693771890075766
+territorio,Norte,ingreso_libre_predicho_p75,97.2958090275154
+territorio,Norte,ingreso_libre_predicho_p95,229.98276946310318
+territorio,Norte,ingreso_libre_predicho_p99,433.580393428414
+territorio,Norte,ingreso_potencial_neto_Ec_p01,38.49985750379998
+territorio,Norte,ingreso_potencial_neto_Ec_p05,84.94920697200003
+territorio,Norte,ingreso_potencial_neto_Ec_p25,148.97654222999998
+territorio,Norte,ingreso_potencial_neto_Ec_p50,204.17533951499996
+territorio,Norte,ingreso_potencial_neto_Ec_p75,302.99162056811474
+territorio,Norte,ingreso_potencial_neto_Ec_p95,698.0649896504998
+territorio,Norte,ingreso_potencial_neto_Ec_p99,1263.9839695240464
+territorio,Centro,VoL_predicho_p01,1.0624155988750397
+territorio,Centro,VoL_predicho_p05,2.5499405252788057
+territorio,Centro,VoL_predicho_p25,3.740042913169177
+territorio,Centro,VoL_predicho_p50,4.721335862461998
+territorio,Centro,VoL_predicho_p75,6.309214239037194
+territorio,Centro,VoL_predicho_p95,14.361552512567725
+territorio,Centro,VoL_predicho_p99,31.285030016545758
+territorio,Centro,VoL_observado_p01,-1.3212374069410047
+territorio,Centro,VoL_observado_p05,0
+territorio,Centro,VoL_observado_p25,0
+territorio,Centro,VoL_observado_p50,4.884736593865586
+territorio,Centro,VoL_observado_p75,9.92105563917828
+territorio,Centro,VoL_observado_p95,27.160570150970067
+territorio,Centro,VoL_observado_p99,62.524594529812184
+territorio,Centro,VTAW_predicho_p01,-0.039322520966457476
+territorio,Centro,VTAW_predicho_p05,0.26882975689565675
+territorio,Centro,VTAW_predicho_p25,0.8489442180647652
+territorio,Centro,VTAW_predicho_p50,1.4967492204159893
+territorio,Centro,VTAW_predicho_p75,2.6439343912830284
+territorio,Centro,VTAW_predicho_p95,5.801842585037666
+territorio,Centro,VTAW_predicho_p99,13.637820714842208
+territorio,Centro,VTAW_observado_p01,-4.416265684923474
+territorio,Centro,VTAW_observado_p05,-3.1604216
+territorio,Centro,VTAW_observado_p25,-2.93731125
+territorio,Centro,VTAW_observado_p50,1.7883575778771843
+territorio,Centro,VTAW_observado_p75,6.082086084004959
+territorio,Centro,VTAW_observado_p95,19.059347916197087
+territorio,Centro,VTAW_observado_p99,47.239736297602796
+territorio,Centro,VoL_predicho_sobre_w_p01,0.9698745580462846
+territorio,Centro,VoL_predicho_sobre_w_p05,1.1041941872946255
+territorio,Centro,VoL_predicho_sobre_w_p25,1.293286255289102
+territorio,Centro,VoL_predicho_sobre_w_p50,1.4525994273621334
+territorio,Centro,VoL_predicho_sobre_w_p75,1.6635345118517948
+territorio,Centro,VoL_predicho_sobre_w_p95,2.0917734145847335
+territorio,Centro,VoL_predicho_sobre_w_p99,2.2962609512257703
+territorio,Centro,VTAW_predicho_sobre_w_p01,-0.030125441953715387
+territorio,Centro,VTAW_predicho_sobre_w_p05,0.10419418729462562
+territorio,Centro,VTAW_predicho_sobre_w_p25,0.293286255289102
+territorio,Centro,VTAW_predicho_sobre_w_p50,0.45259942736213354
+territorio,Centro,VTAW_predicho_sobre_w_p75,0.6635345118517948
+territorio,Centro,VTAW_predicho_sobre_w_p95,1.0917734145847338
+territorio,Centro,VTAW_predicho_sobre_w_p99,1.2962609512257701
+territorio,Centro,Tw_hat_p01,20.305989849845044
+territorio,Centro,Tw_hat_p05,29.296854554710727
+territorio,Centro,Tw_hat_p25,44.57441912079039
+territorio,Centro,Tw_hat_p50,53.30575640439944
+territorio,Centro,Tw_hat_p75,62.77050795491283
+territorio,Centro,Tw_hat_p95,79.23745572338076
+territorio,Centro,Tw_hat_p99,94.37203272071228
+territorio,Centro,Tf1_hat_p01,12.647323716798768
+territorio,Centro,Tf1_hat_p05,19.738754942406427
+territorio,Centro,Tf1_hat_p25,30.669190412487783
+territorio,Centro,Tf1_hat_p50,37.58434214027694
+territorio,Centro,Tf1_hat_p75,43.81909893460289
+territorio,Centro,Tf1_hat_p95,50.93242940086925
+territorio,Centro,Tf1_hat_p99,56.32855354614139
+territorio,Centro,Tf2_hat_p01,3.176399717360725
+territorio,Centro,Tf2_hat_p05,4.957426331772764
+territorio,Centro,Tf2_hat_p25,7.702626258274217
+territorio,Centro,Tf2_hat_p50,9.439379937195291
+territorio,Centro,Tf2_hat_p75,11.005251117752259
+territorio,Centro,Tf2_hat_p95,12.791777768646034
+territorio,Centro,Tf2_hat_p99,14.147024743713123
+territorio,Centro,ingreso_libre_observado_p01,-12.780826143399977
+territorio,Centro,ingreso_libre_observado_p05,0
+territorio,Centro,ingreso_libre_observado_p25,0
+territorio,Centro,ingreso_libre_observado_p50,53.06499809499999
+territorio,Centro,ingreso_libre_observado_p75,100.80095508846125
+territorio,Centro,ingreso_libre_observado_p95,267.42063213906437
+territorio,Centro,ingreso_libre_observado_p99,627.1671624581736
+territorio,Centro,ingreso_libre_predicho_p01,6.756542214621454
+territorio,Centro,ingreso_libre_predicho_p05,17.16663817760968
+territorio,Centro,ingreso_libre_predicho_p25,36.14651363060857
+territorio,Centro,ingreso_libre_predicho_p50,53.91526747311252
+territorio,Centro,ingreso_libre_predicho_p75,80.80778755375289
+territorio,Centro,ingreso_libre_predicho_p95,197.21924789230107
+territorio,Centro,ingreso_libre_predicho_p99,426.6942448248914
+territorio,Centro,ingreso_potencial_neto_Ec_p01,35.100798086699996
+territorio,Centro,ingreso_potencial_neto_Ec_p05,78.57014256149996
+territorio,Centro,ingreso_potencial_neto_Ec_p25,144.98483105782532
+territorio,Centro,ingreso_potencial_neto_Ec_p50,199.0741619642857
+territorio,Centro,ingreso_potencial_neto_Ec_p75,276.89361521386155
+territorio,Centro,ingreso_potencial_neto_Ec_p95,674.7565076299998
+territorio,Centro,ingreso_potencial_neto_Ec_p99,1463.9185987857554
+territorio,Sur,VoL_predicho_p01,1.0573573451570326
+territorio,Sur,VoL_predicho_p05,2.3590229314366846
+territorio,Sur,VoL_predicho_p25,3.4423834444864934
+territorio,Sur,VoL_predicho_p50,4.1852594765032425
+territorio,Sur,VoL_predicho_p75,5.705985432029415
+territorio,Sur,VoL_predicho_p95,12.31888309012597
+territorio,Sur,VoL_predicho_p99,23.10388762724539
+territorio,Sur,VoL_observado_p01,-1.9468523720657702
+territorio,Sur,VoL_observado_p05,0
+territorio,Sur,VoL_observado_p25,8.483637719206099e-16
+territorio,Sur,VoL_observado_p50,4.492602074121904
+territorio,Sur,VoL_observado_p75,9.019630403797443
+territorio,Sur,VoL_observado_p95,22.98853134578903
+territorio,Sur,VoL_observado_p99,43.444411447193175
+territorio,Sur,VTAW_predicho_p01,-0.099731176871797
+territorio,Sur,VTAW_predicho_p05,0.15590636910418398
+territorio,Sur,VTAW_predicho_p25,0.5194475785327506
+territorio,Sur,VTAW_predicho_p50,0.9340545689984512
+territorio,Sur,VTAW_predicho_p75,1.6753279931408125
+territorio,Sur,VTAW_predicho_p95,3.2656363245199227
+territorio,Sur,VTAW_predicho_p99,7.430989808995591
+territorio,Sur,VTAW_observado_p01,-5.432417918750109
+territorio,Sur,VTAW_observado_p05,-3.200431
+territorio,Sur,VTAW_observado_p25,-2.9054409999999993
+territorio,Sur,VTAW_observado_p50,1.2802868777550638
+territorio,Sur,VTAW_observado_p75,4.573705008134883
+territorio,Sur,VTAW_observado_p95,14.96663657531537
+territorio,Sur,VTAW_observado_p99,28.96001002880708
+territorio,Sur,VoL_predicho_sobre_w_p01,0.8986804505074005
+territorio,Sur,VoL_predicho_sobre_w_p05,1.065170856068736
+territorio,Sur,VoL_predicho_sobre_w_p25,1.1733694379752748
+territorio,Sur,VoL_predicho_sobre_w_p50,1.2599885827416266
+territorio,Sur,VoL_predicho_sobre_w_p75,1.370446972933837
+territorio,Sur,VoL_predicho_sobre_w_p95,1.6270488952658868
+territorio,Sur,VoL_predicho_sobre_w_p99,1.7220347041738282
+territorio,Sur,VTAW_predicho_sobre_w_p01,-0.10131954949259944
+territorio,Sur,VTAW_predicho_sobre_w_p05,0.06517085606873599
+territorio,Sur,VTAW_predicho_sobre_w_p25,0.17336943797527488
+territorio,Sur,VTAW_predicho_sobre_w_p50,0.25998858274162656
+territorio,Sur,VTAW_predicho_sobre_w_p75,0.37044697293383705
+territorio,Sur,VTAW_predicho_sobre_w_p95,0.6270488952658868
+territorio,Sur,VTAW_predicho_sobre_w_p99,0.7220347041738281
+territorio,Sur,Tw_hat_p01,19.166139860608617
+territorio,Sur,Tw_hat_p05,27.91425613287534
+territorio,Sur,Tw_hat_p25,42.731731713412664
+territorio,Sur,Tw_hat_p50,52.00375735690248
+territorio,Sur,Tw_hat_p75,61.90876442742691
+territorio,Sur,Tw_hat_p95,77.96513662705095
+territorio,Sur,Tw_hat_p99,92.32325272259686
+territorio,Sur,Tf1_hat_p01,12.891325565080422
+territorio,Sur,Tf1_hat_p05,20.44890446177953
+territorio,Sur,Tf1_hat_p25,32.10093988057067
+territorio,Sur,Tf1_hat_p50,38.93808870724692
+territorio,Sur,Tf1_hat_p75,45.14590742207024
+territorio,Sur,Tf1_hat_p95,53.918885193082815
+territorio,Sur,Tf1_hat_p99,59.97278550110307
+territorio,Sur,Tf2_hat_p01,3.1449444644172084
+territorio,Sur,Tf2_hat_p05,4.988677740377018
+territorio,Sur,Tf2_hat_p25,7.831287222584431
+territorio,Sur,Tf2_hat_p50,9.499265681921242
+territorio,Sur,Tf2_hat_p75,11.01371390563014
+territorio,Sur,Tf2_hat_p95,13.153953692307896
+territorio,Sur,Tf2_hat_p99,14.630852259931896
+territorio,Sur,ingreso_libre_observado_p01,-22.859962569999965
+territorio,Sur,ingreso_libre_observado_p05,0
+territorio,Sur,ingreso_libre_observado_p25,1.4210854715202004e-14
+territorio,Sur,ingreso_libre_observado_p50,54.976112149637316
+territorio,Sur,ingreso_libre_observado_p75,108.42856528857142
+territorio,Sur,ingreso_libre_observado_p95,263.58998912999994
+territorio,Sur,ingreso_libre_observado_p99,502.550385728904
+territorio,Sur,ingreso_libre_predicho_p01,5.885081491970617
+territorio,Sur,ingreso_libre_predicho_p05,18.68464162564196
+territorio,Sur,ingreso_libre_predicho_p25,36.985922147023075
+territorio,Sur,ingreso_libre_predicho_p50,54.21939396769595
+territorio,Sur,ingreso_libre_predicho_p75,84.68876652122549
+territorio,Sur,ingreso_libre_predicho_p95,185.97200494179376
+territorio,Sur,ingreso_libre_predicho_p99,381.5637464453317
+territorio,Sur,ingreso_potencial_neto_Ec_p01,30.501839999999994
+territorio,Sur,ingreso_potencial_neto_Ec_p05,83.2337961000001
+territorio,Sur,ingreso_potencial_neto_Ec_p25,151.96183268999994
+territorio,Sur,ingreso_potencial_neto_Ec_p50,208.95359643
+territorio,Sur,ingreso_potencial_neto_Ec_p75,312.29325869999997
+territorio,Sur,ingreso_potencial_neto_Ec_p95,697.11598784
+territorio,Sur,ingreso_potencial_neto_Ec_p99,1296.38217152
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_p01,1.5319201313682915
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_p05,3.5726234784528783
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_p25,8.666505214645332
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_p50,15.35031970021209
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_p75,28.406967855115976
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_p95,60.71456759164002
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_p99,123.07470361186935
+cluster_tiempo,Cuidadores domesticos,VoL_observado_p01,-8.144695814948047
+cluster_tiempo,Cuidadores domesticos,VoL_observado_p05,-9.09879918321178e-15
+cluster_tiempo,Cuidadores domesticos,VoL_observado_p25,0
+cluster_tiempo,Cuidadores domesticos,VoL_observado_p50,16.716176478643277
+cluster_tiempo,Cuidadores domesticos,VoL_observado_p75,38.098146069614586
+cluster_tiempo,Cuidadores domesticos,VoL_observado_p95,98.58523798489101
+cluster_tiempo,Cuidadores domesticos,VoL_observado_p99,201.47024103058646
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_p01,-0.6784892306738718
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_p05,0.9397118198562557
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_p25,5.680226653755184
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_p50,12.346438182233193
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_p75,24.81223598839557
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_p95,55.6629491624397
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_p99,111.99246088005467
+cluster_tiempo,Cuidadores domesticos,VTAW_observado_p01,-10.767063007079448
+cluster_tiempo,Cuidadores domesticos,VTAW_observado_p05,-3.164838099999999
+cluster_tiempo,Cuidadores domesticos,VTAW_observado_p25,-2.9968459999999997
+cluster_tiempo,Cuidadores domesticos,VTAW_observado_p50,13.552581374445472
+cluster_tiempo,Cuidadores domesticos,VTAW_observado_p75,34.18708796455968
+cluster_tiempo,Cuidadores domesticos,VTAW_observado_p95,92.6116397296731
+cluster_tiempo,Cuidadores domesticos,VTAW_observado_p99,190.62610221916597
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_sobre_w_p01,0.7250612440257896
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_sobre_w_p05,1.3600195725648423
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_sobre_w_p25,2.9834122569712624
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_sobre_w_p50,4.983128259398841
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_sobre_w_p75,7.710367467909872
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_sobre_w_p95,14.16515376634218
+cluster_tiempo,Cuidadores domesticos,VoL_predicho_sobre_w_p99,18.606069326178904
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_sobre_w_p01,-0.27493875597421025
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_sobre_w_p05,0.36001957256484235
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_sobre_w_p25,1.9834122569712627
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_sobre_w_p50,3.983128259398841
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_sobre_w_p75,6.7103674679098715
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_sobre_w_p95,13.16515376634218
+cluster_tiempo,Cuidadores domesticos,VTAW_predicho_sobre_w_p99,17.606069326178904
+cluster_tiempo,Cuidadores domesticos,Tw_hat_p01,36.906939376982635
+cluster_tiempo,Cuidadores domesticos,Tw_hat_p05,48.12890174631551
+cluster_tiempo,Cuidadores domesticos,Tw_hat_p25,59.87805834200064
+cluster_tiempo,Cuidadores domesticos,Tw_hat_p50,65.84660735894184
+cluster_tiempo,Cuidadores domesticos,Tw_hat_p75,71.40138004332502
+cluster_tiempo,Cuidadores domesticos,Tw_hat_p95,84.12333151432469
+cluster_tiempo,Cuidadores domesticos,Tw_hat_p99,98.29540592783522
+cluster_tiempo,Cuidadores domesticos,Tf1_hat_p01,11.354582132331076
+cluster_tiempo,Cuidadores domesticos,Tf1_hat_p05,17.908422049187344
+cluster_tiempo,Cuidadores domesticos,Tf1_hat_p25,25.542862430692953
+cluster_tiempo,Cuidadores domesticos,Tf1_hat_p50,30.48273319739713
+cluster_tiempo,Cuidadores domesticos,Tf1_hat_p75,34.00668946631991
+cluster_tiempo,Cuidadores domesticos,Tf1_hat_p95,37.43609114672667
+cluster_tiempo,Cuidadores domesticos,Tf1_hat_p99,40.20867783351043
+cluster_tiempo,Cuidadores domesticos,Tf2_hat_p01,3.5824886295319844
+cluster_tiempo,Cuidadores domesticos,Tf2_hat_p05,5.650293213467846
+cluster_tiempo,Cuidadores domesticos,Tf2_hat_p25,8.059038470742117
+cluster_tiempo,Cuidadores domesticos,Tf2_hat_p50,9.617619019706979
+cluster_tiempo,Cuidadores domesticos,Tf2_hat_p75,10.729463834183829
+cluster_tiempo,Cuidadores domesticos,Tf2_hat_p95,11.811475693622715
+cluster_tiempo,Cuidadores domesticos,Tf2_hat_p99,12.686255598689584
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_observado_p01,-18.86502914359999
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_observado_p05,-2.842170943040401e-14
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_observado_p25,0
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_observado_p50,40.306120271111084
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_observado_p75,89.02749531999997
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_observado_p95,217.35500695199983
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_observado_p99,418.15454324679996
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_predicho_p01,1.7868549413237254
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_predicho_p05,5.827180830881709
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_predicho_p25,19.290135493233745
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_predicho_p50,39.53638125342927
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_predicho_p75,79.08268096918597
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_predicho_p95,170.9529080895726
+cluster_tiempo,Cuidadores domesticos,ingreso_libre_predicho_p99,356.80396006847695
+cluster_tiempo,Cuidadores domesticos,ingreso_potencial_neto_Ec_p01,39.036117158
+cluster_tiempo,Cuidadores domesticos,ingreso_potencial_neto_Ec_p05,68.149724908
+cluster_tiempo,Cuidadores domesticos,ingreso_potencial_neto_Ec_p25,119.29422137999995
+cluster_tiempo,Cuidadores domesticos,ingreso_potencial_neto_Ec_p50,159.97529477999998
+cluster_tiempo,Cuidadores domesticos,ingreso_potencial_neto_Ec_p75,227.48691039750008
+cluster_tiempo,Cuidadores domesticos,ingreso_potencial_neto_Ec_p95,469.16072584899985
+cluster_tiempo,Cuidadores domesticos,ingreso_potencial_neto_Ec_p99,849.1449838986745
+cluster_tiempo,Rutina flexible,VoL_predicho_p01,1.6465888886763895
+cluster_tiempo,Rutina flexible,VoL_predicho_p05,2.902926500890298
+cluster_tiempo,Rutina flexible,VoL_predicho_p25,4.308977986236673
+cluster_tiempo,Rutina flexible,VoL_predicho_p50,7.473279835822078
+cluster_tiempo,Rutina flexible,VoL_predicho_p75,14.136571096209842
+cluster_tiempo,Rutina flexible,VoL_predicho_p95,22.509221653934976
+cluster_tiempo,Rutina flexible,VoL_predicho_p99,52.64246761922614
+cluster_tiempo,Rutina flexible,VoL_observado_p01,-9.631638837864589
+cluster_tiempo,Rutina flexible,VoL_observado_p05,-4.0676845664133546e-15
+cluster_tiempo,Rutina flexible,VoL_observado_p25,0
+cluster_tiempo,Rutina flexible,VoL_observado_p50,0
+cluster_tiempo,Rutina flexible,VoL_observado_p75,17.658460251114445
+cluster_tiempo,Rutina flexible,VoL_observado_p95,56.26218865540906
+cluster_tiempo,Rutina flexible,VoL_observado_p99,108.68218392886106
+cluster_tiempo,Rutina flexible,VTAW_predicho_p01,-0.8000599946432196
+cluster_tiempo,Rutina flexible,VTAW_predicho_p05,0.0271389445239558
+cluster_tiempo,Rutina flexible,VTAW_predicho_p25,1.2590558155833447
+cluster_tiempo,Rutina flexible,VTAW_predicho_p50,4.223905303341388
+cluster_tiempo,Rutina flexible,VTAW_predicho_p75,10.920199515089493
+cluster_tiempo,Rutina flexible,VTAW_predicho_p95,18.996654965734244
+cluster_tiempo,Rutina flexible,VTAW_predicho_p99,40.06292251937492
+cluster_tiempo,Rutina flexible,VTAW_observado_p01,-13.237674818309536
+cluster_tiempo,Rutina flexible,VTAW_observado_p05,-3.3092594
+cluster_tiempo,Rutina flexible,VTAW_observado_p25,-3.093885000000011
+cluster_tiempo,Rutina flexible,VTAW_observado_p50,-2.9932299999999996
+cluster_tiempo,Rutina flexible,VTAW_observado_p75,14.193357092606963
+cluster_tiempo,Rutina flexible,VTAW_observado_p95,52.706343201139035
+cluster_tiempo,Rutina flexible,VTAW_observado_p99,97.18083776236114
+cluster_tiempo,Rutina flexible,VoL_predicho_sobre_w_p01,0.7063861717721863
+cluster_tiempo,Rutina flexible,VoL_predicho_sobre_w_p05,1.0089618894911303
+cluster_tiempo,Rutina flexible,VoL_predicho_sobre_w_p25,1.4116771365354974
+cluster_tiempo,Rutina flexible,VoL_predicho_sobre_w_p50,2.286872177486977
+cluster_tiempo,Rutina flexible,VoL_predicho_sobre_w_p75,4.37750551264876
+cluster_tiempo,Rutina flexible,VoL_predicho_sobre_w_p95,6.819939891526404
+cluster_tiempo,Rutina flexible,VoL_predicho_sobre_w_p99,7.674768461303064
+cluster_tiempo,Rutina flexible,VTAW_predicho_sobre_w_p01,-0.2936138282278137
+cluster_tiempo,Rutina flexible,VTAW_predicho_sobre_w_p05,0.008961889491130165
+cluster_tiempo,Rutina flexible,VTAW_predicho_sobre_w_p25,0.4116771365354974
+cluster_tiempo,Rutina flexible,VTAW_predicho_sobre_w_p50,1.286872177486977
+cluster_tiempo,Rutina flexible,VTAW_predicho_sobre_w_p75,3.37750551264876
+cluster_tiempo,Rutina flexible,VTAW_predicho_sobre_w_p95,5.819939891526404
+cluster_tiempo,Rutina flexible,VTAW_predicho_sobre_w_p99,6.674768461303064
+cluster_tiempo,Rutina flexible,Tw_hat_p01,9.706098332573283
+cluster_tiempo,Rutina flexible,Tw_hat_p05,12.664741649658513
+cluster_tiempo,Rutina flexible,Tw_hat_p25,19.223090298259102
+cluster_tiempo,Rutina flexible,Tw_hat_p50,25.097453032651096
+cluster_tiempo,Rutina flexible,Tw_hat_p75,33.52779017225436
+cluster_tiempo,Rutina flexible,Tw_hat_p95,44.31945429171638
+cluster_tiempo,Rutina flexible,Tw_hat_p99,53.59276157729228
+cluster_tiempo,Rutina flexible,Tf1_hat_p01,23.620739583470716
+cluster_tiempo,Rutina flexible,Tf1_hat_p05,31.473894287728847
+cluster_tiempo,Rutina flexible,Tf1_hat_p25,43.45980274601467
+cluster_tiempo,Rutina flexible,Tf1_hat_p50,51.60636867847202
+cluster_tiempo,Rutina flexible,Tf1_hat_p75,59.17390906340523
+cluster_tiempo,Rutina flexible,Tf1_hat_p95,68.90782508067919
+cluster_tiempo,Rutina flexible,Tf1_hat_p99,75.07503552069022
+cluster_tiempo,Rutina flexible,Tf2_hat_p01,4.648388474518114
+cluster_tiempo,Rutina flexible,Tf2_hat_p05,6.193831778140423
+cluster_tiempo,Rutina flexible,Tf2_hat_p25,8.552570738757613
+cluster_tiempo,Rutina flexible,Tf2_hat_p50,10.15575522218658
+cluster_tiempo,Rutina flexible,Tf2_hat_p75,11.644991720538645
+cluster_tiempo,Rutina flexible,Tf2_hat_p95,13.56055506971872
+cluster_tiempo,Rutina flexible,Tf2_hat_p99,14.774216895504056
+cluster_tiempo,Rutina flexible,ingreso_libre_observado_p01,-19.346990240400007
+cluster_tiempo,Rutina flexible,ingreso_libre_observado_p05,-7.105427357601002e-15
+cluster_tiempo,Rutina flexible,ingreso_libre_observado_p25,0
+cluster_tiempo,Rutina flexible,ingreso_libre_observado_p50,0
+cluster_tiempo,Rutina flexible,ingreso_libre_observado_p75,35.28596698847404
+cluster_tiempo,Rutina flexible,ingreso_libre_observado_p95,103.84603377378946
+cluster_tiempo,Rutina flexible,ingreso_libre_observado_p99,230.17619543120003
+cluster_tiempo,Rutina flexible,ingreso_libre_predicho_p01,2.1058665971896633
+cluster_tiempo,Rutina flexible,ingreso_libre_predicho_p05,4.162664119745718
+cluster_tiempo,Rutina flexible,ingreso_libre_predicho_p25,8.18013731633241
+cluster_tiempo,Rutina flexible,ingreso_libre_predicho_p50,14.879311624398005
+cluster_tiempo,Rutina flexible,ingreso_libre_predicho_p75,28.322029186813516
+cluster_tiempo,Rutina flexible,ingreso_libre_predicho_p95,53.890527491516096
+cluster_tiempo,Rutina flexible,ingreso_libre_predicho_p99,138.85966944080783
+cluster_tiempo,Rutina flexible,ingreso_potencial_neto_Ec_p01,79.6679548296
+cluster_tiempo,Rutina flexible,ingreso_potencial_neto_Ec_p05,115.4047265025
+cluster_tiempo,Rutina flexible,ingreso_potencial_neto_Ec_p25,167.889139935
+cluster_tiempo,Rutina flexible,ingreso_potencial_neto_Ec_p50,206.32154006
+cluster_tiempo,Rutina flexible,ingreso_potencial_neto_Ec_p75,250.46030779000003
+cluster_tiempo,Rutina flexible,ingreso_potencial_neto_Ec_p95,365.52177316084595
+cluster_tiempo,Rutina flexible,ingreso_potencial_neto_Ec_p99,1003.6757032167992
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_p01,0.8898672453217298
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_p05,3.4610713397333623
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_p25,5.90163264901842
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_p50,8.59026153407656
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_p75,13.495841734790481
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_p95,29.858288504209256
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_p99,68.28226344610488
+cluster_tiempo,Jovenes trabajadores,VoL_observado_p01,-2.0152190730195405e-6
+cluster_tiempo,Jovenes trabajadores,VoL_observado_p05,0
+cluster_tiempo,Jovenes trabajadores,VoL_observado_p25,4.788099877549659
+cluster_tiempo,Jovenes trabajadores,VoL_observado_p50,8.781088387702889
+cluster_tiempo,Jovenes trabajadores,VoL_observado_p75,15.287942118011298
+cluster_tiempo,Jovenes trabajadores,VoL_observado_p95,37.70016500119501
+cluster_tiempo,Jovenes trabajadores,VoL_observado_p99,79.17657697611081
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_p01,0.197306511658189
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_p05,1.3997075830214833
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_p25,3.02633953201469
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_p50,5.0613748495021404
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_p75,8.044515456771567
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_p95,18.11984761855795
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_p99,43.36131338204727
+cluster_tiempo,Jovenes trabajadores,VTAW_observado_p01,-3.24259762
+cluster_tiempo,Jovenes trabajadores,VTAW_observado_p05,-3.0163729
+cluster_tiempo,Jovenes trabajadores,VTAW_observado_p25,1.8031605101752723
+cluster_tiempo,Jovenes trabajadores,VTAW_observado_p50,5.08711078906933
+cluster_tiempo,Jovenes trabajadores,VTAW_observado_p75,9.860938532328063
+cluster_tiempo,Jovenes trabajadores,VTAW_observado_p95,25.597714032320958
+cluster_tiempo,Jovenes trabajadores,VTAW_observado_p99,57.158509496473116
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_sobre_w_p01,1.2282784571703598
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_sobre_w_p05,1.596257643066826
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_sobre_w_p25,1.9733750476025191
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_sobre_w_p50,2.280306472861939
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_sobre_w_p75,2.602477414097618
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_sobre_w_p95,3.370061616678794
+cluster_tiempo,Jovenes trabajadores,VoL_predicho_sobre_w_p99,3.6999470394083334
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_sobre_w_p01,0.22827845717035966
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_sobre_w_p05,0.596257643066826
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_sobre_w_p25,0.9733750476025191
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_sobre_w_p50,1.280306472861939
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_sobre_w_p75,1.602477414097618
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_sobre_w_p95,2.3700616166787944
+cluster_tiempo,Jovenes trabajadores,VTAW_predicho_sobre_w_p99,2.6999470394083334
+cluster_tiempo,Jovenes trabajadores,Tw_hat_p01,18.998912359608788
+cluster_tiempo,Jovenes trabajadores,Tw_hat_p05,27.862119861615295
+cluster_tiempo,Jovenes trabajadores,Tw_hat_p25,47.11278372835167
+cluster_tiempo,Jovenes trabajadores,Tw_hat_p50,51.652036848930706
+cluster_tiempo,Jovenes trabajadores,Tw_hat_p75,55.99287781008298
+cluster_tiempo,Jovenes trabajadores,Tw_hat_p95,64.43319367423715
+cluster_tiempo,Jovenes trabajadores,Tw_hat_p99,70.32023750112519
+cluster_tiempo,Jovenes trabajadores,Tf1_hat_p01,20.272091488125977
+cluster_tiempo,Jovenes trabajadores,Tf1_hat_p05,28.49225390305278
+cluster_tiempo,Jovenes trabajadores,Tf1_hat_p25,47.959131070103126
+cluster_tiempo,Jovenes trabajadores,Tf1_hat_p50,51.428058948609106
+cluster_tiempo,Jovenes trabajadores,Tf1_hat_p75,55.07113362617234
+cluster_tiempo,Jovenes trabajadores,Tf1_hat_p95,60.381059344962
+cluster_tiempo,Jovenes trabajadores,Tf1_hat_p99,65.74661006563666
+cluster_tiempo,Jovenes trabajadores,Tf2_hat_p01,3.1760564383509617
+cluster_tiempo,Jovenes trabajadores,Tf2_hat_p05,4.463920582882424
+cluster_tiempo,Jovenes trabajadores,Tf2_hat_p25,7.513822986746977
+cluster_tiempo,Jovenes trabajadores,Tf2_hat_p50,8.05730468567071
+cluster_tiempo,Jovenes trabajadores,Tf2_hat_p75,8.628070202975394
+cluster_tiempo,Jovenes trabajadores,Tf2_hat_p95,9.459983564071132
+cluster_tiempo,Jovenes trabajadores,Tf2_hat_p99,10.30061177067128
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_observado_p01,-2.0629600002664007e-5
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_observado_p05,0
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_observado_p25,45.90499574999999
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_observado_p50,85.28002684000003
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_observado_p75,143.62623915409932
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_observado_p95,352.2060133779997
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_observado_p99,754.1473891547998
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_predicho_p01,7.196877062251262
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_predicho_p05,25.519722659664453
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_predicho_p25,53.29275082513882
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_predicho_p50,82.68609663903558
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_predicho_p75,136.8081958576824
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_predicho_p95,304.3917692322708
+cluster_tiempo,Jovenes trabajadores,ingreso_libre_predicho_p99,673.7858515879673
+cluster_tiempo,Jovenes trabajadores,ingreso_potencial_neto_Ec_p01,39.36567091399999
+cluster_tiempo,Jovenes trabajadores,ingreso_potencial_neto_Ec_p05,103.14590863471697
+cluster_tiempo,Jovenes trabajadores,ingreso_potencial_neto_Ec_p25,204.770255415
+cluster_tiempo,Jovenes trabajadores,ingreso_potencial_neto_Ec_p50,295.60276814
+cluster_tiempo,Jovenes trabajadores,ingreso_potencial_neto_Ec_p75,472.43372445
+cluster_tiempo,Jovenes trabajadores,ingreso_potencial_neto_Ec_p95,1014.288128931
+cluster_tiempo,Jovenes trabajadores,ingreso_potencial_neto_Ec_p99,2179.5982155735996
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_p01,0.982809501157427
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_p05,3.119353260833118
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_p25,6.197138723762555
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_p50,8.777806333286867
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_p75,14.47774736002284
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_p95,37.029479953929346
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_p99,65.30526251693682
+cluster_tiempo,Trabajadores rutinarios,VoL_observado_p01,-1.368409078313935
+cluster_tiempo,Trabajadores rutinarios,VoL_observado_p05,0.9057705366167731
+cluster_tiempo,Trabajadores rutinarios,VoL_observado_p25,5.764361816376991
+cluster_tiempo,Trabajadores rutinarios,VoL_observado_p50,9.23657861959682
+cluster_tiempo,Trabajadores rutinarios,VoL_observado_p75,15.931905127288815
+cluster_tiempo,Trabajadores rutinarios,VoL_observado_p95,41.4155536661588
+cluster_tiempo,Trabajadores rutinarios,VoL_observado_p99,78.29712498951822
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_p01,0.05384011392311025
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_p05,1.2755088155072332
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_p25,3.5622462654611593
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_p50,5.569825599683952
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_p75,9.613694030966105
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_p95,25.360878557351977
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_p99,46.7381144521146
+cluster_tiempo,Trabajadores rutinarios,VTAW_observado_p01,-3.1064236000000003
+cluster_tiempo,Trabajadores rutinarios,VTAW_observado_p05,-0.8281552607188765
+cluster_tiempo,Trabajadores rutinarios,VTAW_observado_p25,2.9043043634446564
+cluster_tiempo,Trabajadores rutinarios,VTAW_observado_p50,5.779033954356831
+cluster_tiempo,Trabajadores rutinarios,VTAW_observado_p75,11.302733431578211
+cluster_tiempo,Trabajadores rutinarios,VTAW_observado_p95,30.817622930669224
+cluster_tiempo,Trabajadores rutinarios,VTAW_observado_p99,62.19225869470304
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_sobre_w_p01,1.0823523531109775
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_sobre_w_p05,1.610992534175181
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_sobre_w_p25,2.226651824566621
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_sobre_w_p50,2.6416238112500157
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_sobre_w_p75,3.070057059123274
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_sobre_w_p95,3.9208809705175383
+cluster_tiempo,Trabajadores rutinarios,VoL_predicho_sobre_w_p99,4.486192065275716
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_sobre_w_p01,0.08235235311097738
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_sobre_w_p05,0.6109925341751808
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_sobre_w_p25,1.2266518245666211
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_sobre_w_p50,1.6416238112500157
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_sobre_w_p75,2.0700570591232736
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_sobre_w_p95,2.9208809705175383
+cluster_tiempo,Trabajadores rutinarios,VTAW_predicho_sobre_w_p99,3.4861920652757163
+cluster_tiempo,Trabajadores rutinarios,Tw_hat_p01,39.51935787515549
+cluster_tiempo,Trabajadores rutinarios,Tw_hat_p05,47.104760392558276
+cluster_tiempo,Trabajadores rutinarios,Tw_hat_p25,54.602043427457154
+cluster_tiempo,Trabajadores rutinarios,Tw_hat_p50,58.54575177576728
+cluster_tiempo,Trabajadores rutinarios,Tw_hat_p75,62.60168444533912
+cluster_tiempo,Trabajadores rutinarios,Tw_hat_p95,69.7415471238153
+cluster_tiempo,Trabajadores rutinarios,Tw_hat_p99,77.9873886951441
+cluster_tiempo,Trabajadores rutinarios,Tf1_hat_p01,13.417030260235121
+cluster_tiempo,Trabajadores rutinarios,Tf1_hat_p05,20.673715843636725
+cluster_tiempo,Trabajadores rutinarios,Tf1_hat_p25,27.38603373456175
+cluster_tiempo,Trabajadores rutinarios,Tf1_hat_p50,30.133525586028725
+cluster_tiempo,Trabajadores rutinarios,Tf1_hat_p75,32.605320971962506
+cluster_tiempo,Trabajadores rutinarios,Tf1_hat_p95,35.599841770465694
+cluster_tiempo,Trabajadores rutinarios,Tf1_hat_p99,37.439607118865055
+cluster_tiempo,Trabajadores rutinarios,Tf2_hat_p01,4.791659202643278
+cluster_tiempo,Trabajadores rutinarios,Tf2_hat_p05,7.383258355508705
+cluster_tiempo,Trabajadores rutinarios,Tf2_hat_p25,9.780446046770152
+cluster_tiempo,Trabajadores rutinarios,Tf2_hat_p50,10.761665016908962
+cluster_tiempo,Trabajadores rutinarios,Tf2_hat_p75,11.644423785305243
+cluster_tiempo,Trabajadores rutinarios,Tf2_hat_p95,12.713864851125946
+cluster_tiempo,Trabajadores rutinarios,Tf2_hat_p99,13.370905074735575
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_observado_p01,-10.46661082920001
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_observado_p05,8.160018447999999
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_observado_p25,54.06559929029411
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_observado_p50,82.53499951500001
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_observado_p75,140.48267173390178
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_observado_p95,355.6549443001393
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_observado_p99,740.4240818383005
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_predicho_p01,4.188800637434917
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_predicho_p05,20.86495948868845
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_predicho_p25,54.74684000370449
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_predicho_p50,81.00499777699757
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_predicho_p75,141.11781131693633
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_predicho_p95,367.9118208114124
+cluster_tiempo,Trabajadores rutinarios,ingreso_libre_predicho_p99,677.5208524070672
+cluster_tiempo,Trabajadores rutinarios,ingreso_potencial_neto_Ec_p01,23.075637772200036
+cluster_tiempo,Trabajadores rutinarios,ingreso_potencial_neto_Ec_p05,76.03827325850003
+cluster_tiempo,Trabajadores rutinarios,ingreso_potencial_neto_Ec_p25,155.55742739999997
+cluster_tiempo,Trabajadores rutinarios,ingreso_potencial_neto_Ec_p50,213.94755100499998
+cluster_tiempo,Trabajadores rutinarios,ingreso_potencial_neto_Ec_p75,348.42934318749997
+cluster_tiempo,Trabajadores rutinarios,ingreso_potencial_neto_Ec_p95,854.8824202528599
+cluster_tiempo,Trabajadores rutinarios,ingreso_potencial_neto_Ec_p99,1531.373058521779
+cluster_tiempo,Trabajadores moviles,VoL_predicho_p01,1.1349145069844728
+cluster_tiempo,Trabajadores moviles,VoL_predicho_p05,2.7278379664909798
+cluster_tiempo,Trabajadores moviles,VoL_predicho_p25,4.546627479902463
+cluster_tiempo,Trabajadores moviles,VoL_predicho_p50,6.210454248204966
+cluster_tiempo,Trabajadores moviles,VoL_predicho_p75,9.441839837920538
+cluster_tiempo,Trabajadores moviles,VoL_predicho_p95,21.952700295021764
+cluster_tiempo,Trabajadores moviles,VoL_predicho_p99,46.80566987689718
+cluster_tiempo,Trabajadores moviles,VoL_observado_p01,-0.21758971158939863
+cluster_tiempo,Trabajadores moviles,VoL_observado_p05,0.5327507827989089
+cluster_tiempo,Trabajadores moviles,VoL_observado_p25,3.6929092520239073
+cluster_tiempo,Trabajadores moviles,VoL_observado_p50,6.633309330146435
+cluster_tiempo,Trabajadores moviles,VoL_observado_p75,12.119881637551007
+cluster_tiempo,Trabajadores moviles,VoL_observado_p95,26.72888893874951
+cluster_tiempo,Trabajadores moviles,VoL_observado_p99,59.14681131030291
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_p01,0.11003657832603914
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_p05,0.7283108200163961
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_p25,1.7400007888454163
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_p50,2.759577940383984
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_p75,4.535845410819569
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_p95,11.233909115245126
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_p99,24.869030376897186
+cluster_tiempo,Trabajadores moviles,VTAW_observado_p01,-3.3399130935916386
+cluster_tiempo,Trabajadores moviles,VTAW_observado_p05,-1.791275885747459
+cluster_tiempo,Trabajadores moviles,VTAW_observado_p25,0.6661580440893841
+cluster_tiempo,Trabajadores moviles,VTAW_observado_p50,2.620752209539746
+cluster_tiempo,Trabajadores moviles,VTAW_observado_p75,6.957722417103871
+cluster_tiempo,Trabajadores moviles,VTAW_observado_p95,19.180091325525975
+cluster_tiempo,Trabajadores moviles,VTAW_observado_p99,41.95955170177046
+cluster_tiempo,Trabajadores moviles,VoL_predicho_sobre_w_p01,1.0860725130888051
+cluster_tiempo,Trabajadores moviles,VoL_predicho_sobre_w_p05,1.3203111927308826
+cluster_tiempo,Trabajadores moviles,VoL_predicho_sobre_w_p25,1.59488970336806
+cluster_tiempo,Trabajadores moviles,VoL_predicho_sobre_w_p50,1.7763929905638696
+cluster_tiempo,Trabajadores moviles,VoL_predicho_sobre_w_p75,1.98203331385919
+cluster_tiempo,Trabajadores moviles,VoL_predicho_sobre_w_p95,2.3371526751485403
+cluster_tiempo,Trabajadores moviles,VoL_predicho_sobre_w_p99,2.609181083384628
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_sobre_w_p01,0.08607251308880515
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_sobre_w_p05,0.3203111927308825
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_sobre_w_p25,0.5948897033680601
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_sobre_w_p50,0.7763929905638696
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_sobre_w_p75,0.98203331385919
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_sobre_w_p95,1.337152675148541
+cluster_tiempo,Trabajadores moviles,VTAW_predicho_sobre_w_p99,1.609181083384628
+cluster_tiempo,Trabajadores moviles,Tw_hat_p01,31.365470706458126
+cluster_tiempo,Trabajadores moviles,Tw_hat_p05,51.27558367547547
+cluster_tiempo,Trabajadores moviles,Tw_hat_p25,59.42888038447859
+cluster_tiempo,Trabajadores moviles,Tw_hat_p50,64.36210705488828
+cluster_tiempo,Trabajadores moviles,Tw_hat_p75,70.90082035690963
+cluster_tiempo,Trabajadores moviles,Tw_hat_p95,81.87887349747123
+cluster_tiempo,Trabajadores moviles,Tw_hat_p99,94.43667870921729
+cluster_tiempo,Trabajadores moviles,Tf1_hat_p01,14.384838827117434
+cluster_tiempo,Trabajadores moviles,Tf1_hat_p05,22.36680730783558
+cluster_tiempo,Trabajadores moviles,Tf1_hat_p25,31.10295335772612
+cluster_tiempo,Trabajadores moviles,Tf1_hat_p50,35.28146912134103
+cluster_tiempo,Trabajadores moviles,Tf1_hat_p75,38.689604571920896
+cluster_tiempo,Trabajadores moviles,Tf1_hat_p95,43.13424586080983
+cluster_tiempo,Trabajadores moviles,Tf1_hat_p99,47.08496488514219
+cluster_tiempo,Trabajadores moviles,Tf2_hat_p01,3.571819456829841
+cluster_tiempo,Trabajadores moviles,Tf2_hat_p05,5.553777730111705
+cluster_tiempo,Trabajadores moviles,Tf2_hat_p25,7.72300164799686
+cluster_tiempo,Trabajadores moviles,Tf2_hat_p50,8.760545695901964
+cluster_tiempo,Trabajadores moviles,Tf2_hat_p75,9.606800885841556
+cluster_tiempo,Trabajadores moviles,Tf2_hat_p95,10.710425085255963
+cluster_tiempo,Trabajadores moviles,Tf2_hat_p99,11.691406189679356
+cluster_tiempo,Trabajadores moviles,ingreso_libre_observado_p01,-1.4976318585
+cluster_tiempo,Trabajadores moviles,ingreso_libre_observado_p05,5.427492609999999
+cluster_tiempo,Trabajadores moviles,ingreso_libre_observado_p25,56.760033674999995
+cluster_tiempo,Trabajadores moviles,ingreso_libre_observado_p50,94.01998930000003
+cluster_tiempo,Trabajadores moviles,ingreso_libre_observado_p75,156.43502437499995
+cluster_tiempo,Trabajadores moviles,ingreso_libre_observado_p95,357.075500176
+cluster_tiempo,Trabajadores moviles,ingreso_libre_observado_p99,798.4877106827996
+cluster_tiempo,Trabajadores moviles,ingreso_libre_predicho_p01,8.988486953905031
+cluster_tiempo,Trabajadores moviles,ingreso_libre_predicho_p05,30.808203912858918
+cluster_tiempo,Trabajadores moviles,ingreso_libre_predicho_p25,61.91023887528089
+cluster_tiempo,Trabajadores moviles,ingreso_libre_predicho_p50,90.59431593461863
+cluster_tiempo,Trabajadores moviles,ingreso_libre_predicho_p75,147.50231765544552
+cluster_tiempo,Trabajadores moviles,ingreso_libre_predicho_p95,347.983848969577
+cluster_tiempo,Trabajadores moviles,ingreso_libre_predicho_p99,822.3681542071467
+cluster_tiempo,Trabajadores moviles,ingreso_potencial_neto_Ec_p01,31.460774832599995
+cluster_tiempo,Trabajadores moviles,ingreso_potencial_neto_Ec_p05,94.4082674445
+cluster_tiempo,Trabajadores moviles,ingreso_potencial_neto_Ec_p25,172.96580418000002
+cluster_tiempo,Trabajadores moviles,ingreso_potencial_neto_Ec_p50,237.03129337500002
+cluster_tiempo,Trabajadores moviles,ingreso_potencial_neto_Ec_p75,378.2164552148895
+cluster_tiempo,Trabajadores moviles,ingreso_potencial_neto_Ec_p95,873.338276331
+cluster_tiempo,Trabajadores moviles,ingreso_potencial_neto_Ec_p99,1961.6979239990987
+cluster_modo,Usuarios publicos,VoL_predicho_p01,0.9774512991176918
+cluster_modo,Usuarios publicos,VoL_predicho_p05,2.2776175918257624
+cluster_modo,Usuarios publicos,VoL_predicho_p25,3.29825864617322
+cluster_modo,Usuarios publicos,VoL_predicho_p50,3.8829357808493765
+cluster_modo,Usuarios publicos,VoL_predicho_p75,4.726215151969212
+cluster_modo,Usuarios publicos,VoL_predicho_p95,8.067684276319094
+cluster_modo,Usuarios publicos,VoL_predicho_p99,13.352828602585086
+cluster_modo,Usuarios publicos,VoL_observado_p01,-1.3086953708240434
+cluster_modo,Usuarios publicos,VoL_observado_p05,0
+cluster_modo,Usuarios publicos,VoL_observado_p25,0
+cluster_modo,Usuarios publicos,VoL_observado_p50,3.7545547649391864
+cluster_modo,Usuarios publicos,VoL_observado_p75,7.186634730914254
+cluster_modo,Usuarios publicos,VoL_observado_p95,15.843696524177346
+cluster_modo,Usuarios publicos,VoL_observado_p99,27.729083563093013
+cluster_modo,Usuarios publicos,VTAW_predicho_p01,-0.0818061867167471
+cluster_modo,Usuarios publicos,VTAW_predicho_p05,0.1693104049577374
+cluster_modo,Usuarios publicos,VTAW_predicho_p25,0.46118447174232324
+cluster_modo,Usuarios publicos,VTAW_predicho_p50,0.8212299415145656
+cluster_modo,Usuarios publicos,VTAW_predicho_p75,1.3751831644936163
+cluster_modo,Usuarios publicos,VTAW_predicho_p95,2.1517678759860543
+cluster_modo,Usuarios publicos,VTAW_predicho_p99,3.874057047134425
+cluster_modo,Usuarios publicos,VTAW_observado_p01,-4.514017714410109
+cluster_modo,Usuarios publicos,VTAW_observado_p05,-3.1656291
+cluster_modo,Usuarios publicos,VTAW_observado_p25,-2.9285240000000003
+cluster_modo,Usuarios publicos,VTAW_observado_p50,0.7506982904943857
+cluster_modo,Usuarios publicos,VTAW_observado_p75,3.7484874064339473
+cluster_modo,Usuarios publicos,VTAW_observado_p95,10.924178210758454
+cluster_modo,Usuarios publicos,VTAW_observado_p99,19.709719445538084
+cluster_modo,Usuarios publicos,VoL_predicho_sobre_w_p01,0.9201980576955751
+cluster_modo,Usuarios publicos,VoL_predicho_sobre_w_p05,1.0656462214365192
+cluster_modo,Usuarios publicos,VoL_predicho_sobre_w_p25,1.1675935185702628
+cluster_modo,Usuarios publicos,VoL_predicho_sobre_w_p50,1.260344037646633
+cluster_modo,Usuarios publicos,VoL_predicho_sobre_w_p75,1.3849070736476043
+cluster_modo,Usuarios publicos,VoL_predicho_sobre_w_p95,1.6017253112541747
+cluster_modo,Usuarios publicos,VoL_predicho_sobre_w_p99,1.678568469374379
+cluster_modo,Usuarios publicos,VTAW_predicho_sobre_w_p01,-0.07980194230442501
+cluster_modo,Usuarios publicos,VTAW_predicho_sobre_w_p05,0.065646221436519
+cluster_modo,Usuarios publicos,VTAW_predicho_sobre_w_p25,0.1675935185702629
+cluster_modo,Usuarios publicos,VTAW_predicho_sobre_w_p50,0.26034403764663305
+cluster_modo,Usuarios publicos,VTAW_predicho_sobre_w_p75,0.38490707364760435
+cluster_modo,Usuarios publicos,VTAW_predicho_sobre_w_p95,0.6017253112541747
+cluster_modo,Usuarios publicos,VTAW_predicho_sobre_w_p99,0.6785684693743786
+cluster_modo,Usuarios publicos,Tw_hat_p01,17.078165224962714
+cluster_modo,Usuarios publicos,Tw_hat_p05,22.394371389067835
+cluster_modo,Usuarios publicos,Tw_hat_p25,39.049869795759975
+cluster_modo,Usuarios publicos,Tw_hat_p50,51.196196474698674
+cluster_modo,Usuarios publicos,Tw_hat_p75,61.40675938391162
+cluster_modo,Usuarios publicos,Tw_hat_p95,78.79049593735331
+cluster_modo,Usuarios publicos,Tw_hat_p99,95.2081823718434
+cluster_modo,Usuarios publicos,Tf1_hat_p01,11.299282757353698
+cluster_modo,Usuarios publicos,Tf1_hat_p05,18.59213263909764
+cluster_modo,Usuarios publicos,Tf1_hat_p25,29.22895263227616
+cluster_modo,Usuarios publicos,Tf1_hat_p50,36.32862554777069
+cluster_modo,Usuarios publicos,Tf1_hat_p75,43.14315572547169
+cluster_modo,Usuarios publicos,Tf1_hat_p95,51.98109795835259
+cluster_modo,Usuarios publicos,Tf1_hat_p99,58.55153330364565
+cluster_modo,Usuarios publicos,Tf2_hat_p01,2.8176140604231024
+cluster_modo,Usuarios publicos,Tf2_hat_p05,4.636175185816972
+cluster_modo,Usuarios publicos,Tf2_hat_p25,7.288596070803169
+cluster_modo,Usuarios publicos,Tf2_hat_p50,9.058986161986926
+cluster_modo,Usuarios publicos,Tf2_hat_p75,10.758272431407155
+cluster_modo,Usuarios publicos,Tf2_hat_p95,12.962121192016843
+cluster_modo,Usuarios publicos,Tf2_hat_p99,14.600539435860698
+cluster_modo,Usuarios publicos,ingreso_libre_observado_p01,-11.121422364199978
+cluster_modo,Usuarios publicos,ingreso_libre_observado_p05,0
+cluster_modo,Usuarios publicos,ingreso_libre_observado_p25,0
+cluster_modo,Usuarios publicos,ingreso_libre_observado_p50,48.71001307
+cluster_modo,Usuarios publicos,ingreso_libre_observado_p75,86.02924976182794
+cluster_modo,Usuarios publicos,ingreso_libre_observado_p95,177.03499803699998
+cluster_modo,Usuarios publicos,ingreso_libre_observado_p99,277.75025305458195
+cluster_modo,Usuarios publicos,ingreso_libre_predicho_p01,6.7014908513800595
+cluster_modo,Usuarios publicos,ingreso_libre_predicho_p05,18.389172327745428
+cluster_modo,Usuarios publicos,ingreso_libre_predicho_p25,36.348467134442444
+cluster_modo,Usuarios publicos,ingreso_libre_predicho_p50,50.360821707547515
+cluster_modo,Usuarios publicos,ingreso_libre_predicho_p75,70.5378851558907
+cluster_modo,Usuarios publicos,ingreso_libre_predicho_p95,129.38294865473722
+cluster_modo,Usuarios publicos,ingreso_libre_predicho_p99,231.19799107565953
+cluster_modo,Usuarios publicos,ingreso_potencial_neto_Ec_p01,31.204402482399995
+cluster_modo,Usuarios publicos,ingreso_potencial_neto_Ec_p05,76.16571458600002
+cluster_modo,Usuarios publicos,ingreso_potencial_neto_Ec_p25,139.88658857
+cluster_modo,Usuarios publicos,ingreso_potencial_neto_Ec_p50,183.22593560033894
+cluster_modo,Usuarios publicos,ingreso_potencial_neto_Ec_p75,244.36147103499997
+cluster_modo,Usuarios publicos,ingreso_potencial_neto_Ec_p95,452.7220842040965
+cluster_modo,Usuarios publicos,ingreso_potencial_neto_Ec_p99,802.1727283120003
+cluster_modo,Movilidad activa,VoL_predicho_p01,1.098843775375112
+cluster_modo,Movilidad activa,VoL_predicho_p05,2.3668362804777083
+cluster_modo,Movilidad activa,VoL_predicho_p25,3.5874934995885686
+cluster_modo,Movilidad activa,VoL_predicho_p50,4.43666459978902
+cluster_modo,Movilidad activa,VoL_predicho_p75,6.133989843617544
+cluster_modo,Movilidad activa,VoL_predicho_p95,9.771827838042283
+cluster_modo,Movilidad activa,VoL_predicho_p99,23.425721493814507
+cluster_modo,Movilidad activa,VoL_observado_p01,-3.8625040008557567
+cluster_modo,Movilidad activa,VoL_observado_p05,-1.9139181084764478e-15
+cluster_modo,Movilidad activa,VoL_observado_p25,0
+cluster_modo,Movilidad activa,VoL_observado_p50,3.369386606304661
+cluster_modo,Movilidad activa,VoL_observado_p75,10.256334709974281
+cluster_modo,Movilidad activa,VoL_observado_p95,25.31414193959108
+cluster_modo,Movilidad activa,VoL_observado_p99,58.712658336113876
+cluster_modo,Movilidad activa,VTAW_predicho_p01,-0.2627136173452007
+cluster_modo,Movilidad activa,VTAW_predicho_p05,0.0982649157078449
+cluster_modo,Movilidad activa,VTAW_predicho_p25,0.7007421792323809
+cluster_modo,Movilidad activa,VTAW_predicho_p50,1.3627192840424174
+cluster_modo,Movilidad activa,VTAW_predicho_p75,2.7632047729701448
+cluster_modo,Movilidad activa,VTAW_predicho_p95,5.025700452902983
+cluster_modo,Movilidad activa,VTAW_predicho_p99,10.898919161203692
+cluster_modo,Movilidad activa,VTAW_observado_p01,-6.16565810600333
+cluster_modo,Movilidad activa,VTAW_observado_p05,-3.1910122000000003
+cluster_modo,Movilidad activa,VTAW_observado_p25,-3.030281
+cluster_modo,Movilidad activa,VTAW_observado_p50,0.39810846656954846
+cluster_modo,Movilidad activa,VTAW_observado_p75,7.098200615393859
+cluster_modo,Movilidad activa,VTAW_observado_p95,20.14639911642208
+cluster_modo,Movilidad activa,VTAW_observado_p99,48.712031913227804
+cluster_modo,Movilidad activa,VoL_predicho_sobre_w_p01,0.8520283950890524
+cluster_modo,Movilidad activa,VoL_predicho_sobre_w_p05,1.0392573849454838
+cluster_modo,Movilidad activa,VoL_predicho_sobre_w_p25,1.2487295693157563
+cluster_modo,Movilidad activa,VoL_predicho_sobre_w_p50,1.4421866688625333
+cluster_modo,Movilidad activa,VoL_predicho_sobre_w_p75,1.7767318089524218
+cluster_modo,Movilidad activa,VoL_predicho_sobre_w_p95,2.4293796126712826
+cluster_modo,Movilidad activa,VoL_predicho_sobre_w_p99,2.668119763391443
+cluster_modo,Movilidad activa,VTAW_predicho_sobre_w_p01,-0.14797160491094755
+cluster_modo,Movilidad activa,VTAW_predicho_sobre_w_p05,0.03925738494548395
+cluster_modo,Movilidad activa,VTAW_predicho_sobre_w_p25,0.24872956931575627
+cluster_modo,Movilidad activa,VTAW_predicho_sobre_w_p50,0.4421866688625333
+cluster_modo,Movilidad activa,VTAW_predicho_sobre_w_p75,0.7767318089524217
+cluster_modo,Movilidad activa,VTAW_predicho_sobre_w_p95,1.429379612671282
+cluster_modo,Movilidad activa,VTAW_predicho_sobre_w_p99,1.6681197633914426
+cluster_modo,Movilidad activa,Tw_hat_p01,19.42123428246917
+cluster_modo,Movilidad activa,Tw_hat_p05,26.41398715335421
+cluster_modo,Movilidad activa,Tw_hat_p25,37.778624603405135
+cluster_modo,Movilidad activa,Tw_hat_p50,46.97908178726976
+cluster_modo,Movilidad activa,Tw_hat_p75,57.993952243564536
+cluster_modo,Movilidad activa,Tw_hat_p95,76.48825213936368
+cluster_modo,Movilidad activa,Tw_hat_p99,93.41124118071744
+cluster_modo,Movilidad activa,Tf1_hat_p01,12.995915291617111
+cluster_modo,Movilidad activa,Tf1_hat_p05,20.689462215419486
+cluster_modo,Movilidad activa,Tf1_hat_p25,32.711566759695835
+cluster_modo,Movilidad activa,Tf1_hat_p50,40.15312997622015
+cluster_modo,Movilidad activa,Tf1_hat_p75,47.51356999339831
+cluster_modo,Movilidad activa,Tf1_hat_p95,55.888903848880076
+cluster_modo,Movilidad activa,Tf1_hat_p99,61.70627689351947
+cluster_modo,Movilidad activa,Tf2_hat_p01,3.1477995857555716
+cluster_modo,Movilidad activa,Tf2_hat_p05,5.011288480251336
+cluster_modo,Movilidad activa,Tf2_hat_p25,7.923216948174918
+cluster_modo,Movilidad activa,Tf2_hat_p50,9.725671726058774
+cluster_modo,Movilidad activa,Tf2_hat_p75,11.508477285894735
+cluster_modo,Movilidad activa,Tf2_hat_p95,13.53710488535715
+cluster_modo,Movilidad activa,Tf2_hat_p99,14.946157195194337
+cluster_modo,Movilidad activa,ingreso_libre_observado_p01,-22.1432000968
+cluster_modo,Movilidad activa,ingreso_libre_observado_p05,-1.4210854715202004e-14
+cluster_modo,Movilidad activa,ingreso_libre_observado_p25,0
+cluster_modo,Movilidad activa,ingreso_libre_observado_p50,26.239975639999997
+cluster_modo,Movilidad activa,ingreso_libre_observado_p75,71.9682235895652
+cluster_modo,Movilidad activa,ingreso_libre_observado_p95,165.72200823199998
+cluster_modo,Movilidad activa,ingreso_libre_observado_p99,388.4847706735999
+cluster_modo,Movilidad activa,ingreso_libre_predicho_p01,4.629494989163734
+cluster_modo,Movilidad activa,ingreso_libre_predicho_p05,11.138113416519019
+cluster_modo,Movilidad activa,ingreso_libre_predicho_p25,23.825123076532094
+cluster_modo,Movilidad activa,ingreso_libre_predicho_p50,36.44024689519654
+cluster_modo,Movilidad activa,ingreso_libre_predicho_p75,56.52234810668759
+cluster_modo,Movilidad activa,ingreso_libre_predicho_p95,102.00667648073616
+cluster_modo,Movilidad activa,ingreso_libre_predicho_p99,246.6000708033118
+cluster_modo,Movilidad activa,ingreso_potencial_neto_Ec_p01,36.94154019560001
+cluster_modo,Movilidad activa,ingreso_potencial_neto_Ec_p05,75.19304491599999
+cluster_modo,Movilidad activa,ingreso_potencial_neto_Ec_p25,139.6995547
+cluster_modo,Movilidad activa,ingreso_potencial_neto_Ec_p50,186.19022592000002
+cluster_modo,Movilidad activa,ingreso_potencial_neto_Ec_p75,244.50142178
+cluster_modo,Movilidad activa,ingreso_potencial_neto_Ec_p95,437.1806456979994
+cluster_modo,Movilidad activa,ingreso_potencial_neto_Ec_p99,1027.1293537327983
+cluster_modo,Movilidad mixta,VoL_predicho_p01,0.9933054013252619
+cluster_modo,Movilidad mixta,VoL_predicho_p05,2.6000663824475367
+cluster_modo,Movilidad mixta,VoL_predicho_p25,3.94118068164612
+cluster_modo,Movilidad mixta,VoL_predicho_p50,5.083036220922352
+cluster_modo,Movilidad mixta,VoL_predicho_p75,7.072085178387274
+cluster_modo,Movilidad mixta,VoL_predicho_p95,15.125334521514718
+cluster_modo,Movilidad mixta,VoL_predicho_p99,32.11939448916823
+cluster_modo,Movilidad mixta,VoL_observado_p01,-0.8882693131035218
+cluster_modo,Movilidad mixta,VoL_observado_p05,0
+cluster_modo,Movilidad mixta,VoL_observado_p25,1.5541546553091914
+cluster_modo,Movilidad mixta,VoL_observado_p50,5.568406756402801
+cluster_modo,Movilidad mixta,VoL_observado_p75,10.433326597913954
+cluster_modo,Movilidad mixta,VoL_observado_p95,26.788146714155157
+cluster_modo,Movilidad mixta,VoL_observado_p99,51.90757353938756
+cluster_modo,Movilidad mixta,VTAW_predicho_p01,-0.020732405361727574
+cluster_modo,Movilidad mixta,VTAW_predicho_p05,0.38709208381541776
+cluster_modo,Movilidad mixta,VTAW_predicho_p25,1.1245184614245627
+cluster_modo,Movilidad mixta,VTAW_predicho_p50,1.9238511625745351
+cluster_modo,Movilidad mixta,VTAW_predicho_p75,3.1297847620050065
+cluster_modo,Movilidad mixta,VTAW_predicho_p95,6.832034327765535
+cluster_modo,Movilidad mixta,VTAW_predicho_p99,16.058277360264192
+cluster_modo,Movilidad mixta,VTAW_observado_p01,-3.806501079582424
+cluster_modo,Movilidad mixta,VTAW_observado_p05,-3.1335575999999996
+cluster_modo,Movilidad mixta,VTAW_observado_p25,-1.2064737396445282
+cluster_modo,Movilidad mixta,VTAW_observado_p50,2.3649422355281966
+cluster_modo,Movilidad mixta,VTAW_observado_p75,6.326455001447851
+cluster_modo,Movilidad mixta,VTAW_observado_p95,19.403738268708725
+cluster_modo,Movilidad mixta,VTAW_observado_p99,36.60311222018503
+cluster_modo,Movilidad mixta,VoL_predicho_sobre_w_p01,0.98408818709109
+cluster_modo,Movilidad mixta,VoL_predicho_sobre_w_p05,1.1545038143613318
+cluster_modo,Movilidad mixta,VoL_predicho_sobre_w_p25,1.3913723943951517
+cluster_modo,Movilidad mixta,VoL_predicho_sobre_w_p50,1.5735390387149264
+cluster_modo,Movilidad mixta,VoL_predicho_sobre_w_p75,1.7999255496894828
+cluster_modo,Movilidad mixta,VoL_predicho_sobre_w_p95,2.2839195810592305
+cluster_modo,Movilidad mixta,VoL_predicho_sobre_w_p99,2.5509409825573655
+cluster_modo,Movilidad mixta,VTAW_predicho_sobre_w_p01,-0.015911812908909924
+cluster_modo,Movilidad mixta,VTAW_predicho_sobre_w_p05,0.15450381436133187
+cluster_modo,Movilidad mixta,VTAW_predicho_sobre_w_p25,0.3913723943951518
+cluster_modo,Movilidad mixta,VTAW_predicho_sobre_w_p50,0.5735390387149264
+cluster_modo,Movilidad mixta,VTAW_predicho_sobre_w_p75,0.7999255496894828
+cluster_modo,Movilidad mixta,VTAW_predicho_sobre_w_p95,1.2839195810592303
+cluster_modo,Movilidad mixta,VTAW_predicho_sobre_w_p99,1.5509409825573657
+cluster_modo,Movilidad mixta,Tw_hat_p01,23.825274126017312
+cluster_modo,Movilidad mixta,Tw_hat_p05,37.206852394453584
+cluster_modo,Movilidad mixta,Tw_hat_p25,50.790091763521495
+cluster_modo,Movilidad mixta,Tw_hat_p50,57.66882895819615
+cluster_modo,Movilidad mixta,Tw_hat_p75,66.09640091440765
+cluster_modo,Movilidad mixta,Tw_hat_p95,81.60710836484218
+cluster_modo,Movilidad mixta,Tw_hat_p99,94.3932684288788
+cluster_modo,Movilidad mixta,Tf1_hat_p01,14.36223599044056
+cluster_modo,Movilidad mixta,Tf1_hat_p05,19.685547432356387
+cluster_modo,Movilidad mixta,Tf1_hat_p25,30.355387638049685
+cluster_modo,Movilidad mixta,Tf1_hat_p50,36.198377538087684
+cluster_modo,Movilidad mixta,Tf1_hat_p75,41.237599978714954
+cluster_modo,Movilidad mixta,Tf1_hat_p95,47.74281932360134
+cluster_modo,Movilidad mixta,Tf1_hat_p99,52.47605904705277
+cluster_modo,Movilidad mixta,Tf2_hat_p01,3.668518255834143
+cluster_modo,Movilidad mixta,Tf2_hat_p05,5.028241436762042
+cluster_modo,Movilidad mixta,Tf2_hat_p25,7.75361815438958
+cluster_modo,Movilidad mixta,Tf2_hat_p50,9.246081802195606
+cluster_modo,Movilidad mixta,Tf2_hat_p75,10.533240677105805
+cluster_modo,Movilidad mixta,Tf2_hat_p95,12.194856315562465
+cluster_modo,Movilidad mixta,Tf2_hat_p99,13.403858614806005
+cluster_modo,Movilidad mixta,ingreso_libre_observado_p01,-8.185610373400003
+cluster_modo,Movilidad mixta,ingreso_libre_observado_p05,0
+cluster_modo,Movilidad mixta,ingreso_libre_observado_p25,19.480009700000004
+cluster_modo,Movilidad mixta,ingreso_libre_observado_p50,62.919995220000004
+cluster_modo,Movilidad mixta,ingreso_libre_observado_p75,110.71503935500002
+cluster_modo,Movilidad mixta,ingreso_libre_observado_p95,255.99203754599986
+cluster_modo,Movilidad mixta,ingreso_libre_observado_p99,507.771807087599
+cluster_modo,Movilidad mixta,ingreso_libre_predicho_p01,6.482340044942525
+cluster_modo,Movilidad mixta,ingreso_libre_predicho_p05,19.291059336215667
+cluster_modo,Movilidad mixta,ingreso_libre_predicho_p25,41.58498583408996
+cluster_modo,Movilidad mixta,ingreso_libre_predicho_p50,62.28927012384992
+cluster_modo,Movilidad mixta,ingreso_libre_predicho_p75,93.2752859173693
+cluster_modo,Movilidad mixta,ingreso_libre_predicho_p95,213.31251240167683
+cluster_modo,Movilidad mixta,ingreso_libre_predicho_p99,431.874099114565
+cluster_modo,Movilidad mixta,ingreso_potencial_neto_Ec_p01,31.589570769999998
+cluster_modo,Movilidad mixta,ingreso_potencial_neto_Ec_p05,80.6377812642014
+cluster_modo,Movilidad mixta,ingreso_potencial_neto_Ec_p25,147.06147618000003
+cluster_modo,Movilidad mixta,ingreso_potencial_neto_Ec_p50,203.34317547999996
+cluster_modo,Movilidad mixta,ingreso_potencial_neto_Ec_p75,290.32278202
+cluster_modo,Movilidad mixta,ingreso_potencial_neto_Ec_p95,649.7558502629998
+cluster_modo,Movilidad mixta,ingreso_potencial_neto_Ec_p99,1238.3510675409987
+cluster_modo,Motorizados privados,VoL_predicho_p01,1.2155081998829234
+cluster_modo,Motorizados privados,VoL_predicho_p05,2.8068871687876182
+cluster_modo,Motorizados privados,VoL_predicho_p25,4.055637819101281
+cluster_modo,Motorizados privados,VoL_predicho_p50,5.479879246963042
+cluster_modo,Motorizados privados,VoL_predicho_p75,8.567706147558363
+cluster_modo,Motorizados privados,VoL_predicho_p95,20.515757854713062
+cluster_modo,Motorizados privados,VoL_predicho_p99,38.55565325821307
+cluster_modo,Motorizados privados,VoL_observado_p01,-0.01555448115769623
+cluster_modo,Motorizados privados,VoL_observado_p05,0
+cluster_modo,Motorizados privados,VoL_observado_p25,1.499862577876931
+cluster_modo,Motorizados privados,VoL_observado_p50,6.260358877125519
+cluster_modo,Motorizados privados,VoL_observado_p75,12.797740367905408
+cluster_modo,Motorizados privados,VoL_observado_p95,32.935264087671385
+cluster_modo,Motorizados privados,VoL_observado_p99,63.410059991102365
+cluster_modo,Motorizados privados,VTAW_predicho_p01,0.03973196648986236
+cluster_modo,Motorizados privados,VTAW_predicho_p05,0.41099889432237013
+cluster_modo,Motorizados privados,VTAW_predicho_p25,1.0882239464742967
+cluster_modo,Motorizados privados,VTAW_predicho_p50,1.9097744876133291
+cluster_modo,Motorizados privados,VTAW_predicho_p75,3.4077006654970514
+cluster_modo,Motorizados privados,VTAW_predicho_p95,8.465620126460065
+cluster_modo,Motorizados privados,VTAW_predicho_p99,17.524077647464313
+cluster_modo,Motorizados privados,VTAW_observado_p01,-3.6163779875610427
+cluster_modo,Motorizados privados,VTAW_observado_p05,-3.1546285000000003
+cluster_modo,Motorizados privados,VTAW_observado_p25,-1.2125675058677303
+cluster_modo,Motorizados privados,VTAW_observado_p50,2.4505955423145442
+cluster_modo,Motorizados privados,VTAW_observado_p75,7.268563599067106
+cluster_modo,Motorizados privados,VTAW_observado_p95,22.549490926281457
+cluster_modo,Motorizados privados,VTAW_observado_p99,48.64039709827499
+cluster_modo,Motorizados privados,VoL_predicho_sobre_w_p01,1.0409513852038204
+cluster_modo,Motorizados privados,VoL_predicho_sobre_w_p05,1.160707041831432
+cluster_modo,Motorizados privados,VoL_predicho_sobre_w_p25,1.3492348872861322
+cluster_modo,Motorizados privados,VoL_predicho_sobre_w_p50,1.5072993287514151
+cluster_modo,Motorizados privados,VoL_predicho_sobre_w_p75,1.676634642613149
+cluster_modo,Motorizados privados,VoL_predicho_sobre_w_p95,2.0336035521241764
+cluster_modo,Motorizados privados,VoL_predicho_sobre_w_p99,2.232666130599945
+cluster_modo,Motorizados privados,VTAW_predicho_sobre_w_p01,0.04095138520382035
+cluster_modo,Motorizados privados,VTAW_predicho_sobre_w_p05,0.16070704183143192
+cluster_modo,Motorizados privados,VTAW_predicho_sobre_w_p25,0.3492348872861322
+cluster_modo,Motorizados privados,VTAW_predicho_sobre_w_p50,0.5072993287514151
+cluster_modo,Motorizados privados,VTAW_predicho_sobre_w_p75,0.6766346426131493
+cluster_modo,Motorizados privados,VTAW_predicho_sobre_w_p95,1.0336035521241762
+cluster_modo,Motorizados privados,VTAW_predicho_sobre_w_p99,1.2326661305999451
+cluster_modo,Motorizados privados,Tw_hat_p01,26.62596349459339
+cluster_modo,Motorizados privados,Tw_hat_p05,36.00638058566127
+cluster_modo,Motorizados privados,Tw_hat_p25,48.68534847226529
+cluster_modo,Motorizados privados,Tw_hat_p50,55.71477591880759
+cluster_modo,Motorizados privados,Tw_hat_p75,64.00554557681559
+cluster_modo,Motorizados privados,Tw_hat_p95,76.80670953950852
+cluster_modo,Motorizados privados,Tw_hat_p99,90.90677176532967
+cluster_modo,Motorizados privados,Tf1_hat_p01,14.987448031333994
+cluster_modo,Motorizados privados,Tf1_hat_p05,21.206654191955337
+cluster_modo,Motorizados privados,Tf1_hat_p25,32.023443730906614
+cluster_modo,Motorizados privados,Tf1_hat_p50,38.10727402905482
+cluster_modo,Motorizados privados,Tf1_hat_p75,42.931704222643624
+cluster_modo,Motorizados privados,Tf1_hat_p95,49.53066893505676
+cluster_modo,Motorizados privados,Tf1_hat_p99,54.047543097869365
+cluster_modo,Motorizados privados,Tf2_hat_p01,3.785696638753567
+cluster_modo,Motorizados privados,Tf2_hat_p05,5.356613035511481
+cluster_modo,Motorizados privados,Tf2_hat_p25,8.088838275866014
+cluster_modo,Motorizados privados,Tf2_hat_p50,9.625559928698113
+cluster_modo,Motorizados privados,Tf2_hat_p75,10.84416826879621
+cluster_modo,Motorizados privados,Tf2_hat_p95,12.511008312465218
+cluster_modo,Motorizados privados,Tf2_hat_p99,13.651930723010555
+cluster_modo,Motorizados privados,ingreso_libre_observado_p01,-0.31502645049999695
+cluster_modo,Motorizados privados,ingreso_libre_observado_p05,0
+cluster_modo,Motorizados privados,ingreso_libre_observado_p25,19.66782637585049
+cluster_modo,Motorizados privados,ingreso_libre_observado_p50,77.40501138500001
+cluster_modo,Motorizados privados,ingreso_libre_observado_p75,149.40206114617177
+cluster_modo,Motorizados privados,ingreso_libre_observado_p95,364.60999878250004
+cluster_modo,Motorizados privados,ingreso_libre_observado_p99,777.3895147789996
+cluster_modo,Motorizados privados,ingreso_libre_predicho_p01,8.93303232331189
+cluster_modo,Motorizados privados,ingreso_libre_predicho_p05,23.37768568053967
+cluster_modo,Motorizados privados,ingreso_libre_predicho_p25,47.76535229040244
+cluster_modo,Motorizados privados,ingreso_libre_predicho_p50,73.82951243231432
+cluster_modo,Motorizados privados,ingreso_libre_predicho_p75,126.04886035595847
+cluster_modo,Motorizados privados,ingreso_libre_predicho_p95,313.2328723502808
+cluster_modo,Motorizados privados,ingreso_libre_predicho_p99,610.6487001092157
+cluster_modo,Motorizados privados,ingreso_potencial_neto_Ec_p01,39.264365708
+cluster_modo,Motorizados privados,ingreso_potencial_neto_Ec_p05,90.2728826
+cluster_modo,Motorizados privados,ingreso_potencial_neto_Ec_p25,167.109048885
+cluster_modo,Motorizados privados,ingreso_potencial_neto_Ec_p50,238.4504126
+cluster_modo,Motorizados privados,ingreso_potencial_neto_Ec_p75,405.28964620863644
+cluster_modo,Motorizados privados,ingreso_potencial_neto_Ec_p95,970.833071385
+cluster_modo,Motorizados privados,ingreso_potencial_neto_Ec_p99,1777.7376755354987

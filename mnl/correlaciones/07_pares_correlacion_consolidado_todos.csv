@@ -1,0 +1,733 @@
+variable_1,variable_2,correlacion,metodo,correlacion_abs,nivel_alerta,familia_1,tipo_1,familia_2,tipo_2,misma_familia,comentario
+zona_centro,zona_sur,-0.9658388087587987,Tetracorica,0.9658388087587987,alta,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+zona_centro,zona_sur,-0.9658305934140735,MixedCor,0.9658305934140735,alta,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+ing_personal,quintil_5,0.7563813691905806,MixedCor,0.7563813691905806,alta,ingresos,continua,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,edad_18_24,0.7023473752357534,MixedCor,0.7023473752357534,alta,modulo,dicotomica,edad,dicotomica,NO,Revisar: posible asociacion fuerte entre bloques distintos
+mod_ED,edad_18_24,0.7023285979043171,Tetracorica,0.7023285979043171,alta,modulo,dicotomica,edad,dicotomica,NO,Revisar: posible asociacion fuerte entre bloques distintos
+edad_18_24,edad_65mas,-0.6646133349357617,Tetracorica,0.6646133349357617,moderada,edad,dicotomica,edad,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+edad_18_24,edad_65mas,-0.6645915889711624,MixedCor,0.6645915889711624,moderada,edad,dicotomica,edad,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+T_mod_10h,mod_TC,-0.6557617015698243,MixedCor,0.6557617015698243,moderada,tiempo_modulo,continua,modulo,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+ing_personal,educ_universitaria,0.6085707451364727,MixedCor,0.6085707451364727,moderada,ingresos,continua,educacion,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+zona_centro,zona_sur,-0.5511242478760313,Pearson,0.5511242478760313,moderada,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+zona_centro,zona_sur,-0.5511242478760313,Spearman,0.5511242478760313,moderada,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+edad_18_24,vive_pareja,-0.5384218001806995,MixedCor,0.5384218001806995,moderada,edad,dicotomica,hogar,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+edad_18_24,vive_pareja,-0.5384093647960907,Tetracorica,0.5384093647960907,moderada,edad,dicotomica,hogar,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+mod_ED,edad_65mas,-0.5209656366324038,Tetracorica,0.5209656366324038,moderada,modulo,dicotomica,edad,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+mod_ED,edad_65mas,-0.5209325069683409,MixedCor,0.5209325069683409,moderada,modulo,dicotomica,edad,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+quintil_5,ing_personal,0.5113863670167779,Pearson,0.5113863670167779,moderada,ingresos,dicotomica,ingresos,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,educ_tecnica,0.5109598034062808,MixedCor,0.5109598034062808,moderada,hogar,continua,educacion,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+educ_secundaria,educ_tecnica,-0.5076637731818503,MixedCor,0.5076637731818503,moderada,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_secundaria,educ_tecnica,-0.5076632658316824,Tetracorica,0.5076632658316824,moderada,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,educ_universitaria,0.5037586453866933,MixedCor,0.5037586453866933,moderada,hogar,continua,educacion,dicotomica,NO,Revisar con cautela: asociacion moderada entre bloques distintos
+n_profesionales,quintil_5,0.4994322414955689,MixedCor,0.4994322414955689,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+quintil_3,quintil_4,-0.4986542318053753,MixedCor,0.4986542318053753,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_3,quintil_4,-0.4986538610661704,Tetracorica,0.4986538610661704,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,educ_secundaria,-0.49520573889808206,MixedCor,0.49520573889808206,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+educ_secundaria,educ_universitaria,-0.48982660746597206,Tetracorica,0.48982660746597206,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_secundaria,educ_universitaria,-0.489824935718546,MixedCor,0.489824935718546,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,edad_18_24,0.48708352412783534,Pearson,0.48708352412783534,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_ED,edad_18_24,0.48708352412783534,Spearman,0.48708352412783534,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+quintil_3,quintil_5,-0.47172912670471256,Tetracorica,0.47172912670471256,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_3,quintil_5,-0.4717275059072682,MixedCor,0.4717275059072682,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_tecnica,educ_universitaria,-0.4653667388223693,Tetracorica,0.4653667388223693,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_tecnica,educ_universitaria,-0.46536512380945544,MixedCor,0.46536512380945544,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_4,quintil_5,-0.458835507356516,Tetracorica,0.458835507356516,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_4,quintil_5,-0.45883320482568946,MixedCor,0.45883320482568946,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,vive_pareja,-0.4552887580310099,MixedCor,0.4552887580310099,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_ED,vive_pareja,-0.45527270830762956,Tetracorica,0.45527270830762956,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+educ_universitaria,ing_personal,0.4423559863543542,Pearson,0.4423559863543542,baja,educacion,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_TD,mod_TC,-0.4392131049595501,MixedCor,0.4392131049595501,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TD,mod_TC,-0.43918755488830374,Tetracorica,0.43918755488830374,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TC,T_mod_10h,-0.4289870283666646,Spearman,0.4289870283666646,baja,modulo,dicotomica,tiempo_modulo,continua,NO,Baja o manejable
+educ_universitaria,ing_personal,0.4262869702018648,Spearman,0.4262869702018648,baja,educacion,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_TC,T_mod_10h,-0.4199644671142433,Pearson,0.4199644671142433,baja,modulo,dicotomica,tiempo_modulo,continua,NO,Baja o manejable
+n_trabajadores,edad_65mas,-0.4123046107010891,MixedCor,0.4123046107010891,baja,hogar,continua,edad,dicotomica,NO,Baja o manejable
+n_profesionales,educ_tecnica,0.39513658812295066,Spearman,0.39513658812295066,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+n_profesionales,educ_universitaria,0.3940010678820591,Spearman,0.3940010678820591,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+modulo_modelo,edad_modelo,0.3931739286666213,Cramer V base larga,0.3931739286666213,baja,modulo,categorica_nominal,edad,categorica_ordinal,NO,Baja o manejable
+n_profesionales,educ_secundaria,-0.3897788124015638,Spearman,0.3897788124015638,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+mod_TD,mod_CP,-0.38838966711029177,MixedCor,0.38838966711029177,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TD,mod_CP,-0.3883875185071327,Tetracorica,0.3883875185071327,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_5,ing_personal,0.3877755441398194,Spearman,0.3877755441398194,baja,ingresos,dicotomica,ingresos,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,educ_tecnica,0.3807854366781162,Pearson,0.3807854366781162,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+educ_secundaria,educ_tecnica,-0.3782887167284671,Pearson,0.3782887167284671,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_secundaria,educ_tecnica,-0.3782887167284671,Spearman,0.3782887167284671,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+edad_18_24,educ_secundaria,0.3763245401097566,MixedCor,0.3763245401097566,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_18_24,educ_secundaria,0.3763185721817734,Tetracorica,0.3763185721817734,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_profesionales,educ_secundaria,-0.3708220227292027,Pearson,0.3708220227292027,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+n_profesionales,educ_universitaria,0.3661704974244067,Pearson,0.3661704974244067,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+mod_TD,mod_ED,-0.36125547730435453,MixedCor,0.36125547730435453,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TD,mod_ED,-0.36125203322537147,Tetracorica,0.36125203322537147,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+edad_18_24,educ_universitaria,-0.35026548686910697,MixedCor,0.35026548686910697,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_18_24,educ_universitaria,-0.3502582567383842,Tetracorica,0.3502582567383842,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+educ_secundaria,educ_universitaria,-0.34715679553834505,Pearson,0.34715679553834505,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_secundaria,educ_universitaria,-0.347156795538345,Spearman,0.347156795538345,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+ing_personal,edad_18_24,-0.3444000292725697,MixedCor,0.3444000292725697,baja,ingresos,continua,edad,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_5,0.343842344027346,MixedCor,0.343842344027346,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_5,0.3438378989657769,Tetracorica,0.3438378989657769,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,mod_CP,-0.34156673063341675,MixedCor,0.34156673063341675,baja,tiempo_modulo,continua,modulo,dicotomica,NO,Baja o manejable
+educ_tecnica,educ_universitaria,-0.340920710492852,Pearson,0.340920710492852,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_tecnica,educ_universitaria,-0.340920710492852,Spearman,0.340920710492852,baja,educacion,dicotomica,educacion,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_trabajadores,n_profesionales,0.34067997146512247,Pearson,0.34067997146512247,baja,hogar,continua,hogar,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+n_trabajadores,n_profesionales,0.34067997146512247,MixedCor,0.34067997146512247,baja,hogar,continua,hogar,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,quintil_5,0.33766410696072124,Pearson,0.33766410696072124,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+educacion_modelo,quintil_modelo,0.33334612457860874,Policorica ordinales persona,0.33334612457860874,baja,educacion,categorica_ordinal,ingresos,categorica_ordinal,NO,Baja o manejable
+n_profesionales,quintil_5,0.33194059332572484,Spearman,0.33194059332572484,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,mod_TC,-0.3318807830420347,Spearman,0.3318807830420347,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TD,mod_TC,-0.33188078304203467,Pearson,0.33188078304203467,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_CP,edad_65mas,0.3300042108548432,MixedCor,0.3300042108548432,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_CP,edad_65mas,0.3300039807339623,Tetracorica,0.3300039807339623,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+ing_personal,mod_ED,-0.32989078291444,MixedCor,0.32989078291444,baja,ingresos,continua,modulo,dicotomica,NO,Baja o manejable
+n_trabajadores,n_profesionales,0.3277234844518837,Spearman,0.3277234844518837,baja,hogar,continua,hogar,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_universitaria,quintil_5,0.32015951427175665,Pearson,0.32015951427175665,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_5,0.32015951427175665,Spearman,0.32015951427175665,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,edad_65mas,0.3097002184151526,Tetracorica,0.3097002184151526,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TD,edad_65mas,0.3096964850869865,MixedCor,0.3096964850869865,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+T_mod_10h,mod_TD,-0.3021703607018857,MixedCor,0.3021703607018857,baja,tiempo_modulo,continua,modulo,dicotomica,NO,Baja o manejable
+edad_18_24,ing_personal,-0.3017019227349078,Spearman,0.3017019227349078,baja,edad,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_TC,mod_CP,-0.29736113603700465,Tetracorica,0.29736113603700465,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TC,mod_CP,-0.29735044644343905,MixedCor,0.29735044644343905,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_trabajadores,quintil_5,0.2948516228945545,MixedCor,0.2948516228945545,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,educ_secundaria,0.27574188263946603,MixedCor,0.27574188263946603,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,educ_secundaria,0.2757341196064177,Tetracorica,0.2757341196064177,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+ing_personal,female,-0.27439632581240475,MixedCor,0.27439632581240475,baja,ingresos,continua,sexo,dicotomica,NO,Baja o manejable
+edad_modelo,pareja_modelo,0.27377303441254786,Cramer V persona,0.27377303441254786,baja,edad,categorica_ordinal,hogar,categorica_nominal,NO,Baja o manejable
+edad_65mas,n_trabajadores,-0.2720995517592179,Spearman,0.2720995517592179,baja,edad,dicotomica,hogar,continua,NO,Baja o manejable
+edad_modelo,educacion_modelo,0.2718327111845231,Cramer V persona,0.2718327111845231,baja,edad,categorica_ordinal,educacion,categorica_ordinal,NO,Baja o manejable
+mod_TC,mod_ED,-0.2701772471654802,Tetracorica,0.2701772471654802,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TC,mod_ED,-0.2701687239867848,MixedCor,0.2701687239867848,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+edad_modelo,educacion_modelo,0.2670129649485112,Cramer V base larga,0.2670129649485112,baja,edad,categorica_ordinal,educacion,categorica_ordinal,NO,Baja o manejable
+edad_modelo,pareja_modelo,0.26568926040966234,Cramer V base larga,0.26568926040966234,baja,edad,categorica_ordinal,hogar,categorica_nominal,NO,Baja o manejable
+edad_65mas,n_trabajadores,-0.26165522114304357,Pearson,0.26165522114304357,baja,edad,dicotomica,hogar,continua,NO,Baja o manejable
+edad_18_24,vive_pareja,-0.2615748276552492,Pearson,0.2615748276552492,baja,edad,dicotomica,hogar,dicotomica,NO,Baja o manejable
+edad_18_24,vive_pareja,-0.2615748276552492,Spearman,0.2615748276552492,baja,edad,dicotomica,hogar,dicotomica,NO,Baja o manejable
+ing_personal,educ_secundaria,-0.26059145351425195,MixedCor,0.26059145351425195,baja,ingresos,continua,educacion,dicotomica,NO,Baja o manejable
+mod_TC,vive_pareja,0.2557513636378235,Tetracorica,0.2557513636378235,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_TC,vive_pareja,0.25575098544045227,MixedCor,0.25575098544045227,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+quintil_3,quintil_4,-0.2543450330779631,Pearson,0.2543450330779631,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_3,quintil_4,-0.2543450330779631,Spearman,0.2543450330779631,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_trabajadores,vive_pareja,0.2506925993113875,MixedCor,0.2506925993113875,baja,hogar,continua,hogar,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+female,ing_personal,-0.25059709701633376,Spearman,0.25059709701633376,baja,sexo,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_TD,T_mod_10h,-0.24906904561520246,Spearman,0.24906904561520246,baja,modulo,dicotomica,tiempo_modulo,continua,NO,Baja o manejable
+mod_ED,educ_universitaria,-0.24781307150570311,MixedCor,0.24781307150570311,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,educ_universitaria,-0.24780110805167901,Tetracorica,0.24780110805167901,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,ing_personal,-0.2400388484819961,Spearman,0.2400388484819961,baja,modulo,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_TD,T_mod_10h,-0.23860080515403767,Pearson,0.23860080515403767,baja,modulo,dicotomica,tiempo_modulo,continua,NO,Baja o manejable
+n_trabajadores,quintil_4,0.23821633829508218,MixedCor,0.23821633829508218,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,mod_ED,0.23764425793932975,MixedCor,0.23764425793932975,baja,tiempo_modulo,continua,modulo,dicotomica,NO,Baja o manejable
+n_profesionales,edad_65mas,-0.23575378814944595,MixedCor,0.23575378814944595,baja,hogar,continua,edad,dicotomica,NO,Baja o manejable
+n_trabajadores,vive_pareja,0.23411401519974753,Spearman,0.23411401519974753,baja,hogar,continua,hogar,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_3,quintil_5,-0.23366671863625715,Pearson,0.23366671863625715,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_3,quintil_5,-0.23366671863625715,Spearman,0.23366671863625715,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_trabajadores,mod_TD,-0.23219443741388815,MixedCor,0.23219443741388815,baja,hogar,continua,modulo,dicotomica,NO,Baja o manejable
+quintil_4,quintil_5,-0.22691814937703872,Pearson,0.22691814937703872,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_4,quintil_5,-0.22691814937703872,Spearman,0.22691814937703872,baja,ingresos,dicotomica,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TC,edad_65mas,-0.22137643312694863,MixedCor,0.22137643312694863,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TC,edad_65mas,-0.2213607559845738,Tetracorica,0.2213607559845738,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+educ_secundaria,ing_personal,-0.22111526211781743,Spearman,0.22111526211781743,baja,educacion,dicotomica,ingresos,continua,NO,Baja o manejable
+modulo_modelo,pareja_modelo,0.22076520176472259,Cramer V base larga,0.22076520176472259,baja,modulo,categorica_nominal,hogar,categorica_nominal,NO,Baja o manejable
+n_profesionales,vive_pareja,0.21856934630009367,MixedCor,0.21856934630009367,baja,hogar,continua,hogar,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+female,ing_personal,-0.21703481706439304,Pearson,0.21703481706439304,baja,sexo,dicotomica,ingresos,continua,NO,Baja o manejable
+educacion_modelo,quintil_modelo,0.2166551882454425,Cramer V base larga,0.2166551882454425,baja,educacion,categorica_ordinal,ingresos,categorica_ordinal,NO,Baja o manejable
+n_trabajadores,mod_CP,-0.21342588139097637,MixedCor,0.21342588139097637,baja,hogar,continua,modulo,dicotomica,NO,Baja o manejable
+quintil_modelo,pareja_modelo,0.2071539399642545,Cramer V base larga,0.2071539399642545,baja,ingresos,categorica_ordinal,hogar,categorica_nominal,NO,Baja o manejable
+mod_TC,edad_18_24,-0.20574134448152329,MixedCor,0.20574134448152329,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TC,edad_18_24,-0.2057361028129442,Tetracorica,0.2057361028129442,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+educacion_modelo,quintil_modelo,0.2037942698325967,Cramer V persona,0.2037942698325967,baja,educacion,categorica_ordinal,ingresos,categorica_ordinal,NO,Baja o manejable
+edad_18_24,ing_personal,-0.20044032087466063,Pearson,0.20044032087466063,baja,edad,dicotomica,ingresos,continua,NO,Baja o manejable
+n_trabajadores,vive_pareja,0.1994629765010208,Pearson,0.1994629765010208,baja,hogar,continua,hogar,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_trabajadores,quintil_5,0.19934798288646804,Pearson,0.19934798288646804,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,edad_65mas,0.1956650397020514,Pearson,0.1956650397020514,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TD,edad_65mas,0.1956650397020514,Spearman,0.1956650397020514,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+educ_secundaria,ing_personal,-0.19513717695017643,Pearson,0.19513717695017643,baja,educacion,dicotomica,ingresos,continua,NO,Baja o manejable
+educ_secundaria,quintil_5,-0.1945687244898807,MixedCor,0.1945687244898807,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_5,-0.19456566949416215,Tetracorica,0.19456566949416215,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,quintil_5,0.19410824729859427,Spearman,0.19410824729859427,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,educ_secundaria,0.19333659751632384,Pearson,0.19333659751632384,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_18_24,educ_secundaria,0.19333659751632384,Spearman,0.19333659751632384,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_modelo,educacion_modelo,-0.19235128831541934,Policorica ordinales persona,0.19235128831541934,baja,edad,categorica_ordinal,educacion,categorica_ordinal,NO,Baja o manejable
+edad_modelo,quintil_modelo,0.19204024922029928,Policorica ordinales persona,0.19204024922029928,baja,edad,categorica_ordinal,ingresos,categorica_ordinal,NO,Baja o manejable
+mod_TD,n_trabajadores,-0.18966594949825522,Spearman,0.18966594949825522,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+n_profesionales,vive_pareja,0.1877759326537368,Spearman,0.1877759326537368,baja,hogar,continua,hogar,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,vive_pareja,-0.18678183076634874,Spearman,0.18678183076634874,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_ED,vive_pareja,-0.1867818307663487,Pearson,0.1867818307663487,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+ing_personal,edad_65mas,0.18676903235237508,MixedCor,0.18676903235237508,baja,ingresos,continua,edad,dicotomica,NO,Baja o manejable
+n_profesionales,quintil_4,0.18549270956137162,MixedCor,0.18549270956137162,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+quintil_modelo,pareja_modelo,0.18448982045444384,Cramer V persona,0.18448982045444384,baja,ingresos,categorica_ordinal,hogar,categorica_nominal,NO,Baja o manejable
+mod_TD,n_trabajadores,-0.1833461746233298,Pearson,0.1833461746233298,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+edad_65mas,ing_personal,0.18039853248810142,Spearman,0.18039853248810142,baja,edad,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_TD,mod_CP,-0.17977356923959376,Pearson,0.17977356923959376,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TD,mod_CP,-0.17977356923959376,Spearman,0.17977356923959376,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,vive_pareja,0.17390418586209422,Pearson,0.17390418586209422,baja,hogar,continua,hogar,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,ing_personal,0.1732092773701718,Spearman,0.1732092773701718,baja,hogar,continua,ingresos,continua,NO,Baja o manejable
+mod_ED,mod_CP,-0.17258822339178095,Tetracorica,0.17258822339178095,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,mod_CP,-0.17256111112798028,MixedCor,0.17256111112798028,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,ing_personal,0.17229810498372647,Pearson,0.17229810498372647,baja,hogar,continua,ingresos,continua,NO,Baja o manejable
+n_profesionales,ing_personal,0.17229810498372647,MixedCor,0.17229810498372647,baja,hogar,continua,ingresos,continua,NO,Baja o manejable
+mod_TD,mod_ED,-0.17229461433449436,Pearson,0.17229461433449436,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TD,mod_ED,-0.17229461433449436,Spearman,0.17229461433449436,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+quintil_4,ing_personal,0.1675247842181245,Spearman,0.1675247842181245,baja,ingresos,dicotomica,ingresos,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+n_trabajadores,quintil_4,0.16636968706082345,Pearson,0.16636968706082345,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,quintil_4,0.16234467944669953,Spearman,0.16234467944669953,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,n_profesionales,-0.16114564589286343,Spearman,0.16114564589286343,baja,edad,dicotomica,hogar,continua,NO,Baja o manejable
+mod_CP,T_mod_10h,-0.16016478405431284,Spearman,0.16016478405431284,baja,modulo,dicotomica,tiempo_modulo,continua,NO,Baja o manejable
+mod_TD,edad_18_24,-0.15952549741395744,MixedCor,0.15952549741395744,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TD,edad_18_24,-0.15952375080837894,Tetracorica,0.15952375080837894,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_CP,T_mod_10h,-0.15648929033106015,Pearson,0.15648929033106015,baja,modulo,dicotomica,tiempo_modulo,continua,NO,Baja o manejable
+mod_CP,edad_65mas,0.15070850470610653,Pearson,0.15070850470610653,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_CP,edad_65mas,0.1507085047061065,Spearman,0.1507085047061065,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+edad_65mas,n_profesionales,-0.14961319367411713,Pearson,0.14961319367411713,baja,edad,dicotomica,hogar,continua,NO,Baja o manejable
+edad_18_24,educ_universitaria,-0.1490023415414925,Pearson,0.1490023415414925,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_18_24,educ_universitaria,-0.14900234154149247,Spearman,0.14900234154149247,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,ing_personal,-0.14714006813669786,Pearson,0.14714006813669786,baja,modulo,dicotomica,ingresos,continua,NO,Baja o manejable
+edad_18_24,quintil_5,-0.14391293533565244,MixedCor,0.14391293533565244,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_5,-0.14391045876012293,Tetracorica,0.14391045876012293,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,vive_pareja,-0.1413953533314426,MixedCor,0.1413953533314426,baja,sexo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+female,vive_pareja,-0.1413932960202097,Tetracorica,0.1413932960202097,baja,sexo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+edad_65mas,educ_tecnica,-0.14099371531386728,MixedCor,0.14099371531386728,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,educ_tecnica,-0.14098977820029412,Tetracorica,0.14098977820029412,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+modulo_modelo,sexo_modelo,0.1403015281324825,Cramer V base larga,0.1403015281324825,baja,modulo,categorica_nominal,sexo,categorica_nominal,NO,Baja o manejable
+mod_CP,female,0.13794979256209589,MixedCor,0.13794979256209589,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_CP,female,0.1379443118950467,Tetracorica,0.1379443118950467,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+n_profesionales,quintil_4,0.1362055879450458,Spearman,0.1362055879450458,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,vive_pareja,0.13273279970264787,Spearman,0.13273279970264787,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_TC,vive_pareja,0.13273279970264784,Pearson,0.13273279970264784,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_5,0.13081584328720405,MixedCor,0.13081584328720405,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_5,0.1308137432015724,Tetracorica,0.1308137432015724,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,edad_65mas,-0.13002639679744452,Spearman,0.13002639679744452,baja,edad,dicotomica,edad,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+edad_18_24,edad_65mas,-0.1300263967974445,Pearson,0.1300263967974445,baja,edad,dicotomica,edad,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+n_profesionales,quintil_4,0.12954763834696506,Pearson,0.12954763834696506,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,educ_secundaria,0.12811948151228789,Spearman,0.12811948151228789,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,educ_secundaria,0.12811948151228786,Pearson,0.12811948151228786,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,educ_tecnica,-0.12306156041602666,Pearson,0.12306156041602666,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,educ_tecnica,-0.12306156041602666,Spearman,0.12306156041602666,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_5,-0.12079658281241273,Pearson,0.12079658281241273,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_5,-0.12079658281241273,Spearman,0.12079658281241273,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_5,-0.12057604852994809,MixedCor,0.12057604852994809,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_5,-0.12057430810938732,Tetracorica,0.12057430810938732,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_modelo,quintil_modelo,0.11862960716570504,Cramer V persona,0.11862960716570504,baja,edad,categorica_ordinal,ingresos,categorica_ordinal,NO,Baja o manejable
+edad_65mas,ing_personal,0.11852666983213016,Pearson,0.11852666983213016,baja,edad,dicotomica,ingresos,continua,NO,Baja o manejable
+educ_universitaria,quintil_3,-0.1172501018485463,MixedCor,0.1172501018485463,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_3,-0.1172496925833547,Tetracorica,0.1172496925833547,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+modulo_modelo,educacion_modelo,0.11576138661679825,Cramer V base larga,0.11576138661679825,baja,modulo,categorica_nominal,educacion,categorica_ordinal,NO,Baja o manejable
+vive_pareja,quintil_5,0.11473630691658376,Pearson,0.11473630691658376,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_5,0.11473630691658376,Spearman,0.11473630691658376,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_modelo,quintil_modelo,0.1146666732880618,Cramer V base larga,0.1146666732880618,baja,edad,categorica_ordinal,ingresos,categorica_ordinal,NO,Baja o manejable
+ing_personal,educ_tecnica,-0.11435383029347604,MixedCor,0.11435383029347604,baja,ingresos,continua,educacion,dicotomica,NO,Baja o manejable
+ing_personal,quintil_3,-0.1066771519241911,MixedCor,0.1066771519241911,baja,ingresos,continua,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+vive_pareja,educ_universitaria,0.10662382090384438,Tetracorica,0.10662382090384438,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+vive_pareja,educ_universitaria,0.1066231535072042,MixedCor,0.1066231535072042,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,T_mod_10h,0.10599566316030411,Pearson,0.10599566316030411,baja,modulo,dicotomica,tiempo_modulo,continua,NO,Baja o manejable
+mod_CP,edad_18_24,-0.1021660801014409,Tetracorica,0.1021660801014409,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_CP,edad_18_24,-0.10216482463518556,MixedCor,0.10216482463518556,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_ED,T_mod_10h,0.10191347431863691,Spearman,0.10191347431863691,baja,modulo,dicotomica,tiempo_modulo,continua,NO,Baja o manejable
+mod_CP,n_trabajadores,-0.10173806805319993,Spearman,0.10173806805319993,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+female,edad_18_24,-0.099939748068785,MixedCor,0.099939748068785,baja,sexo,dicotomica,edad,dicotomica,NO,Baja o manejable
+female,edad_18_24,-0.09993543330896967,Tetracorica,0.09993543330896967,baja,sexo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_CP,n_trabajadores,-0.09778137541445718,Pearson,0.09778137541445718,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+female,quintil_5,-0.09679055017168645,MixedCor,0.09679055017168645,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,quintil_5,-0.0967890150943515,Tetracorica,0.0967890150943515,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,educ_universitaria,-0.09554942362280584,Spearman,0.09554942362280584,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,educ_universitaria,-0.09554942362280582,Pearson,0.09554942362280582,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_trabajadores,mod_ED,-0.09255606728620132,MixedCor,0.09255606728620132,baja,hogar,continua,modulo,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_4,-0.0924820966013535,MixedCor,0.0924820966013535,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_4,-0.09247936164040273,Tetracorica,0.09247936164040273,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,educ_universitaria,-0.09152449943533933,Spearman,0.09152449943533933,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,educ_universitaria,-0.09152449943533932,Pearson,0.09152449943533932,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,edad_65mas,-0.09149272729396211,Pearson,0.09149272729396211,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TC,edad_65mas,-0.0914927272939621,Spearman,0.0914927272939621,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+sexo_modelo,quintil_modelo,0.0882013771096911,Cramer V base larga,0.0882013771096911,baja,sexo,categorica_nominal,ingresos,categorica_ordinal,NO,Baja o manejable
+mod_TC,mod_CP,-0.08753582769693298,Pearson,0.08753582769693298,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TC,mod_CP,-0.08753582769693298,Spearman,0.08753582769693298,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+female,vive_pareja,-0.08733126491732307,Spearman,0.08733126491732307,baja,sexo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+sexo_modelo,pareja_modelo,0.08733126491732307,Cramer V base larga,0.08733126491732307,baja,sexo,categorica_nominal,hogar,categorica_nominal,NO,Baja o manejable
+female,vive_pareja,-0.08733126491732306,Pearson,0.08733126491732306,baja,sexo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+sexo_modelo,quintil_modelo,0.0858361635375657,Cramer V persona,0.0858361635375657,baja,sexo,categorica_nominal,ingresos,categorica_ordinal,NO,Baja o manejable
+mod_ED,female,-0.0852522036458343,Tetracorica,0.0852522036458343,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_ED,female,-0.08525171584946652,MixedCor,0.08525171584946652,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+educ_tecnica,ing_personal,-0.08522054555726563,Pearson,0.08522054555726563,baja,educacion,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_ED,quintil_5,-0.08439377336403266,MixedCor,0.08439377336403266,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,quintil_5,-0.0843916446372381,Tetracorica,0.0843916446372381,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,mod_ED,-0.08389415494884736,Spearman,0.08389415494884736,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TC,mod_ED,-0.08389415494884735,Pearson,0.08389415494884735,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TC,ing_personal,-0.083791734300611,Spearman,0.083791734300611,baja,modulo,dicotomica,ingresos,continua,NO,Baja o manejable
+ing_personal,quintil_4,0.08298722155296524,MixedCor,0.08298722155296524,baja,ingresos,continua,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,edad_65mas,-0.0822273699063512,Spearman,0.0822273699063512,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_ED,edad_65mas,-0.08222736990635118,Pearson,0.08222736990635118,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TD,ing_personal,-0.0817205062203518,Spearman,0.0817205062203518,baja,modulo,dicotomica,ingresos,continua,NO,Baja o manejable
+n_profesionales,mod_TC,0.08132688800836577,MixedCor,0.08132688800836577,baja,hogar,continua,modulo,dicotomica,NO,Baja o manejable
+edad_18_24,educ_tecnica,0.07943360602802546,MixedCor,0.07943360602802546,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_18_24,educ_tecnica,0.07943348328095773,Tetracorica,0.07943348328095773,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_trabajadores,ing_personal,0.07909917729421242,Spearman,0.07909917729421242,baja,hogar,continua,ingresos,continua,NO,Baja o manejable
+ing_personal,vive_pareja,0.07865113190232713,MixedCor,0.07865113190232713,baja,ingresos,continua,hogar,dicotomica,NO,Baja o manejable
+mod_TC,educ_universitaria,0.07847846439577984,Tetracorica,0.07847846439577984,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,educ_universitaria,0.07847720488650682,MixedCor,0.07847720488650682,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,educ_tecnica,0.07804137727236059,MixedCor,0.07804137727236059,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,educ_tecnica,0.07803949033146258,Tetracorica,0.07803949033146258,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_5,0.07745754912487313,Pearson,0.07745754912487313,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_5,0.07745754912487313,Spearman,0.07745754912487313,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+ing_personal,mod_CP,-0.07552410789340457,MixedCor,0.07552410789340457,baja,ingresos,continua,modulo,dicotomica,NO,Baja o manejable
+quintil_3,ing_personal,-0.07528925557005092,Pearson,0.07528925557005092,baja,ingresos,dicotomica,ingresos,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TC,female,0.07509841643791774,MixedCor,0.07509841643791774,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_TC,female,0.07509577672398789,Tetracorica,0.07509577672398789,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_5,0.07339138232186493,MixedCor,0.07339138232186493,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_5,0.07338928671539709,Tetracorica,0.07338928671539709,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,educ_secundaria,-0.07329320709826863,Spearman,0.07329320709826863,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,educ_secundaria,-0.07329320709826861,Pearson,0.07329320709826861,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_profesionales,mod_TD,-0.0717432485763233,MixedCor,0.0717432485763233,baja,hogar,continua,modulo,dicotomica,NO,Baja o manejable
+n_profesionales,mod_CP,-0.07102891003007646,MixedCor,0.07102891003007646,baja,hogar,continua,modulo,dicotomica,NO,Baja o manejable
+mod_CP,female,0.06884182730593501,Pearson,0.06884182730593501,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_CP,female,0.068841827305935,Spearman,0.068841827305935,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+vive_pareja,ing_personal,0.06756731353359828,Spearman,0.06756731353359828,baja,hogar,dicotomica,ingresos,continua,NO,Baja o manejable
+sexo_modelo,edad_modelo,0.06699626737931415,Cramer V base larga,0.06699626737931415,baja,sexo,categorica_nominal,edad,categorica_ordinal,NO,Baja o manejable
+mod_ED,quintil_4,-0.0669365555836163,MixedCor,0.0669365555836163,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,quintil_4,-0.06693423627085866,Tetracorica,0.06693423627085866,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,quintil_5,-0.06639043542300614,Pearson,0.06639043542300614,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,quintil_5,-0.06639043542300613,Spearman,0.06639043542300613,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,female,-0.06592442276248234,MixedCor,0.06592442276248234,baja,hogar,continua,sexo,dicotomica,NO,Baja o manejable
+mod_TC,female,0.06589382122374665,Spearman,0.06589382122374665,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_TC,female,0.06589382122374664,Pearson,0.06589382122374664,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+n_trabajadores,educ_universitaria,0.06578098530486512,Spearman,0.06578098530486512,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+mod_TD,edad_18_24,-0.0655467817354815,Spearman,0.0655467817354815,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TD,edad_18_24,-0.06554678173548148,Pearson,0.06554678173548148,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_5,-0.06510632052249866,Pearson,0.06510632052249866,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_5,-0.06510632052249866,Spearman,0.06510632052249866,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_4,0.06479182543165404,Pearson,0.06479182543165404,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_4,0.06479182543165404,Spearman,0.06479182543165404,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,educ_universitaria,0.06478702308154925,MixedCor,0.06478702308154925,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+mod_TC,edad_18_24,-0.06475717508434613,Pearson,0.06475717508434613,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TC,edad_18_24,-0.06475717508434613,Spearman,0.06475717508434613,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+ing_personal,mod_TC,-0.06342219536958817,MixedCor,0.06342219536958817,baja,ingresos,continua,modulo,dicotomica,NO,Baja o manejable
+vive_pareja,ing_personal,0.06257858794996321,Pearson,0.06257858794996321,baja,hogar,dicotomica,ingresos,continua,NO,Baja o manejable
+educ_secundaria,quintil_4,-0.062307073497541256,MixedCor,0.062307073497541256,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_4,-0.06230563154277087,Tetracorica,0.06230563154277087,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_4,0.061390839451857505,Pearson,0.061390839451857505,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_4,0.061390839451857505,Spearman,0.061390839451857505,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,edad_65mas,-0.06124450050635928,MixedCor,0.06124450050635928,baja,sexo,dicotomica,edad,dicotomica,NO,Baja o manejable
+female,edad_65mas,-0.06124258065094888,Tetracorica,0.06124258065094888,baja,sexo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TD,n_profesionales,-0.06121752175882362,Spearman,0.06121752175882362,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+sexo_modelo,edad_modelo,0.061209441296865286,Cramer V persona,0.061209441296865286,baja,sexo,categorica_nominal,edad,categorica_ordinal,NO,Baja o manejable
+mod_TC,n_profesionales,0.060809116803776334,Spearman,0.060809116803776334,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+n_trabajadores,edad_18_24,0.0606685006619119,MixedCor,0.0606685006619119,baja,hogar,continua,edad,dicotomica,NO,Baja o manejable
+sexo_modelo,pareja_modelo,0.059363579979644365,Cramer V persona,0.059363579979644365,baja,sexo,categorica_nominal,hogar,categorica_nominal,NO,Baja o manejable
+educacion_modelo,pareja_modelo,0.058018388871993,Cramer V base larga,0.058018388871993,baja,educacion,categorica_ordinal,hogar,categorica_nominal,NO,Baja o manejable
+quintil_4,ing_personal,0.05795806525542197,Pearson,0.05795806525542197,baja,ingresos,dicotomica,ingresos,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_TD,zona_centro,0.05788350442256248,MixedCor,0.05788350442256248,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TD,zona_centro,0.05788255924626116,Tetracorica,0.05788255924626116,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+edad_65mas,educ_universitaria,-0.05763489923309099,MixedCor,0.05763489923309099,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,educ_universitaria,-0.05762826950219911,Tetracorica,0.05762826950219911,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_trabajadores,quintil_3,0.056876076198287134,Spearman,0.056876076198287134,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,n_profesionales,-0.056650152036470704,Pearson,0.056650152036470704,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+ing_personal,mod_TD,-0.056081132346537256,MixedCor,0.056081132346537256,baja,ingresos,continua,modulo,dicotomica,NO,Baja o manejable
+vive_pareja,educ_secundaria,-0.055209091279596424,Tetracorica,0.055209091279596424,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+vive_pareja,educ_secundaria,-0.0552073029943564,MixedCor,0.0552073029943564,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,edad_65mas,0.055159435754872574,MixedCor,0.055159435754872574,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_centro,edad_65mas,0.05515634617397848,Tetracorica,0.05515634617397848,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_4,0.05479120975011618,Pearson,0.05479120975011618,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_4,0.05479120975011618,Spearman,0.05479120975011618,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,n_trabajadores,-0.05400670703472851,Spearman,0.05400670703472851,baja,sexo,dicotomica,hogar,continua,NO,Baja o manejable
+mod_CP,educ_secundaria,-0.053845779356617676,Tetracorica,0.053845779356617676,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,educ_secundaria,-0.053845356053155984,MixedCor,0.053845356053155984,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+female,edad_18_24,-0.05256603454183559,Pearson,0.05256603454183559,baja,sexo,dicotomica,edad,dicotomica,NO,Baja o manejable
+female,edad_18_24,-0.05256603454183558,Spearman,0.05256603454183558,baja,sexo,dicotomica,edad,dicotomica,NO,Baja o manejable
+n_trabajadores,quintil_3,0.05244133399326926,MixedCor,0.05244133399326926,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,quintil_3,0.05243059902555613,MixedCor,0.05243059902555613,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,quintil_3,0.052429370853608735,Tetracorica,0.052429370853608735,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,female,0.05221300588791437,Spearman,0.05221300588791437,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_TD,female,0.05221300588791436,Pearson,0.05221300588791436,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+female,n_trabajadores,-0.05214317280659543,Pearson,0.05214317280659543,baja,sexo,dicotomica,hogar,continua,NO,Baja o manejable
+mod_TC,n_profesionales,0.05208355886403705,Pearson,0.05208355886403705,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+n_trabajadores,educ_tecnica,0.05154751364462555,MixedCor,0.05154751364462555,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+n_profesionales,quintil_3,-0.05127197950585184,MixedCor,0.05127197950585184,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+educ_tecnica,ing_personal,-0.05111587429226613,Spearman,0.05111587429226613,baja,educacion,dicotomica,ingresos,continua,NO,Baja o manejable
+edad_18_24,quintil_5,-0.05102572638889367,Pearson,0.05102572638889367,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_5,-0.05102572638889367,Spearman,0.05102572638889367,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_3,0.05068869464247582,Tetracorica,0.05068869464247582,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_3,0.0506884087752532,MixedCor,0.0506884087752532,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,educ_universitaria,0.04993094770542776,Spearman,0.04993094770542776,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+vive_pareja,educ_universitaria,0.049930947705427754,Pearson,0.049930947705427754,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,zona_centro,0.04989557229585395,Pearson,0.04989557229585395,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TD,zona_centro,0.04989557229585395,Spearman,0.04989557229585395,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_4,-0.04947284044863673,Pearson,0.04947284044863673,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_4,-0.04947284044863673,Spearman,0.04947284044863673,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,ing_personal,-0.049300574424244945,Spearman,0.049300574424244945,baja,modulo,dicotomica,ingresos,continua,NO,Baja o manejable
+T_mod_10h,edad_65mas,-0.049086842410291966,MixedCor,0.049086842410291966,baja,tiempo_modulo,continua,edad,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_3,-0.04834712911798466,MixedCor,0.04834712911798466,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_3,-0.048344636676392265,Tetracorica,0.048344636676392265,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,educ_secundaria,-0.047242915143648916,MixedCor,0.047242915143648916,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_sur,educ_secundaria,-0.047241773322851684,Tetracorica,0.047241773322851684,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_trabajadores,educ_universitaria,0.04709218727195678,Pearson,0.04709218727195678,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,educ_secundaria,-0.047056092932185545,MixedCor,0.047056092932185545,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,educ_secundaria,-0.04705591402910749,Tetracorica,0.04705591402910749,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+modulo_modelo,quintil_modelo,0.04635469214626076,Cramer V base larga,0.04635469214626076,baja,modulo,categorica_nominal,ingresos,categorica_ordinal,NO,Baja o manejable
+mod_CP,educ_tecnica,-0.046221905102406736,MixedCor,0.046221905102406736,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,educ_tecnica,-0.046220616010031995,Tetracorica,0.046220616010031995,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,mod_CP,-0.04544388359956231,Pearson,0.04544388359956231,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,mod_CP,-0.04544388359956231,Spearman,0.04544388359956231,baja,modulo,dicotomica,modulo,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+educ_universitaria,quintil_3,-0.045143560191477146,Spearman,0.045143560191477146,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_3,-0.04514356019147714,Pearson,0.04514356019147714,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,n_trabajadores,0.04506370800513123,Spearman,0.04506370800513123,baja,tiempo_modulo,continua,hogar,continua,NO,Baja o manejable
+educacion_modelo,pareja_modelo,0.04494234981312728,Cramer V persona,0.04494234981312728,baja,educacion,categorica_ordinal,hogar,categorica_nominal,NO,Baja o manejable
+mod_TC,zona_centro,-0.04489125747759462,Tetracorica,0.04489125747759462,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TC,zona_centro,-0.04489103234396512,MixedCor,0.04489103234396512,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_3,0.04463957829442528,Pearson,0.04463957829442528,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_3,0.044639578294425275,Spearman,0.044639578294425275,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_4,0.0443359975057061,MixedCor,0.0443359975057061,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_4,0.044335089543023364,Tetracorica,0.044335089543023364,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,ing_personal,-0.044282977657876,Pearson,0.044282977657876,baja,modulo,dicotomica,ingresos,continua,NO,Baja o manejable
+T_mod_10h,n_trabajadores,0.04315501931788724,Pearson,0.04315501931788724,baja,tiempo_modulo,continua,hogar,continua,NO,Baja o manejable
+T_mod_10h,n_trabajadores,0.04315501931788724,MixedCor,0.04315501931788724,baja,tiempo_modulo,continua,hogar,continua,NO,Baja o manejable
+T_mod_10h,ing_personal,0.04275779858613855,Spearman,0.04275779858613855,baja,tiempo_modulo,continua,ingresos,continua,NO,Baja o manejable
+mod_ED,n_trabajadores,-0.04266735101445437,Spearman,0.04266735101445437,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+zona_sur,ing_personal,0.0419824685805712,Spearman,0.0419824685805712,baja,territorio,dicotomica,ingresos,continua,NO,Baja o manejable
+T_mod_10h,zona_sur,-0.04187827912369725,MixedCor,0.04187827912369725,baja,tiempo_modulo,continua,territorio,dicotomica,NO,Baja o manejable
+modulo_modelo,territorio_modelo,0.04184742072108128,Cramer V base larga,0.04184742072108128,baja,modulo,categorica_nominal,territorio,categorica_ordinal_impuesta,NO,Baja o manejable
+T_mod_10h,educ_universitaria,-0.04180762437838607,MixedCor,0.04180762437838607,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+mod_ED,n_trabajadores,-0.04128246908458969,Pearson,0.04128246908458969,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+vive_pareja,quintil_3,0.041221352536409794,Pearson,0.041221352536409794,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_3,0.041221352536409794,Spearman,0.041221352536409794,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,educ_tecnica,0.04091531353005848,Tetracorica,0.04091531353005848,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_sur,educ_tecnica,0.04091495952687291,MixedCor,0.04091495952687291,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+vive_pareja,educ_secundaria,-0.04085029916097251,Spearman,0.04085029916097251,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+vive_pareja,educ_secundaria,-0.040850299160972506,Pearson,0.040850299160972506,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,ing_personal,-0.040616993059891957,Pearson,0.040616993059891957,baja,modulo,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_TC,educ_tecnica,0.04053158456772667,Spearman,0.04053158456772667,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,educ_tecnica,0.04053158456772666,Pearson,0.04053158456772666,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+T_mod_10h,vive_pareja,-0.04045354133104292,MixedCor,0.04045354133104292,baja,tiempo_modulo,continua,hogar,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_4,0.04031366376438668,MixedCor,0.04031366376438668,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_4,0.040312976501823826,Tetracorica,0.040312976501823826,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,educ_tecnica,0.039441966767042924,Spearman,0.039441966767042924,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_4,0.03931878399212032,MixedCor,0.03931878399212032,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_universitaria,quintil_4,0.03931751677793933,Tetracorica,0.03931751677793933,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+territorio_modelo,quintil_modelo,0.038866542468612195,Cramer V persona,0.038866542468612195,baja,territorio,categorica_ordinal_impuesta,ingresos,categorica_ordinal,NO,Baja o manejable
+n_trabajadores,educ_tecnica,0.03841504236142938,Pearson,0.03841504236142938,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+mod_TD,zona_sur,-0.037874291600182845,MixedCor,0.037874291600182845,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TD,zona_sur,-0.03787348618012041,Tetracorica,0.03787348618012041,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+zona_centro,ing_personal,-0.037640912375759554,Spearman,0.037640912375759554,baja,territorio,dicotomica,ingresos,continua,NO,Baja o manejable
+territorio_modelo,quintil_modelo,0.037606773973171435,Cramer V base larga,0.037606773973171435,baja,territorio,categorica_ordinal_impuesta,ingresos,categorica_ordinal,NO,Baja o manejable
+n_profesionales,female,-0.03717141885604147,MixedCor,0.03717141885604147,baja,hogar,continua,sexo,dicotomica,NO,Baja o manejable
+zona_sur,quintil_4,0.03711234389859724,MixedCor,0.03711234389859724,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_4,0.03711165143528122,Tetracorica,0.03711165143528122,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,quintil_3,0.0370113836584186,Pearson,0.0370113836584186,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+n_profesionales,mod_ED,0.03662393209269846,MixedCor,0.03662393209269846,baja,hogar,continua,modulo,dicotomica,NO,Baja o manejable
+T_mod_10h,educ_secundaria,0.036421188955180706,MixedCor,0.036421188955180706,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+n_profesionales,quintil_3,-0.0361860913885451,Pearson,0.0361860913885451,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,n_profesionales,-0.03549906240386895,Spearman,0.03549906240386895,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+mod_TD,educ_universitaria,-0.03540196879699192,Pearson,0.03540196879699192,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,educ_universitaria,-0.035401968796991916,Spearman,0.035401968796991916,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_18_24,n_trabajadores,0.03530897998279212,Pearson,0.03530897998279212,baja,edad,dicotomica,hogar,continua,NO,Baja o manejable
+zona_centro,quintil_4,-0.03511542477600745,MixedCor,0.03511542477600745,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,quintil_4,-0.03511529437152688,Tetracorica,0.03511529437152688,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,edad_18_24,0.03492315889074675,MixedCor,0.03492315889074675,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_centro,edad_18_24,0.0349200152120529,Tetracorica,0.0349200152120529,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_CP,ing_personal,-0.034601478970765494,Pearson,0.034601478970765494,baja,modulo,dicotomica,ingresos,continua,NO,Baja o manejable
+female,edad_65mas,-0.03434927544072608,Pearson,0.03434927544072608,baja,sexo,dicotomica,edad,dicotomica,NO,Baja o manejable
+female,edad_65mas,-0.03434927544072608,Spearman,0.03434927544072608,baja,sexo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TD,educ_tecnica,-0.03376887144997974,Spearman,0.03376887144997974,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,educ_tecnica,-0.03376887144997973,Pearson,0.03376887144997973,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+T_mod_10h,vive_pareja,-0.03366668914515098,Spearman,0.03366668914515098,baja,tiempo_modulo,continua,hogar,dicotomica,NO,Baja o manejable
+T_mod_10h,quintil_5,-0.0334641394619597,MixedCor,0.0334641394619597,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,educ_tecnica,0.033224567304820124,Tetracorica,0.033224567304820124,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,educ_tecnica,0.03322335856235664,MixedCor,0.03322335856235664,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+T_mod_10h,edad_65mas,-0.032774078759102536,Spearman,0.032774078759102536,baja,tiempo_modulo,continua,edad,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_4,-0.032769692474157196,Pearson,0.032769692474157196,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_4,-0.032769692474157196,Spearman,0.032769692474157196,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,edad_65mas,0.03270761038899014,Pearson,0.03270761038899014,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_centro,edad_65mas,0.03270761038899014,Spearman,0.03270761038899014,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_CP,zona_centro,0.032587115430110246,MixedCor,0.032587115430110246,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_CP,zona_centro,0.03258635549938539,Tetracorica,0.03258635549938539,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_CP,n_profesionales,-0.03254199758560427,Pearson,0.03254199758560427,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+mod_TC,educ_secundaria,-0.03221396901485152,Tetracorica,0.03221396901485152,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,educ_secundaria,-0.03221171472838885,MixedCor,0.03221171472838885,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+T_mod_10h,vive_pareja,-0.032186764930680456,Pearson,0.032186764930680456,baja,tiempo_modulo,continua,hogar,dicotomica,NO,Baja o manejable
+territorio_modelo,edad_modelo,0.0321616095165944,Cramer V persona,0.0321616095165944,baja,territorio,categorica_ordinal_impuesta,edad,categorica_ordinal,NO,Baja o manejable
+zona_sur,educ_secundaria,-0.032032565092174704,Pearson,0.032032565092174704,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_sur,educ_secundaria,-0.032032565092174704,Spearman,0.032032565092174704,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,educ_universitaria,-0.03190242911095584,MixedCor,0.03190242911095584,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,educ_universitaria,-0.0318987528915813,Tetracorica,0.0318987528915813,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,quintil_4,-0.03180597900304682,Pearson,0.03180597900304682,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,quintil_4,-0.03180597900304681,Spearman,0.03180597900304681,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,edad_65mas,-0.031151309669418512,Pearson,0.031151309669418512,baja,tiempo_modulo,continua,edad,dicotomica,NO,Baja o manejable
+territorio_modelo,educacion_modelo,0.030751061037606817,Cramer V persona,0.030751061037606817,baja,territorio,categorica_ordinal_impuesta,educacion,categorica_ordinal,NO,Baja o manejable
+T_mod_10h,educ_universitaria,-0.03069740458344778,Spearman,0.03069740458344778,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+territorio_modelo,educacion_modelo,0.030465610892167778,Cramer V base larga,0.030465610892167778,baja,territorio,categorica_ordinal_impuesta,educacion,categorica_ordinal,NO,Baja o manejable
+T_mod_10h,educ_universitaria,-0.030388994322896757,Pearson,0.030388994322896757,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+territorio_modelo,edad_modelo,0.030355680718908956,Cramer V base larga,0.030355680718908956,baja,territorio,categorica_ordinal_impuesta,edad,categorica_ordinal,NO,Baja o manejable
+T_mod_10h,zona_sur,-0.03020866470218919,Pearson,0.03020866470218919,baja,tiempo_modulo,continua,territorio,dicotomica,NO,Baja o manejable
+quintil_modelo,territorio_modelo,-0.030207998447392432,Policorica ordinales persona,0.030207998447392432,baja,ingresos,categorica_ordinal,territorio,categorica_ordinal_impuesta,NO,Baja o manejable
+mod_CP,educ_universitaria,-0.030106157234927756,Pearson,0.030106157234927756,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,educ_universitaria,-0.030106157234927756,Spearman,0.030106157234927756,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_profesionales,quintil_3,-0.02994022807936474,Spearman,0.02994022807936474,baja,hogar,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,quintil_3,-0.029846262727248968,MixedCor,0.029846262727248968,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,quintil_3,-0.029845301779338362,Tetracorica,0.029845301779338362,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,educ_tecnica,-0.029702566517147328,MixedCor,0.029702566517147328,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,educ_tecnica,-0.02970239076644426,Tetracorica,0.02970239076644426,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+female,n_profesionales,-0.029401286640027745,Spearman,0.029401286640027745,baja,sexo,dicotomica,hogar,continua,NO,Baja o manejable
+female,n_profesionales,-0.029400875057490238,Pearson,0.029400875057490238,baja,sexo,dicotomica,hogar,continua,NO,Baja o manejable
+T_mod_10h,quintil_4,0.029315513889900627,MixedCor,0.029315513889900627,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,educ_secundaria,0.02911194941169906,MixedCor,0.02911194941169906,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+edad_18_24,n_trabajadores,0.028891319918081332,Spearman,0.028891319918081332,baja,edad,dicotomica,hogar,continua,NO,Baja o manejable
+female,educ_tecnica,0.02887579349231448,Tetracorica,0.02887579349231448,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+female,educ_tecnica,0.028875762223584883,MixedCor,0.028875762223584883,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+ing_personal,zona_sur,0.028553701307379997,MixedCor,0.028553701307379997,baja,ingresos,continua,territorio,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_3,0.02742893938561525,MixedCor,0.02742893938561525,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,quintil_3,0.027428558959841365,Tetracorica,0.027428558959841365,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,educ_secundaria,0.027273066319092484,Pearson,0.027273066319092484,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+mod_CP,educ_tecnica,-0.026910455355371714,Pearson,0.026910455355371714,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,educ_tecnica,-0.02691045535537171,Spearman,0.02691045535537171,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+T_mod_10h,zona_sur,-0.02688501689834945,Spearman,0.02688501689834945,baja,tiempo_modulo,continua,territorio,dicotomica,NO,Baja o manejable
+T_mod_10h,educ_secundaria,0.02685337806007153,Spearman,0.02685337806007153,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_tecnica,-0.02675123090975893,MixedCor,0.02675123090975893,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_tecnica,-0.026750502788522087,Tetracorica,0.026750502788522087,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,female,0.026737011391266,MixedCor,0.026737011391266,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_TD,female,0.02673518205447567,Tetracorica,0.02673518205447567,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+vive_pareja,educ_tecnica,0.026581146355091616,MixedCor,0.026581146355091616,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+vive_pareja,educ_tecnica,0.026580477331461336,Tetracorica,0.026580477331461336,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_secundaria,0.02608478674543621,Tetracorica,0.02608478674543621,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_secundaria,0.026083744689157556,MixedCor,0.026083744689157556,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,quintil_5,-0.025619181810144463,Spearman,0.025619181810144463,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,quintil_5,-0.025619181810144456,Pearson,0.025619181810144456,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,educ_secundaria,-0.024548680612472774,Pearson,0.024548680612472774,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,educ_secundaria,-0.02454868061247277,Spearman,0.02454868061247277,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,educ_universitaria,0.024038972072527965,Spearman,0.024038972072527965,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,educ_universitaria,0.024038972072527955,Pearson,0.024038972072527955,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+sexo_modelo,educacion_modelo,0.023582847924124083,Cramer V persona,0.023582847924124083,baja,sexo,categorica_nominal,educacion,categorica_ordinal,NO,Baja o manejable
+mod_ED,quintil_4,-0.02352261749522724,Spearman,0.02352261749522724,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,quintil_4,-0.023522617495227237,Pearson,0.023522617495227237,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,mod_TC,0.02345152940294493,MixedCor,0.02345152940294493,baja,hogar,continua,modulo,dicotomica,NO,Baja o manejable
+T_mod_10h,quintil_5,-0.02343585814404338,Spearman,0.02343585814404338,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+educacion_modelo,territorio_modelo,-0.023272267578640933,Policorica ordinales persona,0.023272267578640933,baja,educacion,categorica_ordinal,territorio,categorica_ordinal_impuesta,NO,Baja o manejable
+mod_TD,zona_sur,-0.02325503848841381,Spearman,0.02325503848841381,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TD,zona_sur,-0.023255038488413808,Pearson,0.023255038488413808,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TC,quintil_3,-0.023227134320737527,MixedCor,0.023227134320737527,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,quintil_3,-0.023226017196696078,Tetracorica,0.023226017196696078,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,edad_18_24,-0.02300887425805052,Tetracorica,0.02300887425805052,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_sur,edad_18_24,-0.023006518461787626,MixedCor,0.023006518461787626,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+T_mod_10h,quintil_5,-0.02262496856989933,Pearson,0.02262496856989933,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,educ_tecnica,0.022436106250752104,Pearson,0.022436106250752104,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_sur,educ_tecnica,0.022436106250752104,Spearman,0.022436106250752104,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_profesionales,zona_sur,-0.022203184358521626,MixedCor,0.022203184358521626,baja,hogar,continua,territorio,dicotomica,NO,Baja o manejable
+sexo_modelo,educacion_modelo,0.022094650094895356,Cramer V base larga,0.022094650094895356,baja,sexo,categorica_nominal,educacion,categorica_ordinal,NO,Baja o manejable
+female,quintil_4,-0.02206194670799512,MixedCor,0.02206194670799512,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,quintil_4,-0.022060604377614586,Tetracorica,0.022060604377614586,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,quintil_3,0.022027629467979898,MixedCor,0.022027629467979898,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,quintil_3,-0.02183208742281715,Spearman,0.02183208742281715,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,quintil_3,-0.021832087422817142,Pearson,0.021832087422817142,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,educ_secundaria,0.021799731138936254,Pearson,0.021799731138936254,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+female,educ_universitaria,-0.021375550672171246,MixedCor,0.021375550672171246,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+female,educ_universitaria,-0.021374756948855787,Tetracorica,0.021374756948855787,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_4,0.020759881680243165,Tetracorica,0.020759881680243165,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_4,0.020759642400122666,MixedCor,0.020759642400122666,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_trabajadores,zona_sur,-0.020737290334001953,MixedCor,0.020737290334001953,baja,hogar,continua,territorio,dicotomica,NO,Baja o manejable
+zona_sur,ing_personal,0.020597054292830545,Pearson,0.020597054292830545,baja,territorio,dicotomica,ingresos,continua,NO,Baja o manejable
+mod_CP,quintil_4,0.020550901001070515,MixedCor,0.020550901001070515,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,quintil_4,0.020550888591294364,Tetracorica,0.020550888591294364,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,quintil_4,0.020473880619592513,Pearson,0.020473880619592513,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,zona_centro,-0.020263775945807014,Spearman,0.020263775945807014,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TC,zona_centro,-0.020263775945807007,Pearson,0.020263775945807007,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+zona_centro,educ_tecnica,-0.020236569845860797,Pearson,0.020236569845860797,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_tecnica,-0.020236569845860797,Spearman,0.020236569845860797,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,n_trabajadores,0.020183336955175983,Spearman,0.020183336955175983,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+edad_18_24,educ_tecnica,0.020040966557035435,Pearson,0.020040966557035435,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_18_24,educ_tecnica,0.020040966557035435,Spearman,0.020040966557035435,baja,edad,dicotomica,educacion,dicotomica,NO,Baja o manejable
+n_trabajadores,zona_centro,-0.019856300284174358,MixedCor,0.019856300284174358,baja,hogar,continua,territorio,dicotomica,NO,Baja o manejable
+female,quintil_4,-0.019840297121630986,Pearson,0.019840297121630986,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,quintil_4,-0.019840297121630986,Spearman,0.019840297121630986,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,n_profesionales,-0.019775937078182617,Spearman,0.019775937078182617,baja,tiempo_modulo,continua,hogar,continua,NO,Baja o manejable
+mod_CP,edad_18_24,-0.019596189424002212,Spearman,0.019596189424002212,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_CP,edad_18_24,-0.01959618942400221,Pearson,0.01959618942400221,baja,modulo,dicotomica,edad,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_3,0.01937054492022464,Tetracorica,0.01937054492022464,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_3,0.01937023109492744,MixedCor,0.01937023109492744,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,quintil_4,0.01925291841024405,Spearman,0.01925291841024405,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_3,0.019235364237606155,Pearson,0.019235364237606155,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_secundaria,quintil_3,0.019235364237606155,Spearman,0.019235364237606155,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,quintil_3,-0.019200242210400252,Tetracorica,0.019200242210400252,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,quintil_3,-0.019200235672244204,MixedCor,0.019200235672244204,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,quintil_5,0.019188765663372048,Tetracorica,0.019188765663372048,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,quintil_5,0.019188612589024604,MixedCor,0.019188612589024604,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,educ_secundaria,-0.019137389793681913,Pearson,0.019137389793681913,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,educ_secundaria,-0.019137389793681913,Spearman,0.019137389793681913,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_universitaria,-0.018878511640385728,MixedCor,0.018878511640385728,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_universitaria,-0.01887834920384809,Tetracorica,0.01887834920384809,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TC,quintil_3,-0.018735564041157754,Spearman,0.018735564041157754,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,quintil_3,-0.01873556404115775,Pearson,0.01873556404115775,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,educ_secundaria,-0.018728213671512,Tetracorica,0.018728213671512,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,educ_secundaria,-0.0187263268934721,MixedCor,0.0187263268934721,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,zona_centro,-0.018645457053599556,Tetracorica,0.018645457053599556,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_ED,zona_centro,-0.018644658670220367,MixedCor,0.018644658670220367,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_4,0.01848336083262224,Pearson,0.01848336083262224,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_4,0.018483360832622236,Spearman,0.018483360832622236,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+ing_personal,zona_centro,-0.018251380357420504,MixedCor,0.018251380357420504,baja,ingresos,continua,territorio,dicotomica,NO,Baja o manejable
+zona_centro,edad_18_24,0.018149244164741014,Spearman,0.018149244164741014,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_centro,edad_18_24,0.01814924416474101,Pearson,0.01814924416474101,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_ED,female,-0.018102309449055526,Spearman,0.018102309449055526,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_ED,female,-0.018102309449055522,Pearson,0.018102309449055522,baja,modulo,dicotomica,sexo,dicotomica,NO,Baja o manejable
+mod_CP,quintil_3,0.017887159957490358,Pearson,0.017887159957490358,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,quintil_3,0.017887159957490358,Spearman,0.017887159957490358,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,quintil_4,-0.0175340076551896,Spearman,0.0175340076551896,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,quintil_4,-0.017534007655189594,Pearson,0.017534007655189594,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_4,0.017530544505341798,Pearson,0.017530544505341798,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_4,0.017530544505341798,Spearman,0.017530544505341798,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,edad_18_24,-0.017420579542313387,MixedCor,0.017420579542313387,baja,tiempo_modulo,continua,edad,dicotomica,NO,Baja o manejable
+zona_centro,n_trabajadores,-0.017234315011193446,Spearman,0.017234315011193446,baja,territorio,dicotomica,hogar,continua,NO,Baja o manejable
+mod_CP,zona_centro,0.016779499853396603,Pearson,0.016779499853396603,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_CP,zona_centro,0.016779499853396603,Spearman,0.016779499853396603,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_ED,n_profesionales,0.016335248338693598,Pearson,0.016335248338693598,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+zona_sur,n_profesionales,-0.016016144064237146,Pearson,0.016016144064237146,baja,territorio,dicotomica,hogar,continua,NO,Baja o manejable
+T_mod_10h,quintil_3,0.01599996793789932,Spearman,0.01599996793789932,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+edad_modelo,territorio_modelo,0.015978701328343625,Policorica ordinales persona,0.015978701328343625,baja,edad,categorica_ordinal,territorio,categorica_ordinal_impuesta,NO,Baja o manejable
+zona_centro,n_trabajadores,-0.015843237976390936,Pearson,0.015843237976390936,baja,territorio,dicotomica,hogar,continua,NO,Baja o manejable
+T_mod_10h,female,0.01574800290146241,Spearman,0.01574800290146241,baja,tiempo_modulo,continua,sexo,dicotomica,NO,Baja o manejable
+T_mod_10h,quintil_3,0.015546382657419332,Pearson,0.015546382657419332,baja,tiempo_modulo,continua,ingresos,dicotomica,NO,Baja o manejable
+female,educ_universitaria,-0.015321960795557685,Pearson,0.015321960795557685,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+female,educ_universitaria,-0.015321960795557681,Spearman,0.015321960795557681,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,quintil_5,0.015212327618516602,MixedCor,0.015212327618516602,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,quintil_5,0.015212258871008513,Tetracorica,0.015212258871008513,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,n_trabajadores,0.015018884184826262,Pearson,0.015018884184826262,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+edad_18_24,quintil_3,-0.014991203771727744,Spearman,0.014991203771727744,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,quintil_3,-0.014991203771727739,Pearson,0.014991203771727739,baja,edad,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,n_trabajadores,-0.01495872952853339,Pearson,0.01495872952853339,baja,territorio,dicotomica,hogar,continua,NO,Baja o manejable
+T_mod_10h,female,0.014900219075489229,MixedCor,0.014900219075489229,baja,tiempo_modulo,continua,sexo,dicotomica,NO,Baja o manejable
+n_trabajadores,educ_secundaria,0.014629882981480845,Spearman,0.014629882981480845,baja,hogar,continua,educacion,dicotomica,NO,Baja o manejable
+zona_centro,ing_personal,-0.014562680774459451,Pearson,0.014562680774459451,baja,territorio,dicotomica,ingresos,continua,NO,Baja o manejable
+n_trabajadores,ing_personal,0.014463800622659617,Pearson,0.014463800622659617,baja,hogar,continua,ingresos,continua,NO,Baja o manejable
+n_trabajadores,ing_personal,0.014463800622659617,MixedCor,0.014463800622659617,baja,hogar,continua,ingresos,continua,NO,Baja o manejable
+T_mod_10h,n_profesionales,-0.014350116363045718,Pearson,0.014350116363045718,baja,tiempo_modulo,continua,hogar,continua,NO,Baja o manejable
+T_mod_10h,n_profesionales,-0.014350116363045718,MixedCor,0.014350116363045718,baja,tiempo_modulo,continua,hogar,continua,NO,Baja o manejable
+mod_ED,n_profesionales,0.014248687673273414,Spearman,0.014248687673273414,baja,modulo,dicotomica,hogar,continua,NO,Baja o manejable
+female,educ_tecnica,0.013796718080708401,Pearson,0.013796718080708401,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+female,educ_tecnica,0.013796718080708398,Spearman,0.013796718080708398,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,educ_secundaria,-0.013636026798010565,Spearman,0.013636026798010565,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,educ_secundaria,-0.013636026798010563,Pearson,0.013636026798010563,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_sur,edad_65mas,-0.013540102325951112,Tetracorica,0.013540102325951112,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_sur,edad_65mas,-0.013538052924489135,MixedCor,0.013538052924489135,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_centro,educ_secundaria,0.013346303715208957,Spearman,0.013346303715208957,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_secundaria,0.013346303715208955,Pearson,0.013346303715208955,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_3,0.013180410920785118,MixedCor,0.013180410920785118,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+vive_pareja,quintil_3,0.01317985149928354,Tetracorica,0.01317985149928354,baja,hogar,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_profesionales,edad_18_24,-0.013097731604230577,MixedCor,0.013097731604230577,baja,hogar,continua,edad,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_3,0.012268849513427414,Pearson,0.012268849513427414,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+educ_tecnica,quintil_3,0.012268849513427412,Spearman,0.012268849513427412,baja,educacion,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,vive_pareja,-0.012243338619703448,Tetracorica,0.012243338619703448,baja,territorio,dicotomica,hogar,dicotomica,NO,Baja o manejable
+zona_centro,vive_pareja,-0.012241776097490603,MixedCor,0.012241776097490603,baja,territorio,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_CP,quintil_5,-0.01220405635269167,MixedCor,0.01220405635269167,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,quintil_5,-0.012203574767461072,Tetracorica,0.012203574767461072,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_65mas,vive_pareja,-0.01216969515153032,Pearson,0.01216969515153032,baja,edad,dicotomica,hogar,dicotomica,NO,Baja o manejable
+edad_65mas,vive_pareja,-0.012169695151530319,Spearman,0.012169695151530319,baja,edad,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_TD,quintil_3,0.012078588731042098,Tetracorica,0.012078588731042098,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,quintil_3,0.012078503318813027,MixedCor,0.012078503318813027,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,edad_18_24,-0.01191472238842395,Spearman,0.01191472238842395,baja,tiempo_modulo,continua,edad,dicotomica,NO,Baja o manejable
+T_mod_10h,female,0.011785384923408441,Pearson,0.011785384923408441,baja,tiempo_modulo,continua,sexo,dicotomica,NO,Baja o manejable
+quintil_3,ing_personal,0.011447097787004056,Spearman,0.011447097787004056,baja,ingresos,dicotomica,ingresos,continua,SI,Correlacion esperable dentro del mismo bloque de variables
+female,zona_centro,-0.011386967935950903,Tetracorica,0.011386967935950903,baja,sexo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+female,zona_centro,-0.011386136939789985,MixedCor,0.011386136939789985,baja,sexo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+T_mod_10h,zona_centro,0.011012502830747487,Spearman,0.011012502830747487,baja,tiempo_modulo,continua,territorio,dicotomica,NO,Baja o manejable
+zona_centro,educ_universitaria,-0.010687808854254839,Pearson,0.010687808854254839,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_centro,educ_universitaria,-0.010687808854254839,Spearman,0.010687808854254839,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,vive_pareja,0.010676688737968943,Tetracorica,0.010676688737968943,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_TD,vive_pareja,0.010673604531538358,MixedCor,0.010673604531538358,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+zona_sur,quintil_3,0.010334809442554969,MixedCor,0.010334809442554969,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_3,0.01033425101529136,Tetracorica,0.01033425101529136,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,edad_18_24,-0.010138752196563666,Pearson,0.010138752196563666,baja,tiempo_modulo,continua,edad,dicotomica,NO,Baja o manejable
+edad_18_24,n_profesionales,-0.010119546735028184,Spearman,0.010119546735028184,baja,edad,dicotomica,hogar,continua,NO,Baja o manejable
+female,quintil_3,0.010055306436250865,Tetracorica,0.010055306436250865,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,quintil_3,0.010054064902262995,MixedCor,0.010054064902262995,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,vive_pareja,-0.00964385285299765,Pearson,0.00964385285299765,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_TD,vive_pareja,-0.009643852852997648,Spearman,0.009643852852997648,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+zona_sur,n_profesionales,-0.009621346409204493,Spearman,0.009621346409204493,baja,territorio,dicotomica,hogar,continua,NO,Baja o manejable
+female,educ_secundaria,-0.009608721577397273,Pearson,0.009608721577397273,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+female,educ_secundaria,-0.009608721577397271,Spearman,0.009608721577397271,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,quintil_3,-0.009448336975394132,Pearson,0.009448336975394132,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_ED,quintil_3,-0.00944833697539413,Spearman,0.00944833697539413,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+sexo_modelo,territorio_modelo,0.00941944969512434,Cramer V base larga,0.00941944969512434,baja,sexo,categorica_nominal,territorio,categorica_ordinal_impuesta,NO,Baja o manejable
+zona_sur,n_trabajadores,-0.009020678929413944,Spearman,0.009020678929413944,baja,territorio,dicotomica,hogar,continua,NO,Baja o manejable
+zona_sur,educ_universitaria,0.008797009560633938,Tetracorica,0.008797009560633938,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_sur,educ_universitaria,0.008796907881713004,MixedCor,0.008796907881713004,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,vive_pareja,-0.008701802195847408,Spearman,0.008701802195847408,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_CP,vive_pareja,-0.008701802195847406,Pearson,0.008701802195847406,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+zona_sur,vive_pareja,-0.008435424076918982,Tetracorica,0.008435424076918982,baja,territorio,dicotomica,hogar,dicotomica,NO,Baja o manejable
+zona_sur,vive_pareja,-0.008434159612114725,MixedCor,0.008434159612114725,baja,territorio,dicotomica,hogar,dicotomica,NO,Baja o manejable
+vive_pareja,educ_tecnica,0.008395902189741965,Pearson,0.008395902189741965,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+vive_pareja,educ_tecnica,0.008395902189741965,Spearman,0.008395902189741965,baja,hogar,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_sur,edad_18_24,-0.008371038601867064,Pearson,0.008371038601867064,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_sur,edad_18_24,-0.008371038601867062,Spearman,0.008371038601867062,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+female,zona_centro,-0.008364865973390343,Pearson,0.008364865973390343,baja,sexo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+female,zona_centro,-0.008364865973390341,Spearman,0.008364865973390341,baja,sexo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TC,quintil_5,0.007972284251325153,Pearson,0.007972284251325153,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,quintil_5,0.007972284251325151,Spearman,0.007972284251325151,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_5,-0.007967187461548108,Pearson,0.007967187461548108,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_5,-0.007967187461548108,Spearman,0.007967187461548108,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_5,-0.007670308464043078,Tetracorica,0.007670308464043078,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_5,-0.007670022507888825,MixedCor,0.007670022507888825,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+edad_18_24,n_profesionales,-0.0076228609243362945,Pearson,0.0076228609243362945,baja,edad,dicotomica,hogar,continua,NO,Baja o manejable
+mod_TC,zona_sur,0.0074548512620698755,MixedCor,0.0074548512620698755,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TC,zona_sur,0.007454492580289618,Tetracorica,0.007454492580289618,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_CP,quintil_5,-0.006557357449716113,Pearson,0.006557357449716113,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,quintil_5,-0.006557357449716113,Spearman,0.006557357449716113,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,zona_centro,0.006281726894732225,MixedCor,0.006281726894732225,baja,tiempo_modulo,continua,territorio,dicotomica,NO,Baja o manejable
+T_mod_10h,educ_tecnica,0.0061130553901710275,Spearman,0.0061130553901710275,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+mod_TD,educ_universitaria,-0.005944657220822098,MixedCor,0.005944657220822098,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_TD,educ_universitaria,-0.005942538407800315,Tetracorica,0.005942538407800315,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+edad_65mas,vive_pareja,0.0058344356164373315,Tetracorica,0.0058344356164373315,baja,edad,dicotomica,hogar,dicotomica,NO,Baja o manejable
+edad_65mas,vive_pareja,0.005826886233830772,MixedCor,0.005826886233830772,baja,edad,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_TC,zona_sur,0.005750742154454055,Spearman,0.005750742154454055,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TC,zona_sur,0.005750742154454054,Pearson,0.005750742154454054,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+territorio_modelo,pareja_modelo,0.005730326295841229,Cramer V base larga,0.005730326295841229,baja,territorio,categorica_ordinal_impuesta,hogar,categorica_nominal,NO,Baja o manejable
+mod_TD,quintil_4,-0.005708394087479298,MixedCor,0.005708394087479298,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,quintil_4,-0.005707574522213316,Tetracorica,0.005707574522213316,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,educ_tecnica,0.005606566670704766,MixedCor,0.005606566670704766,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+mod_TD,quintil_5,-0.005194629619870961,Spearman,0.005194629619870961,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,quintil_5,-0.00519462961987096,Pearson,0.00519462961987096,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+T_mod_10h,zona_centro,0.0050121569814926235,Pearson,0.0050121569814926235,baja,tiempo_modulo,continua,territorio,dicotomica,NO,Baja o manejable
+zona_sur,edad_65mas,-0.004927446397150952,Pearson,0.004927446397150952,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+zona_sur,edad_65mas,-0.004927446397150952,Spearman,0.004927446397150952,baja,territorio,dicotomica,edad,dicotomica,NO,Baja o manejable
+mod_TC,quintil_4,0.004687030014806075,Tetracorica,0.004687030014806075,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,quintil_4,0.0046861526248505245,MixedCor,0.0046861526248505245,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,quintil_4,-0.004600829676309398,Pearson,0.004600829676309398,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TC,quintil_4,-0.004600829676309398,Spearman,0.004600829676309398,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,educ_universitaria,0.004285284572666697,Pearson,0.004285284572666697,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+zona_sur,educ_universitaria,0.0042852845726666965,Spearman,0.0042852845726666965,baja,territorio,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,zona_sur,0.004255281622943871,Tetracorica,0.004255281622943871,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_CP,zona_sur,0.004254908818629442,MixedCor,0.004254908818629442,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+T_mod_10h,educ_tecnica,0.004178213087873264,Pearson,0.004178213087873264,baja,tiempo_modulo,continua,educacion,dicotomica,NO,Baja o manejable
+T_mod_10h,ing_personal,0.003762475966476733,Pearson,0.003762475966476733,baja,tiempo_modulo,continua,ingresos,continua,NO,Baja o manejable
+T_mod_10h,ing_personal,0.003762475966476733,MixedCor,0.003762475966476733,baja,tiempo_modulo,continua,ingresos,continua,NO,Baja o manejable
+territorio_modelo,pareja_modelo,0.0034839229310753314,Cramer V persona,0.0034839229310753314,baja,territorio,categorica_ordinal_impuesta,hogar,categorica_nominal,NO,Baja o manejable
+mod_CP,quintil_4,0.0034115263405433936,Pearson,0.0034115263405433936,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_CP,quintil_4,0.003411526340543393,Spearman,0.003411526340543393,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,quintil_5,0.0032947446675026335,Tetracorica,0.0032947446675026335,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,quintil_5,0.0032942186244664094,MixedCor,0.0032942186244664094,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,educ_secundaria,-0.003074854431131358,Tetracorica,0.003074854431131358,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+female,educ_secundaria,-0.0030745287352138546,MixedCor,0.0030745287352138546,baja,sexo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,zona_centro,-0.00307422532197869,Spearman,0.00307422532197869,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_ED,zona_centro,-0.0030742253219786897,Pearson,0.0030742253219786897,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+zona_centro,vive_pareja,-0.002898110827270204,Pearson,0.002898110827270204,baja,territorio,dicotomica,hogar,dicotomica,NO,Baja o manejable
+zona_centro,vive_pareja,-0.002898110827270204,Spearman,0.002898110827270204,baja,territorio,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_ED,zona_sur,0.0026025830487156096,MixedCor,0.0026025830487156096,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_ED,zona_sur,0.002602197207588313,Tetracorica,0.002602197207588313,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_TD,quintil_3,-0.0025283998326509154,Pearson,0.0025283998326509154,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+mod_TD,quintil_3,-0.0025283998326509154,Spearman,0.0025283998326509154,baja,modulo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,vive_pareja,-0.002527701332834396,Spearman,0.002527701332834396,baja,territorio,dicotomica,hogar,dicotomica,NO,Baja o manejable
+zona_sur,vive_pareja,-0.0025277013328343957,Pearson,0.0025277013328343957,baja,territorio,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_CP,zona_sur,0.0023610806890777144,Pearson,0.0023610806890777144,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_CP,zona_sur,0.0023610806890777144,Spearman,0.0023610806890777144,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_ED,zona_sur,0.0022702800157312374,Pearson,0.0022702800157312374,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_ED,zona_sur,0.0022702800157312366,Spearman,0.0022702800157312366,baja,modulo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+zona_sur,quintil_3,0.002266933911682087,Pearson,0.002266933911682087,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_sur,quintil_3,0.002266933911682087,Spearman,0.002266933911682087,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+sexo_modelo,territorio_modelo,0.002017022902645582,Cramer V persona,0.002017022902645582,baja,sexo,categorica_nominal,territorio,categorica_ordinal_impuesta,NO,Baja o manejable
+female,zona_sur,0.0018648649219922815,MixedCor,0.0018648649219922815,baja,sexo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+female,zona_sur,0.0018640953275920532,Tetracorica,0.0018640953275920532,baja,sexo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+zona_centro,n_profesionales,-0.0012758895533998863,Spearman,0.0012758895533998863,baja,territorio,dicotomica,hogar,continua,NO,Baja o manejable
+zona_centro,quintil_5,-0.001073018030920032,Pearson,0.001073018030920032,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+zona_centro,quintil_5,-0.001073018030920032,Spearman,0.001073018030920032,baja,territorio,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,zona_sur,9.964355385596148e-4,Pearson,9.964355385596148e-4,baja,sexo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+female,zona_sur,9.964355385596144e-4,Spearman,9.964355385596144e-4,baja,sexo,dicotomica,territorio,dicotomica,NO,Baja o manejable
+mod_ED,educ_tecnica,5.655272745676068e-4,Pearson,5.655272745676068e-4,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_ED,educ_tecnica,5.655272745676059e-4,Spearman,5.655272745676059e-4,baja,modulo,dicotomica,educacion,dicotomica,NO,Baja o manejable
+mod_CP,vive_pareja,4.214275741989223e-4,Tetracorica,4.214275741989223e-4,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+mod_CP,vive_pareja,4.18542981981939e-4,MixedCor,4.18542981981939e-4,baja,modulo,dicotomica,hogar,dicotomica,NO,Baja o manejable
+female,quintil_3,-2.712303201899489e-4,Spearman,2.712303201899489e-4,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+female,quintil_3,-2.7123032018994874e-4,Pearson,2.7123032018994874e-4,baja,sexo,dicotomica,ingresos,dicotomica,NO,Baja o manejable
+n_profesionales,zona_centro,-1.2963281337764388e-4,MixedCor,1.2963281337764388e-4,baja,hogar,continua,territorio,dicotomica,NO,Baja o manejable
+zona_centro,n_profesionales,-1.0343334269216422e-4,Pearson,1.0343334269216422e-4,baja,territorio,dicotomica,hogar,continua,NO,Baja o manejable

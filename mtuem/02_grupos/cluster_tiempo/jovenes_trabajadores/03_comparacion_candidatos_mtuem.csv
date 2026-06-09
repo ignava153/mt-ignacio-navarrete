@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_tiempo,Jovenes trabajadores,BFGS,-3755.463491128393,TRUE,0
+cluster_tiempo,Jovenes trabajadores,NM,NA,FALSE,NA
+cluster_tiempo,Jovenes trabajadores,SANN_fallback,NA,FALSE,NA

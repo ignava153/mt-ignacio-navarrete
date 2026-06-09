@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+cluster_tiempo,Rutina flexible,Personas compatibles con MNL V9 en grupo,2419,100
+cluster_tiempo,Rutina flexible,Variables finitas para MTUEM,2419,100
+cluster_tiempo,Rutina flexible,Tw > 0 y w > 0,2419,100
+cluster_tiempo,Rutina flexible,Tc valido y tiempo libre observado > 0,2419,100
+cluster_tiempo,Rutina flexible,Ec corregido > 0,1770,73.17073170731707
+cluster_tiempo,Rutina flexible,Ingreso potencial neto de Ec > 0,1770,73.17073170731707
+cluster_tiempo,Rutina flexible,Muestra final MTUEM,1770,73.17073170731707

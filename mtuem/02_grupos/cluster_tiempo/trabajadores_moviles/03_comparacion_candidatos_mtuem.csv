@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_tiempo,Trabajadores moviles,BFGS,-3886.4039440977267,TRUE,0
+cluster_tiempo,Trabajadores moviles,NM,NA,FALSE,NA
+cluster_tiempo,Trabajadores moviles,SANN_fallback,NA,FALSE,NA

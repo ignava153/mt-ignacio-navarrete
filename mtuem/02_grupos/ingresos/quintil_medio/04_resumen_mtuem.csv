@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+ingresos,Quintil medio,N personas estimadas,1507
+ingresos,Quintil medio,N parametros,3
+ingresos,Quintil medio,Log likelihood,-7429.01473815547
+ingresos,Quintil medio,Metodo elegido,BFGS
+ingresos,Quintil medio,Return code,0
+ingresos,Quintil medio,PH,0.399452238685184
+ingresos,Quintil medio,tw,0.196295460086441
+ingresos,Quintil medio,th1,0.795127853122134
+ingresos,Quintil medio,Tw observado promedio,55.8520637027206
+ingresos,Quintil medio,Tw predicho promedio,56.3363900937157
+ingresos,Quintil medio,Tf1 ocio observado promedio,36.8227339084273
+ingresos,Quintil medio,Tf1 ocio predicho promedio,36.7740037460975
+ingresos,Quintil medio,Tf2 comidas observado promedio,9.91076310550763
+ingresos,Quintil medio,Tf2 comidas predicho promedio,9.47516687684246
+ingresos,Quintil medio,RMSE Tw,11.7256903038212
+ingresos,Quintil medio,RMSE Tf1 ocio,11.8153533193906
+ingresos,Quintil medio,RMSE Tf2 comidas,4.40196999238511
+ingresos,Quintil medio,VoL predicho promedio,5.29246372434539
+ingresos,Quintil medio,VoL predicho mediana,4.27351958597633
+ingresos,Quintil medio,VoL observado promedio,6.1562421643445
+ingresos,Quintil medio,VoL observado mediana,5.06226696020332
+ingresos,Quintil medio,VTAW predicho promedio,1.06268504086829
+ingresos,Quintil medio,VTAW observado promedio,1.92646348086739
+ingresos,Quintil medio,Weighted wage rate promedio,4.22977868347711
+ingresos,Quintil medio,N ingreso libre observado <= 0,224
+ingresos,Quintil medio,Porcentaje ingreso libre observado <= 0,0.148639681486397
+ingresos,Quintil medio,N ingreso libre predicho <= 0,0
+ingresos,Quintil medio,Porcentaje ingreso libre predicho <= 0,0
+ingresos,Quintil medio,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil medio,Porcentaje ingreso potencial neto Ec <= 0,0
+ingresos,Quintil medio,Media cierre temporal observado,168
+ingresos,Quintil medio,Media cierre temporal predicho,168
+ingresos,Quintil medio,Media diferencia cierre temporal predicho,1.13158763491987e-16

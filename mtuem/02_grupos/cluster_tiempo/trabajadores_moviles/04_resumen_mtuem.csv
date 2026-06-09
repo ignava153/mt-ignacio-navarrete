@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Trabajadores moviles,N personas estimadas,862
+cluster_tiempo,Trabajadores moviles,N parametros,3
+cluster_tiempo,Trabajadores moviles,Log likelihood,-3886.40394409773
+cluster_tiempo,Trabajadores moviles,Metodo elegido,BFGS
+cluster_tiempo,Trabajadores moviles,Return code,0
+cluster_tiempo,Trabajadores moviles,PH,0.338281427188051
+cluster_tiempo,Trabajadores moviles,tw,0.596023598271506
+cluster_tiempo,Trabajadores moviles,th1,0.801086627570179
+cluster_tiempo,Trabajadores moviles,Tw observado promedio,64.8408468677494
+cluster_tiempo,Trabajadores moviles,Tw predicho promedio,65.0386057576959
+cluster_tiempo,Trabajadores moviles,Tf1 ocio observado promedio,34.3281902552204
+cluster_tiempo,Trabajadores moviles,Tf1 ocio predicho promedio,34.3522783933239
+cluster_tiempo,Trabajadores moviles,Tf2 comidas observado promedio,8.75167053364269
+cluster_tiempo,Trabajadores moviles,Tf2 comidas predicho promedio,8.52982350559276
+cluster_tiempo,Trabajadores moviles,RMSE Tw,9.93556432977414
+cluster_tiempo,Trabajadores moviles,RMSE Tf1 ocio,9.89755738466044
+cluster_tiempo,Trabajadores moviles,RMSE Tf2 comidas,3.41962825076397
+cluster_tiempo,Trabajadores moviles,VoL predicho promedio,8.54777176047088
+cluster_tiempo,Trabajadores moviles,VoL predicho mediana,6.21045424820497
+cluster_tiempo,Trabajadores moviles,VoL observado promedio,9.81464034199905
+cluster_tiempo,Trabajadores moviles,VoL observado mediana,6.63330933014644
+cluster_tiempo,Trabajadores moviles,VTAW predicho promedio,3.97127652845232
+cluster_tiempo,Trabajadores moviles,VTAW observado promedio,5.23814510998049
+cluster_tiempo,Trabajadores moviles,Weighted wage rate promedio,4.57649523201856
+cluster_tiempo,Trabajadores moviles,N ingreso libre observado <= 0,30
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso libre observado <= 0,0.0348027842227378
+cluster_tiempo,Trabajadores moviles,N ingreso libre predicho <= 0,0
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso libre predicho <= 0,0
+cluster_tiempo,Trabajadores moviles,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores moviles,Media cierre temporal observado,168
+cluster_tiempo,Trabajadores moviles,Media cierre temporal predicho,168
+cluster_tiempo,Trabajadores moviles,Media diferencia cierre temporal predicho,-6.59436413698469e-17

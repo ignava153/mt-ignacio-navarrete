@@ -1,0 +1,26 @@
+
+====================================================
+Segmento: muestra_general - Muestra general 
+Ejecutando: 03_cont_Tw_Tf1_BFGS 
+Metodo: BFGS 
+Inicio: 2026-06-08 21:01:28 
+====================================================
+
+Resumen del objeto:
+--------------------------------------------
+Maximum Likelihood estimation
+BFGS maximization, 40 iterations
+Return code 0: successful convergence 
+Log-Likelihood: -39648.58 
+  free parameters
+Estimates:
+    Estimate Std. error t value Pr(> t)    
+PH  0.263265   0.008530   30.86  <2e-16 ***
+th1 0.800108   0.001092  732.87  <2e-16 ***
+tw  0.296946   0.019235   15.44  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+--------------------------------------------
+
+Fin: 2026-06-08 21:01:29 
+Duracion minutos: 0.01 

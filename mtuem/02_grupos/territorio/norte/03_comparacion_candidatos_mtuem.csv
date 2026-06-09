@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+territorio,Norte,BFGS,-10735.072894774627,TRUE,0
+territorio,Norte,NM,NA,FALSE,NA
+territorio,Norte,SANN_fallback,NA,FALSE,NA

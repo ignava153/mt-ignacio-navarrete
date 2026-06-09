@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_tiempo,Trabajadores moviles,PH,0.338281427188051,NA,NA,
+cluster_tiempo,Trabajadores moviles,th1,0.8010866275701787,NA,NA,
+cluster_tiempo,Trabajadores moviles,tw,0.5960235982715055,NA,NA,

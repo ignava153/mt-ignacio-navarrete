@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_tiempo,Jovenes trabajadores,PH,0.16634934317673664,NA,NA,
+cluster_tiempo,Jovenes trabajadores,th1,0.8645497952200883,NA,NA,
+cluster_tiempo,Jovenes trabajadores,tw,0.4671392025193155,NA,NA,

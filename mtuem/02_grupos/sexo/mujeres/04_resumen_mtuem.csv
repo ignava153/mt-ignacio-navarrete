@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+sexo,Mujeres,N personas estimadas,4818
+sexo,Mujeres,N parametros,3
+sexo,Mujeres,Log likelihood,-23955.5355411986
+sexo,Mujeres,Metodo elegido,BFGS
+sexo,Mujeres,Return code,0
+sexo,Mujeres,PH,0.208967596826955
+sexo,Mujeres,tw,0.376855552302343
+sexo,Mujeres,th1,0.794031241180129
+sexo,Mujeres,Tw observado promedio,54.2201266085513
+sexo,Mujeres,Tw predicho promedio,55.0015705735914
+sexo,Mujeres,Tf1 ocio observado promedio,35.8876255707763
+sexo,Mujeres,Tf1 ocio predicho promedio,35.6577120701207
+sexo,Mujeres,Tf2 comidas observado promedio,9.80100871731009
+sexo,Mujeres,Tf2 comidas predicho promedio,9.24947825292556
+sexo,Mujeres,RMSE Tw,12.1230079397577
+sexo,Mujeres,RMSE Tf1 ocio,11.9058873163425
+sexo,Mujeres,RMSE Tf2 comidas,4.50397737086834
+sexo,Mujeres,VoL predicho promedio,5.82437822103516
+sexo,Mujeres,VoL predicho mediana,4.76554524194437
+sexo,Mujeres,VoL observado promedio,7.59073936005556
+sexo,Mujeres,VoL observado mediana,4.55345882201056
+sexo,Mujeres,VTAW predicho promedio,2.26851855851959
+sexo,Mujeres,VTAW observado promedio,4.03487969753999
+sexo,Mujeres,Weighted wage rate promedio,3.55585966251557
+sexo,Mujeres,N ingreso libre observado <= 0,1474
+sexo,Mujeres,Porcentaje ingreso libre observado <= 0,0.305936073059361
+sexo,Mujeres,N ingreso libre predicho <= 0,0
+sexo,Mujeres,Porcentaje ingreso libre predicho <= 0,0
+sexo,Mujeres,N ingreso potencial neto Ec <= 0,0
+sexo,Mujeres,Porcentaje ingreso potencial neto Ec <= 0,0
+sexo,Mujeres,Media cierre temporal observado,168
+sexo,Mujeres,Media cierre temporal predicho,168
+sexo,Mujeres,Media diferencia cierre temporal predicho,6.4889747558e-17

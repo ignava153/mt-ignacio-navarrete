@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_modo,Movilidad mixta,N personas compatibles con MNL V9 en grupo,1795
+cluster_modo,Movilidad mixta,N personas usadas en MTUEM continuo,1663
+cluster_modo,Movilidad mixta,N personas removidas por filtros MTUEM,132
+cluster_modo,Movilidad mixta,Media Tw,57.96758869512929
+cluster_modo,Movilidad mixta,Media Tf1 ocio,35.50993986770896
+cluster_modo,Movilidad mixta,Media Tf2 comidas,9.454473842453398
+cluster_modo,Movilidad mixta,Media tiempo libre observado,44.964413710162354
+cluster_modo,Movilidad mixta,Media Tc residual,65.06799759470836
+cluster_modo,Movilidad mixta,Media w,3.9379001184606133
+cluster_modo,Movilidad mixta,Media Ec monetario bruto,83.2674804570054
+cluster_modo,Movilidad mixta,Media ingreso fijo descontado,21.08455173583355
+cluster_modo,Movilidad mixta,Media EcI neto de ingreso fijo,62.18292872117186
+cluster_modo,Movilidad mixta,Media Ec trabajo no remunerado,76.24616002992182
+cluster_modo,Movilidad mixta,Media Ec total corregido,138.4290887510937
+cluster_modo,Movilidad mixta,Media cierre temporal,168
+cluster_modo,Movilidad mixta,N cierre temporal distinto de 168,0
+cluster_modo,Movilidad mixta,Porcentaje cierre temporal distinto de 168,0
+cluster_modo,Movilidad mixta,N Tc <= 0,0
+cluster_modo,Movilidad mixta,Porcentaje Tc <= 0,0
+cluster_modo,Movilidad mixta,N ingreso libre observado <= 0,305
+cluster_modo,Movilidad mixta,Porcentaje ingreso libre observado <= 0,0.18340348767288034
+cluster_modo,Movilidad mixta,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad mixta,Porcentaje ingreso potencial neto Ec <= 0,0

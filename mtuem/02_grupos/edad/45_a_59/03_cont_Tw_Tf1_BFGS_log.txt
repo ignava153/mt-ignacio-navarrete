@@ -1,0 +1,26 @@
+
+====================================================
+Segmento: edad - 45 a 59 
+Ejecutando: 03_cont_Tw_Tf1_BFGS 
+Metodo: BFGS 
+Inicio: 2026-06-08 21:01:36 
+====================================================
+
+Resumen del objeto:
+--------------------------------------------
+Maximum Likelihood estimation
+BFGS maximization, 45 iterations
+Return code 0: successful convergence 
+Log-Likelihood: -11480.92 
+  free parameters
+Estimates:
+    Estimate Std. error t value Pr(> t)    
+PH  0.150622   0.013190   11.42  <2e-16 ***
+th1 0.775827   0.002069  374.90  <2e-16 ***
+tw  0.707550   0.034872   20.29  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+--------------------------------------------
+
+Fin: 2026-06-08 21:01:37 
+Duracion minutos: 0 

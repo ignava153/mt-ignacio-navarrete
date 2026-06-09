@@ -1,0 +1,11 @@
+chequeo,resultado
+Base de estimacion,V9 independiente: se prepara la base desde enut_ii.xlsx y no se leen resultados previos V6/V7
+Archivo de entrada de datos,enut_ii.xlsx
+Numeracion de alternativas,"Interna V9: 1 auto/moto, 2 TP, 3 taxi/app, 4 bicicleta/ciclos, 5 a pie, 6 otros, 7 multimodal"
+Referencia,1 Auto/moto particular
+Parametro fijo esperado,ASC1
+Constantes esperadas estimadas,ASC2; ASC3; ASC4; ASC5; ASC6; ASC7
+Constantes faltantes entre no referencia,
+Parametros no constantes con |t-ratio| < 1.96,Ninguno
+Ingreso usado,"ing_personal normal, sin dividir por 100.000"
+Valores iniciales,Todos en cero

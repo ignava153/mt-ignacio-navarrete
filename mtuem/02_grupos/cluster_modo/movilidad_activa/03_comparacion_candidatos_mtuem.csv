@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_modo,Movilidad activa,BFGS,-9690.289501015282,TRUE,0
+cluster_modo,Movilidad activa,NM,NA,FALSE,NA
+cluster_modo,Movilidad activa,SANN_fallback,NA,FALSE,NA

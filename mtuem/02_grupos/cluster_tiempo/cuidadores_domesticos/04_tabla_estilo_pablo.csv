@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_tiempo,Cuidadores domesticos,Model specification,# individuals,2514,NA,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Model specification,LL,-11586.232464891,NA,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Time-use parameters,PH,NA,0.06337083276901266,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Time-use parameters,th1,NA,0.7601612333069546,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Time-use parameters,tw,NA,1.2088126291514227,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Values of time,VoL predicho,22.6453 [18.0348 ; 27.2557],22.64527248969938,2.3522837887225974,NA,,18.034796263803088,27.255748715595672
+cluster_tiempo,Cuidadores domesticos,Values of time,VTAW predicho,19.1314 [14.5209 ; 23.7419],19.131422032658804,2.352283789461668,NA,,14.520945805313936,23.741898260003673
+cluster_tiempo,Cuidadores domesticos,Values of time,Weighted wage rate,3.5139 [3.4468 ; 3.5809],3.5138504570405726,0.034184685709069774,NA,,3.446817418611142,3.5808834954700033

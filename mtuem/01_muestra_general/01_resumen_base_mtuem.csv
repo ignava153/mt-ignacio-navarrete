@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+muestra_general,Muestra general,N personas compatibles con MNL V9 en grupo,8919
+muestra_general,Muestra general,N personas usadas en MTUEM continuo,7925
+muestra_general,Muestra general,N personas removidas por filtros MTUEM,994
+muestra_general,Muestra general,Media Tw,53.173497791798106
+muestra_general,Muestra general,Media Tf1 ocio,37.27156971608833
+muestra_general,Muestra general,Media Tf2 comidas,9.769592429022081
+muestra_general,Muestra general,Media tiempo libre observado,47.04116214511041
+muestra_general,Muestra general,Media Tc residual,67.78534006309148
+muestra_general,Muestra general,Media w,4.009591443280757
+muestra_general,Muestra general,Media Ec monetario bruto,78.55105993690852
+muestra_general,Muestra general,Media ingreso fijo descontado,24.20652235660598
+muestra_general,Muestra general,Media EcI neto de ingreso fijo,54.344537580302536
+muestra_general,Muestra general,Media Ec trabajo no remunerado,78.53845974402776
+muestra_general,Muestra general,Media Ec total corregido,132.8829973243303
+muestra_general,Muestra general,Media cierre temporal,168
+muestra_general,Muestra general,N cierre temporal distinto de 168,0
+muestra_general,Muestra general,Porcentaje cierre temporal distinto de 168,0
+muestra_general,Muestra general,N Tc <= 0,0
+muestra_general,Muestra general,Porcentaje Tc <= 0,0
+muestra_general,Muestra general,N ingreso libre observado <= 0,2007
+muestra_general,Muestra general,Porcentaje ingreso libre observado <= 0,0.2532492113564669
+muestra_general,Muestra general,N ingreso potencial neto Ec <= 0,0
+muestra_general,Muestra general,Porcentaje ingreso potencial neto Ec <= 0,0

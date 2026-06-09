@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_modo,Motorizados privados,PH,0.2818713540999182,NA,NA,
+cluster_modo,Motorizados privados,th1,0.7983450985286681,NA,NA,
+cluster_modo,Motorizados privados,tw,0.36172190307911206,NA,NA,

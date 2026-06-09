@@ -1,0 +1,18 @@
+V9 - Diagnostico de correlaciones para MNL final
+
+Este script no reestima el MNL V9. Lee la base larga ya preparada del modelo final y calcula diagnosticos de asociacion entre variables explicativas.
+
+Matrices generadas:
+1. Pearson: diagnostico general para variables numericas y dicotomicas.
+2. Spearman: diagnostico robusto basado en rangos.
+3. Tetracorica: variables dicotomicas del modelo.
+4. Policorica: variables ordinales reconstruidas a nivel persona. Para territorio se impone el orden norte, centro, sur solo como diagnostico complementario.
+5. V de Cramer: variables categoricas nominales, util especialmente para territorio y modulo.
+6. MixedCor: matriz mixta que combina continuas y dicotomicas segun el tipo de variable.
+7. VIF aproximado: regresion auxiliar de cada variable explicativa contra las demas, como diagnostico de colinealidad de la matriz de diseno.
+
+Criterios de alerta:
+|correlacion| >= 0.7: alta
+0.5 <= |correlacion| < 0.7: moderada
+
+La eliminacion de variables no debe ser automatica. Correlaciones dentro de una misma familia, por ejemplo educacion, territorio o quintiles, pueden ser esperables por construccion de las dummies.

@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+ingresos,Quintil alto,N personas estimadas,1204
+ingresos,Quintil alto,N parametros,3
+ingresos,Quintil alto,Log likelihood,-5966.35851754216
+ingresos,Quintil alto,Metodo elegido,BFGS
+ingresos,Quintil alto,Return code,0
+ingresos,Quintil alto,PH,0.502857132080937
+ingresos,Quintil alto,tw,0.0818325042002021
+ingresos,Quintil alto,th1,0.804253690330057
+ingresos,Quintil alto,Tw observado promedio,54.8939700996678
+ingresos,Quintil alto,Tw predicho promedio,55.4380624920052
+ingresos,Quintil alto,Tf1 ocio observado promedio,38.4545016611296
+ingresos,Quintil alto,Tf1 ocio predicho promedio,38.3029712765367
+ingresos,Quintil alto,Tf2 comidas observado promedio,9.71507475083057
+ingresos,Quintil alto,Tf2 comidas predicho promedio,9.32251274308597
+ingresos,Quintil alto,RMSE Tw,12.6024013109611
+ingresos,Quintil alto,RMSE Tf1 ocio,12.3609064283566
+ingresos,Quintil alto,RMSE Tf2 comidas,4.25251059549784
+ingresos,Quintil alto,VoL predicho promedio,8.2558891967691
+ingresos,Quintil alto,VoL predicho mediana,5.78021673421541
+ingresos,Quintil alto,VoL observado promedio,10.230603453795
+ingresos,Quintil alto,VoL observado mediana,7.32327690019647
+ingresos,Quintil alto,VTAW predicho promedio,0.888117866204319
+ingresos,Quintil alto,VTAW observado promedio,2.86283212323022
+ingresos,Quintil alto,Weighted wage rate promedio,7.36777133056478
+ingresos,Quintil alto,N ingreso libre observado <= 0,172
+ingresos,Quintil alto,Porcentaje ingreso libre observado <= 0,0.142857142857143
+ingresos,Quintil alto,N ingreso libre predicho <= 0,0
+ingresos,Quintil alto,Porcentaje ingreso libre predicho <= 0,0
+ingresos,Quintil alto,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil alto,Porcentaje ingreso potencial neto Ec <= 0,0
+ingresos,Quintil alto,Media cierre temporal observado,168
+ingresos,Quintil alto,Media cierre temporal predicho,168
+ingresos,Quintil alto,Media diferencia cierre temporal predicho,-2.36060709554851e-17

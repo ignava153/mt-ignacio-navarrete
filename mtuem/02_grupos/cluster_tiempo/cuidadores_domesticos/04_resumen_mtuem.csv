@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Cuidadores domesticos,N personas estimadas,2514
+cluster_tiempo,Cuidadores domesticos,N parametros,3
+cluster_tiempo,Cuidadores domesticos,Log likelihood,-11586.232464891
+cluster_tiempo,Cuidadores domesticos,Metodo elegido,BFGS
+cluster_tiempo,Cuidadores domesticos,Return code,0
+cluster_tiempo,Cuidadores domesticos,PH,0.0633708327690127
+cluster_tiempo,Cuidadores domesticos,tw,1.20881262915142
+cluster_tiempo,Cuidadores domesticos,th1,0.760161233306955
+cluster_tiempo,Cuidadores domesticos,Tw observado promedio,65.2251352426412
+cluster_tiempo,Cuidadores domesticos,Tw predicho promedio,65.7825437238073
+cluster_tiempo,Cuidadores domesticos,Tf1 ocio observado promedio,29.5604932378679
+cluster_tiempo,Cuidadores domesticos,Tf1 ocio predicho promedio,29.3576884051055
+cluster_tiempo,Cuidadores domesticos,Tf2 comidas observado promedio,9.61725934765314
+cluster_tiempo,Cuidadores domesticos,Tf2 comidas predicho promedio,9.26265569924954
+cluster_tiempo,Cuidadores domesticos,RMSE Tw,9.5837113470222
+cluster_tiempo,Cuidadores domesticos,RMSE Tf1 ocio,9.0064237504685
+cluster_tiempo,Cuidadores domesticos,RMSE Tf2 comidas,4.11331633398696
+cluster_tiempo,Cuidadores domesticos,VoL predicho promedio,22.6452724896994
+cluster_tiempo,Cuidadores domesticos,VoL predicho mediana,15.3503197002121
+cluster_tiempo,Cuidadores domesticos,VoL observado promedio,27.476025561784
+cluster_tiempo,Cuidadores domesticos,VoL observado mediana,16.7161764786433
+cluster_tiempo,Cuidadores domesticos,VTAW predicho promedio,19.1314220326588
+cluster_tiempo,Cuidadores domesticos,VTAW observado promedio,23.9621751047434
+cluster_tiempo,Cuidadores domesticos,Weighted wage rate promedio,3.51385045704057
+cluster_tiempo,Cuidadores domesticos,N ingreso libre observado <= 0,780
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso libre observado <= 0,0.310262529832936
+cluster_tiempo,Cuidadores domesticos,N ingreso libre predicho <= 0,6
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso libre predicho <= 0,0.00238663484486874
+cluster_tiempo,Cuidadores domesticos,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Cuidadores domesticos,Media cierre temporal observado,168
+cluster_tiempo,Cuidadores domesticos,Media cierre temporal predicho,168
+cluster_tiempo,Cuidadores domesticos,Media diferencia cierre temporal predicho,0

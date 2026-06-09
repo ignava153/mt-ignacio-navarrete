@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Trabajadores moviles,N personas compatibles con MNL V9 en grupo,892
+cluster_tiempo,Trabajadores moviles,N personas usadas en MTUEM continuo,862
+cluster_tiempo,Trabajadores moviles,N personas removidas por filtros MTUEM,30
+cluster_tiempo,Trabajadores moviles,Media Tw,64.84084686774942
+cluster_tiempo,Trabajadores moviles,Media Tf1 ocio,34.32819025522042
+cluster_tiempo,Trabajadores moviles,Media Tf2 comidas,8.751670533642692
+cluster_tiempo,Trabajadores moviles,Media tiempo libre observado,43.07986078886311
+cluster_tiempo,Trabajadores moviles,Media Tc residual,60.07929234338747
+cluster_tiempo,Trabajadores moviles,Media w,4.576495232018561
+cluster_tiempo,Trabajadores moviles,Media Ec monetario bruto,127.2499071925754
+cluster_tiempo,Trabajadores moviles,Media ingreso fijo descontado,20.483380495294956
+cluster_tiempo,Trabajadores moviles,Media EcI neto de ingreso fijo,106.76652669728045
+cluster_tiempo,Trabajadores moviles,Media Ec trabajo no remunerado,53.19075729177494
+cluster_tiempo,Trabajadores moviles,Media Ec total corregido,159.95728398905538
+cluster_tiempo,Trabajadores moviles,Media cierre temporal,168
+cluster_tiempo,Trabajadores moviles,N cierre temporal distinto de 168,0
+cluster_tiempo,Trabajadores moviles,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Trabajadores moviles,N Tc <= 0,0
+cluster_tiempo,Trabajadores moviles,Porcentaje Tc <= 0,0
+cluster_tiempo,Trabajadores moviles,N ingreso libre observado <= 0,30
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso libre observado <= 0,0.03480278422273782
+cluster_tiempo,Trabajadores moviles,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso potencial neto Ec <= 0,0

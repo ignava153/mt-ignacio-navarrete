@@ -1,0 +1,155 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+muestra_general,Muestra general,Personas compatibles con MNL V9 en grupo,8919,100
+muestra_general,Muestra general,Variables finitas para MTUEM,8919,100
+muestra_general,Muestra general,Tw > 0 y w > 0,8919,100
+muestra_general,Muestra general,Tc valido y tiempo libre observado > 0,8919,100
+muestra_general,Muestra general,Ec corregido > 0,7929,88.90010090817356
+muestra_general,Muestra general,Ingreso potencial neto de Ec > 0,7925,88.85525283103487
+muestra_general,Muestra general,Muestra final MTUEM,7925,88.85525283103487
+edad,18 a 29,Personas compatibles con MNL V9 en grupo,1717,100
+edad,18 a 29,Variables finitas para MTUEM,1717,100
+edad,18 a 29,Tw > 0 y w > 0,1717,100
+edad,18 a 29,Tc valido y tiempo libre observado > 0,1717,100
+edad,18 a 29,Ec corregido > 0,1698,98.89341875364006
+edad,18 a 29,Ingreso potencial neto de Ec > 0,1697,98.8351776354106
+edad,18 a 29,Muestra final MTUEM,1697,98.8351776354106
+edad,30 a 44,Personas compatibles con MNL V9 en grupo,2556,100
+edad,30 a 44,Variables finitas para MTUEM,2556,100
+edad,30 a 44,Tw > 0 y w > 0,2556,100
+edad,30 a 44,Tc valido y tiempo libre observado > 0,2556,100
+edad,30 a 44,Ec corregido > 0,2519,98.55242566510172
+edad,30 a 44,Ingreso potencial neto de Ec > 0,2517,98.47417840375587
+edad,30 a 44,Muestra final MTUEM,2517,98.47417840375587
+edad,45 a 59,Personas compatibles con MNL V9 en grupo,2416,100
+edad,45 a 59,Variables finitas para MTUEM,2416,100
+edad,45 a 59,Tw > 0 y w > 0,2416,100
+edad,45 a 59,Tc valido y tiempo libre observado > 0,2416,100
+edad,45 a 59,Ec corregido > 0,2337,96.73013245033113
+edad,45 a 59,Ingreso potencial neto de Ec > 0,2336,96.6887417218543
+edad,45 a 59,Muestra final MTUEM,2336,96.6887417218543
+edad,60 o mas,Personas compatibles con MNL V9 en grupo,2230,100
+edad,60 o mas,Variables finitas para MTUEM,2230,100
+edad,60 o mas,Tw > 0 y w > 0,2230,100
+edad,60 o mas,Tc valido y tiempo libre observado > 0,2230,100
+edad,60 o mas,Ec corregido > 0,1375,61.65919282511211
+edad,60 o mas,Ingreso potencial neto de Ec > 0,1375,61.65919282511211
+edad,60 o mas,Muestra final MTUEM,1375,61.65919282511211
+sexo,Hombres,Personas compatibles con MNL V9 en grupo,3663,100
+sexo,Hombres,Variables finitas para MTUEM,3663,100
+sexo,Hombres,Tw > 0 y w > 0,3663,100
+sexo,Hombres,Tc valido y tiempo libre observado > 0,3663,100
+sexo,Hombres,Ec corregido > 0,3109,84.87578487578487
+sexo,Hombres,Ingreso potencial neto de Ec > 0,3107,84.82118482118481
+sexo,Hombres,Muestra final MTUEM,3107,84.82118482118481
+sexo,Mujeres,Personas compatibles con MNL V9 en grupo,5256,100
+sexo,Mujeres,Variables finitas para MTUEM,5256,100
+sexo,Mujeres,Tw > 0 y w > 0,5256,100
+sexo,Mujeres,Tc valido y tiempo libre observado > 0,5256,100
+sexo,Mujeres,Ec corregido > 0,4820,91.70471841704719
+sexo,Mujeres,Ingreso potencial neto de Ec > 0,4818,91.66666666666667
+sexo,Mujeres,Muestra final MTUEM,4818,91.66666666666667
+ingresos,Quintil bajo,Personas compatibles con MNL V9 en grupo,5670,100
+ingresos,Quintil bajo,Variables finitas para MTUEM,5670,100
+ingresos,Quintil bajo,Tw > 0 y w > 0,5670,100
+ingresos,Quintil bajo,Tc valido y tiempo libre observado > 0,5670,100
+ingresos,Quintil bajo,Ec corregido > 0,5218,92.02821869488537
+ingresos,Quintil bajo,Ingreso potencial neto de Ec > 0,5214,91.95767195767196
+ingresos,Quintil bajo,Muestra final MTUEM,5214,91.95767195767196
+ingresos,Quintil medio,Personas compatibles con MNL V9 en grupo,1761,100
+ingresos,Quintil medio,Variables finitas para MTUEM,1761,100
+ingresos,Quintil medio,Tw > 0 y w > 0,1761,100
+ingresos,Quintil medio,Tc valido y tiempo libre observado > 0,1761,100
+ingresos,Quintil medio,Ec corregido > 0,1507,85.5763770584895
+ingresos,Quintil medio,Ingreso potencial neto de Ec > 0,1507,85.5763770584895
+ingresos,Quintil medio,Muestra final MTUEM,1507,85.5763770584895
+ingresos,Quintil alto,Personas compatibles con MNL V9 en grupo,1488,100
+ingresos,Quintil alto,Variables finitas para MTUEM,1488,100
+ingresos,Quintil alto,Tw > 0 y w > 0,1488,100
+ingresos,Quintil alto,Tc valido y tiempo libre observado > 0,1488,100
+ingresos,Quintil alto,Ec corregido > 0,1204,80.91397849462365
+ingresos,Quintil alto,Ingreso potencial neto de Ec > 0,1204,80.91397849462365
+ingresos,Quintil alto,Muestra final MTUEM,1204,80.91397849462365
+territorio,Norte,Personas compatibles con MNL V9 en grupo,2360,100
+territorio,Norte,Variables finitas para MTUEM,2360,100
+territorio,Norte,Tw > 0 y w > 0,2360,100
+territorio,Norte,Tc valido y tiempo libre observado > 0,2360,100
+territorio,Norte,Ec corregido > 0,2120,89.83050847457628
+territorio,Norte,Ingreso potencial neto de Ec > 0,2120,89.83050847457628
+territorio,Norte,Muestra final MTUEM,2120,89.83050847457628
+territorio,Centro,Personas compatibles con MNL V9 en grupo,4523,100
+territorio,Centro,Variables finitas para MTUEM,4523,100
+territorio,Centro,Tw > 0 y w > 0,4523,100
+territorio,Centro,Tc valido y tiempo libre observado > 0,4523,100
+territorio,Centro,Ec corregido > 0,4007,88.59164271501216
+territorio,Centro,Ingreso potencial neto de Ec > 0,4004,88.52531505637852
+territorio,Centro,Muestra final MTUEM,4004,88.52531505637852
+territorio,Sur,Personas compatibles con MNL V9 en grupo,2036,100
+territorio,Sur,Variables finitas para MTUEM,2036,100
+territorio,Sur,Tw > 0 y w > 0,2036,100
+territorio,Sur,Tc valido y tiempo libre observado > 0,2036,100
+territorio,Sur,Ec corregido > 0,1802,88.50687622789783
+territorio,Sur,Ingreso potencial neto de Ec > 0,1801,88.45776031434184
+territorio,Sur,Muestra final MTUEM,1801,88.45776031434184
+cluster_tiempo,Cuidadores domesticos,Personas compatibles con MNL V9 en grupo,2615,100
+cluster_tiempo,Cuidadores domesticos,Variables finitas para MTUEM,2615,100
+cluster_tiempo,Cuidadores domesticos,Tw > 0 y w > 0,2615,100
+cluster_tiempo,Cuidadores domesticos,Tc valido y tiempo libre observado > 0,2615,100
+cluster_tiempo,Cuidadores domesticos,Ec corregido > 0,2517,96.25239005736138
+cluster_tiempo,Cuidadores domesticos,Ingreso potencial neto de Ec > 0,2514,96.1376673040153
+cluster_tiempo,Cuidadores domesticos,Muestra final MTUEM,2514,96.1376673040153
+cluster_tiempo,Rutina flexible,Personas compatibles con MNL V9 en grupo,2419,100
+cluster_tiempo,Rutina flexible,Variables finitas para MTUEM,2419,100
+cluster_tiempo,Rutina flexible,Tw > 0 y w > 0,2419,100
+cluster_tiempo,Rutina flexible,Tc valido y tiempo libre observado > 0,2419,100
+cluster_tiempo,Rutina flexible,Ec corregido > 0,1770,73.17073170731707
+cluster_tiempo,Rutina flexible,Ingreso potencial neto de Ec > 0,1770,73.17073170731707
+cluster_tiempo,Rutina flexible,Muestra final MTUEM,1770,73.17073170731707
+cluster_tiempo,Jovenes trabajadores,Personas compatibles con MNL V9 en grupo,946,100
+cluster_tiempo,Jovenes trabajadores,Variables finitas para MTUEM,946,100
+cluster_tiempo,Jovenes trabajadores,Tw > 0 y w > 0,946,100
+cluster_tiempo,Jovenes trabajadores,Tc valido y tiempo libre observado > 0,946,100
+cluster_tiempo,Jovenes trabajadores,Ec corregido > 0,899,95.03171247357294
+cluster_tiempo,Jovenes trabajadores,Ingreso potencial neto de Ec > 0,899,95.03171247357294
+cluster_tiempo,Jovenes trabajadores,Muestra final MTUEM,899,95.03171247357294
+cluster_tiempo,Trabajadores rutinarios,Personas compatibles con MNL V9 en grupo,2047,100
+cluster_tiempo,Trabajadores rutinarios,Variables finitas para MTUEM,2047,100
+cluster_tiempo,Trabajadores rutinarios,Tw > 0 y w > 0,2047,100
+cluster_tiempo,Trabajadores rutinarios,Tc valido y tiempo libre observado > 0,2047,100
+cluster_tiempo,Trabajadores rutinarios,Ec corregido > 0,1881,91.89057156814852
+cluster_tiempo,Trabajadores rutinarios,Ingreso potencial neto de Ec > 0,1880,91.84171958964338
+cluster_tiempo,Trabajadores rutinarios,Muestra final MTUEM,1880,91.84171958964338
+cluster_tiempo,Trabajadores moviles,Personas compatibles con MNL V9 en grupo,892,100
+cluster_tiempo,Trabajadores moviles,Variables finitas para MTUEM,892,100
+cluster_tiempo,Trabajadores moviles,Tw > 0 y w > 0,892,100
+cluster_tiempo,Trabajadores moviles,Tc valido y tiempo libre observado > 0,892,100
+cluster_tiempo,Trabajadores moviles,Ec corregido > 0,862,96.63677130044843
+cluster_tiempo,Trabajadores moviles,Ingreso potencial neto de Ec > 0,862,96.63677130044843
+cluster_tiempo,Trabajadores moviles,Muestra final MTUEM,862,96.63677130044843
+cluster_modo,Usuarios publicos,Personas compatibles con MNL V9 en grupo,1852,100
+cluster_modo,Usuarios publicos,Variables finitas para MTUEM,1852,100
+cluster_modo,Usuarios publicos,Tw > 0 y w > 0,1852,100
+cluster_modo,Usuarios publicos,Tc valido y tiempo libre observado > 0,1852,100
+cluster_modo,Usuarios publicos,Ec corregido > 0,1703,91.95464362850971
+cluster_modo,Usuarios publicos,Ingreso potencial neto de Ec > 0,1703,91.95464362850971
+cluster_modo,Usuarios publicos,Muestra final MTUEM,1703,91.95464362850971
+cluster_modo,Movilidad activa,Personas compatibles con MNL V9 en grupo,2304,100
+cluster_modo,Movilidad activa,Variables finitas para MTUEM,2304,100
+cluster_modo,Movilidad activa,Tw > 0 y w > 0,2304,100
+cluster_modo,Movilidad activa,Tc valido y tiempo libre observado > 0,2304,100
+cluster_modo,Movilidad activa,Ec corregido > 0,1894,82.20486111111111
+cluster_modo,Movilidad activa,Ingreso potencial neto de Ec > 0,1893,82.16145833333333
+cluster_modo,Movilidad activa,Muestra final MTUEM,1893,82.16145833333333
+cluster_modo,Movilidad mixta,Personas compatibles con MNL V9 en grupo,1795,100
+cluster_modo,Movilidad mixta,Variables finitas para MTUEM,1795,100
+cluster_modo,Movilidad mixta,Tw > 0 y w > 0,1795,100
+cluster_modo,Movilidad mixta,Tc valido y tiempo libre observado > 0,1795,100
+cluster_modo,Movilidad mixta,Ec corregido > 0,1665,92.75766016713092
+cluster_modo,Movilidad mixta,Ingreso potencial neto de Ec > 0,1663,92.64623955431755
+cluster_modo,Movilidad mixta,Muestra final MTUEM,1663,92.64623955431755
+cluster_modo,Motorizados privados,Personas compatibles con MNL V9 en grupo,2968,100
+cluster_modo,Motorizados privados,Variables finitas para MTUEM,2968,100
+cluster_modo,Motorizados privados,Tw > 0 y w > 0,2968,100
+cluster_modo,Motorizados privados,Tc valido y tiempo libre observado > 0,2968,100
+cluster_modo,Motorizados privados,Ec corregido > 0,2667,89.85849056603773
+cluster_modo,Motorizados privados,Ingreso potencial neto de Ec > 0,2666,89.82479784366576
+cluster_modo,Motorizados privados,Muestra final MTUEM,2666,89.82479784366576

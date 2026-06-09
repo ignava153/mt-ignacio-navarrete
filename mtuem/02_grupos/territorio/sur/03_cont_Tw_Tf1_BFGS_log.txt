@@ -1,0 +1,26 @@
+
+====================================================
+Segmento: territorio - Sur 
+Ejecutando: 03_cont_Tw_Tf1_BFGS 
+Metodo: BFGS 
+Inicio: 2026-06-08 21:01:49 
+====================================================
+
+Resumen del objeto:
+--------------------------------------------
+Maximum Likelihood estimation
+BFGS maximization, 40 iterations
+Return code 0: successful convergence 
+Log-Likelihood: -8967.142 
+  free parameters
+Estimates:
+    Estimate Std. error t value Pr(> t)    
+PH  0.268573   0.016055  16.728  <2e-16 ***
+th1 0.803886   0.002278 352.952  <2e-16 ***
+tw  0.205734   0.035947   5.723  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+--------------------------------------------
+
+Fin: 2026-06-08 21:01:49 
+Duracion minutos: 0 

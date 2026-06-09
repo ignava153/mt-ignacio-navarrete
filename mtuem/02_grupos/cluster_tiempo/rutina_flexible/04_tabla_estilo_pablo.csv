@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_tiempo,Rutina flexible,Model specification,# individuals,1770,NA,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Model specification,LL,-8400.93293659893,NA,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Time-use parameters,PH,NA,0.03275595433647874,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Time-use parameters,th1,NA,0.8355666129856282,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Time-use parameters,tw,NA,0.23270877451256744,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Values of time,VoL predicho,10.5669 [8.5991 ; 12.5346],10.566852204885082,1.0039690500113603,NA,,8.599072866862816,12.534631542907348
+cluster_tiempo,Rutina flexible,Values of time,VTAW predicho,7.1771 [5.2094 ; 9.1449],7.177145387935929,1.0039690500113603,NA,,5.209366049913663,9.1449247259581945
+cluster_tiempo,Rutina flexible,Values of time,Weighted wage rate,3.3897 [3.2788 ; 3.5006],3.3897068169491527,0.056530229181883634,NA,,3.278833744314986,3.500579889583319

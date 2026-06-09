@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+ingresos,Quintil bajo,Personas compatibles con MNL V9 en grupo,5670,100
+ingresos,Quintil bajo,Variables finitas para MTUEM,5670,100
+ingresos,Quintil bajo,Tw > 0 y w > 0,5670,100
+ingresos,Quintil bajo,Tc valido y tiempo libre observado > 0,5670,100
+ingresos,Quintil bajo,Ec corregido > 0,5218,92.02821869488537
+ingresos,Quintil bajo,Ingreso potencial neto de Ec > 0,5214,91.95767195767196
+ingresos,Quintil bajo,Muestra final MTUEM,5214,91.95767195767196

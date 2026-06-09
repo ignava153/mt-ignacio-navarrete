@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+muestra_general,Muestra general,Personas compatibles con MNL V9 en grupo,8919,100
+muestra_general,Muestra general,Variables finitas para MTUEM,8919,100
+muestra_general,Muestra general,Tw > 0 y w > 0,8919,100
+muestra_general,Muestra general,Tc valido y tiempo libre observado > 0,8919,100
+muestra_general,Muestra general,Ec corregido > 0,7929,88.90010090817356
+muestra_general,Muestra general,Ingreso potencial neto de Ec > 0,7925,88.85525283103487
+muestra_general,Muestra general,Muestra final MTUEM,7925,88.85525283103487

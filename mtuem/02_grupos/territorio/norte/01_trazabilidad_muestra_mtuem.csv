@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+territorio,Norte,Personas compatibles con MNL V9 en grupo,2360,100
+territorio,Norte,Variables finitas para MTUEM,2360,100
+territorio,Norte,Tw > 0 y w > 0,2360,100
+territorio,Norte,Tc valido y tiempo libre observado > 0,2360,100
+territorio,Norte,Ec corregido > 0,2120,89.83050847457628
+territorio,Norte,Ingreso potencial neto de Ec > 0,2120,89.83050847457628
+territorio,Norte,Muestra final MTUEM,2120,89.83050847457628

@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_modo,Movilidad activa,Model specification,# individuals,1893,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Model specification,LL,-9690.28950101528,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Time-use parameters,PH,NA,0.16314154812271614,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Time-use parameters,th1,NA,0.8050139258735557,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Time-use parameters,tw,NA,0.2857635122687069,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Values of time,VoL predicho,5.3493 [4.7183 ; 5.9803],5.349295875463114,0.3219345486743884,NA,,4.7183041600613125,5.980287590864916
+cluster_modo,Movilidad activa,Values of time,VTAW predicho,1.9847 [1.3537 ; 2.6157],1.9846737819607367,0.3219345487428687,NA,,1.3536820664247142,2.6156654974967593
+cluster_modo,Movilidad activa,Values of time,Weighted wage rate,3.3646 [3.2821 ; 3.4471],3.364622093502377,0.042061589362244994,NA,,3.2821301214037146,3.4471140656010397

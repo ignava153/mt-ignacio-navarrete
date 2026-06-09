@@ -1,0 +1,6 @@
+variable_1,variable_2,correlacion,metodo,correlacion_abs,nivel_alerta,familia_1,tipo_1,familia_2,tipo_2,misma_familia,comentario
+zona_centro,zona_sur,-0.9658388087587987,Tetracorica,0.9658388087587987,alta,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+zona_centro,zona_sur,-0.9658305934140735,MixedCor,0.9658305934140735,alta,territorio,dicotomica,territorio,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+ing_personal,quintil_5,0.7563813691905806,MixedCor,0.7563813691905806,alta,ingresos,continua,ingresos,dicotomica,SI,Correlacion esperable dentro del mismo bloque de variables
+mod_ED,edad_18_24,0.7023473752357534,MixedCor,0.7023473752357534,alta,modulo,dicotomica,edad,dicotomica,NO,Revisar: posible asociacion fuerte entre bloques distintos
+mod_ED,edad_18_24,0.7023285979043171,Tetracorica,0.7023285979043171,alta,modulo,dicotomica,edad,dicotomica,NO,Revisar: posible asociacion fuerte entre bloques distintos

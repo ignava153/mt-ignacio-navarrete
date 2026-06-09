@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+edad,60 o mas,N personas compatibles con MNL V9 en grupo,2230
+edad,60 o mas,N personas usadas en MTUEM continuo,1375
+edad,60 o mas,N personas removidas por filtros MTUEM,855
+edad,60 o mas,Media Tw,48.545396363636364
+edad,60 o mas,Media Tf1 ocio,36.93724363636364
+edad,60 o mas,Media Tf2 comidas,11.542421818181818
+edad,60 o mas,Media tiempo libre observado,48.479665454545454
+edad,60 o mas,Media Tc residual,70.97493818181817
+edad,60 o mas,Media w,3.652413768
+edad,60 o mas,Media Ec monetario bruto,65.25577454545454
+edad,60 o mas,Media ingreso fijo descontado,70.0442792661367
+edad,60 o mas,Media EcI neto de ingreso fijo,-4.788504720682148
+edad,60 o mas,Media Ec trabajo no remunerado,94.20222694417454
+edad,60 o mas,Media Ec total corregido,89.4137222234924
+edad,60 o mas,Media cierre temporal,168
+edad,60 o mas,N cierre temporal distinto de 168,0
+edad,60 o mas,Porcentaje cierre temporal distinto de 168,0
+edad,60 o mas,N Tc <= 0,0
+edad,60 o mas,Porcentaje Tc <= 0,0
+edad,60 o mas,N ingreso libre observado <= 0,224
+edad,60 o mas,Porcentaje ingreso libre observado <= 0,0.16290909090909092
+edad,60 o mas,N ingreso potencial neto Ec <= 0,0
+edad,60 o mas,Porcentaje ingreso potencial neto Ec <= 0,0

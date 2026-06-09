@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+edad,60 o mas,Model specification,# individuals,1375,NA,NA,NA,,NA,NA
+edad,60 o mas,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+edad,60 o mas,Model specification,LL,-7055.54902631915,NA,NA,NA,,NA,NA
+edad,60 o mas,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+edad,60 o mas,Time-use parameters,PH,NA,0.2078291583448529,NA,NA,,NA,NA
+edad,60 o mas,Time-use parameters,th1,NA,0.7684138720577923,NA,NA,,NA,NA
+edad,60 o mas,Time-use parameters,tw,NA,0.4941652789772123,NA,NA,,NA,NA
+edad,60 o mas,Values of time,VoL predicho,8.3547 [6.7746 ; 9.9349],8.35473542007617,0.8061865650978259,NA,,6.77460975248443,9.934861087667908
+edad,60 o mas,Values of time,VTAW predicho,4.7023 [3.1222 ; 6.2824],4.702321652076169,0.8061865645952896,NA,,3.122195985469401,6.282447318682936
+edad,60 o mas,Values of time,Weighted wage rate,3.6524 [3.486 ; 3.8188],3.652413768,0.08482050075170786,NA,,3.486022068167451,3.8188054678325494

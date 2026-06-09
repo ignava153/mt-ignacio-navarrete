@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+edad,60 o mas,PH,0.2078291583448529,NA,NA,
+edad,60 o mas,th1,0.7684138720577923,NA,NA,
+edad,60 o mas,tw,0.4941652789772123,NA,NA,

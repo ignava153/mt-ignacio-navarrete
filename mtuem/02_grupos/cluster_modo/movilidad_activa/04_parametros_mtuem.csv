@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_modo,Movilidad activa,PH,0.16314154812271614,NA,NA,
+cluster_modo,Movilidad activa,th1,0.8050139258735557,NA,NA,
+cluster_modo,Movilidad activa,tw,0.2857635122687069,NA,NA,

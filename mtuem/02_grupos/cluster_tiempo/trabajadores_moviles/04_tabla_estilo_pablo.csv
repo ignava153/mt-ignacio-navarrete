@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_tiempo,Trabajadores moviles,Model specification,# individuals,862,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Model specification,LL,-3886.40394409773,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Time-use parameters,PH,NA,0.338281427188051,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Time-use parameters,th1,NA,0.8010866275701787,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Time-use parameters,tw,NA,0.5960235982715055,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Values of time,VoL predicho,8.5478 [7.0921 ; 10.0034],8.547771760470884,0.7426689778148305,NA,,7.092140563953816,10.003402956987951
+cluster_tiempo,Trabajadores moviles,Values of time,VTAW predicho,3.9713 [2.5156 ; 5.4269],3.971276528452322,0.7426689768906019,NA,,2.5156453337467424,5.4269077231579015
+cluster_tiempo,Trabajadores moviles,Values of time,Weighted wage rate,4.5765 [4.3369 ; 4.8161],4.576495232018561,0.12206056264122253,NA,,4.33692415258352,4.816066311453603

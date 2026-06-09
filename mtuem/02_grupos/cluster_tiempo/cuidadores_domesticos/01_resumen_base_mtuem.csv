@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Cuidadores domesticos,N personas compatibles con MNL V9 en grupo,2615
+cluster_tiempo,Cuidadores domesticos,N personas usadas en MTUEM continuo,2514
+cluster_tiempo,Cuidadores domesticos,N personas removidas por filtros MTUEM,101
+cluster_tiempo,Cuidadores domesticos,Media Tw,65.22513524264122
+cluster_tiempo,Cuidadores domesticos,Media Tf1 ocio,29.560493237867938
+cluster_tiempo,Cuidadores domesticos,Media Tf2 comidas,9.617259347653142
+cluster_tiempo,Cuidadores domesticos,Media tiempo libre observado,39.177752585521084
+cluster_tiempo,Cuidadores domesticos,Media Tc residual,63.59711217183771
+cluster_tiempo,Cuidadores domesticos,Media w,3.5138504570405726
+cluster_tiempo,Cuidadores domesticos,Media Ec monetario bruto,64.34579952267303
+cluster_tiempo,Cuidadores domesticos,Media ingreso fijo descontado,28.44511580655397
+cluster_tiempo,Cuidadores domesticos,Media EcI neto de ingreso fijo,35.900683716119055
+cluster_tiempo,Cuidadores domesticos,Media Ec trabajo no remunerado,133.58946005214798
+cluster_tiempo,Cuidadores domesticos,Media Ec total corregido,169.49014376826702
+cluster_tiempo,Cuidadores domesticos,Media cierre temporal,168
+cluster_tiempo,Cuidadores domesticos,N cierre temporal distinto de 168,0
+cluster_tiempo,Cuidadores domesticos,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Cuidadores domesticos,N Tc <= 0,0
+cluster_tiempo,Cuidadores domesticos,Porcentaje Tc <= 0,0
+cluster_tiempo,Cuidadores domesticos,N ingreso libre observado <= 0,780
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso libre observado <= 0,0.31026252983293556
+cluster_tiempo,Cuidadores domesticos,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso potencial neto Ec <= 0,0

@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+territorio,Centro,N personas estimadas,4004
+territorio,Centro,N parametros,3
+territorio,Centro,Log likelihood,-19892.1040116701
+territorio,Centro,Metodo elegido,BFGS
+territorio,Centro,Return code,0
+territorio,Centro,PH,0.244059166852104
+territorio,Centro,tw,0.325996548717522
+territorio,Centro,th1,0.799263445763741
+territorio,Centro,Tw observado promedio,53.1162137862138
+territorio,Centro,Tw predicho promedio,53.8699092119064
+territorio,Centro,Tf1 ocio observado promedio,37.125989010989
+territorio,Centro,Tf1 ocio predicho promedio,36.8721513640114
+territorio,Centro,Tf2 comidas observado promedio,9.76036963036963
+territorio,Centro,Tf2 comidas predicho promedio,9.26051185165463
+territorio,Centro,RMSE Tw,12.3381287896837
+territorio,Centro,RMSE Tf1 ocio,12.2885241335654
+territorio,Centro,RMSE Tf2 comidas,4.36377741458538
+territorio,Centro,VoL predicho promedio,6.12670527364195
+territorio,Centro,VoL predicho mediana,4.721335862462
+territorio,Centro,VoL observado promedio,7.94719375958239
+territorio,Centro,VoL observado mediana,4.88473659386559
+territorio,Centro,VTAW predicho promedio,2.18155737554005
+territorio,Centro,VTAW observado promedio,4.00204586148049
+territorio,Centro,Weighted wage rate promedio,3.9451478981019
+territorio,Centro,N ingreso libre observado <= 0,1065
+territorio,Centro,Porcentaje ingreso libre observado <= 0,0.265984015984016
+territorio,Centro,N ingreso libre predicho <= 0,1
+territorio,Centro,Porcentaje ingreso libre predicho <= 0,0.00024975024975025
+territorio,Centro,N ingreso potencial neto Ec <= 0,0
+territorio,Centro,Porcentaje ingreso potencial neto Ec <= 0,0
+territorio,Centro,Media cierre temporal observado,168
+territorio,Centro,Media cierre temporal predicho,168
+territorio,Centro,Media diferencia cierre temporal predicho,3.54916451428621e-17

@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_modo,Movilidad mixta,PH,0.2692202889507862,NA,NA,
+cluster_modo,Movilidad mixta,th1,0.7965410539277863,NA,NA,
+cluster_modo,Movilidad mixta,tw,0.42912098397248605,NA,NA,

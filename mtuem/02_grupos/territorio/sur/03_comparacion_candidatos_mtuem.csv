@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+territorio,Sur,BFGS,-8967.14175536215,TRUE,0
+territorio,Sur,NM,NA,FALSE,NA
+territorio,Sur,SANN_fallback,NA,FALSE,NA

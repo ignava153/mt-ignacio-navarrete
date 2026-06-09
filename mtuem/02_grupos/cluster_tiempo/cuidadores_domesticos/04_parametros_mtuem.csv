@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_tiempo,Cuidadores domesticos,PH,0.06337083276901266,NA,NA,
+cluster_tiempo,Cuidadores domesticos,th1,0.7601612333069546,NA,NA,
+cluster_tiempo,Cuidadores domesticos,tw,1.2088126291514227,NA,NA,

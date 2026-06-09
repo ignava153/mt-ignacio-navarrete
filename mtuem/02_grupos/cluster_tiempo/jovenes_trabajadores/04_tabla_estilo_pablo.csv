@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_tiempo,Jovenes trabajadores,Model specification,# individuals,899,NA,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Model specification,LL,-3755.46349112839,NA,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Time-use parameters,PH,NA,0.16634934317673664,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Time-use parameters,th1,NA,0.8645497952200883,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Time-use parameters,tw,NA,0.4671392025193155,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Values of time,VoL predicho,12.5242 [10.2232 ; 14.8252],12.52416358206291,1.1739840027913988,NA,,10.223154936591769,14.82517222753405
+cluster_tiempo,Jovenes trabajadores,Values of time,VTAW predicho,7.4515 [5.1505 ; 9.7525],7.4515328801719205,1.1739840014863325,NA,,5.1505242372587094,9.752541523085132
+cluster_tiempo,Jovenes trabajadores,Values of time,Weighted wage rate,5.0726 [4.6622 ; 5.483],5.07263070189099,0.20911180442424707,NA,,4.66222594743621,5.48303545634577

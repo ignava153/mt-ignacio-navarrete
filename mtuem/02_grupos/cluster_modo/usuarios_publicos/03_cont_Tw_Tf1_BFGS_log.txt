@@ -1,0 +1,26 @@
+
+====================================================
+Segmento: cluster_modo - Usuarios publicos 
+Ejecutando: 03_cont_Tw_Tf1_BFGS 
+Metodo: BFGS 
+Inicio: 2026-06-08 21:01:56 
+====================================================
+
+Resumen del objeto:
+--------------------------------------------
+Maximum Likelihood estimation
+BFGS maximization, 40 iterations
+Return code 0: successful convergence 
+Log-Likelihood: -8419.59 
+  free parameters
+Estimates:
+    Estimate Std. error t value Pr(> t)    
+PH  0.291653   0.018511  15.756  <2e-16 ***
+th1 0.800408   0.002374 337.161  <2e-16 ***
+tw  0.205802   0.039597   5.197   2e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+--------------------------------------------
+
+Fin: 2026-06-08 21:01:56 
+Duracion minutos: 0 

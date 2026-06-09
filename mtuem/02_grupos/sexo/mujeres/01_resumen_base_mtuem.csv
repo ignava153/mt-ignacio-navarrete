@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+sexo,Mujeres,N personas compatibles con MNL V9 en grupo,5256
+sexo,Mujeres,N personas usadas en MTUEM continuo,4818
+sexo,Mujeres,N personas removidas por filtros MTUEM,438
+sexo,Mujeres,Media Tw,54.22012660855127
+sexo,Mujeres,Media Tf1 ocio,35.88762557077626
+sexo,Mujeres,Media Tf2 comidas,9.801008717310086
+sexo,Mujeres,Media tiempo libre observado,45.68863428808634
+sexo,Mujeres,Media Tc residual,68.0912391033624
+sexo,Mujeres,Media w,3.5558596625155667
+sexo,Mujeres,Media Ec monetario bruto,62.78270444167705
+sexo,Mujeres,Media ingreso fijo descontado,26.04008181924898
+sexo,Mujeres,Media EcI neto de ingreso fijo,36.742622622428065
+sexo,Mujeres,Media Ec trabajo no remunerado,96.75655346233914
+sexo,Mujeres,Media Ec total corregido,133.4991760847672
+sexo,Mujeres,Media cierre temporal,168
+sexo,Mujeres,N cierre temporal distinto de 168,0
+sexo,Mujeres,Porcentaje cierre temporal distinto de 168,0
+sexo,Mujeres,N Tc <= 0,0
+sexo,Mujeres,Porcentaje Tc <= 0,0
+sexo,Mujeres,N ingreso libre observado <= 0,1474
+sexo,Mujeres,Porcentaje ingreso libre observado <= 0,0.3059360730593607
+sexo,Mujeres,N ingreso potencial neto Ec <= 0,0
+sexo,Mujeres,Porcentaje ingreso potencial neto Ec <= 0,0

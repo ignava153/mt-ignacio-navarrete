@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+muestra_general,Muestra general,BFGS,-39648.581120597686,TRUE,0
+muestra_general,Muestra general,NM,NA,FALSE,NA
+muestra_general,Muestra general,SANN_fallback,NA,FALSE,NA

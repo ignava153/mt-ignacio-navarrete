@@ -1,0 +1,9 @@
+indicador,valor
+Archivo base usado,04_base_mnl_larga_v9_desde_enut_ii.csv
+Ruta base usada,C:/Users/ignav/OneDrive/Desktop/UDCT/FINAL/mnl/04_base_mnl_larga_v9_desde_enut_ii.csv
+N filas base analizada,13298
+N personas aproximado,8919
+Variables explicativas esperadas en MNL V9,20
+Variables explicativas encontradas,20
+Variables explicativas faltantes,Ninguna
+Nota metodologica,Diagnostico de correlaciones. No se reestima el MNL V9.

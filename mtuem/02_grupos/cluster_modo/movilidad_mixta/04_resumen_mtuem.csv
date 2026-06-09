@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_modo,Movilidad mixta,N personas estimadas,1663
+cluster_modo,Movilidad mixta,N parametros,3
+cluster_modo,Movilidad mixta,Log likelihood,-8168.12304546417
+cluster_modo,Movilidad mixta,Metodo elegido,BFGS
+cluster_modo,Movilidad mixta,Return code,0
+cluster_modo,Movilidad mixta,PH,0.269220288950786
+cluster_modo,Movilidad mixta,tw,0.429120983972486
+cluster_modo,Movilidad mixta,th1,0.796541053927786
+cluster_modo,Movilidad mixta,Tw observado promedio,57.9675886951293
+cluster_modo,Movilidad mixta,Tw predicho promedio,58.5430938161919
+cluster_modo,Movilidad mixta,Tf1 ocio observado promedio,35.509939867709
+cluster_modo,Movilidad mixta,Tf1 ocio predicho promedio,35.3575880302657
+cluster_modo,Movilidad mixta,Tf2 comidas observado promedio,9.4544738424534
+cluster_modo,Movilidad mixta,Tf2 comidas predicho promedio,9.03132055883406
+cluster_modo,Movilidad mixta,RMSE Tw,11.9060588130233
+cluster_modo,Movilidad mixta,RMSE Tf1 ocio,11.98196553337
+cluster_modo,Movilidad mixta,RMSE Tf2 comidas,4.25327387189493
+cluster_modo,Movilidad mixta,VoL predicho promedio,6.64582894070024
+cluster_modo,Movilidad mixta,VoL predicho mediana,5.08303622092235
+cluster_modo,Movilidad mixta,VoL observado promedio,8.08766937412731
+cluster_modo,Movilidad mixta,VoL observado mediana,5.5684067564028
+cluster_modo,Movilidad mixta,VTAW predicho promedio,2.70792882223962
+cluster_modo,Movilidad mixta,VTAW observado promedio,4.1497692556667
+cluster_modo,Movilidad mixta,Weighted wage rate promedio,3.93790011846061
+cluster_modo,Movilidad mixta,N ingreso libre observado <= 0,305
+cluster_modo,Movilidad mixta,Porcentaje ingreso libre observado <= 0,0.18340348767288
+cluster_modo,Movilidad mixta,N ingreso libre predicho <= 0,1
+cluster_modo,Movilidad mixta,Porcentaje ingreso libre predicho <= 0,0.000601322910402886
+cluster_modo,Movilidad mixta,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad mixta,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad mixta,Media cierre temporal observado,168
+cluster_modo,Movilidad mixta,Media cierre temporal predicho,168
+cluster_modo,Movilidad mixta,Media diferencia cierre temporal predicho,-1.70906250333157e-17

@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+cluster_modo,Usuarios publicos,Personas compatibles con MNL V9 en grupo,1852,100
+cluster_modo,Usuarios publicos,Variables finitas para MTUEM,1852,100
+cluster_modo,Usuarios publicos,Tw > 0 y w > 0,1852,100
+cluster_modo,Usuarios publicos,Tc valido y tiempo libre observado > 0,1852,100
+cluster_modo,Usuarios publicos,Ec corregido > 0,1703,91.95464362850971
+cluster_modo,Usuarios publicos,Ingreso potencial neto de Ec > 0,1703,91.95464362850971
+cluster_modo,Usuarios publicos,Muestra final MTUEM,1703,91.95464362850971

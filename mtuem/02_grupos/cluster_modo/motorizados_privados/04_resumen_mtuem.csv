@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_modo,Motorizados privados,N personas estimadas,2666
+cluster_modo,Motorizados privados,N parametros,3
+cluster_modo,Motorizados privados,Log likelihood,-13109.2071980865
+cluster_modo,Motorizados privados,Metodo elegido,BFGS
+cluster_modo,Motorizados privados,Return code,0
+cluster_modo,Motorizados privados,PH,0.281871354099918
+cluster_modo,Motorizados privados,tw,0.361721903079112
+cluster_modo,Motorizados privados,th1,0.798345098528668
+cluster_modo,Motorizados privados,Tw observado promedio,55.8486909227307
+cluster_modo,Motorizados privados,Tw predicho promedio,56.4191520871728
+cluster_modo,Motorizados privados,Tf1 ocio observado promedio,37.2548574643661
+cluster_modo,Motorizados privados,Tf1 ocio predicho promedio,37.1109912128377
+cluster_modo,Motorizados privados,Tf2 comidas observado promedio,9.80050262565641
+cluster_modo,Motorizados privados,Tf2 comidas predicho promedio,9.37390771274275
+cluster_modo,Motorizados privados,RMSE Tw,11.9413283630908
+cluster_modo,Motorizados privados,RMSE Tf1 ocio,11.6992633379121
+cluster_modo,Motorizados privados,RMSE Tf2 comidas,4.33177923183829
+cluster_modo,Motorizados privados,VoL predicho promedio,7.7485242254838
+cluster_modo,Motorizados privados,VoL predicho mediana,5.47987924696304
+cluster_modo,Motorizados privados,VoL observado promedio,9.98352169275144
+cluster_modo,Motorizados privados,VoL observado mediana,6.26035887712552
+cluster_modo,Motorizados privados,VTAW predicho promedio,2.87629999367585
+cluster_modo,Motorizados privados,VTAW observado promedio,5.11129746094349
+cluster_modo,Motorizados privados,Weighted wage rate promedio,4.87222423180795
+cluster_modo,Motorizados privados,N ingreso libre observado <= 0,519
+cluster_modo,Motorizados privados,Porcentaje ingreso libre observado <= 0,0.194673668417104
+cluster_modo,Motorizados privados,N ingreso libre predicho <= 0,0
+cluster_modo,Motorizados privados,Porcentaje ingreso libre predicho <= 0,0
+cluster_modo,Motorizados privados,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Motorizados privados,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Motorizados privados,Media cierre temporal observado,168
+cluster_modo,Motorizados privados,Media cierre temporal predicho,168
+cluster_modo,Motorizados privados,Media diferencia cierre temporal predicho,-3.1982418713883e-17

@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_modo,Motorizados privados,Model specification,# individuals,2666,NA,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Model specification,LL,-13109.2071980865,NA,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Time-use parameters,PH,NA,0.2818713540999182,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Time-use parameters,th1,NA,0.7983450985286681,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Time-use parameters,tw,NA,0.36172190307911206,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Values of time,VoL predicho,7.7485 [6.9071 ; 8.5899],7.748524225483797,0.4292981844227165,NA,,6.907099784015273,8.58994866695232
+cluster_modo,Motorizados privados,Values of time,VTAW predicho,2.8763 [2.0349 ; 3.7177],2.876299993675845,0.4292981840282249,NA,,2.0348755529805245,3.7177244343711657
+cluster_modo,Motorizados privados,Values of time,Weighted wage rate,4.8722 [4.7216 ; 5.0228],4.872224231807952,0.07679691704248204,NA,,4.721636648356005,5.022811815259899

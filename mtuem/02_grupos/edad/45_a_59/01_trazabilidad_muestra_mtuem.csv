@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+edad,45 a 59,Personas compatibles con MNL V9 en grupo,2416,100
+edad,45 a 59,Variables finitas para MTUEM,2416,100
+edad,45 a 59,Tw > 0 y w > 0,2416,100
+edad,45 a 59,Tc valido y tiempo libre observado > 0,2416,100
+edad,45 a 59,Ec corregido > 0,2337,96.73013245033113
+edad,45 a 59,Ingreso potencial neto de Ec > 0,2336,96.6887417218543
+edad,45 a 59,Muestra final MTUEM,2336,96.6887417218543

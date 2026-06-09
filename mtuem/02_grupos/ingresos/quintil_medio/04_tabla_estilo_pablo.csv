@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+ingresos,Quintil medio,Model specification,# individuals,1507,NA,NA,NA,,NA,NA
+ingresos,Quintil medio,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+ingresos,Quintil medio,Model specification,LL,-7429.01473815547,NA,NA,NA,,NA,NA
+ingresos,Quintil medio,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+ingresos,Quintil medio,Time-use parameters,PH,NA,0.3994522386851838,NA,NA,,NA,NA
+ingresos,Quintil medio,Time-use parameters,th1,NA,0.7951278531221336,NA,NA,,NA,NA
+ingresos,Quintil medio,Time-use parameters,tw,NA,0.19629546008644147,NA,NA,,NA,NA
+ingresos,Quintil medio,Values of time,VoL predicho,5.2925 [4.7318 ; 5.8531],5.292463724345394,0.28605819912138325,NA,,4.731789654067483,5.853137794623305
+ingresos,Quintil medio,Values of time,VTAW predicho,1.0627 [0.502 ; 1.6234],1.0626850408682873,0.286058199169236,NA,,0.5020109704965847,1.6233591112399899
+ingresos,Quintil medio,Values of time,Weighted wage rate,4.2298 [4.1203 ; 4.3392],4.2297786834771065,0.055805934442541755,NA,,4.120313086105465,4.339244280848748

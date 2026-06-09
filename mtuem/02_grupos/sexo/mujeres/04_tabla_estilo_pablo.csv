@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+sexo,Mujeres,Model specification,# individuals,4818,NA,NA,NA,,NA,NA
+sexo,Mujeres,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+sexo,Mujeres,Model specification,LL,-23955.5355411986,NA,NA,NA,,NA,NA
+sexo,Mujeres,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+sexo,Mujeres,Time-use parameters,PH,NA,0.20896759682695454,NA,NA,,NA,NA
+sexo,Mujeres,Time-use parameters,th1,NA,0.7940312411801288,NA,NA,,NA,NA
+sexo,Mujeres,Time-use parameters,tw,NA,0.37685555230234313,NA,NA,,NA,NA
+sexo,Mujeres,Values of time,VoL predicho,5.8244 [5.3764 ; 6.2724],5.824378221035157,0.22856119067104222,NA,,5.376398287319914,6.2723581547504
+sexo,Mujeres,Values of time,VTAW predicho,2.2685 [1.8205 ; 2.7165],2.26851855851959,0.22856119041985953,NA,,1.8205386252966653,2.716498491742515
+sexo,Mujeres,Values of time,Weighted wage rate,3.5559 [3.5007 ; 3.611],3.5558596625155667,0.02812123528227201,NA,,3.500729201623022,3.6109901234081114

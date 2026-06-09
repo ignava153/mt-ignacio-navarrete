@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+cluster_modo,Motorizados privados,Personas compatibles con MNL V9 en grupo,2968,100
+cluster_modo,Motorizados privados,Variables finitas para MTUEM,2968,100
+cluster_modo,Motorizados privados,Tw > 0 y w > 0,2968,100
+cluster_modo,Motorizados privados,Tc valido y tiempo libre observado > 0,2968,100
+cluster_modo,Motorizados privados,Ec corregido > 0,2667,89.85849056603773
+cluster_modo,Motorizados privados,Ingreso potencial neto de Ec > 0,2666,89.82479784366576
+cluster_modo,Motorizados privados,Muestra final MTUEM,2666,89.82479784366576

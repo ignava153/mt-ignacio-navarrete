@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+cluster_modo,Movilidad mixta,Model specification,# individuals,1663,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Model specification,LL,-8168.12304546417,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Time-use parameters,PH,NA,0.2692202889507862,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Time-use parameters,th1,NA,0.7965410539277863,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Time-use parameters,tw,NA,0.42912098397248605,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Values of time,VoL predicho,6.6458 [5.7697 ; 7.522],6.645828940700236,0.44700085393447453,NA,,5.769707266988666,7.521950614411805
+cluster_modo,Movilidad mixta,Values of time,VTAW predicho,2.7079 [1.8318 ; 3.5841],2.7079288222396225,0.4470008543933843,NA,,1.8318071476285893,3.5840504968506557
+cluster_modo,Movilidad mixta,Values of time,Weighted wage rate,3.9379 [3.7741 ; 4.1017],3.9379001184606133,0.08351290380109218,NA,,3.7740985464613646,4.101701690459862

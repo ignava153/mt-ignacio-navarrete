@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_modo,Movilidad mixta,BFGS,-8168.123045464168,TRUE,0
+cluster_modo,Movilidad mixta,NM,NA,FALSE,NA
+cluster_modo,Movilidad mixta,SANN_fallback,NA,FALSE,NA

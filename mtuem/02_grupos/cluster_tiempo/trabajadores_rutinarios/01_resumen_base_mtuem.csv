@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Trabajadores rutinarios,N personas compatibles con MNL V9 en grupo,2047
+cluster_tiempo,Trabajadores rutinarios,N personas usadas en MTUEM continuo,1880
+cluster_tiempo,Trabajadores rutinarios,N personas removidas por filtros MTUEM,167
+cluster_tiempo,Trabajadores rutinarios,Media Tw,58.44343617021276
+cluster_tiempo,Trabajadores rutinarios,Media Tf1 ocio,29.51405319148936
+cluster_tiempo,Trabajadores rutinarios,Media Tf2 comidas,10.723414893617022
+cluster_tiempo,Trabajadores rutinarios,Media tiempo libre observado,40.237468085106386
+cluster_tiempo,Trabajadores rutinarios,Media Tc residual,69.31909574468085
+cluster_tiempo,Trabajadores rutinarios,Media w,4.487860203191489
+cluster_tiempo,Trabajadores rutinarios,Media Ec monetario bruto,111.98687234042553
+cluster_tiempo,Trabajadores rutinarios,Media ingreso fijo descontado,21.35864495240728
+cluster_tiempo,Trabajadores rutinarios,Media EcI neto de ingreso fijo,90.62822738801825
+cluster_tiempo,Trabajadores rutinarios,Media Ec trabajo no remunerado,44.892815207659574
+cluster_tiempo,Trabajadores rutinarios,Media Ec total corregido,135.52104259567784
+cluster_tiempo,Trabajadores rutinarios,Media cierre temporal,168
+cluster_tiempo,Trabajadores rutinarios,N cierre temporal distinto de 168,0
+cluster_tiempo,Trabajadores rutinarios,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Trabajadores rutinarios,N Tc <= 0,0
+cluster_tiempo,Trabajadores rutinarios,Porcentaje Tc <= 0,0
+cluster_tiempo,Trabajadores rutinarios,N ingreso libre observado <= 0,60
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso libre observado <= 0,0.031914893617021274
+cluster_tiempo,Trabajadores rutinarios,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso potencial neto Ec <= 0,0

@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+territorio,Centro,BFGS,-19892.104011670075,TRUE,0
+territorio,Centro,NM,NA,FALSE,NA
+territorio,Centro,SANN_fallback,NA,FALSE,NA

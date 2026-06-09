@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+ingresos,Quintil alto,PH,0.502857132080937,NA,NA,
+ingresos,Quintil alto,th1,0.8042536903300571,NA,NA,
+ingresos,Quintil alto,tw,0.08183250420020208,NA,NA,

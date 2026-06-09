@@ -1,0 +1,221 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+muestra_general,Muestra general,Model specification,# individuals,7925,NA,NA,NA,,NA,NA
+muestra_general,Muestra general,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+muestra_general,Muestra general,Model specification,LL,-39648.5811205977,NA,NA,NA,,NA,NA
+muestra_general,Muestra general,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+muestra_general,Muestra general,Time-use parameters,PH,NA,0.26326527771450065,NA,NA,,NA,NA
+muestra_general,Muestra general,Time-use parameters,th1,NA,0.8001078727378941,NA,NA,,NA,NA
+muestra_general,Muestra general,Time-use parameters,tw,NA,0.2969456344377914,NA,NA,,NA,NA
+muestra_general,Muestra general,Values of time,VoL predicho,5.9375 [5.59 ; 6.285],5.937480134401695,0.17728745485262046,NA,,5.589996722890559,6.284963545912831
+muestra_general,Muestra general,Values of time,VTAW predicho,1.9279 [1.5804 ; 2.2754],1.9278886911209376,0.17728745474253074,NA,,1.5804052798255774,2.275372102416298
+muestra_general,Muestra general,Values of time,Weighted wage rate,4.0096 [3.9342 ; 4.085],4.009591443280757,0.0384776347382811,NA,,3.9341651438964815,4.085017742665033
+edad,18 a 29,Model specification,# individuals,1697,NA,NA,NA,,NA,NA
+edad,18 a 29,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+edad,18 a 29,Model specification,LL,-8122.58987093,NA,NA,NA,,NA,NA
+edad,18 a 29,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+edad,18 a 29,Time-use parameters,PH,NA,0.3824107723511873,NA,NA,,NA,NA
+edad,18 a 29,Time-use parameters,th1,NA,0.8504661163130192,NA,NA,,NA,NA
+edad,18 a 29,Time-use parameters,tw,NA,-0.40326381210299067,NA,NA,,NA,NA
+edad,18 a 29,Values of time,VoL predicho,2.0664 [1.8522 ; 2.2806],2.066438000598244,0.10928232821800714,NA,,1.85224463729095,2.280631363905538
+edad,18 a 29,Values of time,VTAW predicho,-1.386 [-1.6001 ; -1.1718],-1.3859506405331645,0.10928232821800714,NA,,-1.6001440038404584,-1.1717572772258706
+edad,18 a 29,Values of time,Weighted wage rate,3.4524 [3.2869 ; 3.6178],3.4523886411314084,0.08434911362844615,NA,,3.286949350593016,3.617827931669801
+edad,30 a 44,Model specification,# individuals,2517,NA,NA,NA,,NA,NA
+edad,30 a 44,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+edad,30 a 44,Model specification,LL,-12019.3419596982,NA,NA,NA,,NA,NA
+edad,30 a 44,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+edad,30 a 44,Time-use parameters,PH,NA,0.2066230436173282,NA,NA,,NA,NA
+edad,30 a 44,Time-use parameters,th1,NA,0.8018941260748716,NA,NA,,NA,NA
+edad,30 a 44,Time-use parameters,tw,NA,0.5780544891555657,NA,NA,,NA,NA
+edad,30 a 44,Values of time,VoL predicho,8.8558 [7.7305 ; 9.981],8.855765413999617,0.5741125557376702,NA,,7.730504804753783,9.98102602324545
+edad,30 a 44,Values of time,VTAW predicho,4.5461 [3.4209 ; 5.6714],4.546112402080665,0.5741125567690392,NA,,3.420851790813348,5.671373013347981
+edad,30 a 44,Values of time,Weighted wage rate,4.3097 [4.1844 ; 4.4349],4.309653011918951,0.06387504623034873,NA,,4.184399967179549,4.434906056658353
+edad,45 a 59,Model specification,# individuals,2336,NA,NA,NA,,NA,NA
+edad,45 a 59,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+edad,45 a 59,Model specification,LL,-11480.9222735765,NA,NA,NA,,NA,NA
+edad,45 a 59,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+edad,45 a 59,Time-use parameters,PH,NA,0.15062170537459282,NA,NA,,NA,NA
+edad,45 a 59,Time-use parameters,th1,NA,0.7758272513117909,NA,NA,,NA,NA
+edad,45 a 59,Time-use parameters,tw,NA,0.7075505190335556,NA,NA,,NA,NA
+edad,45 a 59,Values of time,VoL predicho,12.8021 [10.5942 ; 15.01],12.80212142023589,1.1264753607724105,NA,,10.594229713121965,15.010013127349815
+edad,45 a 59,Values of time,VTAW predicho,8.5008 [6.2929 ; 10.7087],8.500818722461918,1.1264753607724105,NA,,6.292927015347994,10.708710429575843
+edad,45 a 59,Values of time,Weighted wage rate,4.3013 [4.1512 ; 4.4514],4.301302697773973,0.07652087992113928,NA,,4.151246747129754,4.451358648418191
+edad,60 o mas,Model specification,# individuals,1375,NA,NA,NA,,NA,NA
+edad,60 o mas,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+edad,60 o mas,Model specification,LL,-7055.54902631915,NA,NA,NA,,NA,NA
+edad,60 o mas,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+edad,60 o mas,Time-use parameters,PH,NA,0.2078291583448529,NA,NA,,NA,NA
+edad,60 o mas,Time-use parameters,th1,NA,0.7684138720577923,NA,NA,,NA,NA
+edad,60 o mas,Time-use parameters,tw,NA,0.4941652789772123,NA,NA,,NA,NA
+edad,60 o mas,Values of time,VoL predicho,8.3547 [6.7746 ; 9.9349],8.35473542007617,0.8061865650978259,NA,,6.77460975248443,9.934861087667908
+edad,60 o mas,Values of time,VTAW predicho,4.7023 [3.1222 ; 6.2824],4.702321652076169,0.8061865645952896,NA,,3.122195985469401,6.282447318682936
+edad,60 o mas,Values of time,Weighted wage rate,3.6524 [3.486 ; 3.8188],3.652413768,0.08482050075170786,NA,,3.486022068167451,3.8188054678325494
+sexo,Hombres,Model specification,# individuals,3107,NA,NA,NA,,NA,NA
+sexo,Hombres,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+sexo,Hombres,Model specification,LL,-15550.5566208731,NA,NA,NA,,NA,NA
+sexo,Hombres,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+sexo,Hombres,Time-use parameters,PH,NA,0.40329042568188034,NA,NA,,NA,NA
+sexo,Hombres,Time-use parameters,th1,NA,0.8083080604921299,NA,NA,,NA,NA
+sexo,Hombres,Time-use parameters,tw,NA,0.0727513238403586,NA,NA,,NA,NA
+sexo,Hombres,Values of time,VoL predicho,5.2249 [4.8292 ; 5.6207],5.224939567187106,0.20193207954042852,NA,,4.829152691287867,5.620726443086346
+sexo,Hombres,Values of time,VTAW predicho,0.5117 [0.116 ; 0.9075],0.5117498877535689,0.20193207961293919,NA,,0.11596301171220808,0.9075367637949296
+sexo,Hombres,Values of time,Weighted wage rate,4.7132 [4.5437 ; 4.8827],4.713189679433537,0.08643065323015948,NA,,4.5437226734628755,4.882656685404198
+sexo,Mujeres,Model specification,# individuals,4818,NA,NA,NA,,NA,NA
+sexo,Mujeres,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+sexo,Mujeres,Model specification,LL,-23955.5355411986,NA,NA,NA,,NA,NA
+sexo,Mujeres,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+sexo,Mujeres,Time-use parameters,PH,NA,0.20896759682695454,NA,NA,,NA,NA
+sexo,Mujeres,Time-use parameters,th1,NA,0.7940312411801288,NA,NA,,NA,NA
+sexo,Mujeres,Time-use parameters,tw,NA,0.37685555230234313,NA,NA,,NA,NA
+sexo,Mujeres,Values of time,VoL predicho,5.8244 [5.3764 ; 6.2724],5.824378221035157,0.22856119067104222,NA,,5.376398287319914,6.2723581547504
+sexo,Mujeres,Values of time,VTAW predicho,2.2685 [1.8205 ; 2.7165],2.26851855851959,0.22856119041985953,NA,,1.8205386252966653,2.716498491742515
+sexo,Mujeres,Values of time,Weighted wage rate,3.5559 [3.5007 ; 3.611],3.5558596625155667,0.02812123528227201,NA,,3.500729201623022,3.6109901234081114
+ingresos,Quintil bajo,Model specification,# individuals,5214,NA,NA,NA,,NA,NA
+ingresos,Quintil bajo,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+ingresos,Quintil bajo,Model specification,LL,-25924.5159990469,NA,NA,NA,,NA,NA
+ingresos,Quintil bajo,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+ingresos,Quintil bajo,Time-use parameters,PH,NA,0.23142339106723564,NA,NA,,NA,NA
+ingresos,Quintil bajo,Time-use parameters,th1,NA,0.80128674508684,NA,NA,,NA,NA
+ingresos,Quintil bajo,Time-use parameters,tw,NA,0.2211465398286796,NA,NA,,NA,NA
+ingresos,Quintil bajo,Values of time,VoL predicho,4.1717 [3.9262 ; 4.4172],4.171676635674542,0.12524599463926891,NA,,3.926194486181575,4.417158785167509
+ingresos,Quintil bajo,Values of time,VTAW predicho,1.0012 [0.7557 ; 1.2467],1.0011858359046917,0.1252459948103293,NA,,0.7557036860764462,1.246667985732937
+ingresos,Quintil bajo,Values of time,Weighted wage rate,3.1705 [3.1418 ; 3.1992],3.1704907997698504,0.01465329339094648,NA,,3.1417642026966806,3.19921739684302
+ingresos,Quintil medio,Model specification,# individuals,1507,NA,NA,NA,,NA,NA
+ingresos,Quintil medio,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+ingresos,Quintil medio,Model specification,LL,-7429.01473815547,NA,NA,NA,,NA,NA
+ingresos,Quintil medio,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+ingresos,Quintil medio,Time-use parameters,PH,NA,0.3994522386851838,NA,NA,,NA,NA
+ingresos,Quintil medio,Time-use parameters,th1,NA,0.7951278531221336,NA,NA,,NA,NA
+ingresos,Quintil medio,Time-use parameters,tw,NA,0.19629546008644147,NA,NA,,NA,NA
+ingresos,Quintil medio,Values of time,VoL predicho,5.2925 [4.7318 ; 5.8531],5.292463724345394,0.28605819912138325,NA,,4.731789654067483,5.853137794623305
+ingresos,Quintil medio,Values of time,VTAW predicho,1.0627 [0.502 ; 1.6234],1.0626850408682873,0.286058199169236,NA,,0.5020109704965847,1.6233591112399899
+ingresos,Quintil medio,Values of time,Weighted wage rate,4.2298 [4.1203 ; 4.3392],4.2297786834771065,0.055805934442541755,NA,,4.120313086105465,4.339244280848748
+ingresos,Quintil alto,Model specification,# individuals,1204,NA,NA,NA,,NA,NA
+ingresos,Quintil alto,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+ingresos,Quintil alto,Model specification,LL,-5966.35851754216,NA,NA,NA,,NA,NA
+ingresos,Quintil alto,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+ingresos,Quintil alto,Time-use parameters,PH,NA,0.502857132080937,NA,NA,,NA,NA
+ingresos,Quintil alto,Time-use parameters,th1,NA,0.8042536903300571,NA,NA,,NA,NA
+ingresos,Quintil alto,Time-use parameters,tw,NA,0.08183250420020208,NA,NA,,NA,NA
+ingresos,Quintil alto,Values of time,VoL predicho,8.2559 [7.0708 ; 9.441],8.255889196769104,0.6046601400406411,NA,,7.070755322289448,9.441023071248761
+ingresos,Quintil alto,Values of time,VTAW predicho,0.8881 [-0.297 ; 2.0733],0.8881178662043194,0.6046601418270792,NA,,-0.29701601177675574,2.0732517441853946
+ingresos,Quintil alto,Values of time,Weighted wage rate,7.3678 [6.9594 ; 7.7761],7.367771330564784,0.20813821674688415,NA,,6.959417074878278,7.77612558625129
+territorio,Norte,Model specification,# individuals,2120,NA,NA,NA,,NA,NA
+territorio,Norte,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+territorio,Norte,Model specification,LL,-10735.0728947746,NA,NA,NA,,NA,NA
+territorio,Norte,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+territorio,Norte,Time-use parameters,PH,NA,0.29689505314660247,NA,NA,,NA,NA
+territorio,Norte,Time-use parameters,th1,NA,0.7984162000524937,NA,NA,,NA,NA
+territorio,Norte,Time-use parameters,tw,NA,0.3167958131003339,NA,NA,,NA,NA
+territorio,Norte,Values of time,VoL predicho,5.9792 [5.2485 ; 6.71],5.979228792895912,0.3728364744731425,NA,,5.2484693029285525,6.709988282863271
+territorio,Norte,Values of time,VTAW predicho,1.9669 [1.2361 ; 2.6976],1.9668637226128924,0.3728364746051967,NA,,1.2361042323867069,2.697623212839078
+territorio,Norte,Values of time,Weighted wage rate,4.0124 [3.8641 ; 4.1606],4.0123650702830185,0.07559626031993397,NA,,3.8641144433269368,4.1606156972391
+territorio,Centro,Model specification,# individuals,4004,NA,NA,NA,,NA,NA
+territorio,Centro,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+territorio,Centro,Model specification,LL,-19892.1040116701,NA,NA,NA,,NA,NA
+territorio,Centro,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+territorio,Centro,Time-use parameters,PH,NA,0.24405916685210421,NA,NA,,NA,NA
+territorio,Centro,Time-use parameters,th1,NA,0.7992634457637406,NA,NA,,NA,NA
+territorio,Centro,Time-use parameters,tw,NA,0.32599654871752237,NA,NA,,NA,NA
+territorio,Centro,Values of time,VoL predicho,6.1267 [5.6124 ; 6.6411],6.12670527364195,0.26242104374871456,NA,,5.61236002789447,6.641050519389431
+territorio,Centro,Values of time,VTAW predicho,2.1816 [1.6672 ; 2.6959],2.1815573755400526,0.26242104362017393,NA,,1.6672121300445117,2.6959026210355934
+territorio,Centro,Values of time,Weighted wage rate,3.9451 [3.8385 ; 4.0518],3.945147898101898,0.054401667846625784,NA,,3.8384903391409178,4.051805457062878
+territorio,Sur,Model specification,# individuals,1801,NA,NA,NA,,NA,NA
+territorio,Sur,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+territorio,Sur,Model specification,LL,-8967.14175536215,NA,NA,NA,,NA,NA
+territorio,Sur,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+territorio,Sur,Time-use parameters,PH,NA,0.26857299426186004,NA,NA,,NA,NA
+territorio,Sur,Time-use parameters,th1,NA,0.8038855383058344,NA,NA,,NA,NA
+territorio,Sur,Time-use parameters,tw,NA,0.20573372269696907,NA,NA,,NA,NA
+territorio,Sur,Values of time,VoL predicho,5.4663 [4.8967 ; 6.0359],5.4662716630800485,0.29061861817678847,NA,,4.8966591714535435,6.035884154706554
+territorio,Sur,Values of time,VTAW predicho,1.3167 [0.7471 ; 1.8863],1.3166736314309648,0.2906186185751331,NA,,0.747061139023704,1.8862861238382256
+territorio,Sur,Values of time,Weighted wage rate,4.1496 [3.9963 ; 4.3029],4.1495980316490835,0.07817913107756005,NA,,3.996266647753142,4.302929415545025
+cluster_tiempo,Cuidadores domesticos,Model specification,# individuals,2514,NA,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Model specification,LL,-11586.232464891,NA,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Time-use parameters,PH,NA,0.06337083276901266,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Time-use parameters,th1,NA,0.7601612333069546,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Time-use parameters,tw,NA,1.2088126291514227,NA,NA,,NA,NA
+cluster_tiempo,Cuidadores domesticos,Values of time,VoL predicho,22.6453 [18.0348 ; 27.2557],22.64527248969938,2.3522837887225974,NA,,18.034796263803088,27.255748715595672
+cluster_tiempo,Cuidadores domesticos,Values of time,VTAW predicho,19.1314 [14.5209 ; 23.7419],19.131422032658804,2.352283789461668,NA,,14.520945805313936,23.741898260003673
+cluster_tiempo,Cuidadores domesticos,Values of time,Weighted wage rate,3.5139 [3.4468 ; 3.5809],3.5138504570405726,0.034184685709069774,NA,,3.446817418611142,3.5808834954700033
+cluster_tiempo,Rutina flexible,Model specification,# individuals,1770,NA,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Model specification,LL,-8400.93293659893,NA,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Time-use parameters,PH,NA,0.03275595433647874,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Time-use parameters,th1,NA,0.8355666129856282,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Time-use parameters,tw,NA,0.23270877451256744,NA,NA,,NA,NA
+cluster_tiempo,Rutina flexible,Values of time,VoL predicho,10.5669 [8.5991 ; 12.5346],10.566852204885082,1.0039690500113603,NA,,8.599072866862816,12.534631542907348
+cluster_tiempo,Rutina flexible,Values of time,VTAW predicho,7.1771 [5.2094 ; 9.1449],7.177145387935929,1.0039690500113603,NA,,5.209366049913663,9.1449247259581945
+cluster_tiempo,Rutina flexible,Values of time,Weighted wage rate,3.3897 [3.2788 ; 3.5006],3.3897068169491527,0.056530229181883634,NA,,3.278833744314986,3.500579889583319
+cluster_tiempo,Jovenes trabajadores,Model specification,# individuals,899,NA,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Model specification,LL,-3755.46349112839,NA,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Time-use parameters,PH,NA,0.16634934317673664,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Time-use parameters,th1,NA,0.8645497952200883,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Time-use parameters,tw,NA,0.4671392025193155,NA,NA,,NA,NA
+cluster_tiempo,Jovenes trabajadores,Values of time,VoL predicho,12.5242 [10.2232 ; 14.8252],12.52416358206291,1.1739840027913988,NA,,10.223154936591769,14.82517222753405
+cluster_tiempo,Jovenes trabajadores,Values of time,VTAW predicho,7.4515 [5.1505 ; 9.7525],7.4515328801719205,1.1739840014863325,NA,,5.1505242372587094,9.752541523085132
+cluster_tiempo,Jovenes trabajadores,Values of time,Weighted wage rate,5.0726 [4.6622 ; 5.483],5.07263070189099,0.20911180442424707,NA,,4.66222594743621,5.48303545634577
+cluster_tiempo,Trabajadores rutinarios,Model specification,# individuals,1880,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Model specification,LL,-8193.18006874233,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Time-use parameters,PH,NA,0.22658231867473838,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Time-use parameters,th1,NA,0.7368476620784865,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Time-use parameters,tw,NA,0.8320653621488454,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores rutinarios,Values of time,VoL predicho,12.8389 [11.1014 ; 14.5764],12.838918635415155,0.8864913110180285,NA,,11.101395665819819,14.57644160501049
+cluster_tiempo,Trabajadores rutinarios,Values of time,VTAW predicho,8.3511 [6.6135 ; 10.0886],8.351058432223665,0.8864913110180285,NA,,6.613535462628329,10.088581401819
+cluster_tiempo,Trabajadores rutinarios,Values of time,Weighted wage rate,4.4879 [4.3189 ; 4.6568],4.487860203191489,0.08612886446264277,NA,,4.318941922690728,4.65677848369225
+cluster_tiempo,Trabajadores moviles,Model specification,# individuals,862,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Model specification,LL,-3886.40394409773,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Time-use parameters,PH,NA,0.338281427188051,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Time-use parameters,th1,NA,0.8010866275701787,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Time-use parameters,tw,NA,0.5960235982715055,NA,NA,,NA,NA
+cluster_tiempo,Trabajadores moviles,Values of time,VoL predicho,8.5478 [7.0921 ; 10.0034],8.547771760470884,0.7426689778148305,NA,,7.092140563953816,10.003402956987951
+cluster_tiempo,Trabajadores moviles,Values of time,VTAW predicho,3.9713 [2.5156 ; 5.4269],3.971276528452322,0.7426689768906019,NA,,2.5156453337467424,5.4269077231579015
+cluster_tiempo,Trabajadores moviles,Values of time,Weighted wage rate,4.5765 [4.3369 ; 4.8161],4.576495232018561,0.12206056264122253,NA,,4.33692415258352,4.816066311453603
+cluster_modo,Usuarios publicos,Model specification,# individuals,1703,NA,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Model specification,LL,-8419.59001317847,NA,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Time-use parameters,PH,NA,0.2916527839274308,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Time-use parameters,th1,NA,0.8004083973416167,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Time-use parameters,tw,NA,0.20580208729145083,NA,NA,,NA,NA
+cluster_modo,Usuarios publicos,Values of time,VoL predicho,4.5218 [4.011 ; 5.0326],4.521821652741143,0.2606240716224097,NA,,4.01099847236122,5.032644833121066
+cluster_modo,Usuarios publicos,Values of time,VTAW predicho,1.0757 [0.5649 ; 1.5865],1.0757236691827168,0.2606240708896836,NA,,0.564900490238937,1.5865468481264966
+cluster_modo,Usuarios publicos,Values of time,Weighted wage rate,3.4461 [3.2747 ; 3.6175],3.4460979835584262,0.08739245615088395,NA,,3.274690022967383,3.6175059441494692
+cluster_modo,Movilidad activa,Model specification,# individuals,1893,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Model specification,LL,-9690.28950101528,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Time-use parameters,PH,NA,0.16314154812271614,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Time-use parameters,th1,NA,0.8050139258735557,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Time-use parameters,tw,NA,0.2857635122687069,NA,NA,,NA,NA
+cluster_modo,Movilidad activa,Values of time,VoL predicho,5.3493 [4.7183 ; 5.9803],5.349295875463114,0.3219345486743884,NA,,4.7183041600613125,5.980287590864916
+cluster_modo,Movilidad activa,Values of time,VTAW predicho,1.9847 [1.3537 ; 2.6157],1.9846737819607367,0.3219345487428687,NA,,1.3536820664247142,2.6156654974967593
+cluster_modo,Movilidad activa,Values of time,Weighted wage rate,3.3646 [3.2821 ; 3.4471],3.364622093502377,0.042061589362244994,NA,,3.2821301214037146,3.4471140656010397
+cluster_modo,Movilidad mixta,Model specification,# individuals,1663,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Model specification,LL,-8168.12304546417,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Time-use parameters,PH,NA,0.2692202889507862,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Time-use parameters,th1,NA,0.7965410539277863,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Time-use parameters,tw,NA,0.42912098397248605,NA,NA,,NA,NA
+cluster_modo,Movilidad mixta,Values of time,VoL predicho,6.6458 [5.7697 ; 7.522],6.645828940700236,0.44700085393447453,NA,,5.769707266988666,7.521950614411805
+cluster_modo,Movilidad mixta,Values of time,VTAW predicho,2.7079 [1.8318 ; 3.5841],2.7079288222396225,0.4470008543933843,NA,,1.8318071476285893,3.5840504968506557
+cluster_modo,Movilidad mixta,Values of time,Weighted wage rate,3.9379 [3.7741 ; 4.1017],3.9379001184606133,0.08351290380109218,NA,,3.7740985464613646,4.101701690459862
+cluster_modo,Motorizados privados,Model specification,# individuals,2666,NA,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Model specification,LL,-13109.2071980865,NA,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Time-use parameters,PH,NA,0.2818713540999182,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Time-use parameters,th1,NA,0.7983450985286681,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Time-use parameters,tw,NA,0.36172190307911206,NA,NA,,NA,NA
+cluster_modo,Motorizados privados,Values of time,VoL predicho,7.7485 [6.9071 ; 8.5899],7.748524225483797,0.4292981844227165,NA,,6.907099784015273,8.58994866695232
+cluster_modo,Motorizados privados,Values of time,VTAW predicho,2.8763 [2.0349 ; 3.7177],2.876299993675845,0.4292981840282249,NA,,2.0348755529805245,3.7177244343711657
+cluster_modo,Motorizados privados,Values of time,Weighted wage rate,4.8722 [4.7216 ; 5.0228],4.872224231807952,0.07679691704248204,NA,,4.721636648356005,5.022811815259899

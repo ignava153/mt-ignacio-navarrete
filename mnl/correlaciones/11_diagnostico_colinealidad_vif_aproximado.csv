@@ -1,0 +1,21 @@
+variable,R2_auxiliar,VIF_aproximado,nivel_alerta,comentario,familia,tipo_variable
+educ_universitaria,0.654561954133493,2.894875107029889,bajo,Sin alerta relevante por VIF aproximado,educacion,dicotomica
+educ_tecnica,0.619193569292294,2.6260060738511157,bajo,Sin alerta relevante por VIF aproximado,educacion,dicotomica
+n_profesionales,0.5746075806939552,2.3507706170018956,bajo,Sin alerta relevante por VIF aproximado,hogar,continua
+quintil_5,0.560882553877315,2.27729508091694,bajo,Sin alerta relevante por VIF aproximado,ingresos,dicotomica
+mod_TC,0.5070985151768876,2.028802977452726,bajo,Sin alerta relevante por VIF aproximado,modulo,dicotomica
+mod_TD,0.4973058357423902,1.9892810999244894,bajo,Sin alerta relevante por VIF aproximado,modulo,dicotomica
+ing_personal,0.4835323449767721,1.9362296753221175,bajo,Sin alerta relevante por VIF aproximado,ingresos,continua
+T_mod_10h,0.45499297354371093,1.834838729515357,bajo,Sin alerta relevante por VIF aproximado,tiempo_modulo,continua
+educ_secundaria,0.45289720153581847,1.8278100620343827,bajo,Sin alerta relevante por VIF aproximado,educacion,dicotomica
+n_trabajadores,0.35915974952052,1.5604512969523914,bajo,Sin alerta relevante por VIF aproximado,hogar,continua
+quintil_4,0.34324571544389315,1.5226394764609557,bajo,Sin alerta relevante por VIF aproximado,ingresos,dicotomica
+edad_18_24,0.32459176869086714,1.480586042106292,bajo,Sin alerta relevante por VIF aproximado,edad,dicotomica
+zona_centro,0.30884719423494406,1.446858048840694,bajo,Sin alerta relevante por VIF aproximado,territorio,dicotomica
+zona_sur,0.30710961056741326,1.4432297160578424,bajo,Sin alerta relevante por VIF aproximado,territorio,dicotomica
+mod_ED,0.3070251736802398,1.4430538628809713,bajo,Sin alerta relevante por VIF aproximado,modulo,dicotomica
+edad_65mas,0.27521771128068545,1.3797246643084966,bajo,Sin alerta relevante por VIF aproximado,edad,dicotomica
+mod_CP,0.27044443529744505,1.3706975155589516,bajo,Sin alerta relevante por VIF aproximado,modulo,dicotomica
+quintil_3,0.24066581633449693,1.3169432135568302,bajo,Sin alerta relevante por VIF aproximado,ingresos,dicotomica
+vive_pareja,0.166850768887643,1.2002651657793366,bajo,Sin alerta relevante por VIF aproximado,hogar,dicotomica
+female,0.1073282493013588,1.120232604221383,bajo,Sin alerta relevante por VIF aproximado,sexo,dicotomica

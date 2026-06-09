@@ -1,0 +1,12 @@
+chequeo,resultado
+Base de estimacion,V10 depurado: se prepara la base desde enut_ii.xlsx y no se leen resultados previos V6/V7
+Archivo de entrada de datos,enut_ii.xlsx
+Numeracion de alternativas,"Interna V10: 1 auto/moto, 2 TP, 3 taxi/app, 4 bicicleta/ciclos, 5 a pie, 6 otros, 7 multimodal"
+Referencia,1 Auto/moto particular
+Parametro fijo esperado,ASC1
+Constantes esperadas estimadas,ASC2; ASC3; ASC4; ASC5; ASC6; ASC7
+Constantes faltantes entre no referencia,
+Parametros no constantes con |t-ratio| < 1.96,Ninguno
+Uso de ingreso personal,ing_personal se conserva solo para mantener la misma muestra/filtro de V9; no entra como variable explicativa en V10
+Valores iniciales,Todos en cero
+Variables eliminadas respecto a V9,edad_18_24; ing_personal; n_profesionales

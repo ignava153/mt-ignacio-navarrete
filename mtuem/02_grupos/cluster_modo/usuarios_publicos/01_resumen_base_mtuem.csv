@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_modo,Usuarios publicos,N personas compatibles con MNL V9 en grupo,1852
+cluster_modo,Usuarios publicos,N personas usadas en MTUEM continuo,1703
+cluster_modo,Usuarios publicos,N personas removidas por filtros MTUEM,149
+cluster_modo,Usuarios publicos,Media Tw,49.85312389900176
+cluster_modo,Usuarios publicos,Media Tf1 ocio,36.39507339988256
+cluster_modo,Usuarios publicos,Media Tf2 comidas,9.502765707574868
+cluster_modo,Usuarios publicos,Media tiempo libre observado,45.89783910745743
+cluster_modo,Usuarios publicos,Media Tc residual,72.24903699354081
+cluster_modo,Usuarios publicos,Media w,3.4460979835584262
+cluster_modo,Usuarios publicos,Media Ec monetario bruto,60.915161479741634
+cluster_modo,Usuarios publicos,Media ingreso fijo descontado,22.709358928781477
+cluster_modo,Usuarios publicos,Media EcI neto de ingreso fijo,38.20580255096016
+cluster_modo,Usuarios publicos,Media Ec trabajo no remunerado,70.0602262673165
+cluster_modo,Usuarios publicos,Media Ec total corregido,108.26602881827665
+cluster_modo,Usuarios publicos,Media cierre temporal,168
+cluster_modo,Usuarios publicos,N cierre temporal distinto de 168,0
+cluster_modo,Usuarios publicos,Porcentaje cierre temporal distinto de 168,0
+cluster_modo,Usuarios publicos,N Tc <= 0,0
+cluster_modo,Usuarios publicos,Porcentaje Tc <= 0,0
+cluster_modo,Usuarios publicos,N ingreso libre observado <= 0,453
+cluster_modo,Usuarios publicos,Porcentaje ingreso libre observado <= 0,0.266001174398121
+cluster_modo,Usuarios publicos,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Usuarios publicos,Porcentaje ingreso potencial neto Ec <= 0,0

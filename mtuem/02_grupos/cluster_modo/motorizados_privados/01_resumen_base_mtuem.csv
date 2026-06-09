@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_modo,Motorizados privados,N personas compatibles con MNL V9 en grupo,2968
+cluster_modo,Motorizados privados,N personas usadas en MTUEM continuo,2666
+cluster_modo,Motorizados privados,N personas removidas por filtros MTUEM,302
+cluster_modo,Motorizados privados,Media Tw,55.84869092273068
+cluster_modo,Motorizados privados,Media Tf1 ocio,37.25485746436609
+cluster_modo,Motorizados privados,Media Tf2 comidas,9.800502625656414
+cluster_modo,Motorizados privados,Media tiempo libre observado,47.0553600900225
+cluster_modo,Motorizados privados,Media Tc residual,65.09594898724681
+cluster_modo,Motorizados privados,Media w,4.872224231807952
+cluster_modo,Motorizados privados,Media Ec monetario bruto,108.37001500375094
+cluster_modo,Motorizados privados,Media ingreso fijo descontado,23.949372228347297
+cluster_modo,Motorizados privados,Media EcI neto de ingreso fijo,84.42064277540364
+cluster_modo,Motorizados privados,Media Ec trabajo no remunerado,73.69553246473369
+cluster_modo,Motorizados privados,Media Ec total corregido,158.11617524013732
+cluster_modo,Motorizados privados,Media cierre temporal,168
+cluster_modo,Motorizados privados,N cierre temporal distinto de 168,0
+cluster_modo,Motorizados privados,Porcentaje cierre temporal distinto de 168,0
+cluster_modo,Motorizados privados,N Tc <= 0,0
+cluster_modo,Motorizados privados,Porcentaje Tc <= 0,0
+cluster_modo,Motorizados privados,N ingreso libre observado <= 0,519
+cluster_modo,Motorizados privados,Porcentaje ingreso libre observado <= 0,0.1946736684171043
+cluster_modo,Motorizados privados,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Motorizados privados,Porcentaje ingreso potencial neto Ec <= 0,0

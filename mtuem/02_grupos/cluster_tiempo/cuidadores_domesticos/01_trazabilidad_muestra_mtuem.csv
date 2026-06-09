@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+cluster_tiempo,Cuidadores domesticos,Personas compatibles con MNL V9 en grupo,2615,100
+cluster_tiempo,Cuidadores domesticos,Variables finitas para MTUEM,2615,100
+cluster_tiempo,Cuidadores domesticos,Tw > 0 y w > 0,2615,100
+cluster_tiempo,Cuidadores domesticos,Tc valido y tiempo libre observado > 0,2615,100
+cluster_tiempo,Cuidadores domesticos,Ec corregido > 0,2517,96.25239005736138
+cluster_tiempo,Cuidadores domesticos,Ingreso potencial neto de Ec > 0,2514,96.1376673040153
+cluster_tiempo,Cuidadores domesticos,Muestra final MTUEM,2514,96.1376673040153

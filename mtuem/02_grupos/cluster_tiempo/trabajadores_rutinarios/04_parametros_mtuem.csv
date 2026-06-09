@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_tiempo,Trabajadores rutinarios,PH,0.22658231867473838,NA,NA,
+cluster_tiempo,Trabajadores rutinarios,th1,0.7368476620784865,NA,NA,
+cluster_tiempo,Trabajadores rutinarios,tw,0.8320653621488454,NA,NA,

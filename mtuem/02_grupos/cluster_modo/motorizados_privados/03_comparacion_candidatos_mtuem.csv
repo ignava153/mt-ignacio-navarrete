@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_modo,Motorizados privados,BFGS,-13109.207198086462,TRUE,0
+cluster_modo,Motorizados privados,NM,NA,FALSE,NA
+cluster_modo,Motorizados privados,SANN_fallback,NA,FALSE,NA

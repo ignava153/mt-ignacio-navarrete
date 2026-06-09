@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_modo,Movilidad activa,N personas compatibles con MNL V9 en grupo,2304
+cluster_modo,Movilidad activa,N personas usadas en MTUEM continuo,1893
+cluster_modo,Movilidad activa,N personas removidas por filtros MTUEM,411
+cluster_modo,Movilidad activa,Media Tw,48.1813998943476
+cluster_modo,Movilidad activa,Media Tf1 ocio,39.63122028526149
+cluster_modo,Movilidad activa,Media Tf2 comidas,10.242937136819863
+cluster_modo,Movilidad activa,Media tiempo libre observado,49.87415742208135
+cluster_modo,Movilidad activa,Media Tc residual,69.94444268357105
+cluster_modo,Movilidad activa,Media w,3.364622093502377
+cluster_modo,Movilidad activa,Media Ec monetario bruto,48.278050713153725
+cluster_modo,Movilidad activa,Media ingreso fijo descontado,28.65822267454963
+cluster_modo,Movilidad activa,Media EcI neto de ingreso fijo,19.619828038604094
+cluster_modo,Movilidad activa,Media Ec trabajo no remunerado,95.0000393330375
+cluster_modo,Movilidad activa,Media Ec total corregido,114.6198673716416
+cluster_modo,Movilidad activa,Media cierre temporal,168
+cluster_modo,Movilidad activa,N cierre temporal distinto de 168,0
+cluster_modo,Movilidad activa,Porcentaje cierre temporal distinto de 168,0
+cluster_modo,Movilidad activa,N Tc <= 0,0
+cluster_modo,Movilidad activa,Porcentaje Tc <= 0,0
+cluster_modo,Movilidad activa,N ingreso libre observado <= 0,730
+cluster_modo,Movilidad activa,Porcentaje ingreso libre observado <= 0,0.3856312731114633
+cluster_modo,Movilidad activa,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad activa,Porcentaje ingreso potencial neto Ec <= 0,0

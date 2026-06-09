@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_tiempo,Rutina flexible,BFGS,-8400.932936598929,TRUE,0
+cluster_tiempo,Rutina flexible,NM,NA,FALSE,NA
+cluster_tiempo,Rutina flexible,SANN_fallback,NA,FALSE,NA

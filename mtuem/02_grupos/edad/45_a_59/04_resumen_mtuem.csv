@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+edad,45 a 59,N personas estimadas,2336
+edad,45 a 59,N parametros,3
+edad,45 a 59,Log likelihood,-11480.9222735765
+edad,45 a 59,Metodo elegido,BFGS
+edad,45 a 59,Return code,0
+edad,45 a 59,PH,0.150621705374593
+edad,45 a 59,tw,0.707550519033556
+edad,45 a 59,th1,0.775827251311791
+edad,45 a 59,Tw observado promedio,56.8476797945205
+edad,45 a 59,Tw predicho promedio,57.355088341215
+edad,45 a 59,Tf1 ocio observado promedio,34.3698330479452
+edad,45 a 59,Tf1 ocio predicho promedio,34.3309847804681
+edad,45 a 59,Tf2 comidas observado promedio,10.388386130137
+edad,45 a 59,Tf2 comidas predicho promedio,9.91982585091961
+edad,45 a 59,RMSE Tw,11.5252525162569
+edad,45 a 59,RMSE Tf1 ocio,11.1966909620266
+edad,45 a 59,RMSE Tf2 comidas,4.51480266661769
+edad,45 a 59,VoL predicho promedio,12.8021214202359
+edad,45 a 59,VoL predicho mediana,8.23803817465692
+edad,45 a 59,VoL observado promedio,15.9056361489057
+edad,45 a 59,VoL observado mediana,9.75167630700412
+edad,45 a 59,VTAW predicho promedio,8.50081872246192
+edad,45 a 59,VTAW observado promedio,11.6043334511317
+edad,45 a 59,Weighted wage rate promedio,4.30130269777397
+edad,45 a 59,N ingreso libre observado <= 0,547
+edad,45 a 59,Porcentaje ingreso libre observado <= 0,0.23416095890411
+edad,45 a 59,N ingreso libre predicho <= 0,1
+edad,45 a 59,Porcentaje ingreso libre predicho <= 0,0.000428082191780822
+edad,45 a 59,N ingreso potencial neto Ec <= 0,0
+edad,45 a 59,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,45 a 59,Media cierre temporal observado,168
+edad,45 a 59,Media cierre temporal predicho,168
+edad,45 a 59,Media diferencia cierre temporal predicho,6.0834138335625e-17

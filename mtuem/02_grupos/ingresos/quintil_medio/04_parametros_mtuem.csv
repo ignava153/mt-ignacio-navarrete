@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+ingresos,Quintil medio,PH,0.3994522386851838,NA,NA,
+ingresos,Quintil medio,th1,0.7951278531221336,NA,NA,
+ingresos,Quintil medio,tw,0.19629546008644147,NA,NA,

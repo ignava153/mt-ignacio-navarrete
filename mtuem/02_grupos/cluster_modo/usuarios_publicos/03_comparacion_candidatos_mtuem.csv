@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+cluster_modo,Usuarios publicos,BFGS,-8419.59001317847,TRUE,0
+cluster_modo,Usuarios publicos,NM,NA,FALSE,NA
+cluster_modo,Usuarios publicos,SANN_fallback,NA,FALSE,NA

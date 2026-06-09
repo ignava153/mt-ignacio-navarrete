@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+territorio,Norte,N personas estimadas,2120
+territorio,Norte,N parametros,3
+territorio,Norte,Log likelihood,-10735.0728947746
+territorio,Norte,Metodo elegido,BFGS
+territorio,Norte,Return code,0
+territorio,Norte,PH,0.296895053146602
+territorio,Norte,tw,0.316795813100334
+territorio,Norte,th1,0.798416200052494
+territorio,Norte,Tw observado promedio,54.4533396226415
+territorio,Norte,Tw predicho promedio,55.191729051016
+territorio,Norte,Tf1 ocio observado promedio,36.5551462264151
+territorio,Norte,Tf1 ocio predicho promedio,36.3285940678023
+territorio,Norte,Tf2 comidas observado promedio,9.68406603773585
+territorio,Norte,Tf2 comidas predicho promedio,9.17222876797408
+territorio,Norte,RMSE Tw,13.0468002402729
+territorio,Norte,RMSE Tf1 ocio,12.8889914845889
+territorio,Norte,RMSE Tf2 comidas,4.56079317277248
+territorio,Norte,VoL predicho promedio,5.97922879289591
+territorio,Norte,VoL predicho mediana,4.54817844139643
+territorio,Norte,VoL observado promedio,7.61751876986778
+territorio,Norte,VoL observado mediana,4.95589440823314
+territorio,Norte,VTAW predicho promedio,1.96686372261289
+territorio,Norte,VTAW observado promedio,3.60515369958476
+territorio,Norte,Weighted wage rate promedio,4.01236507028302
+territorio,Norte,N ingreso libre observado <= 0,500
+territorio,Norte,Porcentaje ingreso libre observado <= 0,0.235849056603774
+territorio,Norte,N ingreso libre predicho <= 0,0
+territorio,Norte,Porcentaje ingreso libre predicho <= 0,0
+territorio,Norte,N ingreso potencial neto Ec <= 0,0
+territorio,Norte,Porcentaje ingreso potencial neto Ec <= 0,0
+territorio,Norte,Media cierre temporal observado,168
+territorio,Norte,Media cierre temporal predicho,168
+territorio,Norte,Media diferencia cierre temporal predicho,4.02194001373642e-17

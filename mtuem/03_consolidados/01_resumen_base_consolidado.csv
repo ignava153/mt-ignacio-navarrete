@@ -1,0 +1,507 @@
+dimension,categoria,indicador,valor
+muestra_general,Muestra general,N personas compatibles con MNL V9 en grupo,8919
+muestra_general,Muestra general,N personas usadas en MTUEM continuo,7925
+muestra_general,Muestra general,N personas removidas por filtros MTUEM,994
+muestra_general,Muestra general,Media Tw,53.173497791798106
+muestra_general,Muestra general,Media Tf1 ocio,37.27156971608833
+muestra_general,Muestra general,Media Tf2 comidas,9.769592429022081
+muestra_general,Muestra general,Media tiempo libre observado,47.04116214511041
+muestra_general,Muestra general,Media Tc residual,67.78534006309148
+muestra_general,Muestra general,Media w,4.009591443280757
+muestra_general,Muestra general,Media Ec monetario bruto,78.55105993690852
+muestra_general,Muestra general,Media ingreso fijo descontado,24.20652235660598
+muestra_general,Muestra general,Media EcI neto de ingreso fijo,54.344537580302536
+muestra_general,Muestra general,Media Ec trabajo no remunerado,78.53845974402776
+muestra_general,Muestra general,Media Ec total corregido,132.8829973243303
+muestra_general,Muestra general,Media cierre temporal,168
+muestra_general,Muestra general,N cierre temporal distinto de 168,0
+muestra_general,Muestra general,Porcentaje cierre temporal distinto de 168,0
+muestra_general,Muestra general,N Tc <= 0,0
+muestra_general,Muestra general,Porcentaje Tc <= 0,0
+muestra_general,Muestra general,N ingreso libre observado <= 0,2007
+muestra_general,Muestra general,Porcentaje ingreso libre observado <= 0,0.2532492113564669
+muestra_general,Muestra general,N ingreso potencial neto Ec <= 0,0
+muestra_general,Muestra general,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,18 a 29,N personas compatibles con MNL V9 en grupo,1717
+edad,18 a 29,N personas usadas en MTUEM continuo,1697
+edad,18 a 29,N personas removidas por filtros MTUEM,20
+edad,18 a 29,Media Tw,39.60780789628757
+edad,18 a 29,Media Tf1 ocio,44.345904537418974
+edad,18 a 29,Media Tf2 comidas,8.387642899233942
+edad,18 a 29,Media tiempo libre observado,52.73354743665292
+edad,18 a 29,Media Tc residual,75.65864466705952
+edad,18 a 29,Media w,3.4523886411314084
+edad,18 a 29,Media Ec monetario bruto,47.013129051266944
+edad,18 a 29,Media ingreso fijo descontado,8.023897877197525
+edad,18 a 29,Media EcI neto de ingreso fijo,38.98923117406942
+edad,18 a 29,Media Ec trabajo no remunerado,55.431641793871535
+edad,18 a 29,Media Ec total corregido,94.42087296794095
+edad,18 a 29,Media cierre temporal,168
+edad,18 a 29,N cierre temporal distinto de 168,0
+edad,18 a 29,Porcentaje cierre temporal distinto de 168,0
+edad,18 a 29,N Tc <= 0,0
+edad,18 a 29,Porcentaje Tc <= 0,0
+edad,18 a 29,N ingreso libre observado <= 0,737
+edad,18 a 29,Porcentaje ingreso libre observado <= 0,0.43429581614614027
+edad,18 a 29,N ingreso potencial neto Ec <= 0,0
+edad,18 a 29,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,30 a 44,N personas compatibles con MNL V9 en grupo,2556
+edad,30 a 44,N personas usadas en MTUEM continuo,2517
+edad,30 a 44,N personas removidas por filtros MTUEM,39
+edad,30 a 44,Media Tw,61.43798967024235
+edad,30 a 44,Media Tf1 ocio,35.377651966626935
+edad,30 a 44,Media Tf2 comidas,9.158557806912992
+edad,30 a 44,Media tiempo libre observado,44.53620977353993
+edad,30 a 44,Media Tc residual,62.02580055621772
+edad,30 a 44,Media w,4.309653011918951
+edad,30 a 44,Media Ec monetario bruto,100.44702423520063
+edad,30 a 44,Media ingreso fijo descontado,15.428003894159954
+edad,30 a 44,Media EcI neto de ingreso fijo,85.01902034104069
+edad,30 a 44,Media Ec trabajo no remunerado,85.02228255468812
+edad,30 a 44,Media Ec total corregido,170.0413028957288
+edad,30 a 44,Media cierre temporal,168
+edad,30 a 44,N cierre temporal distinto de 168,0
+edad,30 a 44,Porcentaje cierre temporal distinto de 168,0
+edad,30 a 44,N Tc <= 0,0
+edad,30 a 44,Porcentaje Tc <= 0,0
+edad,30 a 44,N ingreso libre observado <= 0,499
+edad,30 a 44,Porcentaje ingreso libre observado <= 0,0.1982518871672626
+edad,30 a 44,N ingreso potencial neto Ec <= 0,0
+edad,30 a 44,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,45 a 59,N personas compatibles con MNL V9 en grupo,2416
+edad,45 a 59,N personas usadas en MTUEM continuo,2336
+edad,45 a 59,N personas removidas por filtros MTUEM,80
+edad,45 a 59,Media Tw,56.847679794520545
+edad,45 a 59,Media Tf1 ocio,34.36983304794521
+edad,45 a 59,Media Tf2 comidas,10.388386130136986
+edad,45 a 59,Media tiempo libre observado,44.75821917808219
+edad,45 a 59,Media Tc residual,66.39410102739726
+edad,45 a 59,Media w,4.301302697773973
+edad,45 a 59,Media Ec monetario bruto,85.6952140410959
+edad,45 a 59,Media ingreso fijo descontado,18.440481672071762
+edad,45 a 59,Media EcI neto de ingreso fijo,67.25473236902413
+edad,45 a 59,Media Ec trabajo no remunerado,79.11842898494434
+edad,45 a 59,Media Ec total corregido,146.37316135396847
+edad,45 a 59,Media cierre temporal,168
+edad,45 a 59,N cierre temporal distinto de 168,0
+edad,45 a 59,Porcentaje cierre temporal distinto de 168,0
+edad,45 a 59,N Tc <= 0,0
+edad,45 a 59,Porcentaje Tc <= 0,0
+edad,45 a 59,N ingreso libre observado <= 0,547
+edad,45 a 59,Porcentaje ingreso libre observado <= 0,0.2341609589041096
+edad,45 a 59,N ingreso potencial neto Ec <= 0,0
+edad,45 a 59,Porcentaje ingreso potencial neto Ec <= 0,0
+edad,60 o mas,N personas compatibles con MNL V9 en grupo,2230
+edad,60 o mas,N personas usadas en MTUEM continuo,1375
+edad,60 o mas,N personas removidas por filtros MTUEM,855
+edad,60 o mas,Media Tw,48.545396363636364
+edad,60 o mas,Media Tf1 ocio,36.93724363636364
+edad,60 o mas,Media Tf2 comidas,11.542421818181818
+edad,60 o mas,Media tiempo libre observado,48.479665454545454
+edad,60 o mas,Media Tc residual,70.97493818181817
+edad,60 o mas,Media w,3.652413768
+edad,60 o mas,Media Ec monetario bruto,65.25577454545454
+edad,60 o mas,Media ingreso fijo descontado,70.0442792661367
+edad,60 o mas,Media EcI neto de ingreso fijo,-4.788504720682148
+edad,60 o mas,Media Ec trabajo no remunerado,94.20222694417454
+edad,60 o mas,Media Ec total corregido,89.4137222234924
+edad,60 o mas,Media cierre temporal,168
+edad,60 o mas,N cierre temporal distinto de 168,0
+edad,60 o mas,Porcentaje cierre temporal distinto de 168,0
+edad,60 o mas,N Tc <= 0,0
+edad,60 o mas,Porcentaje Tc <= 0,0
+edad,60 o mas,N ingreso libre observado <= 0,224
+edad,60 o mas,Porcentaje ingreso libre observado <= 0,0.16290909090909092
+edad,60 o mas,N ingreso potencial neto Ec <= 0,0
+edad,60 o mas,Porcentaje ingreso potencial neto Ec <= 0,0
+sexo,Hombres,N personas compatibles con MNL V9 en grupo,3663
+sexo,Hombres,N personas usadas en MTUEM continuo,3107
+sexo,Hombres,N personas removidas por filtros MTUEM,556
+sexo,Hombres,Media Tw,51.55049887351142
+sexo,Hombres,Media Tf1 ocio,39.41764081107177
+sexo,Hombres,Media Tf2 comidas,9.720875442549083
+sexo,Hombres,Media tiempo libre observado,49.13851625362086
+sexo,Hombres,Media Tc residual,67.31098487286772
+sexo,Hombres,Media w,4.713189679433537
+sexo,Hombres,Media Ec monetario bruto,103.00292243321532
+sexo,Hombres,Media ingreso fijo descontado,21.363236392327263
+sexo,Hombres,Media EcI neto de ingreso fijo,81.63968604088805
+sexo,Hombres,Media Ec trabajo no remunerado,50.28780781778887
+sexo,Hombres,Media Ec total corregido,131.9274938586769
+sexo,Hombres,Media cierre temporal,168
+sexo,Hombres,N cierre temporal distinto de 168,0
+sexo,Hombres,Porcentaje cierre temporal distinto de 168,0
+sexo,Hombres,N Tc <= 0,0
+sexo,Hombres,Porcentaje Tc <= 0,0
+sexo,Hombres,N ingreso libre observado <= 0,533
+sexo,Hombres,Porcentaje ingreso libre observado <= 0,0.17154811715481172
+sexo,Hombres,N ingreso potencial neto Ec <= 0,0
+sexo,Hombres,Porcentaje ingreso potencial neto Ec <= 0,0
+sexo,Mujeres,N personas compatibles con MNL V9 en grupo,5256
+sexo,Mujeres,N personas usadas en MTUEM continuo,4818
+sexo,Mujeres,N personas removidas por filtros MTUEM,438
+sexo,Mujeres,Media Tw,54.22012660855127
+sexo,Mujeres,Media Tf1 ocio,35.88762557077626
+sexo,Mujeres,Media Tf2 comidas,9.801008717310086
+sexo,Mujeres,Media tiempo libre observado,45.68863428808634
+sexo,Mujeres,Media Tc residual,68.0912391033624
+sexo,Mujeres,Media w,3.5558596625155667
+sexo,Mujeres,Media Ec monetario bruto,62.78270444167705
+sexo,Mujeres,Media ingreso fijo descontado,26.04008181924898
+sexo,Mujeres,Media EcI neto de ingreso fijo,36.742622622428065
+sexo,Mujeres,Media Ec trabajo no remunerado,96.75655346233914
+sexo,Mujeres,Media Ec total corregido,133.4991760847672
+sexo,Mujeres,Media cierre temporal,168
+sexo,Mujeres,N cierre temporal distinto de 168,0
+sexo,Mujeres,Porcentaje cierre temporal distinto de 168,0
+sexo,Mujeres,N Tc <= 0,0
+sexo,Mujeres,Porcentaje Tc <= 0,0
+sexo,Mujeres,N ingreso libre observado <= 0,1474
+sexo,Mujeres,Porcentaje ingreso libre observado <= 0,0.3059360730593607
+sexo,Mujeres,N ingreso potencial neto Ec <= 0,0
+sexo,Mujeres,Porcentaje ingreso potencial neto Ec <= 0,0
+ingresos,Quintil bajo,N personas compatibles con MNL V9 en grupo,5670
+ingresos,Quintil bajo,N personas usadas en MTUEM continuo,5214
+ingresos,Quintil bajo,N personas removidas por filtros MTUEM,456
+ingresos,Quintil bajo,Media Tw,52.00202723436901
+ingresos,Quintil bajo,Media Tf1 ocio,37.12813770617568
+ingresos,Quintil bajo,Media Tf2 comidas,9.741378979670118
+ingresos,Quintil bajo,Media tiempo libre observado,46.8695166858458
+ingresos,Quintil bajo,Media Tc residual,69.1284560797852
+ingresos,Quintil bajo,Media w,3.1704907997698504
+ingresos,Quintil bajo,Media Ec monetario bruto,53.44169735327963
+ingresos,Quintil bajo,Media ingreso fijo descontado,16.860118062332646
+ingresos,Quintil bajo,Media EcI neto de ingreso fijo,36.58157929094698
+ingresos,Quintil bajo,Media Ec trabajo no remunerado,81.14842633361143
+ingresos,Quintil bajo,Media Ec total corregido,117.73000562455842
+ingresos,Quintil bajo,Media cierre temporal,168
+ingresos,Quintil bajo,N cierre temporal distinto de 168,0
+ingresos,Quintil bajo,Porcentaje cierre temporal distinto de 168,0
+ingresos,Quintil bajo,N Tc <= 0,0
+ingresos,Quintil bajo,Porcentaje Tc <= 0,0
+ingresos,Quintil bajo,N ingreso libre observado <= 0,1611
+ingresos,Quintil bajo,Porcentaje ingreso libre observado <= 0,0.30897583429229
+ingresos,Quintil bajo,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil bajo,Porcentaje ingreso potencial neto Ec <= 0,0
+ingresos,Quintil medio,N personas compatibles con MNL V9 en grupo,1761
+ingresos,Quintil medio,N personas usadas en MTUEM continuo,1507
+ingresos,Quintil medio,N personas removidas por filtros MTUEM,254
+ingresos,Quintil medio,Media Tw,55.852063702720635
+ingresos,Quintil medio,Media Tf1 ocio,36.82273390842734
+ingresos,Quintil medio,Media Tf2 comidas,9.91076310550763
+ingresos,Quintil medio,Media tiempo libre observado,46.73349701393497
+ingresos,Quintil medio,Media Tc residual,65.4144392833444
+ingresos,Quintil medio,Media w,4.2297786834771065
+ingresos,Quintil medio,Media Ec monetario bruto,93.34854678168547
+ingresos,Quintil medio,Media ingreso fijo descontado,33.85303843748213
+ingresos,Quintil medio,Media EcI neto de ingreso fijo,59.495508344203344
+ingresos,Quintil medio,Media Ec trabajo no remunerado,76.47133822078965
+ingresos,Quintil medio,Media Ec total corregido,135.96684656499298
+ingresos,Quintil medio,Media cierre temporal,168
+ingresos,Quintil medio,N cierre temporal distinto de 168,0
+ingresos,Quintil medio,Porcentaje cierre temporal distinto de 168,0
+ingresos,Quintil medio,N Tc <= 0,0
+ingresos,Quintil medio,Porcentaje Tc <= 0,0
+ingresos,Quintil medio,N ingreso libre observado <= 0,224
+ingresos,Quintil medio,Porcentaje ingreso libre observado <= 0,0.1486396814863968
+ingresos,Quintil medio,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil medio,Porcentaje ingreso potencial neto Ec <= 0,0
+ingresos,Quintil alto,N personas compatibles con MNL V9 en grupo,1488
+ingresos,Quintil alto,N personas usadas en MTUEM continuo,1204
+ingresos,Quintil alto,N personas removidas por filtros MTUEM,284
+ingresos,Quintil alto,Media Tw,54.893970099667776
+ingresos,Quintil alto,Media Tf1 ocio,38.45450166112957
+ingresos,Quintil alto,Media Tf2 comidas,9.715074750830565
+ingresos,Quintil alto,Media tiempo libre observado,48.169576411960136
+ingresos,Quintil alto,Media Tc residual,64.9364534883721
+ingresos,Quintil alto,Media w,7.367771330564784
+ingresos,Quintil alto,Media Ec monetario bruto,168.76734219269102
+ingresos,Quintil alto,Media ingreso fijo descontado,43.94643286861662
+ingresos,Quintil alto,Media EcI neto de ingreso fijo,124.8209093240744
+ingresos,Quintil alto,Media Ec trabajo no remunerado,69.82316600435216
+ingresos,Quintil alto,Media Ec total corregido,194.64407532842657
+ingresos,Quintil alto,Media cierre temporal,168
+ingresos,Quintil alto,N cierre temporal distinto de 168,0
+ingresos,Quintil alto,Porcentaje cierre temporal distinto de 168,0
+ingresos,Quintil alto,N Tc <= 0,0
+ingresos,Quintil alto,Porcentaje Tc <= 0,0
+ingresos,Quintil alto,N ingreso libre observado <= 0,172
+ingresos,Quintil alto,Porcentaje ingreso libre observado <= 0,0.14285714285714285
+ingresos,Quintil alto,N ingreso potencial neto Ec <= 0,0
+ingresos,Quintil alto,Porcentaje ingreso potencial neto Ec <= 0,0
+territorio,Norte,N personas compatibles con MNL V9 en grupo,2360
+territorio,Norte,N personas usadas en MTUEM continuo,2120
+territorio,Norte,N personas removidas por filtros MTUEM,240
+territorio,Norte,Media Tw,54.45333962264151
+territorio,Norte,Media Tf1 ocio,36.5551462264151
+territorio,Norte,Media Tf2 comidas,9.68406603773585
+territorio,Norte,Media tiempo libre observado,46.23921226415094
+territorio,Norte,Media Tc residual,67.30744811320754
+territorio,Norte,Media w,4.0123650702830185
+territorio,Norte,Media Ec monetario bruto,72.95986320754717
+territorio,Norte,Media ingreso fijo descontado,20.160892433408282
+territorio,Norte,Media EcI neto de ingreso fijo,52.79897077413889
+territorio,Norte,Media Ec trabajo no remunerado,76.0568686175566
+territorio,Norte,Media Ec total corregido,128.8558393916955
+territorio,Norte,Media cierre temporal,168
+territorio,Norte,N cierre temporal distinto de 168,0
+territorio,Norte,Porcentaje cierre temporal distinto de 168,0
+territorio,Norte,N Tc <= 0,0
+territorio,Norte,Porcentaje Tc <= 0,0
+territorio,Norte,N ingreso libre observado <= 0,500
+territorio,Norte,Porcentaje ingreso libre observado <= 0,0.2358490566037736
+territorio,Norte,N ingreso potencial neto Ec <= 0,0
+territorio,Norte,Porcentaje ingreso potencial neto Ec <= 0,0
+territorio,Centro,N personas compatibles con MNL V9 en grupo,4523
+territorio,Centro,N personas usadas en MTUEM continuo,4004
+territorio,Centro,N personas removidas por filtros MTUEM,519
+territorio,Centro,Media Tw,53.116213786213784
+territorio,Centro,Media Tf1 ocio,37.12598901098901
+territorio,Centro,Media Tf2 comidas,9.760369630369631
+territorio,Centro,Media tiempo libre observado,46.88635864135864
+territorio,Centro,Media Tc residual,67.99742757242757
+territorio,Centro,Media w,3.945147898101898
+territorio,Centro,Media Ec monetario bruto,76.53407342657343
+territorio,Centro,Media ingreso fijo descontado,25.391597681059157
+territorio,Centro,Media EcI neto de ingreso fijo,51.14247574551427
+territorio,Centro,Media Ec trabajo no remunerado,81.92231762806944
+territorio,Centro,Media Ec total corregido,133.0647933735837
+territorio,Centro,Media cierre temporal,168
+territorio,Centro,N cierre temporal distinto de 168,0
+territorio,Centro,Porcentaje cierre temporal distinto de 168,0
+territorio,Centro,N Tc <= 0,0
+territorio,Centro,Porcentaje Tc <= 0,0
+territorio,Centro,N ingreso libre observado <= 0,1065
+territorio,Centro,Porcentaje ingreso libre observado <= 0,0.265984015984016
+territorio,Centro,N ingreso potencial neto Ec <= 0,0
+territorio,Centro,Porcentaje ingreso potencial neto Ec <= 0,0
+territorio,Sur,N personas compatibles con MNL V9 en grupo,2036
+territorio,Sur,N personas usadas en MTUEM continuo,1801
+territorio,Sur,N personas removidas por filtros MTUEM,235
+territorio,Sur,Media Tw,51.79431982232093
+territorio,Sur,Media Tf1 ocio,38.438545252637425
+territorio,Sur,Media Tf2 comidas,9.890771793448085
+territorio,Sur,Media tiempo libre observado,48.32931704608551
+territorio,Sur,Media Tc residual,67.87636313159356
+territorio,Sur,Media w,4.1495980316490835
+territorio,Sur,Media Ec monetario bruto,89.61677401443643
+territorio,Sur,Media ingreso fijo descontado,26.334059190625194
+territorio,Sur,Media EcI neto de ingreso fijo,63.28271482381123
+territorio,Sur,Media Ec trabajo no remunerado,73.93657535780677
+territorio,Sur,Media Ec total corregido,137.219290181618
+territorio,Sur,Media cierre temporal,168
+territorio,Sur,N cierre temporal distinto de 168,0
+territorio,Sur,Porcentaje cierre temporal distinto de 168,0
+territorio,Sur,N Tc <= 0,0
+territorio,Sur,Porcentaje Tc <= 0,0
+territorio,Sur,N ingreso libre observado <= 0,442
+territorio,Sur,Porcentaje ingreso libre observado <= 0,0.24541921154913937
+territorio,Sur,N ingreso potencial neto Ec <= 0,0
+territorio,Sur,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Cuidadores domesticos,N personas compatibles con MNL V9 en grupo,2615
+cluster_tiempo,Cuidadores domesticos,N personas usadas en MTUEM continuo,2514
+cluster_tiempo,Cuidadores domesticos,N personas removidas por filtros MTUEM,101
+cluster_tiempo,Cuidadores domesticos,Media Tw,65.22513524264122
+cluster_tiempo,Cuidadores domesticos,Media Tf1 ocio,29.560493237867938
+cluster_tiempo,Cuidadores domesticos,Media Tf2 comidas,9.617259347653142
+cluster_tiempo,Cuidadores domesticos,Media tiempo libre observado,39.177752585521084
+cluster_tiempo,Cuidadores domesticos,Media Tc residual,63.59711217183771
+cluster_tiempo,Cuidadores domesticos,Media w,3.5138504570405726
+cluster_tiempo,Cuidadores domesticos,Media Ec monetario bruto,64.34579952267303
+cluster_tiempo,Cuidadores domesticos,Media ingreso fijo descontado,28.44511580655397
+cluster_tiempo,Cuidadores domesticos,Media EcI neto de ingreso fijo,35.900683716119055
+cluster_tiempo,Cuidadores domesticos,Media Ec trabajo no remunerado,133.58946005214798
+cluster_tiempo,Cuidadores domesticos,Media Ec total corregido,169.49014376826702
+cluster_tiempo,Cuidadores domesticos,Media cierre temporal,168
+cluster_tiempo,Cuidadores domesticos,N cierre temporal distinto de 168,0
+cluster_tiempo,Cuidadores domesticos,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Cuidadores domesticos,N Tc <= 0,0
+cluster_tiempo,Cuidadores domesticos,Porcentaje Tc <= 0,0
+cluster_tiempo,Cuidadores domesticos,N ingreso libre observado <= 0,780
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso libre observado <= 0,0.31026252983293556
+cluster_tiempo,Cuidadores domesticos,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Cuidadores domesticos,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Rutina flexible,N personas compatibles con MNL V9 en grupo,2419
+cluster_tiempo,Rutina flexible,N personas usadas en MTUEM continuo,1770
+cluster_tiempo,Rutina flexible,N personas removidas por filtros MTUEM,649
+cluster_tiempo,Rutina flexible,Media Tw,26.303214689265538
+cluster_tiempo,Rutina flexible,Media Tf1 ocio,51.23845762711864
+cluster_tiempo,Rutina flexible,Media Tf2 comidas,10.389446327683617
+cluster_tiempo,Rutina flexible,Media tiempo libre observado,61.62790395480226
+cluster_tiempo,Rutina flexible,Media Tc residual,80.0688813559322
+cluster_tiempo,Rutina flexible,Media w,3.3897068169491527
+cluster_tiempo,Rutina flexible,Media Ec monetario bruto,21.758254237288135
+cluster_tiempo,Rutina flexible,Media ingreso fijo descontado,24.072058656949018
+cluster_tiempo,Rutina flexible,Media EcI neto de ingreso fijo,-2.313804419660884
+cluster_tiempo,Rutina flexible,Media Ec trabajo no remunerado,69.74181769083616
+cluster_tiempo,Rutina flexible,Media Ec total corregido,67.42801327117527
+cluster_tiempo,Rutina flexible,Media cierre temporal,168
+cluster_tiempo,Rutina flexible,N cierre temporal distinto de 168,0
+cluster_tiempo,Rutina flexible,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Rutina flexible,N Tc <= 0,0
+cluster_tiempo,Rutina flexible,Porcentaje Tc <= 0,0
+cluster_tiempo,Rutina flexible,N ingreso libre observado <= 0,1061
+cluster_tiempo,Rutina flexible,Porcentaje ingreso libre observado <= 0,0.5994350282485875
+cluster_tiempo,Rutina flexible,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Rutina flexible,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Jovenes trabajadores,N personas compatibles con MNL V9 en grupo,946
+cluster_tiempo,Jovenes trabajadores,N personas usadas en MTUEM continuo,899
+cluster_tiempo,Jovenes trabajadores,N personas removidas por filtros MTUEM,47
+cluster_tiempo,Jovenes trabajadores,Media Tw,50.16776418242492
+cluster_tiempo,Jovenes trabajadores,Media Tf1 ocio,50.38122358175751
+cluster_tiempo,Jovenes trabajadores,Media Tf2 comidas,7.956562847608454
+cluster_tiempo,Jovenes trabajadores,Media tiempo libre observado,58.33778642936596
+cluster_tiempo,Jovenes trabajadores,Media Tc residual,59.49444938820912
+cluster_tiempo,Jovenes trabajadores,Media w,5.07263070189099
+cluster_tiempo,Jovenes trabajadores,Media Ec monetario bruto,113.47604004449389
+cluster_tiempo,Jovenes trabajadores,Media ingreso fijo descontado,22.1437132571257
+cluster_tiempo,Jovenes trabajadores,Media EcI neto de ingreso fijo,91.33232678736819
+cluster_tiempo,Jovenes trabajadores,Media Ec trabajo no remunerado,36.57558199291435
+cluster_tiempo,Jovenes trabajadores,Media Ec total corregido,127.90790878028253
+cluster_tiempo,Jovenes trabajadores,Media cierre temporal,168
+cluster_tiempo,Jovenes trabajadores,N cierre temporal distinto de 168,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Jovenes trabajadores,N Tc <= 0,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje Tc <= 0,0
+cluster_tiempo,Jovenes trabajadores,N ingreso libre observado <= 0,76
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso libre observado <= 0,0.08453837597330367
+cluster_tiempo,Jovenes trabajadores,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores rutinarios,N personas compatibles con MNL V9 en grupo,2047
+cluster_tiempo,Trabajadores rutinarios,N personas usadas en MTUEM continuo,1880
+cluster_tiempo,Trabajadores rutinarios,N personas removidas por filtros MTUEM,167
+cluster_tiempo,Trabajadores rutinarios,Media Tw,58.44343617021276
+cluster_tiempo,Trabajadores rutinarios,Media Tf1 ocio,29.51405319148936
+cluster_tiempo,Trabajadores rutinarios,Media Tf2 comidas,10.723414893617022
+cluster_tiempo,Trabajadores rutinarios,Media tiempo libre observado,40.237468085106386
+cluster_tiempo,Trabajadores rutinarios,Media Tc residual,69.31909574468085
+cluster_tiempo,Trabajadores rutinarios,Media w,4.487860203191489
+cluster_tiempo,Trabajadores rutinarios,Media Ec monetario bruto,111.98687234042553
+cluster_tiempo,Trabajadores rutinarios,Media ingreso fijo descontado,21.35864495240728
+cluster_tiempo,Trabajadores rutinarios,Media EcI neto de ingreso fijo,90.62822738801825
+cluster_tiempo,Trabajadores rutinarios,Media Ec trabajo no remunerado,44.892815207659574
+cluster_tiempo,Trabajadores rutinarios,Media Ec total corregido,135.52104259567784
+cluster_tiempo,Trabajadores rutinarios,Media cierre temporal,168
+cluster_tiempo,Trabajadores rutinarios,N cierre temporal distinto de 168,0
+cluster_tiempo,Trabajadores rutinarios,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Trabajadores rutinarios,N Tc <= 0,0
+cluster_tiempo,Trabajadores rutinarios,Porcentaje Tc <= 0,0
+cluster_tiempo,Trabajadores rutinarios,N ingreso libre observado <= 0,60
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso libre observado <= 0,0.031914893617021274
+cluster_tiempo,Trabajadores rutinarios,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores rutinarios,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores moviles,N personas compatibles con MNL V9 en grupo,892
+cluster_tiempo,Trabajadores moviles,N personas usadas en MTUEM continuo,862
+cluster_tiempo,Trabajadores moviles,N personas removidas por filtros MTUEM,30
+cluster_tiempo,Trabajadores moviles,Media Tw,64.84084686774942
+cluster_tiempo,Trabajadores moviles,Media Tf1 ocio,34.32819025522042
+cluster_tiempo,Trabajadores moviles,Media Tf2 comidas,8.751670533642692
+cluster_tiempo,Trabajadores moviles,Media tiempo libre observado,43.07986078886311
+cluster_tiempo,Trabajadores moviles,Media Tc residual,60.07929234338747
+cluster_tiempo,Trabajadores moviles,Media w,4.576495232018561
+cluster_tiempo,Trabajadores moviles,Media Ec monetario bruto,127.2499071925754
+cluster_tiempo,Trabajadores moviles,Media ingreso fijo descontado,20.483380495294956
+cluster_tiempo,Trabajadores moviles,Media EcI neto de ingreso fijo,106.76652669728045
+cluster_tiempo,Trabajadores moviles,Media Ec trabajo no remunerado,53.19075729177494
+cluster_tiempo,Trabajadores moviles,Media Ec total corregido,159.95728398905538
+cluster_tiempo,Trabajadores moviles,Media cierre temporal,168
+cluster_tiempo,Trabajadores moviles,N cierre temporal distinto de 168,0
+cluster_tiempo,Trabajadores moviles,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Trabajadores moviles,N Tc <= 0,0
+cluster_tiempo,Trabajadores moviles,Porcentaje Tc <= 0,0
+cluster_tiempo,Trabajadores moviles,N ingreso libre observado <= 0,30
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso libre observado <= 0,0.03480278422273782
+cluster_tiempo,Trabajadores moviles,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Trabajadores moviles,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Usuarios publicos,N personas compatibles con MNL V9 en grupo,1852
+cluster_modo,Usuarios publicos,N personas usadas en MTUEM continuo,1703
+cluster_modo,Usuarios publicos,N personas removidas por filtros MTUEM,149
+cluster_modo,Usuarios publicos,Media Tw,49.85312389900176
+cluster_modo,Usuarios publicos,Media Tf1 ocio,36.39507339988256
+cluster_modo,Usuarios publicos,Media Tf2 comidas,9.502765707574868
+cluster_modo,Usuarios publicos,Media tiempo libre observado,45.89783910745743
+cluster_modo,Usuarios publicos,Media Tc residual,72.24903699354081
+cluster_modo,Usuarios publicos,Media w,3.4460979835584262
+cluster_modo,Usuarios publicos,Media Ec monetario bruto,60.915161479741634
+cluster_modo,Usuarios publicos,Media ingreso fijo descontado,22.709358928781477
+cluster_modo,Usuarios publicos,Media EcI neto de ingreso fijo,38.20580255096016
+cluster_modo,Usuarios publicos,Media Ec trabajo no remunerado,70.0602262673165
+cluster_modo,Usuarios publicos,Media Ec total corregido,108.26602881827665
+cluster_modo,Usuarios publicos,Media cierre temporal,168
+cluster_modo,Usuarios publicos,N cierre temporal distinto de 168,0
+cluster_modo,Usuarios publicos,Porcentaje cierre temporal distinto de 168,0
+cluster_modo,Usuarios publicos,N Tc <= 0,0
+cluster_modo,Usuarios publicos,Porcentaje Tc <= 0,0
+cluster_modo,Usuarios publicos,N ingreso libre observado <= 0,453
+cluster_modo,Usuarios publicos,Porcentaje ingreso libre observado <= 0,0.266001174398121
+cluster_modo,Usuarios publicos,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Usuarios publicos,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad activa,N personas compatibles con MNL V9 en grupo,2304
+cluster_modo,Movilidad activa,N personas usadas en MTUEM continuo,1893
+cluster_modo,Movilidad activa,N personas removidas por filtros MTUEM,411
+cluster_modo,Movilidad activa,Media Tw,48.1813998943476
+cluster_modo,Movilidad activa,Media Tf1 ocio,39.63122028526149
+cluster_modo,Movilidad activa,Media Tf2 comidas,10.242937136819863
+cluster_modo,Movilidad activa,Media tiempo libre observado,49.87415742208135
+cluster_modo,Movilidad activa,Media Tc residual,69.94444268357105
+cluster_modo,Movilidad activa,Media w,3.364622093502377
+cluster_modo,Movilidad activa,Media Ec monetario bruto,48.278050713153725
+cluster_modo,Movilidad activa,Media ingreso fijo descontado,28.65822267454963
+cluster_modo,Movilidad activa,Media EcI neto de ingreso fijo,19.619828038604094
+cluster_modo,Movilidad activa,Media Ec trabajo no remunerado,95.0000393330375
+cluster_modo,Movilidad activa,Media Ec total corregido,114.6198673716416
+cluster_modo,Movilidad activa,Media cierre temporal,168
+cluster_modo,Movilidad activa,N cierre temporal distinto de 168,0
+cluster_modo,Movilidad activa,Porcentaje cierre temporal distinto de 168,0
+cluster_modo,Movilidad activa,N Tc <= 0,0
+cluster_modo,Movilidad activa,Porcentaje Tc <= 0,0
+cluster_modo,Movilidad activa,N ingreso libre observado <= 0,730
+cluster_modo,Movilidad activa,Porcentaje ingreso libre observado <= 0,0.3856312731114633
+cluster_modo,Movilidad activa,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad activa,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad mixta,N personas compatibles con MNL V9 en grupo,1795
+cluster_modo,Movilidad mixta,N personas usadas en MTUEM continuo,1663
+cluster_modo,Movilidad mixta,N personas removidas por filtros MTUEM,132
+cluster_modo,Movilidad mixta,Media Tw,57.96758869512929
+cluster_modo,Movilidad mixta,Media Tf1 ocio,35.50993986770896
+cluster_modo,Movilidad mixta,Media Tf2 comidas,9.454473842453398
+cluster_modo,Movilidad mixta,Media tiempo libre observado,44.964413710162354
+cluster_modo,Movilidad mixta,Media Tc residual,65.06799759470836
+cluster_modo,Movilidad mixta,Media w,3.9379001184606133
+cluster_modo,Movilidad mixta,Media Ec monetario bruto,83.2674804570054
+cluster_modo,Movilidad mixta,Media ingreso fijo descontado,21.08455173583355
+cluster_modo,Movilidad mixta,Media EcI neto de ingreso fijo,62.18292872117186
+cluster_modo,Movilidad mixta,Media Ec trabajo no remunerado,76.24616002992182
+cluster_modo,Movilidad mixta,Media Ec total corregido,138.4290887510937
+cluster_modo,Movilidad mixta,Media cierre temporal,168
+cluster_modo,Movilidad mixta,N cierre temporal distinto de 168,0
+cluster_modo,Movilidad mixta,Porcentaje cierre temporal distinto de 168,0
+cluster_modo,Movilidad mixta,N Tc <= 0,0
+cluster_modo,Movilidad mixta,Porcentaje Tc <= 0,0
+cluster_modo,Movilidad mixta,N ingreso libre observado <= 0,305
+cluster_modo,Movilidad mixta,Porcentaje ingreso libre observado <= 0,0.18340348767288034
+cluster_modo,Movilidad mixta,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Movilidad mixta,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_modo,Motorizados privados,N personas compatibles con MNL V9 en grupo,2968
+cluster_modo,Motorizados privados,N personas usadas en MTUEM continuo,2666
+cluster_modo,Motorizados privados,N personas removidas por filtros MTUEM,302
+cluster_modo,Motorizados privados,Media Tw,55.84869092273068
+cluster_modo,Motorizados privados,Media Tf1 ocio,37.25485746436609
+cluster_modo,Motorizados privados,Media Tf2 comidas,9.800502625656414
+cluster_modo,Motorizados privados,Media tiempo libre observado,47.0553600900225
+cluster_modo,Motorizados privados,Media Tc residual,65.09594898724681
+cluster_modo,Motorizados privados,Media w,4.872224231807952
+cluster_modo,Motorizados privados,Media Ec monetario bruto,108.37001500375094
+cluster_modo,Motorizados privados,Media ingreso fijo descontado,23.949372228347297
+cluster_modo,Motorizados privados,Media EcI neto de ingreso fijo,84.42064277540364
+cluster_modo,Motorizados privados,Media Ec trabajo no remunerado,73.69553246473369
+cluster_modo,Motorizados privados,Media Ec total corregido,158.11617524013732
+cluster_modo,Motorizados privados,Media cierre temporal,168
+cluster_modo,Motorizados privados,N cierre temporal distinto de 168,0
+cluster_modo,Motorizados privados,Porcentaje cierre temporal distinto de 168,0
+cluster_modo,Motorizados privados,N Tc <= 0,0
+cluster_modo,Motorizados privados,Porcentaje Tc <= 0,0
+cluster_modo,Motorizados privados,N ingreso libre observado <= 0,519
+cluster_modo,Motorizados privados,Porcentaje ingreso libre observado <= 0,0.1946736684171043
+cluster_modo,Motorizados privados,N ingreso potencial neto Ec <= 0,0
+cluster_modo,Motorizados privados,Porcentaje ingreso potencial neto Ec <= 0,0

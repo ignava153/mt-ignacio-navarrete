@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+sexo,Hombres,BFGS,-15550.556620873052,TRUE,0
+sexo,Hombres,NM,NA,FALSE,NA
+sexo,Hombres,SANN_fallback,NA,FALSE,NA

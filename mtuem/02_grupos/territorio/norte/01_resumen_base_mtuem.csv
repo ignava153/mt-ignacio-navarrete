@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+territorio,Norte,N personas compatibles con MNL V9 en grupo,2360
+territorio,Norte,N personas usadas en MTUEM continuo,2120
+territorio,Norte,N personas removidas por filtros MTUEM,240
+territorio,Norte,Media Tw,54.45333962264151
+territorio,Norte,Media Tf1 ocio,36.5551462264151
+territorio,Norte,Media Tf2 comidas,9.68406603773585
+territorio,Norte,Media tiempo libre observado,46.23921226415094
+territorio,Norte,Media Tc residual,67.30744811320754
+territorio,Norte,Media w,4.0123650702830185
+territorio,Norte,Media Ec monetario bruto,72.95986320754717
+territorio,Norte,Media ingreso fijo descontado,20.160892433408282
+territorio,Norte,Media EcI neto de ingreso fijo,52.79897077413889
+territorio,Norte,Media Ec trabajo no remunerado,76.0568686175566
+territorio,Norte,Media Ec total corregido,128.8558393916955
+territorio,Norte,Media cierre temporal,168
+territorio,Norte,N cierre temporal distinto de 168,0
+territorio,Norte,Porcentaje cierre temporal distinto de 168,0
+territorio,Norte,N Tc <= 0,0
+territorio,Norte,Porcentaje Tc <= 0,0
+territorio,Norte,N ingreso libre observado <= 0,500
+territorio,Norte,Porcentaje ingreso libre observado <= 0,0.2358490566037736
+territorio,Norte,N ingreso potencial neto Ec <= 0,0
+territorio,Norte,Porcentaje ingreso potencial neto Ec <= 0,0

@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Rutina flexible,N personas estimadas,1770
+cluster_tiempo,Rutina flexible,N parametros,3
+cluster_tiempo,Rutina flexible,Log likelihood,-8400.93293659893
+cluster_tiempo,Rutina flexible,Metodo elegido,BFGS
+cluster_tiempo,Rutina flexible,Return code,0
+cluster_tiempo,Rutina flexible,PH,0.0327559543364787
+cluster_tiempo,Rutina flexible,tw,0.232708774512567
+cluster_tiempo,Rutina flexible,th1,0.835566612985628
+cluster_tiempo,Rutina flexible,Tw observado promedio,26.3032146892655
+cluster_tiempo,Rutina flexible,Tw predicho promedio,26.7711860306721
+cluster_tiempo,Rutina flexible,Tf1 ocio observado promedio,51.2384576271186
+cluster_tiempo,Rutina flexible,Tf1 ocio predicho promedio,51.1031977442043
+cluster_tiempo,Rutina flexible,Tf2 comidas observado promedio,10.3894463276836
+cluster_tiempo,Rutina flexible,Tf2 comidas predicho promedio,10.0567348691914
+cluster_tiempo,Rutina flexible,RMSE Tw,8.66302691745
+cluster_tiempo,Rutina flexible,RMSE Tf1 ocio,10.0615826790674
+cluster_tiempo,Rutina flexible,RMSE Tf2 comidas,4.89183407433699
+cluster_tiempo,Rutina flexible,VoL predicho promedio,10.5668522048851
+cluster_tiempo,Rutina flexible,VoL predicho mediana,7.47327983582208
+cluster_tiempo,Rutina flexible,VoL observado promedio,12.7811199778351
+cluster_tiempo,Rutina flexible,VoL observado mediana,0
+cluster_tiempo,Rutina flexible,VTAW predicho promedio,7.17714538793593
+cluster_tiempo,Rutina flexible,VTAW observado promedio,9.39141316088591
+cluster_tiempo,Rutina flexible,Weighted wage rate promedio,3.38970681694915
+cluster_tiempo,Rutina flexible,N ingreso libre observado <= 0,1061
+cluster_tiempo,Rutina flexible,Porcentaje ingreso libre observado <= 0,0.599435028248588
+cluster_tiempo,Rutina flexible,N ingreso libre predicho <= 0,3
+cluster_tiempo,Rutina flexible,Porcentaje ingreso libre predicho <= 0,0.00169491525423729
+cluster_tiempo,Rutina flexible,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Rutina flexible,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Rutina flexible,Media cierre temporal observado,168
+cluster_tiempo,Rutina flexible,Media cierre temporal predicho,168
+cluster_tiempo,Rutina flexible,Media diferencia cierre temporal predicho,1.60574629550305e-17

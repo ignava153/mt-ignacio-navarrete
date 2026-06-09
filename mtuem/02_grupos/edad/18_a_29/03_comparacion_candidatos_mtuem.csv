@@ -1,0 +1,4 @@
+dimension,categoria,metodo,logLik,valido,code
+edad,18 a 29,BFGS,-8122.58987093,TRUE,0
+edad,18 a 29,NM,NA,FALSE,NA
+edad,18 a 29,SANN_fallback,NA,FALSE,NA

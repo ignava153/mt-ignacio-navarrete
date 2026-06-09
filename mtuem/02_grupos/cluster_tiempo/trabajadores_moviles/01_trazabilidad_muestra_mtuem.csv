@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+cluster_tiempo,Trabajadores moviles,Personas compatibles con MNL V9 en grupo,892,100
+cluster_tiempo,Trabajadores moviles,Variables finitas para MTUEM,892,100
+cluster_tiempo,Trabajadores moviles,Tw > 0 y w > 0,892,100
+cluster_tiempo,Trabajadores moviles,Tc valido y tiempo libre observado > 0,892,100
+cluster_tiempo,Trabajadores moviles,Ec corregido > 0,862,96.63677130044843
+cluster_tiempo,Trabajadores moviles,Ingreso potencial neto de Ec > 0,862,96.63677130044843
+cluster_tiempo,Trabajadores moviles,Muestra final MTUEM,862,96.63677130044843

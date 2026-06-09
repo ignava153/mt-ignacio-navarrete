@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+cluster_tiempo,Rutina flexible,PH,0.03275595433647874,NA,NA,
+cluster_tiempo,Rutina flexible,th1,0.8355666129856282,NA,NA,
+cluster_tiempo,Rutina flexible,tw,0.23270877451256744,NA,NA,

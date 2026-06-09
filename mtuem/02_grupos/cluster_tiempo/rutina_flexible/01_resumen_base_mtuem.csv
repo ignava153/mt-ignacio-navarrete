@@ -1,0 +1,24 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Rutina flexible,N personas compatibles con MNL V9 en grupo,2419
+cluster_tiempo,Rutina flexible,N personas usadas en MTUEM continuo,1770
+cluster_tiempo,Rutina flexible,N personas removidas por filtros MTUEM,649
+cluster_tiempo,Rutina flexible,Media Tw,26.303214689265538
+cluster_tiempo,Rutina flexible,Media Tf1 ocio,51.23845762711864
+cluster_tiempo,Rutina flexible,Media Tf2 comidas,10.389446327683617
+cluster_tiempo,Rutina flexible,Media tiempo libre observado,61.62790395480226
+cluster_tiempo,Rutina flexible,Media Tc residual,80.0688813559322
+cluster_tiempo,Rutina flexible,Media w,3.3897068169491527
+cluster_tiempo,Rutina flexible,Media Ec monetario bruto,21.758254237288135
+cluster_tiempo,Rutina flexible,Media ingreso fijo descontado,24.072058656949018
+cluster_tiempo,Rutina flexible,Media EcI neto de ingreso fijo,-2.313804419660884
+cluster_tiempo,Rutina flexible,Media Ec trabajo no remunerado,69.74181769083616
+cluster_tiempo,Rutina flexible,Media Ec total corregido,67.42801327117527
+cluster_tiempo,Rutina flexible,Media cierre temporal,168
+cluster_tiempo,Rutina flexible,N cierre temporal distinto de 168,0
+cluster_tiempo,Rutina flexible,Porcentaje cierre temporal distinto de 168,0
+cluster_tiempo,Rutina flexible,N Tc <= 0,0
+cluster_tiempo,Rutina flexible,Porcentaje Tc <= 0,0
+cluster_tiempo,Rutina flexible,N ingreso libre observado <= 0,1061
+cluster_tiempo,Rutina flexible,Porcentaje ingreso libre observado <= 0,0.5994350282485875
+cluster_tiempo,Rutina flexible,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Rutina flexible,Porcentaje ingreso potencial neto Ec <= 0,0

@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+edad,45 a 59,PH,0.15062170537459282,NA,NA,
+edad,45 a 59,th1,0.7758272513117909,NA,NA,
+edad,45 a 59,tw,0.7075505190335556,NA,NA,

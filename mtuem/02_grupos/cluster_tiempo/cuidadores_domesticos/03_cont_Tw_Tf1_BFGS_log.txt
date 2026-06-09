@@ -1,0 +1,26 @@
+
+====================================================
+Segmento: cluster_tiempo - Cuidadores domesticos 
+Ejecutando: 03_cont_Tw_Tf1_BFGS 
+Metodo: BFGS 
+Inicio: 2026-06-08 21:01:50 
+====================================================
+
+Resumen del objeto:
+--------------------------------------------
+Maximum Likelihood estimation
+BFGS maximization, 68 iterations
+Return code 0: successful convergence 
+Log-Likelihood: -11586.23 
+  free parameters
+Estimates:
+    Estimate Std. error t value Pr(> t)    
+PH  0.063371   0.006674   9.496  <2e-16 ***
+th1 0.760161   0.001982 383.531  <2e-16 ***
+tw  1.208813   0.027460  44.021  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+--------------------------------------------
+
+Fin: 2026-06-08 21:01:50 
+Duracion minutos: 0.01 

@@ -1,0 +1,23 @@
+dimension,categoria,orden_categoria,estado,n_mnl_v9_grupo,n_mtuem_final,metodo_elegido,logLik,return_code
+muestra_general,Muestra general,1,estimado,8919,7925,BFGS,-39648.581120597686,0
+edad,18 a 29,1,estimado,1717,1697,BFGS,-8122.58987093,0
+edad,30 a 44,2,estimado,2556,2517,BFGS,-12019.341959698157,0
+edad,45 a 59,3,estimado,2416,2336,BFGS,-11480.922273576472,0
+edad,60 o mas,4,estimado,2230,1375,BFGS,-7055.549026319153,0
+sexo,Hombres,1,estimado,3663,3107,BFGS,-15550.556620873052,0
+sexo,Mujeres,2,estimado,5256,4818,BFGS,-23955.535541198617,0
+ingresos,Quintil bajo,1,estimado,5670,5214,BFGS,-25924.515999046933,0
+ingresos,Quintil medio,2,estimado,1761,1507,BFGS,-7429.014738155469,0
+ingresos,Quintil alto,3,estimado,1488,1204,BFGS,-5966.358517542156,0
+territorio,Norte,1,estimado,2360,2120,BFGS,-10735.072894774627,0
+territorio,Centro,2,estimado,4523,4004,BFGS,-19892.104011670075,0
+territorio,Sur,3,estimado,2036,1801,BFGS,-8967.14175536215,0
+cluster_tiempo,Cuidadores domesticos,1,estimado,2615,2514,BFGS,-11586.232464891047,0
+cluster_tiempo,Rutina flexible,2,estimado,2419,1770,BFGS,-8400.932936598929,0
+cluster_tiempo,Jovenes trabajadores,3,estimado,946,899,BFGS,-3755.463491128393,0
+cluster_tiempo,Trabajadores rutinarios,4,estimado,2047,1880,BFGS,-8193.180068742327,0
+cluster_tiempo,Trabajadores moviles,5,estimado,892,862,BFGS,-3886.4039440977267,0
+cluster_modo,Usuarios publicos,1,estimado,1852,1703,BFGS,-8419.59001317847,0
+cluster_modo,Movilidad activa,2,estimado,2304,1893,BFGS,-9690.289501015282,0
+cluster_modo,Movilidad mixta,3,estimado,1795,1663,BFGS,-8168.123045464168,0
+cluster_modo,Motorizados privados,4,estimado,2968,2666,BFGS,-13109.207198086462,0

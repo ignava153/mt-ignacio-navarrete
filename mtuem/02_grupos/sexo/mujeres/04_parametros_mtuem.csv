@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+sexo,Mujeres,PH,0.20896759682695454,NA,NA,
+sexo,Mujeres,th1,0.7940312411801288,NA,NA,
+sexo,Mujeres,tw,0.37685555230234313,NA,NA,

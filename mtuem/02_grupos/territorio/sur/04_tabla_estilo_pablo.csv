@@ -1,0 +1,11 @@
+dimension,categoria,bloque,indicador,valor,estimacion,error_estandar,t_value,sig,ic95_inf,ic95_sup
+territorio,Sur,Model specification,# individuals,1801,NA,NA,NA,,NA,NA
+territorio,Sur,Model specification,# parameters,3,NA,NA,NA,,NA,NA
+territorio,Sur,Model specification,LL,-8967.14175536215,NA,NA,NA,,NA,NA
+territorio,Sur,Model specification,Method,BFGS,NA,NA,NA,,NA,NA
+territorio,Sur,Time-use parameters,PH,NA,0.26857299426186004,NA,NA,,NA,NA
+territorio,Sur,Time-use parameters,th1,NA,0.8038855383058344,NA,NA,,NA,NA
+territorio,Sur,Time-use parameters,tw,NA,0.20573372269696907,NA,NA,,NA,NA
+territorio,Sur,Values of time,VoL predicho,5.4663 [4.8967 ; 6.0359],5.4662716630800485,0.29061861817678847,NA,,4.8966591714535435,6.035884154706554
+territorio,Sur,Values of time,VTAW predicho,1.3167 [0.7471 ; 1.8863],1.3166736314309648,0.2906186185751331,NA,,0.747061139023704,1.8862861238382256
+territorio,Sur,Values of time,Weighted wage rate,4.1496 [3.9963 ; 4.3029],4.1495980316490835,0.07817913107756005,NA,,3.996266647753142,4.302929415545025

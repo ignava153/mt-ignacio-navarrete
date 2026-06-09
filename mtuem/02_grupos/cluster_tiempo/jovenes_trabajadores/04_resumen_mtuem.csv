@@ -1,0 +1,34 @@
+dimension,categoria,indicador,valor
+cluster_tiempo,Jovenes trabajadores,N personas estimadas,899
+cluster_tiempo,Jovenes trabajadores,N parametros,3
+cluster_tiempo,Jovenes trabajadores,Log likelihood,-3755.46349112839
+cluster_tiempo,Jovenes trabajadores,Metodo elegido,BFGS
+cluster_tiempo,Jovenes trabajadores,Return code,0
+cluster_tiempo,Jovenes trabajadores,PH,0.166349343176737
+cluster_tiempo,Jovenes trabajadores,tw,0.467139202519316
+cluster_tiempo,Jovenes trabajadores,th1,0.864549795220088
+cluster_tiempo,Jovenes trabajadores,Tw observado promedio,50.1677641824249
+cluster_tiempo,Jovenes trabajadores,Tw predicho promedio,50.7453532181619
+cluster_tiempo,Jovenes trabajadores,Tf1 ocio observado promedio,50.3812235817575
+cluster_tiempo,Jovenes trabajadores,Tf1 ocio predicho promedio,49.9365668285338
+cluster_tiempo,Jovenes trabajadores,Tf2 comidas observado promedio,7.95656284760845
+cluster_tiempo,Jovenes trabajadores,Tf2 comidas predicho promedio,7.82363056509516
+cluster_tiempo,Jovenes trabajadores,RMSE Tw,8.17625862537042
+cluster_tiempo,Jovenes trabajadores,RMSE Tf1 ocio,8.19880632049436
+cluster_tiempo,Jovenes trabajadores,RMSE Tf2 comidas,2.97908840198792
+cluster_tiempo,Jovenes trabajadores,VoL predicho promedio,12.5241635820629
+cluster_tiempo,Jovenes trabajadores,VoL predicho mediana,8.59026153407656
+cluster_tiempo,Jovenes trabajadores,VoL observado promedio,12.8102730850938
+cluster_tiempo,Jovenes trabajadores,VoL observado mediana,8.78108838770289
+cluster_tiempo,Jovenes trabajadores,VTAW predicho promedio,7.45153288017192
+cluster_tiempo,Jovenes trabajadores,VTAW observado promedio,7.73764238320281
+cluster_tiempo,Jovenes trabajadores,Weighted wage rate promedio,5.07263070189099
+cluster_tiempo,Jovenes trabajadores,N ingreso libre observado <= 0,76
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso libre observado <= 0,0.0845383759733037
+cluster_tiempo,Jovenes trabajadores,N ingreso libre predicho <= 0,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso libre predicho <= 0,0
+cluster_tiempo,Jovenes trabajadores,N ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Jovenes trabajadores,Porcentaje ingreso potencial neto Ec <= 0,0
+cluster_tiempo,Jovenes trabajadores,Media cierre temporal observado,168
+cluster_tiempo,Jovenes trabajadores,Media cierre temporal predicho,168
+cluster_tiempo,Jovenes trabajadores,Media diferencia cierre temporal predicho,-2.84533242351097e-16

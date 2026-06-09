@@ -1,0 +1,21 @@
+variable,etiqueta,familia,tipo_variable,presente_en_base,n_no_na,media,sd,min,max
+mod_TD,Modulo trabajo domestico no remunerado,modulo,dicotomica,TRUE,13298,0.4053241088885547,0.49097311817895073,0,1
+mod_TC,Modulo trabajo de cuidados no remunerado,modulo,dicotomica,TRUE,13298,0.1391186644608212,0.3460833260254929,0,1
+mod_ED,Modulo educacion,modulo,dicotomica,TRUE,13298,0.04173559933824635,0.199991866866155,0,1
+mod_CP,Modulo cuidados personales,modulo,dicotomica,TRUE,13298,0.04526996540833208,0.20790345365644847,0,1
+T_mod_10h,Tiempo del modulo en decenas de horas,tiempo_modulo,continua,TRUE,13298,2.9398326816062568,1.7233937489417785,0,10.5
+female,Sexo femenino,sexo,dicotomica,TRUE,13298,0.5868551661904046,0.4924169107645726,0,1
+zona_centro,Territorio centro o metropolitana,territorio,dicotomica,TRUE,13298,0.5046623552413897,0.4999970620335609,0,1
+zona_sur,Territorio sur,territorio,dicotomica,TRUE,13298,0.22965859527748533,0.4206290881678682,0,1
+edad_18_24,Edad entre 18 y 24 anos,edad,dicotomica,TRUE,13298,0.09821025718153106,0.29760991766235206,0,1
+edad_65mas,Edad 65 anos o mas,edad,dicotomica,TRUE,13298,0.13438110994134456,0.34107414924434953,0,1
+n_trabajadores,Numero de trabajadores en el hogar,hogar,continua,TRUE,13298,1.5511355090991126,0.9462396476812812,0,7
+n_profesionales,Numero de profesionales en el hogar,hogar,continua,TRUE,13298,1.1723567453752444,0.9977397310550323,0,6
+vive_pareja,Vive con pareja,hogar,dicotomica,TRUE,13298,0.5497819220935479,0.49753429539095706,0,1
+educ_secundaria,Educacion secundaria,educacion,dicotomica,TRUE,13298,0.2780869303654685,0.44807330567767967,0,1
+educ_tecnica,Educacion tecnica,educacion,dicotomica,TRUE,13298,0.27086779966912317,0.44442467036402594,0,1
+educ_universitaria,Educacion universitaria,educacion,dicotomica,TRUE,13298,0.23830651225748234,0.42606357437693193,0,1
+quintil_3,Quintil 3,ingresos,dicotomica,TRUE,13298,0.2075500075199278,0.4055679611107943,0,1
+quintil_4,Quintil 4,ingresos,dicotomica,TRUE,13298,0.1980748984809746,0.3985638954008347,0,1
+quintil_5,Quintil 5,ingresos,dicotomica,TRUE,13298,0.17250714393141825,0.37783483774019855,0,1
+ing_personal,Ingreso personal,ingresos,continua,TRUE,13298,191.93226951421266,229.69815391627475,0,3462.5

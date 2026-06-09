@@ -1,0 +1,8 @@
+dimension,categoria,etapa,n_personas,pct_sobre_grupo_mnl_v9
+sexo,Mujeres,Personas compatibles con MNL V9 en grupo,5256,100
+sexo,Mujeres,Variables finitas para MTUEM,5256,100
+sexo,Mujeres,Tw > 0 y w > 0,5256,100
+sexo,Mujeres,Tc valido y tiempo libre observado > 0,5256,100
+sexo,Mujeres,Ec corregido > 0,4820,91.70471841704719
+sexo,Mujeres,Ingreso potencial neto de Ec > 0,4818,91.66666666666667
+sexo,Mujeres,Muestra final MTUEM,4818,91.66666666666667

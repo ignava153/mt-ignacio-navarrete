@@ -1,0 +1,8 @@
+parametro,alternativa,Estimate,t_ratio,abs_t_ratio,condicion
+ASC1,1 Auto/moto particular,0,NA,NA,Fijo como referencia
+ASC2,2 Transporte publico,-0.0202107,-0.1836246,0.1836246,Estimado respecto a auto/moto
+ASC3,3 Taxi/app,-3.1357343,-15.9013869,15.9013869,Estimado respecto a auto/moto
+ASC4,4 Bicicleta/ciclos,-2.0795495,-10.9170165,10.9170165,Estimado respecto a auto/moto
+ASC5,5 A pie,0.081925,0.7766725,0.7766725,Estimado respecto a auto/moto
+ASC6,6 Otros,-2.9697488,-10.4532688,10.4532688,Estimado respecto a auto/moto
+ASC7,7 Multimodal,-1.0686693,-11.5652267,11.5652267,Estimado respecto a auto/moto

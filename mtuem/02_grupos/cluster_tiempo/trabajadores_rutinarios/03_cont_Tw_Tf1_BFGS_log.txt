@@ -1,0 +1,26 @@
+
+====================================================
+Segmento: cluster_tiempo - Trabajadores rutinarios 
+Ejecutando: 03_cont_Tw_Tf1_BFGS 
+Metodo: BFGS 
+Inicio: 2026-06-08 21:01:54 
+====================================================
+
+Resumen del objeto:
+--------------------------------------------
+Maximum Likelihood estimation
+BFGS maximization, 35 iterations
+Return code 0: successful convergence 
+Log-Likelihood: -8193.18 
+  free parameters
+Estimates:
+    Estimate Std. error t value Pr(> t)    
+PH   0.22658    0.01551   14.61  <2e-16 ***
+th1  0.73685    0.00221  333.48  <2e-16 ***
+tw   0.83207    0.03425   24.29  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+--------------------------------------------
+
+Fin: 2026-06-08 21:01:54 
+Duracion minutos: 0 
