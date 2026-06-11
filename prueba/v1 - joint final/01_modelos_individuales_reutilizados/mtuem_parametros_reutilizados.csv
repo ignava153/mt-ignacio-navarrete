@@ -1,0 +1,4 @@
+dimension,categoria,parametro,estimacion,error_estandar,t_value,sig
+muestra_general,Muestra general,PH,0.26326527771450065,NA,NA,NA
+muestra_general,Muestra general,th1,0.8001078727378941,NA,NA,NA
+muestra_general,Muestra general,tw,0.2969456344377914,NA,NA,NA
