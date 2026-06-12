@@ -1,0 +1,8 @@
+control,valor
+deconst_paso3,6
+tiempo_max_horas,10
+checkpoint_cada_horas,1
+iter_deoptim_por_ciclo,20
+iter_nm_inicial,50
+iter_nm_checkpoint,80
+iter_nm_final,200

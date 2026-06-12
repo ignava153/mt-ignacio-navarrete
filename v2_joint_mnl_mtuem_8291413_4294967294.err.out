@@ -1,0 +1,17 @@
+Installing package into ‘/home/preyes/R/x86_64-pc-linux-gnu-library/4.4’
+(as ‘lib’ is unspecified)
+
+ *** caught illegal operation ***
+address 0x150224bdcd99, cause 'illegal operand'
+
+Traceback:
+ 1: download.file(url = paste0(repos, "/PACKAGES.rds"), destfile = dest,     method = method, cacheOK = FALSE, quiet = quiet, mode = "wb",     ...)
+ 2: doTryCatch(return(expr), name, parentenv, handler)
+ 3: tryCatchOne(expr, names, parentenv, handlers[[1L]])
+ 4: tryCatchList(expr, classes, parentenv, handlers)
+ 5: tryCatch({    download.file(url = paste0(repos, "/PACKAGES.rds"), destfile = dest,         method = method, cacheOK = FALSE, quiet = quiet, mode = "wb",         ...)}, error = identity)
+ 6: available.packages(contriburl = contriburl, filters = f, method = method,     ...)
+ 7: install.packages(paquete, dependencies = TRUE)
+ 8: instalar_si_falta(p)
+An irrecoverable exception occurred. R is aborting now ...
+/var/spool/slurmd/job8291413/slurm_script: line 20: 1347697 Illegal instruction     (core dumped) Rscript v2_join_mnl_mtuem_paso_3.R

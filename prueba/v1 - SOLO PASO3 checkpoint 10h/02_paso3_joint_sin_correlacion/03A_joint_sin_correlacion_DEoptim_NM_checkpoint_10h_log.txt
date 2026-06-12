@@ -1,0 +1,23 @@
+====================================================
+Ejecutando: 03A_joint_sin_correlacion_DEoptim_NM_checkpoint_10h 
+Inicio: 2026-06-11 09:44:25 
+====================================================
+Limite de tiempo de esta etapa: 10 horas
+DEoptim + NM con checkpoints horarios dentro de nmm
+iteraciones DEoptim por ciclo: 20 
+NM inicial: 50 | NM checkpoint: 80 | NM final: 200 
+checkpoint cada 1 hora(s) | maximo 10 horas
+
+NM inicial corto...
+NM inicial valido | logLik: -55301.46 
+
+Ciclo 1 | horas: 0.129 | logLik actual: -55301.46 | deconst: 6 
+Fin ciclo 1 | logLik parametros: -55295.91 | bestval: 55295.91 
+
+Checkpoint horario 1 | horas: 4.621 
+
+ERROR:
+Can't combine `..1$momento` <datetime<UTC>> and `..2$momento` <character>. 
+
+Fin: 2026-06-11 14:41:59 
+Duracion minutos: 297.57 

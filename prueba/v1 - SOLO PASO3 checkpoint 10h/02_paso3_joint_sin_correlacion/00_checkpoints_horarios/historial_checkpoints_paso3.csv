@@ -1,0 +1,2 @@
+momento,tipo,ciclo,hora_checkpoint,horas_transcurridas,iter_deoptim_aprox,bestval_deoptim,logLik_parametros,logLik_modelo,modelo_valido,notas
+2026-06-11 10:03:40.145401,nm_inicial,0,0,0.1294,0,55301.46153758139,-55301.46153758139,-55301.46153758139,TRUE,checkpoint inicial

@@ -1,0 +1,237 @@
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: parallel
+
+DEoptim package
+Differential Evolution algorithm in R
+Authors: D. Ardia, K. Mullen, B. Peterson and J. Ulrich
+
+Loading required package: miscTools
+
+Please cite the 'maxLik' package as:
+Henningsen, Arne and Toomet, Ott (2011). maxLik: A package for maximum likelihood estimation in R. Computational Statistics 26(3), 443-458. DOI 10.1007/s00180-010-0217-1.
+
+If you have questions, suggestions, or comments regarding the 'maxLik' package, please use a forum or 'tracker' at maxLik's R-Forge site:
+https://r-forge.r-project.org/projects/maxlik/
+
+Attaching package: ‘maxLik’
+
+The following object is masked from ‘package:numDeriv’:
+
+    hessian
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+Loading required package: Matrix
+
+Attaching package: ‘Matrix’
+
+The following objects are masked from ‘package:tidyr’:
+
+    expand, pack, unpack
+
+Loading required package: car
+Loading required package: carData
+
+Attaching package: ‘car’
+
+The following object is masked from ‘package:purrr’:
+
+    some
+
+The following object is masked from ‘package:dplyr’:
+
+    recode
+
+Loading required package: lmtest
+Loading required package: zoo
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+
+Please cite the 'systemfit' package as:
+Arne Henningsen and Jeff D. Hamann (2007). systemfit: A Package for Estimating Systems of Simultaneous Equations in R. Journal of Statistical Software 23(4), 1-40. http://www.jstatsoft.org/v23/i04/.
+
+If you have questions, suggestions, or comments regarding the 'systemfit' package, please use a forum or 'tracker' at systemfit's R-Forge site:
+https://r-forge.r-project.org/projects/systemfit/
+Loading required package: sandwich
+Loading required package: survival
+Loading required package: dfidx
+
+Attaching package: ‘dfidx’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+
+Attaching package: ‘Hmisc’
+
+The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+Loading required package: proto
+Could not load tcltk.  Will use slower R code instead.
+------------------------------------------------------------------------------
+You have loaded plyr after dplyr - this is likely to cause problems.
+If you need functions from both plyr and dplyr, please load plyr first, then dplyr:
+library(plyr); library(dplyr)
+------------------------------------------------------------------------------
+
+Attaching package: ‘plyr’
+
+The following objects are masked from ‘package:Hmisc’:
+
+    is.discrete, summarize
+
+The following objects are masked from ‘package:dfidx’:
+
+    arrange, mutate
+
+The following object is masked from ‘package:purrr’:
+
+    compact
+
+The following objects are masked from ‘package:dplyr’:
+
+    arrange, count, desc, failwith, id, mutate, rename, summarise,
+    summarize
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:zoo’:
+
+    yearmon, yearqtr
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+
+Attaching package: ‘magrittr’
+
+The following object is masked from ‘package:purrr’:
+
+    set_names
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+Loading required package: R.oo
+Loading required package: R.methodsS3
+R.methodsS3 v1.8.2 (2022-06-13 22:00:14 UTC) successfully loaded. See ?R.methodsS3 for help.
+R.oo v1.27.1 (2025-05-02 21:00:05 UTC) successfully loaded. See ?R.oo for help.
+
+Attaching package: ‘R.oo’
+
+The following object is masked from ‘package:R.methodsS3’:
+
+    throw
+
+The following object is masked from ‘package:magrittr’:
+
+    equals
+
+The following objects are masked from ‘package:methods’:
+
+    getClasses, getMethods
+
+The following objects are masked from ‘package:base’:
+
+    attach, detach, load, save
+
+R.utils v2.13.0 (2025-02-24 21:20:02 UTC) successfully loaded. See ?R.utils for help.
+
+Attaching package: ‘R.utils’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+The following object is masked from ‘package:Hmisc’:
+
+    capitalize
+
+The following object is masked from ‘package:lmtest’:
+
+    reset
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+The following objects are masked from ‘package:base’:
+
+    cat, commandArgs, getOption, isOpen, nullfile, parse, use, warnings
+
+====================================================
+Ejecutando: 03A_joint_sin_correlacion_DEoptim_NM_checkpoint_10h 
+Inicio: 2026-06-11 09:44:25 
+====================================================
+Limite de tiempo de esta etapa: 10 horas
+DEoptim + NM con checkpoints horarios dentro de nmm
+iteraciones DEoptim por ciclo: 20 
+NM inicial: 50 | NM checkpoint: 80 | NM final: 200 
+checkpoint cada 1 hora(s) | maximo 10 horas
+
+NM inicial corto...
+NM inicial valido | logLik: -55301.46 
+
+Ciclo 1 | horas: 0.129 | logLik actual: -55301.46 | deconst: 6 
+Warning in DEoptim::DEoptim(jj_f, lower = lower, upper = upper, control = DEoptim::DEoptim.control(trace = trace_deoptim,  :
+  For many problems it is best to set 'NP' (in 'control') to be at least ten times the length of the parameter vector. 
+
+Fin ciclo 1 | logLik parametros: -55295.91 | bestval: 55295.91 
+
+Checkpoint horario 1 | horas: 4.621 
+
+ERROR:
+Can't combine `..1$momento` <datetime<UTC>> and `..2$momento` <character>. 
+
+Fin: 2026-06-11 14:41:59 
+Duracion minutos: 297.57 
+There were 16 warnings (use warnings() to see them)
+
+====================================================
+FIN SOLO PASO 3
+Mejor logLik paso 3: -55295.91 
+Resultado guardado en: prueba/v1 - SOLO PASO3 checkpoint 10h/02_paso3_joint_sin_correlacion/03_joint_sin_correlacion_MEJOR.rds 
+Checkpoints horarios en: prueba/v1 - SOLO PASO3 checkpoint 10h/02_paso3_joint_sin_correlacion/00_checkpoints_horarios 
+====================================================
