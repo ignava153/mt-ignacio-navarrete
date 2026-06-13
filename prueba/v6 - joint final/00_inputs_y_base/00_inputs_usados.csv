@@ -1,0 +1,14 @@
+insumo,ruta
+enut_ii,enut_ii.xlsx
+mnl_modelo,mnl/resultados v2/v10_modelo_final.rds
+mnl_coeficientes,mnl/resultados v2/v10_coeficientes_final.csv
+mnl_ajuste,mnl/resultados v2/v10_tabla_ajuste_final.csv
+mnl_par_d,mnl/resultados v2/v10_par_d.csv
+mnl_start,mnl/resultados v2/v10_start.csv
+mnl_eq,mnl/resultados v2/v10_eq_final.txt
+mnl_base_larga,mnl/resultados v2/04_base_mnl_larga_v10_desde_enut_ii.csv
+mnl_data_nmm,mnl/resultados v2/03_data_nmm_v10_desde_enut_ii.csv
+mtuem_modelo,mtuem/01_muestra_general/03_cont_Tw_Tf1_MEJOR.rds
+mtuem_base,mtuem/01_muestra_general/01_base_mtuem_continua_preparada.csv
+mtuem_parametros,mtuem/01_muestra_general/04_parametros_mtuem.csv
+mtuem_resumen,mtuem/01_muestra_general/04_resumen_mtuem.csv

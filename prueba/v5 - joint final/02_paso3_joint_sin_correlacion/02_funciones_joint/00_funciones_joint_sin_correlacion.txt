@@ -1,0 +1,1 @@
+Funciones joint construidas en memoria. No se guardan como RDS para evitar archivos pesados.

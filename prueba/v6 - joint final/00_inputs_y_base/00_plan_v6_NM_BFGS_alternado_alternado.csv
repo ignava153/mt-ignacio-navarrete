@@ -1,0 +1,14 @@
+nombre,metodo,iterlim,carpeta
+01_NM_00_calentamiento,NM,1000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/00_NM_estabilizacion_y_restarts
+02_BFGS_00_calentamiento,BFGS,500,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/01_BFGS_pulido
+03_NM_ronda_01,NM,3000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/00_NM_estabilizacion_y_restarts
+04_BFGS_ronda_01,BFGS,1000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/01_BFGS_pulido
+05_NM_ronda_02,NM,7000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/00_NM_estabilizacion_y_restarts
+06_BFGS_ronda_02,BFGS,3000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/01_BFGS_pulido
+07_NM_ronda_03,NM,12000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/00_NM_estabilizacion_y_restarts
+08_BFGS_ronda_03,BFGS,6000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/01_BFGS_pulido
+09_NM_ronda_04,NM,20000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/00_NM_estabilizacion_y_restarts
+10_BFGS_ronda_04,BFGS,10000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/01_BFGS_pulido
+11_NM_final,NM,30000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/00_NM_estabilizacion_y_restarts
+12_BFGS_final,BFGS,15000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/01_BFGS_pulido
+13_NM_respaldo_final,NM,30000,prueba/v6 - joint final/02_paso3_joint_sin_correlacion/00_NM_estabilizacion_y_restarts

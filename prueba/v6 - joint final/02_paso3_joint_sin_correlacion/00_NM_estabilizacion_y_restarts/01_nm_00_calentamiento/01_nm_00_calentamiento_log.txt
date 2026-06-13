@@ -1,0 +1,16 @@
+====================================================
+Ejecutando: 01_NM_00_calentamiento 
+Metodo: NM | iterlim: 1000 
+Inicio: 2026-06-11 23:22:06 
+LogLik inicio: -55302.19 
+Parametros libres: 64 
+====================================================
+
+Estado: valido 
+Code: 1 
+Mensaje: 1 
+LogLik salida: -55287.64 
+Mejora: 14.54869 
+
+Fin: 2026-06-13 07:26:18 
+Duracion minutos: 1924.191 

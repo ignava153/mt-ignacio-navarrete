@@ -1,0 +1,1121 @@
+
+Attaching package: ‘dplyr’
+
+
+Attaching package: ‘dplyr’
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+The following objects are masked from ‘package:stats’:
+The following objects are masked from ‘package:stats’:
+
+
+
+    filter, lag
+    filter, lag
+    filter, lag
+
+
+
+The following objects are masked from ‘package:base’:
+The following objects are masked from ‘package:base’:
+The following objects are masked from ‘package:base’:
+
+
+
+    intersect, setdiff, setequal, union
+    intersect, setdiff, setequal, union
+    intersect, setdiff, setequal, union
+
+
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: parallel
+Loading required package: parallel
+Loading required package: parallel
+
+
+
+DEoptim package
+DEoptim package
+DEoptim package
+Differential Evolution algorithm in R
+Differential Evolution algorithm in R
+Differential Evolution algorithm in R
+Authors: D. Ardia, K. Mullen, B. Peterson and J. Ulrich
+Authors: D. Ardia, K. Mullen, B. Peterson and J. Ulrich
+Authors: D. Ardia, K. Mullen, B. Peterson and J. Ulrich
+
+
+
+Loading required package: miscTools
+Loading required package: miscTools
+Loading required package: miscTools
+Loading required package: parallel
+
+
+Please cite the 'maxLik' package as:
+Please cite the 'maxLik' package as:
+Henningsen, Arne and Toomet, Ott (2011). maxLik: A package for maximum likelihood estimation in R. Computational Statistics 26(3), 443-458. DOI 10.1007/s00180-010-0217-1.
+Henningsen, Arne and Toomet, Ott (2011). maxLik: A package for maximum likelihood estimation in R. Computational Statistics 26(3), 443-458. DOI 10.1007/s00180-010-0217-1.
+
+
+
+If you have questions, suggestions, or comments regarding the 'maxLik' package, please use a forum or 'tracker' at maxLik's R-Forge site:
+Please cite the 'maxLik' package as:
+If you have questions, suggestions, or comments regarding the 'maxLik' package, please use a forum or 'tracker' at maxLik's R-Forge site:
+https://r-forge.r-project.org/projects/maxlik/
+Henningsen, Arne and Toomet, Ott (2011). maxLik: A package for maximum likelihood estimation in R. Computational Statistics 26(3), 443-458. DOI 10.1007/s00180-010-0217-1.
+https://r-forge.r-project.org/projects/maxlik/
+
+If you have questions, suggestions, or comments regarding the 'maxLik' package, please use a forum or 'tracker' at maxLik's R-Forge site:
+https://r-forge.r-project.org/projects/maxlik/
+
+Attaching package: ‘maxLik’
+
+
+
+Attaching package: ‘maxLik’
+Attaching package: ‘maxLik’
+
+
+
+DEoptim package
+Differential Evolution algorithm in R
+Authors: D. Ardia, K. Mullen, B. Peterson and J. Ulrich
+
+The following object is masked from ‘package:numDeriv’:
+
+    hessian
+
+The following object is masked from ‘package:numDeriv’:
+
+    hessian
+
+The following object is masked from ‘package:numDeriv’:
+
+    hessian
+
+Loading required package: miscTools
+
+
+Attaching package: ‘scales’
+Attaching package: ‘scales’
+
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:purrr’:
+The following object is masked from ‘package:purrr’:
+
+
+    discard
+    discard
+
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+The following object is masked from ‘package:readr’:
+
+
+    col_factor
+    col_factor
+
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: Matrix
+
+Please cite the 'maxLik' package as:
+Henningsen, Arne and Toomet, Ott (2011). maxLik: A package for maximum likelihood estimation in R. Computational Statistics 26(3), 443-458. DOI 10.1007/s00180-010-0217-1.
+
+If you have questions, suggestions, or comments regarding the 'maxLik' package, please use a forum or 'tracker' at maxLik's R-Forge site:
+https://r-forge.r-project.org/projects/maxlik/
+
+Attaching package: ‘maxLik’
+
+The following object is masked from ‘package:numDeriv’:
+
+    hessian
+
+
+Attaching package: ‘Matrix’
+
+
+Attaching package: ‘Matrix’
+
+
+Attaching package: ‘Matrix’
+
+The following objects are masked from ‘package:tidyr’:
+
+    expand, pack, unpack
+
+The following objects are masked from ‘package:tidyr’:
+
+    expand, pack, unpack
+
+The following objects are masked from ‘package:tidyr’:
+
+    expand, pack, unpack
+
+Loading required package: car
+Loading required package: car
+Loading required package: car
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+Loading required package: carData
+Loading required package: carData
+Loading required package: carData
+Loading required package: Matrix
+
+Attaching package: ‘Matrix’
+
+The following objects are masked from ‘package:tidyr’:
+
+    expand, pack, unpack
+
+Loading required package: car
+
+Attaching package: ‘car’
+
+
+Attaching package: ‘car’
+
+The following object is masked from ‘package:purrr’:
+
+    some
+
+The following object is masked from ‘package:purrr’:
+
+    some
+
+The following object is masked from ‘package:dplyr’:
+
+    recode
+
+The following object is masked from ‘package:dplyr’:
+
+    recode
+
+
+Attaching package: ‘car’
+
+The following object is masked from ‘package:purrr’:
+
+    some
+
+Loading required package: carData
+Loading required package: lmtest
+Loading required package: lmtest
+The following object is masked from ‘package:dplyr’:
+
+    recode
+
+Loading required package: lmtest
+Loading required package: zoo
+Loading required package: zoo
+Loading required package: zoo
+
+Attaching package: ‘zoo’
+
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+The following objects are masked from ‘package:base’:
+
+
+    as.Date, as.Date.numeric
+
+
+Attaching package: ‘zoo’
+
+
+Attaching package: ‘car’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+The following object is masked from ‘package:purrr’:
+
+    some
+
+The following object is masked from ‘package:dplyr’:
+
+    recode
+
+Loading required package: lmtest
+Loading required package: zoo
+
+
+Please cite the 'systemfit' package as:
+Please cite the 'systemfit' package as:
+Arne Henningsen and Jeff D. Hamann (2007). systemfit: A Package for Estimating Systems of Simultaneous Equations in R. Journal of Statistical Software 23(4), 1-40. http://www.jstatsoft.org/v23/i04/.
+Arne Henningsen and Jeff D. Hamann (2007). systemfit: A Package for Estimating Systems of Simultaneous Equations in R. Journal of Statistical Software 23(4), 1-40. http://www.jstatsoft.org/v23/i04/.
+
+
+If you have questions, suggestions, or comments regarding the 'systemfit' package, please use a forum or 'tracker' at systemfit's R-Forge site:
+If you have questions, suggestions, or comments regarding the 'systemfit' package, please use a forum or 'tracker' at systemfit's R-Forge site:
+https://r-forge.r-project.org/projects/systemfit/
+https://r-forge.r-project.org/projects/systemfit/
+
+Please cite the 'systemfit' package as:
+Arne Henningsen and Jeff D. Hamann (2007). systemfit: A Package for Estimating Systems of Simultaneous Equations in R. Journal of Statistical Software 23(4), 1-40. http://www.jstatsoft.org/v23/i04/.
+
+If you have questions, suggestions, or comments regarding the 'systemfit' package, please use a forum or 'tracker' at systemfit's R-Forge site:
+https://r-forge.r-project.org/projects/systemfit/
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+Loading required package: sandwich
+Loading required package: sandwich
+
+Please cite the 'systemfit' package as:
+Arne Henningsen and Jeff D. Hamann (2007). systemfit: A Package for Estimating Systems of Simultaneous Equations in R. Journal of Statistical Software 23(4), 1-40. http://www.jstatsoft.org/v23/i04/.
+
+If you have questions, suggestions, or comments regarding the 'systemfit' package, please use a forum or 'tracker' at systemfit's R-Forge site:
+https://r-forge.r-project.org/projects/systemfit/
+Loading required package: sandwich
+Loading required package: sandwich
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: dfidx
+Loading required package: dfidx
+Loading required package: dfidx
+
+Attaching package: ‘dfidx’
+
+
+Attaching package: ‘dfidx’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+Loading required package: dfidx
+
+Attaching package: ‘dfidx’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+
+Attaching package: ‘dfidx’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+
+Attaching package: ‘Hmisc’
+
+
+Attaching package: ‘Hmisc’
+
+The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+
+Attaching package: ‘Hmisc’
+
+The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+Loading required package: proto
+Loading required package: proto
+Loading required package: proto
+
+Attaching package: ‘Hmisc’
+
+The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+Loading required package: proto
+Could not load tcltk.  Will use slower R code instead.
+Could not load tcltk.  Will use slower R code instead.
+Could not load tcltk.  Will use slower R code instead.
+Could not load tcltk.  Will use slower R code instead.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+You have loaded plyr after dplyr - this is likely to cause problems.
+You have loaded plyr after dplyr - this is likely to cause problems.
+If you need functions from both plyr and dplyr, please load plyr first, then dplyr:
+If you need functions from both plyr and dplyr, please load plyr first, then dplyr:
+library(plyr); library(dplyr)
+library(plyr); library(dplyr)
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+You have loaded plyr after dplyr - this is likely to cause problems.
+If you need functions from both plyr and dplyr, please load plyr first, then dplyr:
+library(plyr); library(dplyr)
+------------------------------------------------------------------------------
+
+
+Attaching package: ‘plyr’
+Attaching package: ‘plyr’
+
+
+The following objects are masked from ‘package:Hmisc’:
+The following objects are masked from ‘package:Hmisc’:
+
+
+    is.discrete, summarize
+    is.discrete, summarize
+
+
+The following objects are masked from ‘package:dfidx’:
+The following objects are masked from ‘package:dfidx’:
+
+
+    arrange, mutate
+    arrange, mutate
+
+
+The following object is masked from ‘package:purrr’:
+The following object is masked from ‘package:purrr’:
+
+
+    compact
+    compact
+
+
+The following objects are masked from ‘package:dplyr’:
+
+The following objects are masked from ‘package:dplyr’:
+
+Attaching package: ‘plyr’
+
+    arrange, count, desc, failwith, id, mutate, rename, summarise,
+
+    arrange, count, desc, failwith, id, mutate, rename, summarise,
+    summarize
+    summarize
+
+
+The following objects are masked from ‘package:Hmisc’:
+
+    is.discrete, summarize
+
+The following objects are masked from ‘package:dfidx’:
+
+    arrange, mutate
+
+The following object is masked from ‘package:purrr’:
+
+    compact
+
+The following objects are masked from ‘package:dplyr’:
+
+    arrange, count, desc, failwith, id, mutate, rename, summarise,
+    summarize
+
+------------------------------------------------------------------------------
+You have loaded plyr after dplyr - this is likely to cause problems.
+If you need functions from both plyr and dplyr, please load plyr first, then dplyr:
+library(plyr); library(dplyr)
+------------------------------------------------------------------------------
+
+Attaching package: ‘plyr’
+
+The following objects are masked from ‘package:Hmisc’:
+
+    is.discrete, summarize
+
+The following objects are masked from ‘package:dfidx’:
+
+    arrange, mutate
+
+The following object is masked from ‘package:purrr’:
+
+    compact
+
+The following objects are masked from ‘package:dplyr’:
+
+
+
+Attaching package: ‘data.table’
+    arrange, count, desc, failwith, id, mutate, rename, summarise,
+Attaching package: ‘data.table’
+
+    summarize
+
+
+The following objects are masked from ‘package:zoo’:
+The following objects are masked from ‘package:zoo’:
+
+
+    yearmon, yearqtr
+    yearmon, yearqtr
+
+
+The following object is masked from ‘package:purrr’:
+The following object is masked from ‘package:purrr’:
+
+
+    transpose
+    transpose
+
+
+The following objects are masked from ‘package:dplyr’:
+The following objects are masked from ‘package:dplyr’:
+
+
+    between, first, last
+    between, first, last
+
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:zoo’:
+
+    yearmon, yearqtr
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+
+
+Attaching package: ‘magrittr’
+Attaching package: ‘magrittr’
+
+
+
+Attaching package: ‘data.table’
+
+The following object is masked from ‘package:purrr’:
+The following object is masked from ‘package:purrr’:
+
+
+    set_names
+    set_names
+
+
+The following objects are masked from ‘package:zoo’:
+
+    yearmon, yearqtr
+
+The following object is masked from ‘package:tidyr’:
+The following object is masked from ‘package:tidyr’:
+
+The following object is masked from ‘package:purrr’:
+
+    extract
+
+    extract
+
+    transpose
+
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+
+Attaching package: ‘magrittr’
+
+The following object is masked from ‘package:purrr’:
+
+    set_names
+
+Loading required package: R.oo
+Loading required package: R.oo
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+Loading required package: R.methodsS3
+Loading required package: R.methodsS3
+Loading required package: R.oo
+Loading required package: R.methodsS3
+
+Attaching package: ‘magrittr’
+
+The following object is masked from ‘package:purrr’:
+
+    set_names
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+R.methodsS3 v1.8.2 (2022-06-13 22:00:14 UTC) successfully loaded. See ?R.methodsS3 for help.
+R.methodsS3 v1.8.2 (2022-06-13 22:00:14 UTC) successfully loaded. See ?R.methodsS3 for help.
+Loading required package: R.oo
+Loading required package: R.methodsS3
+R.methodsS3 v1.8.2 (2022-06-13 22:00:14 UTC) successfully loaded. See ?R.methodsS3 for help.
+R.oo v1.27.1 (2025-05-02 21:00:05 UTC) successfully loaded. See ?R.oo for help.
+R.oo v1.27.1 (2025-05-02 21:00:05 UTC) successfully loaded. See ?R.oo for help.
+R.methodsS3 v1.8.2 (2022-06-13 22:00:14 UTC) successfully loaded. See ?R.methodsS3 for help.
+R.oo v1.27.1 (2025-05-02 21:00:05 UTC) successfully loaded. See ?R.oo for help.
+
+
+Attaching package: ‘R.oo’
+Attaching package: ‘R.oo’
+
+
+The following object is masked from ‘package:R.methodsS3’:
+The following object is masked from ‘package:R.methodsS3’:
+
+
+    throw
+    throw
+
+
+The following object is masked from ‘package:magrittr’:
+The following object is masked from ‘package:magrittr’:
+
+
+    equals
+    equals
+
+
+The following objects are masked from ‘package:methods’:
+The following objects are masked from ‘package:methods’:
+
+
+    getClasses, getMethods
+    getClasses, getMethods
+
+
+The following objects are masked from ‘package:base’:
+The following objects are masked from ‘package:base’:
+
+
+    attach, detach, load, save
+    attach, detach, load, save
+
+
+
+Attaching package: ‘R.oo’
+
+The following object is masked from ‘package:R.methodsS3’:
+
+    throw
+
+The following object is masked from ‘package:magrittr’:
+
+    equals
+
+R.oo v1.27.1 (2025-05-02 21:00:05 UTC) successfully loaded. See ?R.oo for help.
+The following objects are masked from ‘package:methods’:
+
+    getClasses, getMethods
+
+The following objects are masked from ‘package:base’:
+
+    attach, detach, load, save
+
+R.utils v2.13.0 (2025-02-24 21:20:02 UTC) successfully loaded. See ?R.utils for help.
+R.utils v2.13.0 (2025-02-24 21:20:02 UTC) successfully loaded. See ?R.utils for help.
+
+Attaching package: ‘R.oo’
+
+The following object is masked from ‘package:R.methodsS3’:
+
+    throw
+
+The following object is masked from ‘package:magrittr’:
+
+    equals
+
+The following objects are masked from ‘package:methods’:
+
+    getClasses, getMethods
+
+The following objects are masked from ‘package:base’:
+
+    attach, detach, load, save
+
+R.utils v2.13.0 (2025-02-24 21:20:02 UTC) successfully loaded. See ?R.utils for help.
+
+Attaching package: ‘R.utils’
+
+
+Attaching package: ‘R.utils’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+The following object is masked from ‘package:Hmisc’:
+
+    capitalize
+
+The following object is masked from ‘package:Hmisc’:
+
+    capitalize
+
+The following object is masked from ‘package:lmtest’:
+
+    reset
+
+The following object is masked from ‘package:lmtest’:
+
+    reset
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+The following objects are masked from ‘package:base’:
+
+    cat, commandArgs, getOption, isOpen, nullfile, parse, use, warnings
+
+The following objects are masked from ‘package:base’:
+
+    cat, commandArgs, getOption, isOpen, nullfile, parse, use, warnings
+
+
+Attaching package: ‘R.utils’
+
+R.utils v2.13.0 (2025-02-24 21:20:02 UTC) successfully loaded. See ?R.utils for help.
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+The following object is masked from ‘package:Hmisc’:
+
+    capitalize
+
+The following object is masked from ‘package:lmtest’:
+
+    reset
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+The following objects are masked from ‘package:base’:
+
+    cat, commandArgs, getOption, isOpen, nullfile, parse, use, warnings
+
+
+Attaching package: ‘R.utils’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+The following object is masked from ‘package:Hmisc’:
+
+    capitalize
+
+The following object is masked from ‘package:lmtest’:
+
+    reset
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+The following objects are masked from ‘package:base’:
+
+    cat, commandArgs, getOption, isOpen, nullfile, parse, use, warnings
+
+
+Construyendo funcion joint sin correlacion desde nmm...
+
+Construyendo funcion joint sin correlacion desde nmm...
+
+Construyendo funcion joint sin correlacion desde nmm...
+
+Construyendo funcion joint sin correlacion desde nmm...
+
+LogLik start Paso 3: -55302.19 
+
+====================================================
+Paso 3 V4: DEoptim medio/amplio
+Iteraciones: 120 | NP: 60 | deconst: 1 
+LogLik start: -55302.19 
+====================================================
+====================================================
+Ejecutando: 03A_DEoptim_medio_amplio
+Inicio: 2026-06-11 23:20:42 
+itermax: 120 | NP: 60 | deconst: 1 
+Trace DEoptim: TRUE 
+====================================================
+Warning in DEoptim::DEoptim(fn = f_min_de, lower = as.numeric(bounds_de$lower),  :
+  For many problems it is best to set 'NP' (in 'control') to be at least ten times the length of the parameter vector. 
+
+
+LogLik start Paso 3: -55302.19 
+
+LogLik start Paso 3: -55302.19 
+
+====================================================
+Paso 3 V5: escalamiento progresivo DEoptim + NM
+LogLik start: -55302.19 
+Fases DEoptim:
+# A tibble: 3 × 5
+   fase descripcion            deconst    NP itermax
+  <int> <chr>                    <dbl> <int>   <int>
+1     1 DEoptim local estrecho    0.25    30      30
+2     2 DEoptim local medio       0.5     40      50
+3     3 DEoptim mas amplio        1       60      80
+====================================================
+
+----------------------------------------------------
+FASE 1 : DEoptim local estrecho 
+LogLik entrada: -55302.19 
+----------------------------------------------------
+
+LogLik start Paso 3: -55302.19 
+====================================================
+Etapa: 01_mtuem_nm_inicial_mnl_fijo 
+Metodo: NM | iterlim: 3000 
+Parametros libres: 3 
+Inicio: 2026-06-11 23:22:04 
+LogLik inicial: -55302.19 
+====================================================
+====================================================
+Ejecutando: DEoptim local estrecho 
+Fase: 1 
+Inicio: 2026-06-11 23:22:04 
+itermax: 30 | NP: 30 | deconst: 0.25 
+LogLik inicio: -55302.19 
+Trace DEoptim: FALSE 
+====================================================
+Warning in DEoptim::DEoptim(fn = f_min_de, lower = as.numeric(bounds$lower),  :
+  For many problems it is best to set 'NP' (in 'control') to be at least ten times the length of the parameter vector. 
+
+
+====================================================
+Paso 3 V6: NM y BFGS alternados
+LogLik start: -55302.19 
+Estrategia: alternar NM y BFGS en etapas acotadas. NM estabiliza y BFGS intenta convergencia formal desde puntos factibles.
+====================================================
+
+----------------------------------------------------
+Etapa 1 : 01_NM_00_calentamiento 
+Metodo: NM | iterlim: 1000 
+LogLik entrada: -55302.19 
+----------------------------------------------------
+====================================================
+Ejecutando: 01_NM_00_calentamiento 
+Metodo: NM | iterlim: 1000 
+Inicio: 2026-06-11 23:22:06 
+LogLik inicio: -55302.19 
+Parametros libres: 64 
+====================================================
+
+Fin: 2026-06-11 23:36:54 
+Duracion minutos: 14.845 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55302 
+Mejora frente al inicio: 0.1913048 
+====================================================
+Etapa: 02_mtuem_bfgs_inicial_mnl_fijo 
+Metodo: BFGS | iterlim: 1500 
+Parametros libres: 3 
+Inicio: 2026-06-11 23:37:03 
+LogLik inicial: -55302 
+====================================================
+Iteration: 1 bestvalit: 66348.352202 bestmemit:    0.361542    0.756376    0.743810   -0.386260   -3.994291   -2.958778   -0.358928   -2.011402   -0.386915    0.441995    1.525134    0.083583   -0.013997   -2.074492    0.138089   -2.002067   -1.163662   -0.753063   -0.568727    0.717328    1.282125   -0.443791    1.319354   -1.224458    1.621933   -0.802343   -0.277930    0.104063   -1.006240   -1.142811   -0.608714    0.043666   -0.153653   -0.790559   -0.442431   -0.427569   -0.952213   -0.627193   -1.463430   -1.192196   -0.943975   -0.786705   -1.293977    0.543455   -2.131895   -0.676796   -0.644573   -0.317919    0.513154    0.230009   -1.179724   -1.236549   -1.514343   -0.505472   -1.015588   -1.638551    0.147485   -0.323836   -0.150918   -1.243177   -0.806786   -0.211636   -0.347197   -0.516907
+Iteration: 2 bestvalit: 66175.991980 bestmemit:    0.361542    0.756376    0.743810   -0.386260   -3.994291   -2.958778   -0.358928   -2.011402   -0.386915    0.441995    1.525134    0.083583   -0.013997   -2.074492    0.138089   -2.002067   -1.163662   -0.753063   -0.568727    0.717328    1.282125   -0.443791    1.319354   -1.224458    1.621933   -0.802343   -0.277930    0.104063   -1.006240   -1.142811   -0.608714    0.043666   -0.153653   -0.790559   -0.442431   -0.427569   -0.952213   -0.627193   -1.463430   -1.192196   -0.943975   -0.786705   -1.293977    0.543455   -2.131895   -0.676796   -0.644573   -0.317919    0.513154    0.230009   -1.179724   -1.236549   -1.514343   -0.505472   -1.015588   -1.638551    0.147485   -0.323836   -0.150918   -0.764549   -1.261160   -0.211636   -0.347197   -0.516907
+
+Fin: 2026-06-11 23:46:16 
+Duracion minutos: 9.205 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55302 
+Mejora frente al inicio: 0.0002372146 
+Warning messages:
+1: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+2: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+3: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+4: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+5: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+6: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+7: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+8: In sqrt(.expr24) : NaNs produced
+====================================================
+Etapa: 03_ronda_01_mnl_nm_mtuem_fijo 
+Metodo: NM | iterlim: 6000 
+Parametros libres: 61 
+Inicio: 2026-06-11 23:46:24 
+LogLik inicial: -55302 
+====================================================
+Iteration: 3 bestvalit: 66175.991980 bestmemit:    0.361542    0.756376    0.743810   -0.386260   -3.994291   -2.958778   -0.358928   -2.011402   -0.386915    0.441995    1.525134    0.083583   -0.013997   -2.074492    0.138089   -2.002067   -1.163662   -0.753063   -0.568727    0.717328    1.282125   -0.443791    1.319354   -1.224458    1.621933   -0.802343   -0.277930    0.104063   -1.006240   -1.142811   -0.608714    0.043666   -0.153653   -0.790559   -0.442431   -0.427569   -0.952213   -0.627193   -1.463430   -1.192196   -0.943975   -0.786705   -1.293977    0.543455   -2.131895   -0.676796   -0.644573   -0.317919    0.513154    0.230009   -1.179724   -1.236549   -1.514343   -0.505472   -1.015588   -1.638551    0.147485   -0.323836   -0.150918   -0.764549   -1.261160   -0.211636   -0.347197   -0.516907
+Iteration: 4 bestvalit: 65779.676112 bestmemit:    0.361542    0.756376    0.743810   -0.386260   -3.994291   -2.958778   -0.358928   -2.011402   -0.386915    0.441995    1.525134    0.083583   -0.013997   -2.074492    0.138089   -2.002067   -1.163662   -0.753063   -0.568727    0.717328    1.282125   -0.443791    1.319354   -1.224458    1.621933   -0.802343   -0.277930    0.104063   -1.006240   -1.142811   -0.608714    0.043666   -0.153653   -0.790559   -0.442431   -0.427569   -0.952213   -0.627193   -1.463430   -1.192196   -0.943975   -0.786705   -1.293977    0.543455   -2.131895   -0.676796   -0.644573   -0.317919    0.472525    0.230009   -1.179724   -1.236549   -1.514343   -0.505472   -1.015588   -1.638551    0.147485   -0.323836   -0.150918   -0.764549   -1.261160   -0.211636   -0.347197   -0.516907
+Iteration: 5 bestvalit: 65779.676112 bestmemit:    0.361542    0.756376    0.743810   -0.386260   -3.994291   -2.958778   -0.358928   -2.011402   -0.386915    0.441995    1.525134    0.083583   -0.013997   -2.074492    0.138089   -2.002067   -1.163662   -0.753063   -0.568727    0.717328    1.282125   -0.443791    1.319354   -1.224458    1.621933   -0.802343   -0.277930    0.104063   -1.006240   -1.142811   -0.608714    0.043666   -0.153653   -0.790559   -0.442431   -0.427569   -0.952213   -0.627193   -1.463430   -1.192196   -0.943975   -0.786705   -1.293977    0.543455   -2.131895   -0.676796   -0.644573   -0.317919    0.472525    0.230009   -1.179724   -1.236549   -1.514343   -0.505472   -1.015588   -1.638551    0.147485   -0.323836   -0.150918   -0.764549   -1.261160   -0.211636   -0.347197   -0.516907
+Iteration: 6 bestvalit: 63763.363989 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905    0.281357   -3.367937   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.710812   -1.421593   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.228042    0.825307   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 7 bestvalit: 62103.856858 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905    0.281357   -3.367937   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.710812   -1.421593   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 8 bestvalit: 61772.243711 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905    0.281357   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.710812   -1.421593   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 9 bestvalit: 61769.702617 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905    0.281357   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 10 bestvalit: 61769.702617 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905    0.281357   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 11 bestvalit: 59745.835806 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 12 bestvalit: 59745.835806 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 13 bestvalit: 59745.835806 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 14 bestvalit: 59745.835806 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+
+Fin: 2026-06-12 01:31:14 
+Duracion minutos: 129.154 
+Estado: valido 
+Bestval DEoptim (min -LL): 55693.12 
+LogLik salida: -55693.12 
+Mejora: -390.9252 
+DEoptim fase 1 no mejora. Se mantiene punto anterior.
+====================================================
+Ejecutando: NM_post_DEoptim_fase_1 
+Inicio: 2026-06-12 01:31:23 
+Metodo: NM | iterlim: 8000 
+LogLik inicio: -55302.19 
+====================================================
+Iteration: 15 bestvalit: 59745.835806 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.716015   -0.797328   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 16 bestvalit: 59663.844981 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 17 bestvalit: 59663.844981 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 18 bestvalit: 59663.844981 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.390095   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 19 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 20 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 21 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 22 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 23 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 24 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 25 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 26 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 27 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 28 bestvalit: 59617.653409 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.928736   -1.824225    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 29 bestvalit: 59529.515075 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.076965    1.494347   -1.792994    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.422832   -1.418074    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 30 bestvalit: 59522.251876 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.253314    0.222579   -2.110998    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.422832   -1.418074    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 31 bestvalit: 59522.251876 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.253314    0.222579   -2.110998    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.422832   -1.418074    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.856438   -1.980994   -0.803880   -0.281575   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 32 bestvalit: 59521.862462 bestmemit:    0.104232    0.771516    0.951373   -0.704450   -3.135684   -1.949905   -0.871823   -3.638502   -1.837945   -0.025390    0.273212    0.253314    0.222579   -2.110998    0.629805   -1.567377   -0.275344    0.022102   -0.421286   -0.075314    1.422832   -1.418074    0.255550   -1.132725    1.051522    0.082920   -0.130295   -1.006013   -0.711568    0.279154    0.379459    0.189896    0.167938    0.331509   -0.201944   -0.689661   -1.158074   -0.310975   -1.349877   -1.270612   -1.813313   -0.159523   -1.285327    1.868326   -3.785116    0.260804   -0.135947   -0.806647    0.121674    1.106831   -0.650285   -1.780049   -1.482498   -0.865784   -0.282758    0.159224    1.576217   -0.051510   -0.589705    0.470257    0.271255   -0.465495   -1.051717    0.366674
+Iteration: 33 bestvalit: 58347.557387 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.978777    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.312001   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 34 bestvalit: 58347.524386 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.312001   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 35 bestvalit: 58347.524386 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.312001   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 36 bestvalit: 58347.524386 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.312001   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 37 bestvalit: 58347.524386 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.312001   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 38 bestvalit: 58347.524386 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.312001   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 39 bestvalit: 58315.203145 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 40 bestvalit: 58315.203145 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 41 bestvalit: 58315.203145 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 42 bestvalit: 58315.203145 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    1.162828    0.541749   -1.405522    1.330914   -1.802275    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 43 bestvalit: 58293.664244 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128    0.130376    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 44 bestvalit: 58252.561804 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 45 bestvalit: 58252.561804 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 46 bestvalit: 58252.561804 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 47 bestvalit: 58252.561804 bestmemit:    0.034200    0.811302    0.694832    0.060314   -2.844686   -2.656002    0.502481   -2.109481   -0.856392    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043    0.149180   -1.380754   -1.668796   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 48 bestvalit: 57554.766147 bestmemit:    0.272823    0.790509    0.619909   -0.649594   -3.442498   -2.552112    0.840457   -3.740223   -1.192755   -0.159803    0.564968    0.336780    1.403254   -1.618485    1.092401   -1.291298   -0.219857   -0.704817    0.369890    0.616938    0.773615   -0.614857    0.410128   -0.928242    0.007208    0.625525   -0.364743   -0.318485   -0.575794   -0.839229   -1.305914    0.222622    0.404027   -0.457343   -0.073939   -0.671685   -0.807493   -1.676394   -2.696301   -0.666443   -0.350596   -0.722372   -0.604223    0.708323   -3.542548   -1.162300   -0.409127   -0.490665   -0.324353    0.798790   -0.617306    0.003584   -1.467099   -0.449184   -0.583593   -1.584251    1.526676   -0.179760   -1.304246   -0.516369   -0.689472   -0.700814   -0.261160   -1.052810
+Iteration: 49 bestvalit: 57549.015235 bestmemit:    0.272823    0.790509    0.619909   -0.649594   -3.442498   -2.552112    0.840457   -3.740223   -1.192755   -0.159803    0.564968    0.336780    1.403254   -1.618485    1.092401   -1.291298   -0.219857   -0.704817    0.369890    0.616938    0.773615   -0.614857    0.410128   -0.928242    0.007208    0.625525   -0.364743   -0.318485   -0.575794   -0.839229   -1.305914    0.222622    0.404027   -0.457343   -0.073939   -1.648967   -0.040972   -1.672831   -2.095730   -0.666443   -0.350596   -0.722372   -0.604223    0.708323   -3.542548   -1.162300   -0.409127   -0.490665   -0.324353    0.798790   -0.617306    0.003584   -1.467099   -0.449184   -0.583593   -1.584251    1.526676   -0.179760   -1.304246   -0.516369   -0.689472   -0.700814   -0.261160   -1.052810
+Iteration: 50 bestvalit: 57549.015235 bestmemit:    0.272823    0.790509    0.619909   -0.649594   -3.442498   -2.552112    0.840457   -3.740223   -1.192755   -0.159803    0.564968    0.336780    1.403254   -1.618485    1.092401   -1.291298   -0.219857   -0.704817    0.369890    0.616938    0.773615   -0.614857    0.410128   -0.928242    0.007208    0.625525   -0.364743   -0.318485   -0.575794   -0.839229   -1.305914    0.222622    0.404027   -0.457343   -0.073939   -1.648967   -0.040972   -1.672831   -2.095730   -0.666443   -0.350596   -0.722372   -0.604223    0.708323   -3.542548   -1.162300   -0.409127   -0.490665   -0.324353    0.798790   -0.617306    0.003584   -1.467099   -0.449184   -0.583593   -1.584251    1.526676   -0.179760   -1.304246   -0.516369   -0.689472   -0.700814   -0.261160   -1.052810
+Iteration: 51 bestvalit: 57533.985893 bestmemit:    0.272823    0.790509    0.619909   -0.649594   -3.442498   -2.552112    0.840457   -3.740223   -1.192755   -0.159803    0.564968    0.336780    1.403254   -1.618485    1.092401   -1.291298   -0.219857   -0.704817    0.369890    0.616938    0.773615   -0.614857    0.410128   -0.928242    0.007208    0.625525   -0.364743   -0.318485   -0.575794   -0.839229   -1.305914    0.222622    0.404027   -0.457343   -0.073939   -1.648967   -0.040972   -1.672831   -2.095730   -0.666443   -0.350596   -0.722372   -0.604223    0.708323   -3.542548   -0.700816   -0.409127   -0.490665   -0.324353    0.798790   -0.617306    0.003584   -1.467099   -0.449184   -0.583593   -1.584251    1.526676   -0.179760   -1.304246   -0.516369   -0.689472   -0.700814   -0.261160   -1.052810
+Iteration: 52 bestvalit: 57533.985893 bestmemit:    0.272823    0.790509    0.619909   -0.649594   -3.442498   -2.552112    0.840457   -3.740223   -1.192755   -0.159803    0.564968    0.336780    1.403254   -1.618485    1.092401   -1.291298   -0.219857   -0.704817    0.369890    0.616938    0.773615   -0.614857    0.410128   -0.928242    0.007208    0.625525   -0.364743   -0.318485   -0.575794   -0.839229   -1.305914    0.222622    0.404027   -0.457343   -0.073939   -1.648967   -0.040972   -1.672831   -2.095730   -0.666443   -0.350596   -0.722372   -0.604223    0.708323   -3.542548   -0.700816   -0.409127   -0.490665   -0.324353    0.798790   -0.617306    0.003584   -1.467099   -0.449184   -0.583593   -1.584251    1.526676   -0.179760   -1.304246   -0.516369   -0.689472   -0.700814   -0.261160   -1.052810
+Iteration: 53 bestvalit: 57533.985893 bestmemit:    0.272823    0.790509    0.619909   -0.649594   -3.442498   -2.552112    0.840457   -3.740223   -1.192755   -0.159803    0.564968    0.336780    1.403254   -1.618485    1.092401   -1.291298   -0.219857   -0.704817    0.369890    0.616938    0.773615   -0.614857    0.410128   -0.928242    0.007208    0.625525   -0.364743   -0.318485   -0.575794   -0.839229   -1.305914    0.222622    0.404027   -0.457343   -0.073939   -1.648967   -0.040972   -1.672831   -2.095730   -0.666443   -0.350596   -0.722372   -0.604223    0.708323   -3.542548   -0.700816   -0.409127   -0.490665   -0.324353    0.798790   -0.617306    0.003584   -1.467099   -0.449184   -0.583593   -1.584251    1.526676   -0.179760   -1.304246   -0.516369   -0.689472   -0.700814   -0.261160   -1.052810
+Iteration: 54 bestvalit: 57514.210625 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.925163    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 55 bestvalit: 57462.427592 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 56 bestvalit: 57462.427592 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 57 bestvalit: 57462.427592 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 58 bestvalit: 57462.427592 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.255653   -1.405830    1.057140   -1.846983    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 59 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 60 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 61 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 62 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 63 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 64 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 65 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 66 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 67 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 68 bestvalit: 57461.806159 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.571128   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 69 bestvalit: 57434.000980 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.358266   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 70 bestvalit: 57434.000980 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.358266   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.853904   -3.728941    0.074252   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 71 bestvalit: 57409.261947 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -1.229346    0.358266   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 72 bestvalit: 57347.131085 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -2.844686   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 73 bestvalit: 57324.427243 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.178043   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 74 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 75 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 76 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 77 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 78 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 79 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 80 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 81 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 82 bestvalit: 57288.419353 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.803765   -1.565774   -0.721862   -0.546255   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.875039    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 83 bestvalit: 57226.866564 bestmemit:    0.265181    0.798860    0.327723    0.646097   -3.012858   -2.190410   -0.086402   -3.004235   -1.789036    0.818224    1.321921    0.987735    0.142698   -0.982079    1.211664   -1.583077   -0.241338   -1.353863   -1.076102   -0.092023    0.393565   -1.551118    0.866963   -1.037855    1.098414   -0.357061    0.217759   -0.984929   -0.268929   -1.199004   -1.176797    0.208149    0.586767    0.271906   -0.056043   -1.455567   -0.664107   -0.986930   -1.790740   -1.245068   -1.110481   -0.910475   -0.764881    1.780944   -3.291314   -1.038488   -1.063374   -0.785257   -0.112660    0.420244   -0.183297    0.093895   -1.288986   -0.079365   -1.047684   -0.066358    1.064947   -0.273659   -1.450529   -0.007521   -0.154085   -0.407332   -0.478213   -0.920831
+Iteration: 84 bestvalit: 57226.866564 bestmemit:    0.265181    0.798860    0.327723    0.646097   -3.012858   -2.190410   -0.086402   -3.004235   -1.789036    0.818224    1.321921    0.987735    0.142698   -0.982079    1.211664   -1.583077   -0.241338   -1.353863   -1.076102   -0.092023    0.393565   -1.551118    0.866963   -1.037855    1.098414   -0.357061    0.217759   -0.984929   -0.268929   -1.199004   -1.176797    0.208149    0.586767    0.271906   -0.056043   -1.455567   -0.664107   -0.986930   -1.790740   -1.245068   -1.110481   -0.910475   -0.764881    1.780944   -3.291314   -1.038488   -1.063374   -0.785257   -0.112660    0.420244   -0.183297    0.093895   -1.288986   -0.079365   -1.047684   -0.066358    1.064947   -0.273659   -1.450529   -0.007521   -0.154085   -0.407332   -0.478213   -0.920831
+Iteration: 85 bestvalit: 57226.866564 bestmemit:    0.265181    0.798860    0.327723    0.646097   -3.012858   -2.190410   -0.086402   -3.004235   -1.789036    0.818224    1.321921    0.987735    0.142698   -0.982079    1.211664   -1.583077   -0.241338   -1.353863   -1.076102   -0.092023    0.393565   -1.551118    0.866963   -1.037855    1.098414   -0.357061    0.217759   -0.984929   -0.268929   -1.199004   -1.176797    0.208149    0.586767    0.271906   -0.056043   -1.455567   -0.664107   -0.986930   -1.790740   -1.245068   -1.110481   -0.910475   -0.764881    1.780944   -3.291314   -1.038488   -1.063374   -0.785257   -0.112660    0.420244   -0.183297    0.093895   -1.288986   -0.079365   -1.047684   -0.066358    1.064947   -0.273659   -1.450529   -0.007521   -0.154085   -0.407332   -0.478213   -0.920831
+Iteration: 86 bestvalit: 57226.866564 bestmemit:    0.265181    0.798860    0.327723    0.646097   -3.012858   -2.190410   -0.086402   -3.004235   -1.789036    0.818224    1.321921    0.987735    0.142698   -0.982079    1.211664   -1.583077   -0.241338   -1.353863   -1.076102   -0.092023    0.393565   -1.551118    0.866963   -1.037855    1.098414   -0.357061    0.217759   -0.984929   -0.268929   -1.199004   -1.176797    0.208149    0.586767    0.271906   -0.056043   -1.455567   -0.664107   -0.986930   -1.790740   -1.245068   -1.110481   -0.910475   -0.764881    1.780944   -3.291314   -1.038488   -1.063374   -0.785257   -0.112660    0.420244   -0.183297    0.093895   -1.288986   -0.079365   -1.047684   -0.066358    1.064947   -0.273659   -1.450529   -0.007521   -0.154085   -0.407332   -0.478213   -0.920831
+Iteration: 87 bestvalit: 57144.576480 bestmemit:    0.034200    0.811302    0.872440   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.713423   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 88 bestvalit: 57131.924322 bestmemit:    0.265181    0.798860    0.327723    0.646097   -3.012858   -2.190410   -0.086402   -3.004235   -1.789036    0.818224    1.321921    0.987735    0.142698   -0.982079    1.211664   -1.583077   -0.241338   -1.353863   -1.076102   -0.092023    0.393565   -1.551118    0.866963   -1.037855    1.098414   -0.357061    0.217759   -0.984929   -0.268929   -1.199004   -1.176797    0.208149    0.586767    0.271906   -0.056043   -1.455567   -0.664107   -0.986930   -1.790740   -1.245068   -1.110481   -0.910475   -0.764881    1.780944   -3.291314   -1.038488   -1.063374   -0.785257   -0.112660    0.420244   -0.183297    0.093895   -1.288986   -0.079365   -1.047684   -0.066358    1.064947   -0.273659   -0.770542   -0.949316   -0.023782   -0.407332   -0.478213   -0.920831
+Iteration: 89 bestvalit: 57124.264924 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.047420    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 90 bestvalit: 57064.883876 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 91 bestvalit: 57064.883876 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872    0.029460   -0.218186   -1.092728   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 92 bestvalit: 57054.772235 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 93 bestvalit: 57054.772235 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 94 bestvalit: 57054.772235 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.418363    0.015257   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 95 bestvalit: 57054.623407 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.367707    0.023177   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.349170    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 96 bestvalit: 57018.971799 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.367707    0.023177   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.664158    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 97 bestvalit: 57018.971799 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.367707    0.023177   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.249654   -2.238883   -1.469616   -1.522533   -0.664158    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 98 bestvalit: 57006.668433 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.367707    0.023177   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.330219   -1.731141   -1.469616   -1.522533   -0.664158    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 99 bestvalit: 57006.668433 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.367707    0.023177   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.330219   -1.731141   -1.469616   -1.522533   -0.664158    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 100 bestvalit: 57006.668433 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.503993   -1.060320    0.886226   -2.367707    0.023177   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.515364   -0.607139   -1.297145    0.162502   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -2.596082   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.330219   -1.731141   -1.469616   -1.522533   -0.664158    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 101 bestvalit: 56968.283652 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    0.925295    1.064294   -1.887499    0.301279   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.466460    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.009595    1.219727   -0.116719   -1.178602   -1.088658   -0.049942    0.038848   -0.653923    0.591823
+Iteration: 102 bestvalit: 56942.665901 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    0.925295    1.064294   -1.887499    0.301279   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.009595    1.219727   -0.116719   -1.178602   -1.088658   -0.049942    0.038848   -0.653923    0.591823
+Iteration: 103 bestvalit: 56942.665901 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    0.925295    1.064294   -1.887499    0.301279   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.009595    1.219727   -0.116719   -1.178602   -1.088658   -0.049942    0.038848   -0.653923    0.591823
+Iteration: 104 bestvalit: 56868.341492 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    0.925295    1.064294   -1.887499    0.301279   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -0.049942    0.038848   -0.653923    0.591823
+Iteration: 105 bestvalit: 56868.341492 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    0.925295    1.064294   -1.887499    0.301279   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -0.049942    0.038848   -0.653923    0.591823
+Iteration: 106 bestvalit: 56868.341492 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    0.925295    1.064294   -1.887499    0.301279   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -0.049942    0.038848   -0.653923    0.591823
+Iteration: 107 bestvalit: 56832.205767 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.794421   -0.852962    0.886226   -2.367707    0.023177   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.728307   -0.949257    0.285736   -0.158919   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -1.607724   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.330219   -1.731141   -1.469616   -1.522533   -0.664158    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 108 bestvalit: 56832.205767 bestmemit:    0.034200    0.811302    0.818887   -0.116250   -3.062388   -2.656002    0.502481   -3.175395   -1.234163    0.912493    1.835944    0.886296    0.794421   -0.852962    0.886226   -2.367707    0.023177   -0.032139   -0.280397    0.017500    0.428497   -1.111142    0.655961   -1.376325    0.413093    0.213077   -0.728307   -0.949257    0.285736   -0.158919   -0.324674    0.071912   -0.532461    0.358266   -0.486901   -1.693378   -0.637245   -1.283964   -1.607724   -0.719733   -0.587013   -0.832622   -0.850015    0.688226   -3.870872   -0.549599   -0.171829   -0.902000   -0.166306    0.662457   -0.649890   -0.330219   -1.731141   -1.469616   -1.522533   -0.664158    1.257068   -0.044925   -1.157799   -0.460192    0.295122   -1.147932   -0.960118   -0.221154
+Iteration: 109 bestvalit: 56797.100220 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 110 bestvalit: 56797.100220 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 111 bestvalit: 56797.100220 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 112 bestvalit: 56797.100220 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 113 bestvalit: 56797.100220 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.083086   -1.355976    0.697238    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 114 bestvalit: 56786.672589 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.256677   -1.347492    0.125395    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 115 bestvalit: 56786.672589 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.256677   -1.347492    0.125395    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.938520   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 116 bestvalit: 56724.228779 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.256677   -1.347492    0.125395    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.203549   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.077915   -0.792575    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 117 bestvalit: 56695.819198 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.256677   -1.347492    0.125395    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.203549   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.232283   -1.146065    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.653923    0.591823
+Iteration: 118 bestvalit: 56695.811840 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.256677   -1.347492    0.125395    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.203549   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.232283   -1.146065    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.643559    0.591823
+Iteration: 119 bestvalit: 56695.811840 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.256677   -1.347492    0.125395    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.203549   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.232283   -1.146065    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.643559    0.591823
+Iteration: 120 bestvalit: 56695.811840 bestmemit:    0.234569    0.803213    0.468269    0.051832   -3.129593   -1.799024   -0.871060   -3.156398   -1.418582    0.530271    0.769622    1.105606    0.589637   -2.438523    0.706052   -2.596315   -0.565489   -1.137182    0.115108   -0.040585    1.757720   -0.848515    0.256677   -1.347492    0.125395    0.149459   -0.630942   -0.913182   -0.579508    0.276859   -0.871604   -0.168815   -0.203549   -0.098605    0.080839   -0.050984   -0.497418   -1.314087   -2.029013   -0.624098   -1.893148   -0.232283   -1.146065    1.556991   -3.030419    0.030977    0.248523   -0.714421   -0.103945    0.577040   -1.081192   -1.657862   -1.205211   -0.676477   -0.576485   -0.371400    1.219727   -0.116719   -1.178602   -1.088658   -1.189520    0.038848   -0.643559    0.591823
+
+Fin DEoptim: 2026-06-12 15:50:37 
+Duracion minutos: 989.919 
+Estado DEoptim: valido 
+Bestval DEoptim (min -LL): 56695.81 
+LogLik DEoptim: -56695.81 
+Mejora vs start: -1393.622 
+
+DEoptim no mejora el start. El NM largo parte desde el mejor punto disponible previo.
+
+====================================================
+Paso 3 V4: NM largo post-DEoptim
+Iteraciones NM: 30000 
+LogLik inicio NM: -55302.19 
+====================================================
+====================================================
+Ejecutando: 03B_NM_largo_post_DEoptim 
+Inicio: 2026-06-12 15:50:45 
+Metodo: NM | iterlim: 30000 
+LogLik inicio: -55302.19 
+====================================================
+
+Estado: valido 
+Code: 1 
+Mensaje: 1 
+LogLik salida: -55287.64 
+Mejora: 14.54869 
+
+Fin: 2026-06-13 07:26:18 
+Duracion minutos: 1924.191 
+Resultado aceptado. LogLik actual: -55287.64 
+
+----------------------------------------------------
+Etapa 2 : 02_BFGS_00_calentamiento 
+Metodo: BFGS | iterlim: 500 
+LogLik entrada: -55287.64 
+----------------------------------------------------
+====================================================
+Ejecutando: 02_BFGS_00_calentamiento 
+Metodo: BFGS | iterlim: 500 
+Inicio: 2026-06-13 07:26:26 
+LogLik inicio: -55287.64 
+Parametros libres: 64 
+====================================================
