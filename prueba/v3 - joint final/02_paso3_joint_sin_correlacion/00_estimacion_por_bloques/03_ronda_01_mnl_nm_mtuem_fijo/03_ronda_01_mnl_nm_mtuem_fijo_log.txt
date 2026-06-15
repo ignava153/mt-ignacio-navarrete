@@ -1,0 +1,7 @@
+====================================================
+Etapa: 03_ronda_01_mnl_nm_mtuem_fijo 
+Metodo: NM | iterlim: 6000 
+Parametros libres: 61 
+Inicio: 2026-06-11 23:46:24 
+LogLik inicial: -55302 
+====================================================

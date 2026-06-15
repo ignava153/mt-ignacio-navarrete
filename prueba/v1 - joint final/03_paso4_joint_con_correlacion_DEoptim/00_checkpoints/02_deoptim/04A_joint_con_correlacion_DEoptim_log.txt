@@ -1,0 +1,6 @@
+====================================================
+Ejecutando: 04A_joint_con_correlacion_DEoptim 
+Inicio: 2026-06-13 03:50:13 
+====================================================
+[1] "DEoptim is used for optimization. This may take a while."
+[1] "Algorithm NA produced an error. Trying out next algorithm."

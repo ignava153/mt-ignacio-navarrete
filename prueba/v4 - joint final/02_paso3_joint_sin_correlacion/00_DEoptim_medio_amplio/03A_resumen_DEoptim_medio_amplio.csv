@@ -1,0 +1,2 @@
+etapa,estado,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,itermax,NP,deconst,mensaje
+03A_DEoptim_medio_amplio,valido,2026-06-11 23:20:42.322917,2026-06-12 15:50:37.435715,989.919,-55302.19029059822,-56695.811840066075,-1393.6215494678545,120,60,1,DEoptim termino

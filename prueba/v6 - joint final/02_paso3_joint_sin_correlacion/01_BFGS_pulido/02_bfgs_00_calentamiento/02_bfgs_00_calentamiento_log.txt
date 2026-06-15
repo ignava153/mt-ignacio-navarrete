@@ -1,0 +1,7 @@
+====================================================
+Ejecutando: 02_BFGS_00_calentamiento 
+Metodo: BFGS | iterlim: 500 
+Inicio: 2026-06-13 07:26:26 
+LogLik inicio: -55287.64 
+Parametros libres: 64 
+====================================================

@@ -1,0 +1,2 @@
+etapa,metodo,iterlim,parametros_libres,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,code,mensaje,estado
+01_mtuem_nm_inicial_mnl_fijo,NM,3000,3,2026-06-11 23:22:04.270946,2026-06-11 23:36:54.985224,14.845,-55302.19029059822,-55301.99898583856,0.19130475966085214,0,0,valido_aceptado

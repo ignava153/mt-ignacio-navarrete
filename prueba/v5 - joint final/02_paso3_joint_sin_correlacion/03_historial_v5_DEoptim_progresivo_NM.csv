@@ -1,0 +1,2 @@
+etapa,descripcion,metodo,fase,itermax,NP,deconst,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,bestval,estado,mensaje
+DEoptim fase 1,DEoptim local estrecho,DEoptim,1,30,30,0.25,2026-06-11 23:22:04.885799,2026-06-12 01:31:14.128195,129.154,-55302.19029059822,-55693.11553283519,-390.9252422369682,55693.11553283519,valido,DEoptim termino
