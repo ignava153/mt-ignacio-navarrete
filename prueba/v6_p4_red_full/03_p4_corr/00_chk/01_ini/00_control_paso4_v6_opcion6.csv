@@ -1,0 +1,2 @@
+estrategia,n_parametros_full,n_parametros_reducido,parametros_excluidos,iter_reducido_nm,iter_completo_nm,deconst_paso4,tiempo_max_horas,nota
+v6_joint_paso4_opcion6_reducido_completo,64,61,"ASC2, ASC5, BCP_4",90000,200000,7,240,El modelo reducido se usa solo para obtener valores iniciales; el resultado final corresponde al modelo completo.

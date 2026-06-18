@@ -1,0 +1,2 @@
+estrategia,iter_deoptim_inicial,iter_nm_final,deconst_paso4,tiempo_max_horas,nota
+v3_joint_paso4_opcion2_DEoptim_inicial_NM_final,30000,180000,7,240,DEoptim_run_main = TRUE usa DEoptim como etapa inicial/acotada dentro de nmm; luego se corre NM final con el mejor punto disponible.

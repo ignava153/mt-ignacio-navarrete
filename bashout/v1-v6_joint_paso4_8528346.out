@@ -1,0 +1,28 @@
+====================================================
+Ejecutando: 04A_objeto_base_joint_con_correlacion_sin_estimar 
+Inicio: 2026-06-18 14:03:11 
+====================================================
+====================================================
+Ejecutando: 04A_joint_con_correlacion_DEoptim_inicial_desde_paso3 
+Inicio: 2026-06-18 14:03:11 
+====================================================
+====================================================
+Ejecutando: 04A_red_NM_desde_p3 
+Inicio: 2026-06-18 14:03:11 
+Carpeta log: /home/preyes/mt-ignacio-navarrete/prueba/v6_p4_red_full/03_p4_corr/00_chk/02_red 
+Archivo RDS: prueba/v6_p4_red_full/03_p4_corr/00_chk/02_red/04A_red_nm.rds 
+====================================================
+====================================================
+Ejecutando: 04A_joint_con_correlacion_BFGS_corto_desde_paso3 
+Inicio: 2026-06-18 14:03:11 
+====================================================
+====================================================
+Ejecutando: 04A_joint_con_correlacion_NM_directo_desde_paso3 
+Inicio: 2026-06-18 14:03:12 
+====================================================
+====================================================
+Ejecutando: 04A_sub_NM_desde_p3 
+Inicio: 2026-06-18 14:03:12 
+Carpeta log: /home/preyes/mt-ignacio-navarrete/prueba/v5_p4_sub_full/03_p4_corr/00_chk/02_sub 
+Archivo RDS: prueba/v5_p4_sub_full/03_p4_corr/00_chk/02_sub/04A_sub_nm.rds 
+====================================================

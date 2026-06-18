@@ -1,0 +1,7 @@
+ASC1
+ASC2 + BTD_2*mod_TD + BTC_2*mod_TC + BED_2*mod_ED + BFEM_2*female + BZSUR_2*zona_sur + BAGE65_2*edad_65mas + BNTRAB_2*n_trabajadores + BPAREJA_2*vive_pareja + BESC_2*educ_secundaria + BTEC_2*educ_tecnica + BUNI_2*educ_universitaria + BQ4_2*quintil_4 + BQ5_2*quintil_5
+ASC3 + BCP_3*mod_CP + BFEM_3*female + BZSUR_3*zona_sur + BAGE65_3*edad_65mas + BPAREJA_3*vive_pareja + BUNI_3*educ_universitaria
+ASC4 + BTD_4*mod_TD + BTC_4*mod_TC + BCP_4*mod_CP + BFEM_4*female + BZCEN_4*zona_centro + BPAREJA_4*vive_pareja + BESC_4*educ_secundaria + BUNI_4*educ_universitaria
+ASC5 + BTD_5*mod_TD + BTMOD_5*T_mod_10h + BFEM_5*female + BZCEN_5*zona_centro + BZSUR_5*zona_sur + BAGE65_5*edad_65mas + BPAREJA_5*vive_pareja + BESC_5*educ_secundaria + BTEC_5*educ_tecnica + BUNI_5*educ_universitaria + BQ3_5*quintil_3 + BQ4_5*quintil_4 + BQ5_5*quintil_5
+ASC6 + BTD_6*mod_TD + BTC_6*mod_TC + BED_6*mod_ED + BTMOD_6*T_mod_10h + BFEM_6*female + BZCEN_6*zona_centro + BZSUR_6*zona_sur + BPAREJA_6*vive_pareja + BUNI_6*educ_universitaria
+ASC7 + BTC_7*mod_TC + BFEM_7*female + BZSUR_7*zona_sur + BPAREJA_7*vive_pareja + BTEC_7*educ_tecnica + BUNI_7*educ_universitaria

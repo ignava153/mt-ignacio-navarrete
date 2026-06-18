@@ -1,0 +1,2 @@
+estrategia,iter_bfgs_corto,iter_nm_largo,iter_deoptim_final,deconst_paso4,tiempo_max_horas
+v2_joint_paso4_opcion1_BFGS_corto_NM_largo_DEoptim_final,5000,150000,30000,7,240

@@ -1,0 +1,9 @@
+====================================================
+Ejecutando: 04B_full_NM_post_red 
+Inicio: 2026-06-18 14:47:26 
+Carpeta log: /home/preyes/mt-ignacio-navarrete/prueba/v6_p4_red_full/03_p4_corr/00_chk/03_full_nm 
+Archivo RDS: prueba/v6_p4_red_full/03_p4_corr/00_chk/03_full_nm/04B_full_nm.rds 
+====================================================
+
+WARNING:
+NaNs produced 

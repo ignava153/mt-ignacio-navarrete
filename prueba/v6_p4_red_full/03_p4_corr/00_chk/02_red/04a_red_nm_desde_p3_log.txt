@@ -1,0 +1,17 @@
+====================================================
+Ejecutando: 04A_red_NM_desde_p3 
+Inicio: 2026-06-18 14:21:10 
+Carpeta log: /home/preyes/mt-ignacio-navarrete/prueba/v6_p4_red_full/03_p4_corr/00_chk/02_red 
+Archivo RDS: prueba/v6_p4_red_full/03_p4_corr/00_chk/02_red/04A_red_nm.rds 
+====================================================
+[1] "Algorithm NM produced an error. Trying out next algorithm."
+[1] "Algorithm BFGS produced an error. Trying out next algorithm."
+[1] "Algorithm NR produced an error. Trying out next algorithm."
+[1] "Algorithm CG produced an error. Trying out next algorithm."
+[1] "Algorithm SANN produced an error. Trying out next algorithm."
+
+ERROR:
+$ operator is invalid for atomic vectors 
+
+Fin: 2026-06-18 14:47:26 
+Duracion minutos: 26.26 

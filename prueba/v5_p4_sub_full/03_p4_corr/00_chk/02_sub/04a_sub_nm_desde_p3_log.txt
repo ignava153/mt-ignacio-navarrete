@@ -1,0 +1,9 @@
+====================================================
+Ejecutando: 04A_sub_NM_desde_p3 
+Inicio: 2026-06-18 14:21:10 
+Carpeta log: /home/preyes/mt-ignacio-navarrete/prueba/v5_p4_sub_full/03_p4_corr/00_chk/02_sub 
+Archivo RDS: prueba/v5_p4_sub_full/03_p4_corr/00_chk/02_sub/04A_sub_nm.rds 
+====================================================
+
+WARNING:
+NaNs produced 

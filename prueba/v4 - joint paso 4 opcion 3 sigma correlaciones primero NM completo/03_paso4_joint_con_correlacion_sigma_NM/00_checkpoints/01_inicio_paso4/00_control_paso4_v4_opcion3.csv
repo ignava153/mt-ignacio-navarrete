@@ -1,0 +1,2 @@
+estrategia,iter_sigma_deoptim,iter_nm_completo,deconst_paso4,tiempo_max_horas,nota
+v4_joint_paso4_opcion3_sigma_correlaciones_primero_NM_completo,100,200000,7,240,Primero se usa nmm_sigma para optimizar sigma/correlaciones con coeficientes fijos del paso 3; luego se corre NM completo con corrl=TRUE.

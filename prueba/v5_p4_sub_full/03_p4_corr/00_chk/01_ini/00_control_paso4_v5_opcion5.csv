@@ -1,0 +1,2 @@
+estrategia,proporcion_submuestra,n_personas_total,n_personas_submuestra,n_filas_total_data_nmm,n_filas_submuestra_data_nmm,iter_submuestra_nm,iter_muestra_completa_nm,deconst_paso4,tiempo_max_horas,nota
+v5_joint_paso4_opcion5_submuestra_grande_muestra_completa,0.5,7925,3962,12083,6037,90000,200000,7,240,La submuestra se usa solo para obtener valores iniciales; el resultado final corresponde a la muestra completa.
