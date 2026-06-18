@@ -1,0 +1,2 @@
+etapa,metodo,iterlim,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,code,mensaje,estado
+03B_NM_largo_post_DEoptim,NM,30000,2026-06-12 15:50:45.506559,2026-06-16 18:16:24.842359,5905.656,-55302.19029059822,-55281.97025037429,20.2200402239323,1,1,valido

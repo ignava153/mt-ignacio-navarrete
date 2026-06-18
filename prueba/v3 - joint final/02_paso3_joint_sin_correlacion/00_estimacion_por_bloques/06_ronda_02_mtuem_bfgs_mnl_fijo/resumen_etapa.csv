@@ -1,0 +1,2 @@
+etapa,metodo,iterlim,parametros_libres,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,code,mensaje,estado
+06_ronda_02_mtuem_bfgs_mnl_fijo,BFGS,1000,3,2026-06-17 17:53:48.103463,2026-06-17 18:02:40.576918,8.875,-55276.48652314524,-55276.48651589708,7.248163456097245e-6,0,0,valido_aceptado

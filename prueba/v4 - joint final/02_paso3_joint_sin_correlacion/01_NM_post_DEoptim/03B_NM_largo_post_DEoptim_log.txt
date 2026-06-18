@@ -4,3 +4,11 @@ Inicio: 2026-06-12 15:50:45
 Metodo: NM | iterlim: 30000 
 LogLik inicio: -55302.19 
 ====================================================
+
+Fin: 2026-06-16 18:16:24 
+Duracion minutos: 5905.656 
+Estado: valido 
+Code: 1 
+Mensaje: 1 
+LogLik salida: -55281.97 
+Mejora: 20.22004 

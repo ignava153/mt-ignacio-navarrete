@@ -1,0 +1,16 @@
+====================================================
+Ejecutando: 03_NM_ronda_01 
+Metodo: NM | iterlim: 3000 
+Inicio: 2026-06-15 04:25:58 
+LogLik inicio: -55276.48 
+Parametros libres: 64 
+====================================================
+
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55276.48 
+Mejora: 0.001103476 
+
+Fin: 2026-06-16 13:46:04 
+Duracion minutos: 2000.104 

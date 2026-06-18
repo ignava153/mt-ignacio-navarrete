@@ -1,0 +1,2 @@
+etapa,estrategia,metodo,iterlim,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,code,mensaje,estado
+02_BFGS_00_calentamiento,v6_NM_BFGS_alternado,BFGS,500,2026-06-13 07:26:26.589325,2026-06-15 04:25:49.639529,2699.384,-55287.64160506556,-55276.48074267203,11.160862393531715,0,0,valido

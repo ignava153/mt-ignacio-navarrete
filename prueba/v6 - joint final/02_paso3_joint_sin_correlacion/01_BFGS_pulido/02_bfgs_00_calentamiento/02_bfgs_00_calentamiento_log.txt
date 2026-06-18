@@ -5,3 +5,12 @@ Inicio: 2026-06-13 07:26:26
 LogLik inicio: -55287.64 
 Parametros libres: 64 
 ====================================================
+
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55276.48 
+Mejora: 11.16086 
+
+Fin: 2026-06-15 04:25:49 
+Duracion minutos: 2699.384 

@@ -5,3 +5,11 @@ Parametros libres: 61
 Inicio: 2026-06-11 23:46:24 
 LogLik inicial: -55302 
 ====================================================
+
+Fin: 2026-06-13 16:50:32 
+Duracion minutos: 2464.126 
+Estado: valido_aceptado 
+Code: 1 
+Mensaje: 1 
+LogLik candidato: -55281.76 
+Mejora frente al inicio: 20.24269 

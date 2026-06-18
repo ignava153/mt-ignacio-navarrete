@@ -1,0 +1,2 @@
+etapa,descripcion,metodo,fase,itermax,NP,deconst,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,bestval,estado,mensaje,code
+NM_post_DEoptim_fase_3,NM_post_DEoptim_fase_3,NM,NA,8000,NA,NA,2026-06-16 16:39:09.524978,2026-06-18 05:50:52.415227,2231.715,-55281.46659963444,-55281.199624362765,0.2669752716756193,NA,valido,0,0

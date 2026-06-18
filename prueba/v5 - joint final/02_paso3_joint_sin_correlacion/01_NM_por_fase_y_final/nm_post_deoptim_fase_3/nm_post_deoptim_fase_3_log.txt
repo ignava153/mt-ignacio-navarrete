@@ -1,0 +1,14 @@
+====================================================
+Ejecutando: NM_post_DEoptim_fase_3 
+Inicio: 2026-06-16 16:39:09 
+Metodo: NM | iterlim: 8000 
+LogLik inicio: -55281.47 
+====================================================
+
+Fin: 2026-06-18 05:50:52 
+Duracion minutos: 2231.715 
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55281.2 
+Mejora: 0.2669753 

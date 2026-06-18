@@ -1119,3 +1119,322 @@ Inicio: 2026-06-13 07:26:26
 LogLik inicio: -55287.64 
 Parametros libres: 64 
 ====================================================
+
+Fin: 2026-06-13 16:50:32 
+Duracion minutos: 2464.126 
+Estado: valido_aceptado 
+Code: 1 
+Mensaje: 1 
+LogLik candidato: -55281.76 
+Mejora frente al inicio: 20.24269 
+====================================================
+Etapa: 04_ronda_01_mnl_bfgs_mtuem_fijo 
+Metodo: BFGS | iterlim: 1500 
+Parametros libres: 61 
+Inicio: 2026-06-13 16:50:41 
+LogLik inicial: -55281.76 
+====================================================
+
+Fin: 2026-06-14 00:46:54 
+Duracion minutos: 2835.516 
+Estado: valido 
+Code: 1 
+Mensaje: 1 
+LogLik salida: -55282.79 
+Mejora: 19.4046 
+NM fase 1 valido. LogLik actual: -55282.79 
+
+----------------------------------------------------
+FASE 2 : DEoptim local medio 
+LogLik entrada: -55282.79 
+----------------------------------------------------
+====================================================
+Ejecutando: DEoptim local medio 
+Fase: 2 
+Inicio: 2026-06-14 00:47:44 
+itermax: 50 | NP: 40 | deconst: 0.5 
+LogLik inicio: -55282.79 
+Trace DEoptim: FALSE 
+====================================================
+Warning in DEoptim::DEoptim(fn = f_min_de, lower = as.numeric(bounds$lower),  :
+  For many problems it is best to set 'NP' (in 'control') to be at least ten times the length of the parameter vector. 
+
+
+Fin: 2026-06-14 05:28:59 
+Duracion minutos: 281.246 
+Estado: valido 
+Bestval DEoptim (min -LL): 55948.21 
+LogLik salida: -55948.21 
+Mejora: -665.4263 
+DEoptim fase 2 no mejora. Se mantiene punto anterior.
+====================================================
+Ejecutando: NM_post_DEoptim_fase_2 
+Inicio: 2026-06-14 05:29:07 
+Metodo: NM | iterlim: 8000 
+LogLik inicio: -55282.79 
+====================================================
+
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55276.48 
+Mejora: 11.16086 
+
+Fin: 2026-06-15 04:25:49 
+Duracion minutos: 2699.384 
+Resultado aceptado. LogLik actual: -55276.48 
+
+----------------------------------------------------
+Etapa 3 : 03_NM_ronda_01 
+Metodo: NM | iterlim: 3000 
+LogLik entrada: -55276.48 
+----------------------------------------------------
+====================================================
+Ejecutando: 03_NM_ronda_01 
+Metodo: NM | iterlim: 3000 
+Inicio: 2026-06-15 04:25:58 
+LogLik inicio: -55276.48 
+Parametros libres: 64 
+====================================================
+
+Fin: 2026-06-15 07:17:17 
+Duracion minutos: 2306.615 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 5.261545 
+====================================================
+Etapa: 05_ronda_01_mtuem_nm_mnl_fijo 
+Metodo: NM | iterlim: 2000 
+Parametros libres: 3 
+Inicio: 2026-06-15 07:17:26 
+LogLik inicial: -55276.49 
+====================================================
+
+Fin: 2026-06-15 07:31:33 
+Duracion minutos: 14.113 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 0 
+====================================================
+Etapa: 06_ronda_01_mtuem_bfgs_mnl_fijo 
+Metodo: BFGS | iterlim: 1000 
+Parametros libres: 3 
+Inicio: 2026-06-15 07:31:42 
+LogLik inicial: -55276.49 
+====================================================
+
+Fin: 2026-06-15 07:40:54 
+Duracion minutos: 9.208 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 5.826137e-05 
+====================================================
+Etapa: 03_ronda_02_mnl_nm_mtuem_fijo 
+Metodo: NM | iterlim: 6000 
+Parametros libres: 61 
+Inicio: 2026-06-15 07:41:03 
+LogLik inicial: -55276.49 
+====================================================
+
+Fin: 2026-06-16 04:54:11 
+Duracion minutos: 2845.072 
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55281.47 
+Mejora: 1.319088 
+NM fase 2 valido. LogLik actual: -55281.47 
+
+----------------------------------------------------
+FASE 3 : DEoptim mas amplio 
+LogLik entrada: -55281.47 
+----------------------------------------------------
+====================================================
+Ejecutando: DEoptim mas amplio 
+Fase: 3 
+Inicio: 2026-06-16 04:55:03 
+itermax: 80 | NP: 60 | deconst: 1 
+LogLik inicio: -55281.47 
+Trace DEoptim: FALSE 
+====================================================
+Warning in DEoptim::DEoptim(fn = f_min_de, lower = as.numeric(bounds$lower),  :
+  For many problems it is best to set 'NP' (in 'control') to be at least ten times the length of the parameter vector. 
+
+
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55276.48 
+Mejora: 0.001103476 
+
+Fin: 2026-06-16 13:46:04 
+Duracion minutos: 2000.104 
+Resultado aceptado. LogLik actual: -55276.48 
+
+----------------------------------------------------
+Etapa 4 : 04_BFGS_ronda_01 
+Metodo: BFGS | iterlim: 1000 
+LogLik entrada: -55276.48 
+----------------------------------------------------
+====================================================
+Ejecutando: 04_BFGS_ronda_01 
+Metodo: BFGS | iterlim: 1000 
+Inicio: 2026-06-16 13:46:13 
+LogLik inicio: -55276.48 
+Parametros libres: 64 
+====================================================
+
+Fin: 2026-06-16 14:06:06 
+Duracion minutos: 1825.05 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 0.007534952 
+====================================================
+Etapa: 04_ronda_02_mnl_bfgs_mtuem_fijo 
+Metodo: BFGS | iterlim: 1500 
+Parametros libres: 61 
+Inicio: 2026-06-16 14:06:15 
+LogLik inicial: -55276.49 
+====================================================
+
+Fin: 2026-06-16 16:39:00 
+Duracion minutos: 703.948 
+Estado: valido 
+Bestval DEoptim (min -LL): 56695.86 
+LogLik salida: -56695.86 
+Mejora: -1414.397 
+DEoptim fase 3 no mejora. Se mantiene punto anterior.
+====================================================
+Ejecutando: NM_post_DEoptim_fase_3 
+Inicio: 2026-06-16 16:39:09 
+Metodo: NM | iterlim: 8000 
+LogLik inicio: -55281.47 
+====================================================
+
+Fin: 2026-06-16 18:16:24 
+Duracion minutos: 5905.656 
+Estado: valido 
+Code: 1 
+Mensaje: 1 
+LogLik salida: -55281.97 
+Mejora: 20.22004 
+Warning messages:
+1: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+2: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+3: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+4: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+5: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+6: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+7: In sqrt((((par[1]) + (par[3])) * (ta - Tc + 2) + (1 + (par[3])) *  :
+  NaNs produced
+8: In sqrt(.expr24) : NaNs produced
+====================================================
+Ejecutando: 03C_NM_final_restart 
+Inicio: 2026-06-16 18:17:07 
+Metodo: NM | iterlim: 50000 
+LogLik inicio: -55281.97 
+====================================================
+
+Fin: 2026-06-17 17:39:17 
+Duracion minutos: 1653.043 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 0.0001334736 
+====================================================
+Etapa: 05_ronda_02_mtuem_nm_mnl_fijo 
+Metodo: NM | iterlim: 2000 
+Parametros libres: 3 
+Inicio: 2026-06-17 17:39:25 
+LogLik inicial: -55276.49 
+====================================================
+
+Fin: 2026-06-17 17:53:39 
+Duracion minutos: 14.223 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 0.0002609426 
+====================================================
+Etapa: 06_ronda_02_mtuem_bfgs_mnl_fijo 
+Metodo: BFGS | iterlim: 1000 
+Parametros libres: 3 
+Inicio: 2026-06-17 17:53:48 
+LogLik inicial: -55276.49 
+====================================================
+
+Fin: 2026-06-17 18:02:40 
+Duracion minutos: 8.875 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 7.248163e-06 
+====================================================
+Etapa: 03_ronda_03_mnl_nm_mtuem_fijo 
+Metodo: NM | iterlim: 6000 
+Parametros libres: 61 
+Inicio: 2026-06-17 18:02:49 
+LogLik inicial: -55276.49 
+====================================================
+
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55276.48 
+Mejora: 4.715081e-05 
+
+Fin: 2026-06-17 20:25:52 
+Duracion minutos: 1839.65 
+Resultado aceptado. LogLik actual: -55276.48 
+
+----------------------------------------------------
+Etapa 5 : 05_NM_ronda_02 
+Metodo: NM | iterlim: 7000 
+LogLik entrada: -55276.48 
+----------------------------------------------------
+====================================================
+Ejecutando: 05_NM_ronda_02 
+Metodo: NM | iterlim: 7000 
+Inicio: 2026-06-17 20:26:01 
+LogLik inicio: -55276.48 
+Parametros libres: 64 
+====================================================
+
+Fin: 2026-06-18 05:50:52 
+Duracion minutos: 2231.715 
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55281.2 
+Mejora: 0.2669753 
+NM fase 3 valido. LogLik actual: -55281.2 
+There were 24 warnings (use warnings() to see them)
+
+====================================================
+Paso 3 V5: NM final largo
+Iteraciones NM final: 50000 
+LogLik inicio NM final: -55281.2 
+====================================================
+====================================================
+Ejecutando: NM_final_largo_v5 
+Inicio: 2026-06-18 05:51:35 
+Metodo: NM | iterlim: 50000 
+LogLik inicio: -55281.2 
+====================================================

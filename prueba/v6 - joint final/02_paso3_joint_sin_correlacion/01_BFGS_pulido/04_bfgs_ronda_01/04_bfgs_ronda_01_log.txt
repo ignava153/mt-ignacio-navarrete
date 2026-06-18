@@ -1,0 +1,16 @@
+====================================================
+Ejecutando: 04_BFGS_ronda_01 
+Metodo: BFGS | iterlim: 1000 
+Inicio: 2026-06-16 13:46:13 
+LogLik inicio: -55276.48 
+Parametros libres: 64 
+====================================================
+
+Estado: valido 
+Code: 0 
+Mensaje: 0 
+LogLik salida: -55276.48 
+Mejora: 4.715081e-05 
+
+Fin: 2026-06-17 20:25:52 
+Duracion minutos: 1839.65 

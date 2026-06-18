@@ -1,0 +1,2 @@
+etapa,descripcion,metodo,fase,itermax,NP,deconst,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,bestval,estado,mensaje
+DEoptim fase 2,DEoptim local medio,DEoptim,2,50,40,0.5,2026-06-14 00:47:44.428941,2026-06-14 05:28:59.214348,281.246,-55282.7856879467,-55948.21201897051,-665.4263310238093,55948.21201897051,valido,DEoptim termino

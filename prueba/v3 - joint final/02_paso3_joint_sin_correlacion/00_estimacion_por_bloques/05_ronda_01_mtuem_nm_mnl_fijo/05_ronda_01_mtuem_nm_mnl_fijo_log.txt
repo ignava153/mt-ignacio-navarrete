@@ -1,0 +1,15 @@
+====================================================
+Etapa: 05_ronda_01_mtuem_nm_mnl_fijo 
+Metodo: NM | iterlim: 2000 
+Parametros libres: 3 
+Inicio: 2026-06-15 07:17:26 
+LogLik inicial: -55276.49 
+====================================================
+
+Fin: 2026-06-15 07:31:33 
+Duracion minutos: 14.113 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 0 

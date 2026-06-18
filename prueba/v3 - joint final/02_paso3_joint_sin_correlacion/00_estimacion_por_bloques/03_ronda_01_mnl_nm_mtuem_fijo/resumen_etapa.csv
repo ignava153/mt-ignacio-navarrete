@@ -1,0 +1,2 @@
+etapa,metodo,iterlim,parametros_libres,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,code,mensaje,estado
+03_ronda_01_mnl_nm_mtuem_fijo,NM,6000,61,2026-06-11 23:46:24.938887,2026-06-13 16:50:32.512875,2464.126,-55301.998748623955,-55281.75605623281,20.24269239114801,1,1,valido_aceptado

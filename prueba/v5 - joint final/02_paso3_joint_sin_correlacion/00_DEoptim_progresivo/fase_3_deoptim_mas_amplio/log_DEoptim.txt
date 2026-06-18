@@ -1,0 +1,15 @@
+====================================================
+Ejecutando: DEoptim mas amplio 
+Fase: 3 
+Inicio: 2026-06-16 04:55:03 
+itermax: 80 | NP: 60 | deconst: 1 
+LogLik inicio: -55281.47 
+Trace DEoptim: FALSE 
+====================================================
+
+Fin: 2026-06-16 16:39:00 
+Duracion minutos: 703.948 
+Estado: valido 
+Bestval DEoptim (min -LL): 56695.86 
+LogLik salida: -56695.86 
+Mejora: -1414.397 

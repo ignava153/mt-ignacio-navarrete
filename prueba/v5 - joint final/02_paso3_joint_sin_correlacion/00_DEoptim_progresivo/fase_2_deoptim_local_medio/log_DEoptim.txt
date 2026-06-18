@@ -1,0 +1,15 @@
+====================================================
+Ejecutando: DEoptim local medio 
+Fase: 2 
+Inicio: 2026-06-14 00:47:44 
+itermax: 50 | NP: 40 | deconst: 0.5 
+LogLik inicio: -55282.79 
+Trace DEoptim: FALSE 
+====================================================
+
+Fin: 2026-06-14 05:28:59 
+Duracion minutos: 281.246 
+Estado: valido 
+Bestval DEoptim (min -LL): 55948.21 
+LogLik salida: -55948.21 
+Mejora: -665.4263 

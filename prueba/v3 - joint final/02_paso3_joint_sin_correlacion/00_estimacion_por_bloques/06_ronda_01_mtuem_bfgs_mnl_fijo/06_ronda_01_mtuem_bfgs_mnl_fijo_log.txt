@@ -1,0 +1,15 @@
+====================================================
+Etapa: 06_ronda_01_mtuem_bfgs_mnl_fijo 
+Metodo: BFGS | iterlim: 1000 
+Parametros libres: 3 
+Inicio: 2026-06-15 07:31:42 
+LogLik inicial: -55276.49 
+====================================================
+
+Fin: 2026-06-15 07:40:54 
+Duracion minutos: 9.208 
+Estado: valido_aceptado 
+Code: 0 
+Mensaje: 0 
+LogLik candidato: -55276.49 
+Mejora frente al inicio: 5.826137e-05 

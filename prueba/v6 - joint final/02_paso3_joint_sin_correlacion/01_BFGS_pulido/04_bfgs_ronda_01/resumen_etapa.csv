@@ -1,0 +1,2 @@
+etapa,estrategia,metodo,iterlim,inicio,fin,duracion_min,logLik_inicio,logLik_salida,mejora,code,mensaje,estado
+04_BFGS_ronda_01,v6_NM_BFGS_alternado,BFGS,1000,2026-06-16 13:46:13.283213,2026-06-17 20:25:52.312115,1839.65,-55276.4796391958,-55276.47959204499,4.715081013273448e-5,0,0,valido
