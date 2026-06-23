@@ -1438,3 +1438,14 @@ Inicio: 2026-06-18 05:51:35
 Metodo: NM | iterlim: 50000 
 LogLik inicio: -55281.2 
 ====================================================
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 8304222.3 ON sn022 CANCELLED AT 2026-06-18T23:07:24 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 8304222.0 ON sn022 CANCELLED AT 2026-06-18T23:07:24 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 8304222.1 ON sn022 CANCELLED AT 2026-06-18T23:07:24 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 8304222 ON sn022 CANCELLED AT 2026-06-18T23:07:24 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 8304222.2 ON sn022 CANCELLED AT 2026-06-18T23:07:24 DUE TO TIME LIMIT ***
+srun: error: sn022: task 0: Terminated
+srun: Terminating StepId=8304222.1
